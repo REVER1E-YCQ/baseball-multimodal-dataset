@@ -1,5 +1,7 @@
 # Baseball Multimodal Dataset
 
+A multimodal baseball dataset with audio-visual event segmentation and structured annotation.
+
 This repository stores a multimodal baseball event dataset for machine learning research on hit-type classification.
 
 The dataset focuses on:
@@ -18,27 +20,27 @@ The initial target classes are:
 
 ```text
 baseball-multimodal-dataset/
-├── dataset/
-│   ├── ground_ball/
-│   │   └── Zihan_Chai/
-│   │       └── G_001/
-│   │           ├── video.mp4
-│   │           ├── audio.wav
-│   │           ├── label.txt
-│   │           ├── sample.csv
-│   │           └── source.txt
-│   └── fly_ball/
-│       └── Zihan_Chai/
-│           └── F_001/
-│               ├── video.mp4
-│               ├── audio.wav
-│               ├── label.txt
-│               ├── sample.csv
-│               └── source.txt
-├── docs/
-│   ├── annotation_guideline.md
-│   └── dataset_schema.md
-└── README.md
+|-- dataset/
+|   |-- ground_ball/
+|   |   `-- Zihan_Chai/
+|   |       `-- G_001/
+|   |           |-- video.mp4
+|   |           |-- audio.wav
+|   |           |-- label.txt
+|   |           |-- sample.csv
+|   |           `-- source.txt
+|   `-- fly_ball/
+|       `-- Zihan_Chai/
+|           `-- F_001/
+|               |-- video.mp4
+|               |-- audio.wav
+|               |-- label.txt
+|               |-- sample.csv
+|               `-- source.txt
+|-- docs/
+|   |-- annotation_guideline.md
+|   `-- dataset_schema.md
+`-- README.md
 ```
 
 ## Sample Definition
