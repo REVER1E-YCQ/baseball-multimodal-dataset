@@ -3,14 +3,18 @@
 ## Folder Schema
 
 ```text
-dataset/<label>/<annotator>/<sample_id>/
+dataset/<label>/<collector>/<sample_id>/
 ```
+
+The first folder under `dataset/` is the event label. Each label folder contains one folder per collector.
 
 Examples:
 
 ```text
 dataset/ground_ball/Zihan_Chai/G_001/
+dataset/ground_ball/Zhangsan/G_002/
 dataset/fly_ball/Zihan_Chai/F_001/
+dataset/fly_ball/Zhangsan/F_002/
 ```
 
 Each sample folder must contain:
@@ -64,4 +68,4 @@ video_url: original video link
 
 ## Design Notes
 
-Annotator metadata is stored in the folder path rather than repeated in CSV files. CSV files only store sample-level labels and event timing values needed by machine learning pipelines.
+Collector metadata is stored in the folder path rather than repeated in CSV files. CSV files only store sample-level labels and event timing values needed by machine learning pipelines.

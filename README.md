@@ -22,25 +22,37 @@ The initial target classes are:
 baseball-multimodal-dataset/
 |-- dataset/
 |   |-- ground_ball/
-|   |   `-- Zihan_Chai/
-|   |       `-- G_001/
-|   |           |-- video.mp4
-|   |           |-- audio.wav
-|   |           |-- label.txt
-|   |           |-- sample.csv
-|   |           `-- source.txt
+|   |   |-- README.md
+|   |   |-- Zihan_Chai/
+|   |   |   `-- G_001/
+|   |   |       |-- video.mp4
+|   |   |       |-- audio.wav
+|   |   |       |-- label.txt
+|   |   |       |-- sample.csv
+|   |   |       `-- source.txt
+|   |   `-- <collector_name>/
 |   `-- fly_ball/
-|       `-- Zihan_Chai/
-|           `-- F_001/
-|               |-- video.mp4
-|               |-- audio.wav
-|               |-- label.txt
-|               |-- sample.csv
-|               `-- source.txt
+|       |-- README.md
+|       |-- Zihan_Chai/
+|       |   `-- F_001/
+|       |       |-- video.mp4
+|       |       |-- audio.wav
+|       |       |-- label.txt
+|       |       |-- sample.csv
+|       |       `-- source.txt
+|       `-- <collector_name>/
 |-- docs/
 |   |-- annotation_guideline.md
 |   `-- dataset_schema.md
 `-- README.md
+```
+
+The first level under `dataset/` is the event label. The next level is the collector folder, such as `Zihan_Chai` or a future collector like `Zhangsan`.
+
+GitHub may compact single-child folders in the file browser. The actual structure is still:
+
+```text
+dataset/<label>/<collector>/<sample_id>/
 ```
 
 ## Sample Definition
@@ -60,7 +72,7 @@ Typical event durations:
 
 - Ground Ball samples: `G_001`, `G_002`, ...
 - Fly Ball samples: `F_001`, `F_002`, ...
-- Annotator identity is encoded in the folder path, for example `dataset/ground_ball/Zihan_Chai/G_001/`.
+- Collector identity is encoded in the folder path, for example `dataset/ground_ball/Zihan_Chai/G_001/`.
 
 ## Dataset Principles
 
