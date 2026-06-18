@@ -1,0 +1,2 @@
+video_title: Placeholder MLB ground ball play description
+video_url: https://www.mlb.com/video/
