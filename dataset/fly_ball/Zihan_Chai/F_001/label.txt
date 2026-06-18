@@ -1,1 +1,0 @@
-e.g : start_time   end_time   ground_ball/fb|1|M|Y/N/FB type-LD/PF/F
