@@ -4,6 +4,14 @@ A multimodal baseball dataset with audio-visual event segmentation and structure
 
 This repository stores a multimodal baseball event dataset for machine learning research on hit-type classification.
 
+## GitHub 分支使用说明
+
+所有组员在开始提交数据前，请先阅读：
+
+- [GitHub 个人分支使用指南（VS Code）](./GITHUB_BRANCH_GUIDE.md)
+
+请勿直接向 `main` 分支提交个人工作内容。
+
 The dataset focuses on:
 
 - Audio: bat-ball contact sounds
