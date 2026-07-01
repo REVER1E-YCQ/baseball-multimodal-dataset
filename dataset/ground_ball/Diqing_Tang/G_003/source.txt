@@ -1,2 +1,2 @@
 video_title: Alex Jackson grounds out, third baseman Nolan Arenado to first baseman Ildemaro Vargas. Austin Martin to 2nd.
-video_url:
+video_url: https://baseballsavant.mlb.com/sporty-videos?playId=c5fccf58-e497-3756-ba92-70045d85a1a2

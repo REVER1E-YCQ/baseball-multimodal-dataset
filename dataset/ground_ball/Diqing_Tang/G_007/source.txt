@@ -1,2 +1,2 @@
 video_title: Caleb Durbin's smart double play
-video_url:
+video_url: https://www.mlb.com/redsox/video/nasim-nunez-grounds-into-a-double-play-third-baseman-caleb-durbin-to-seco

@@ -1,2 +1,2 @@
 video_title: Lane Thomas' RBI infield single
-video_url:
+video_url: https://www.mlb.com/video/riley-o-brien-in-play-run-s-to-lane-thomas?q=PlayerId%20%3D%3D%20%5B657041%5D%20AND%20RunnerOnBase%20%3D%3D%20%5B1%5D%20AND%20ExitVelocity%20%3D%20%7B%7B%201%2C%20100%20%7D%7D%20AND%20HitDistance%20%3D%20%7B%7B%200%2C%20150%20%7D%7D%20AND%20HitResult%20%3D%20%5B%22Double%20Play%22%2C%22Fielders%20Choice%22%2C%22Out%22%2C%22Error%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=0
