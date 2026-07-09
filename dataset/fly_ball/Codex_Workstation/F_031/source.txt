@@ -1,0 +1,7 @@
+video_title: Corbin Carroll's sliding catch in the bottom of the 2nd Corbin Carroll's sliding catch in the bottom of the 2nd Corbin Carroll's sliding catch in the bottom of the 2nd Corbin Carroll makes a sliding catch, getting under a fly ball for the first out in the bottom of the 2nd
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/26/500c478a-6ead66df-d983581d-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_822962_victor-mesa-jr-lines-out-sharply-to-right-fielder-corbin-carroll
+clip_id: MLB_822962_victor-mesa-jr-lines-out-sharply-to-right-fielder-corbin-carroll_head_0p000_7p000
+source_path: raw_sources\MLB_822962_victor-mesa-jr-lines-out-sharply-to-right-fielder-corbin-carroll_Corbin_Carroll_s_sliding_catch_in_the_bottom_of_the_2nd_Corbin_Carroll_s_sliding.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

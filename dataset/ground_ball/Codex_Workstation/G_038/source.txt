@@ -1,0 +1,7 @@
+video_title: CJ Abrams' great throw across the diamond CJ Abrams' great throw across the diamond CJ Abrams' great throw across the diamond CJ Abrams backhands a grounder and fires a long throw to first to retire Pete Alonso in the 6th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/28/a26e3b12-48e800cd-84a6301d-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_824821_mitchell-parker-in-play-out-s-to-pete-alonso-croopk
+clip_id: MLB_824821_mitchell-parker-in-play-out-s-to-pete-alonso-croopk_head_0p000_6p000
+source_path: raw_sources\MLB_824821_mitchell-parker-in-play-out-s-to-pete-alonso-croopk_CJ_Abrams_great_throw_across_the_diamond_CJ_Abrams_great_throw_across_the_diamon.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

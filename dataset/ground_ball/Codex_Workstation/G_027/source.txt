@@ -1,0 +1,7 @@
+video_title: Logan O'Hoppe's walk-off single Logan O'Hoppe's walk-off single Logan O'Hoppe's walk-off single Logan O'Hoppe hits a soft ground ball down the third baseline, allowing Nolan Schanuel to score to win it for the Angels in extras
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/24/3f66a7da-da9607ce-d5ec16b3-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_824018_keegan-akin-in-play-run-s-to-logan-o-hoppe
+clip_id: MLB_824018_keegan-akin-in-play-run-s-to-logan-o-hoppe_head_0p000_6p000
+source_path: raw_sources\MLB_824018_keegan-akin-in-play-run-s-to-logan-o-hoppe_Logan_O_Hoppe_s_walk-off_single_Logan_O_Hoppe_s_walk-off_single_Logan_O_Hoppe_s_.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

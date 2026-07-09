@@ -1,0 +1,7 @@
+video_title: Jared Triolo throws out Randy Arozarena Jared Triolo throws out Randy Arozarena Jared Triolo throws out Randy Arozarena Jared Triolo fields Randy Arozarena's ground ball and makes the throw to first to get him out and end the top of the 3rd
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/24/985397fd-7cd4e98b-411abcb6-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_823367_braxton-ashcraft-in-play-out-s-to-randy-arozarena
+clip_id: MLB_823367_braxton-ashcraft-in-play-out-s-to-randy-arozarena_head_0p000_6p000
+source_path: raw_sources\MLB_823367_braxton-ashcraft-in-play-out-s-to-randy-arozarena_Jared_Triolo_throws_out_Randy_Arozarena_Jared_Triolo_throws_out_Randy_Arozarena_.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

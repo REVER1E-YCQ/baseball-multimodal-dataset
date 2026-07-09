@@ -1,0 +1,7 @@
+video_title: David Hamilton's charging play David Hamilton's charging play David Hamilton's charging play David Hamilton charges a soft grounder and makes a nice throw to put out Carson Kelly for the second out of the 7th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/26/55a31f88-34eb4049-c1fe3569-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_823773_carson-kelly-grounds-out-softly-third-baseman-david-hamilton-to-first
+clip_id: MLB_823773_carson-kelly-grounds-out-softly-third-baseman-david-hamilton-to-first_head_0p000_6p000
+source_path: raw_sources\MLB_823773_carson-kelly-grounds-out-softly-third-baseman-david-hamilton-to-first_David_Hamilton_s_charging_play_David_Hamilton_s_charging_play_David_Hamilton_s_c.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000
