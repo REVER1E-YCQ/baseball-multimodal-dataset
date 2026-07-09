@@ -156,14 +156,16 @@ def main() -> int:
     keywords = [item.strip() for item in args.keywords.split(",") if item.strip()]
     existing = read_csv(args.manifest)
     seen = {row.get("source_id") for row in existing}
+    seen_urls = {row.get("source_url") for row in existing if row.get("source_url")}
 
     discovered: list[dict[str, str]] = []
     for game in schedule_game_pks(args.start_date, args.end_date):
         for row in collect_for_game(game, keywords):
-            if row["source_id"] in seen:
+            if row["source_id"] in seen or row.get("source_url") in seen_urls:
                 continue
             discovered.append(row)
             seen.add(row["source_id"])
+            seen_urls.add(row.get("source_url", ""))
             if args.limit and len(discovered) >= args.limit:
                 break
         if args.limit and len(discovered) >= args.limit:

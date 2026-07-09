@@ -25,6 +25,19 @@ For local clips, the script sends Base64 data URLs when the encoded file is unde
 
 The script writes raw model responses to `reports/qwen_labels.jsonl`; accepted samples are materialized only after QA gates.
 
+Before spending model tokens, run local billing and quality guards:
+
+```powershell
+python scripts/summarize_qwen_usage.py
+python scripts/prefilter_pending_clips.py
+```
+
+`prefilter_pending_clips.py` keeps clips with a clear local audio transient as `pending` and marks weak clips as `prefilter_reject`, so the default Qwen labeling command skips them. When cost or quota is uncertain, test with a very small batch first:
+
+```powershell
+python scripts/qwen_omni_label.py --limit 5
+```
+
 To retry clips after a fixed key:
 
 ```powershell
