@@ -33,7 +33,7 @@ def audit(path: Path) -> list[str]:
         return errors
     if not (0 <= event_start < event_end):
         errors.append("event interval must satisfy 0 <= event_start < event_end")
-    if event_end - event_start > 0.200:
+    if event_end - event_start > 0.200 + 1e-9:
         errors.append("event interval should bracket contact only, not the whole play")
 
     if label == "ground_ball":
@@ -81,4 +81,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-

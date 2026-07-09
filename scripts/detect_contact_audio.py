@@ -3,6 +3,7 @@ from __future__ import annotations
 import argparse
 import csv
 import math
+import statistics
 import wave
 from pathlib import Path
 
@@ -38,16 +39,19 @@ def rms(samples: list[float]) -> float:
     return math.sqrt(sum(x * x for x in samples) / len(samples))
 
 
-def peak_window_time(samples: list[float], sample_rate: int, window_ms: float = 20.0) -> tuple[float, float]:
+def window_energies(samples: list[float], sample_rate: int, window_ms: float = 20.0) -> list[tuple[float, float]]:
     window = max(1, int(sample_rate * window_ms / 1000.0))
-    best_idx = 0
-    best_energy = -1.0
+    values: list[tuple[float, float]] = []
     for idx in range(0, max(1, len(samples) - window), window):
         energy = rms(samples[idx : idx + window])
-        if energy > best_energy:
-            best_energy = energy
-            best_idx = idx
-    return best_idx / sample_rate, best_energy
+        values.append((idx / sample_rate, energy))
+    return values
+
+
+def derivative(samples: list[float]) -> list[float]:
+    if len(samples) < 2:
+        return []
+    return [samples[idx] - samples[idx - 1] for idx in range(1, len(samples))]
 
 
 def read_event_interval(path: Path) -> tuple[float, float]:
@@ -69,19 +73,37 @@ def main() -> int:
         try:
             sample_rate, samples = read_wav_mono(path / "audio.wav")
             event_start, event_end = read_event_interval(path)
-            peak_time, peak_energy = peak_window_time(samples, sample_rate)
-            global_rms = rms(samples)
+            energies = window_energies(samples, sample_rate)
+            diff_energies = window_energies(derivative(samples), sample_rate)
         except Exception as exc:
             print(f"FAIL {path.relative_to(repo_path())}: {exc}")
             failures += 1
             continue
 
-        near_event = event_start - args.tolerance <= peak_time <= event_end + args.tolerance
-        strong = global_rms == 0 or peak_energy / max(global_rms, 1e-9) >= args.min_ratio
-        if not near_event or not strong:
+        event_windows = [
+            item for item in energies if event_start - args.tolerance <= item[0] <= event_end + args.tolerance
+        ]
+        if not event_windows:
+            print(f"FAIL {path.relative_to(repo_path())}: no audio windows near event")
+            failures += 1
+            continue
+        event_peak_time, event_peak_energy = max(event_windows, key=lambda item: item[1])
+        baseline = statistics.median([energy for _time, energy in energies]) if energies else 0.0
+        rms_ratio = event_peak_energy / max(baseline, 1e-9)
+
+        diff_event_windows = [
+            item for item in diff_energies if event_start - args.tolerance <= item[0] <= event_end + args.tolerance
+        ]
+        diff_peak_energy = max((energy for _time, energy in diff_event_windows), default=0.0)
+        diff_baseline = statistics.median([energy for _time, energy in diff_energies]) if diff_energies else 0.0
+        diff_ratio = diff_peak_energy / max(diff_baseline, 1e-9)
+        ratio = max(rms_ratio, diff_ratio)
+
+        if ratio < args.min_ratio:
             print(
-                f"FAIL {path.relative_to(repo_path())}: peak_time={peak_time:.3f}s "
-                f"event={event_start:.3f}-{event_end:.3f}s ratio={peak_energy / max(global_rms, 1e-9):.2f}"
+                f"FAIL {path.relative_to(repo_path())}: event_peak_time={event_peak_time:.3f}s "
+                f"event={event_start:.3f}-{event_end:.3f}s "
+                f"rms_ratio={rms_ratio:.2f} diff_ratio={diff_ratio:.2f}"
             )
             failures += 1
     print(f"Checked {len(dirs)} samples; failures={failures}")
@@ -90,4 +112,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-

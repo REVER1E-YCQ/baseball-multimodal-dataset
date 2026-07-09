@@ -69,6 +69,39 @@ def source_text(clip_row: dict[str, str], source_rows: dict[str, dict[str, str]]
     ) + "\n"
 
 
+def latest_records(records: list[dict[str, Any]]) -> dict[str, dict[str, Any]]:
+    latest: dict[str, dict[str, Any]] = {}
+    for record in records:
+        clip_id = record.get("clip_id")
+        if clip_id:
+            latest[clip_id] = record
+    return latest
+
+
+def load_audit_passes(path: Path) -> set[str] | None:
+    if not path.exists():
+        return None
+    passes: set[str] = set()
+    for row in load_jsonl(path):
+        if row.get("status") == "pass" and row.get("clip_id"):
+            passes.add(row["clip_id"])
+    return passes
+
+
+def existing_materialized_clip_ids(dataset_root: Path) -> set[str]:
+    clip_ids: set[str] = set()
+    for source_file in dataset_root.glob("*/*/*/source.txt"):
+        try:
+            for line in source_file.read_text(encoding="utf-8").splitlines():
+                if line.startswith("clip_id:"):
+                    clip_id = line.split(":", 1)[1].strip()
+                    if clip_id:
+                        clip_ids.add(clip_id)
+        except OSError:
+            continue
+    return clip_ids
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description="Copy accepted Qwen labels into dataset folders.")
     parser.add_argument("--labels", type=Path, default=repo_path("reports", "qwen_labels.jsonl"))
@@ -76,15 +109,23 @@ def main() -> int:
     parser.add_argument("--sources-manifest", type=Path, default=repo_path("manifests", "sources_manifest.csv"))
     parser.add_argument("--collector", default="Codex_Workstation")
     parser.add_argument("--min-confidence", type=float, default=0.70)
+    parser.add_argument("--audit", type=Path, default=repo_path("reports", "qwen_label_audit.jsonl"))
+    parser.add_argument("--require-audit-pass", action="store_true")
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args()
 
     clip_rows = {row["clip_id"]: row for row in read_csv(args.clips_manifest)}
     source_rows = {row["source_id"]: row for row in read_csv(args.sources_manifest) if row.get("source_id")}
-    records = load_jsonl(args.labels)
+    records = latest_records(load_jsonl(args.labels)).values()
+    audit_passes = load_audit_passes(args.audit)
+    already_materialized = existing_materialized_clip_ids(repo_path("dataset"))
     created = 0
 
     for record in records:
+        if record.get("clip_id") in already_materialized:
+            continue
+        if args.require_audit_pass and (audit_passes is None or record.get("clip_id") not in audit_passes):
+            continue
         label_payload = record.get("label") or {}
         label = label_payload.get("label")
         if label not in {"ground_ball", "fly_ball"}:
@@ -122,4 +163,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-

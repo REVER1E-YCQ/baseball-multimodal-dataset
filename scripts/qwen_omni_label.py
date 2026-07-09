@@ -15,6 +15,10 @@ from typing import Any
 from common import append_jsonl, get_env_first, read_csv, repo_path, write_csv
 
 
+class AuthError(RuntimeError):
+    pass
+
+
 CLIP_FIELDS = [
     "clip_id",
     "source_id",
@@ -119,6 +123,8 @@ def call_qwen(model: str, clip_path: Path, prompt: str, base_url: str, api_key: 
         response = urllib.request.urlopen(req, timeout=180)
     except urllib.error.HTTPError as exc:
         detail = exc.read().decode("utf-8", errors="replace")
+        if exc.code in {401, 403} or "invalid_api_key" in detail or "Incorrect API key" in detail:
+            raise AuthError(f"HTTP {exc.code}: authentication failed; check QWEN_API_KEY/DASHSCOPE_API_KEY")
         raise RuntimeError(f"HTTP {exc.code}: {detail[:800]}") from exc
 
     with response:
@@ -144,11 +150,17 @@ def main() -> int:
     parser.add_argument("--prompt", type=Path, default=repo_path("prompts", "baseball_hit_labeling_prompt.md"))
     parser.add_argument("--output", type=Path, default=repo_path("reports", "qwen_labels.jsonl"))
     parser.add_argument("--limit", type=int, default=0)
+    parser.add_argument(
+        "--statuses",
+        default="pending",
+        help="Comma-separated clip statuses to process, for example pending,label_failed.",
+    )
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args()
 
     rows = read_csv(args.clips_manifest)
-    pending = [r for r in rows if r.get("status") in {"pending", "dry_run", ""}]
+    wanted_statuses = {item.strip() for item in args.statuses.split(",") if item.strip()}
+    pending = [r for r in rows if r.get("status") in wanted_statuses or (not r.get("status") and "" in wanted_statuses)]
     if args.limit:
         pending = pending[: args.limit]
 
@@ -180,6 +192,10 @@ def main() -> int:
                 result = normalize_label(extract_json(text))
                 used_model = model
                 break
+            except AuthError as exc:
+                last_error = str(exc)
+                print(last_error)
+                return 2
             except Exception as exc:
                 last_error = f"{type(exc).__name__}: {exc}"
                 continue
