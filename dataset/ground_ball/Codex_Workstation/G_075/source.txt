@@ -1,0 +1,7 @@
+video_title: Abner Uribe induces groundout for the save Abner Uribe induces groundout for the save Abner Uribe induces groundout for the save Abner Uribe induces a ground ball to first base to lock down the save in the Brewers' 4-1 win
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/02/7811d0d3-f8af623e-6c577372-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_822746_jorbit-vivas-grounds-out-to-first-baseman-jake-bauers-ud4d3u
+clip_id: MLB_822746_jorbit-vivas-grounds-out-to-first-baseman-jake-bauers-ud4d3u_head_0p000_6p000
+source_path: raw_sources\MLB_822746_jorbit-vivas-grounds-out-to-first-baseman-jake-bauers-ud4d3u_Abner_Uribe_induces_groundout_for_the_save_Abner_Uribe_induces_groundout_for_the.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

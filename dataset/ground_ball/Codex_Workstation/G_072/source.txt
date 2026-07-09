@@ -1,0 +1,7 @@
+video_title: Henry Davis' RBI groundout Henry Davis' RBI groundout Henry Davis' RBI groundout
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/02/1cd37f62-46dcf5fe-43200bcc-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_823388_sam-moll-in-play-run-s-to-henry-davis
+clip_id: MLB_823388_sam-moll-in-play-run-s-to-henry-davis_head_0p000_6p000
+source_path: raw_sources\MLB_823388_sam-moll-in-play-run-s-to-henry-davis_Henry_Davis_RBI_groundout_Henry_Davis_RBI_groundout_Henry_Davis_RBI_groundout.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

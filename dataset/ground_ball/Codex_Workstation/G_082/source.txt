@@ -1,0 +1,7 @@
+video_title: Bo Bichette's long-range throw Bo Bichette's long-range throw Bo Bichette's long-range throw Bo Bichette fields a ground ball in the hole and delivers a strong throw to first that nabs Vaughn Grissom in the bottom of the 7th
+video_url: https://bdata-producedclips.mlb.com/429d7f40-45e6-4c30-951f-944f1920dbda.mp4
+source_id: MLB_824043_clay-holmes-in-play-out-s-to-vaughn-grissom-wbkvjw
+clip_id: MLB_824043_clay-holmes-in-play-out-s-to-vaughn-grissom-wbkvjw_head_0p000_6p000
+source_path: raw_sources\MLB_824043_clay-holmes-in-play-out-s-to-vaughn-grissom-wbkvjw_Bo_Bichette_s_long-range_throw_Bo_Bichette_s_long-range_throw_Bo_Bichette_s_long.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

@@ -23,6 +23,8 @@ qwen3.5-omni-plus
 
 The default order is cost-conscious: flash/turbo models are tried before plus. Override with `QWEN_MODEL_FALLBACKS` only when you intentionally want a different cost/quality tradeoff.
 
+The labeling script also enforces a local per-model token cap before and during each run. By default, any model with `local_usage + 10000 >= 800000` total tokens in `reports/qwen_labels.jsonl` is skipped. Override with `QWEN_MODEL_TOKEN_CAP` and `QWEN_MODEL_TOKEN_RESERVE`; set the cap to `0` only when you intentionally want to disable the guard.
+
 For local clips, the script sends Base64 data URLs when the encoded file is under the model/API limit. If local video is too large, recut or downscale the clip before retrying.
 
 The script writes raw model responses to `reports/qwen_labels.jsonl`; accepted samples are materialized only after QA gates.

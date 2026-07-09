@@ -1,0 +1,7 @@
+video_title: Carson Benge's ABSURD diving catch Carson Benge's ABSURD diving catch Carson Benge's ABSURD diving catch Carson Benge hustles to a line drive from Vaughn Grissom and lays out for a sensational catch in the bottom of the 9th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/03/6aac9ad0-55952826-0adec2f1-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_824043_brooks-raley-in-play-out-s-to-vaughn-grissom-od6ajn
+clip_id: MLB_824043_brooks-raley-in-play-out-s-to-vaughn-grissom-od6ajn_head_0p000_7p000
+source_path: raw_sources\MLB_824043_brooks-raley-in-play-out-s-to-vaughn-grissom-od6ajn_Carson_Benge_s_ABSURD_diving_catch_Carson_Benge_s_ABSURD_diving_catch_Carson_Ben.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

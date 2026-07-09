@@ -1,0 +1,7 @@
+video_title: Alex Call's RBI single Alex Call's RBI single Alex Call's RBI single Alex Call singles on a ground ball to left field, extending the Dodgers' lead to 4-1 in the 9th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/03/003dc3d0-376d472b-02e279e6-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_823065_alex-call-singles-on-a-ground-ball-to-left-fielder-jose-fermin-andy-p
+clip_id: MLB_823065_alex-call-singles-on-a-ground-ball-to-left-fielder-jose-fermin-andy-p_head_0p000_6p000
+source_path: raw_sources\MLB_823065_alex-call-singles-on-a-ground-ball-to-left-fielder-jose-fermin-andy-p_Alex_Call_s_RBI_single_Alex_Call_s_RBI_single_Alex_Call_s_RBI_single_Alex_Call_s.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

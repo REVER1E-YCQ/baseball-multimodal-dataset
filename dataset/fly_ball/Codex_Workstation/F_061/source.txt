@@ -1,0 +1,7 @@
+video_title: Kyle Stowers' sliding catch Kyle Stowers' sliding catch Kyle Stowers' sliding catch Kyle Stowers tracks down a line drive to make a slick sliding catch, taking a hit away from Trea Turner
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/03/b33875f8-31b5232e-11ed47f3-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_823875_chris-paddack-in-play-out-s-to-trea-turner-95qrcu
+clip_id: MLB_823875_chris-paddack-in-play-out-s-to-trea-turner-95qrcu_head_0p000_7p000
+source_path: raw_sources\MLB_823875_chris-paddack-in-play-out-s-to-trea-turner-95qrcu_Kyle_Stowers_sliding_catch_Kyle_Stowers_sliding_catch_Kyle_Stowers_sliding_catch.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

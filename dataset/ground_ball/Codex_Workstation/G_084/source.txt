@@ -1,0 +1,7 @@
+video_title: Kyle Higashioka's RBI groundout Kyle Higashioka's RBI groundout Kyle Higashioka's RBI groundout Kyle Higashioka grounds out to Spencer Torkelson, while Ezequiel Duran scores to cut the Rangers' deficit to 3-1 in the 7th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/03/c3430c88-11320731-6527ec7d-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_824285_kyle-higashioka-s-rbi-groundout-x9594
+clip_id: MLB_824285_kyle-higashioka-s-rbi-groundout-x9594_head_0p000_6p000
+source_path: raw_sources\MLB_824285_kyle-higashioka-s-rbi-groundout-x9594_Kyle_Higashioka_s_RBI_groundout_Kyle_Higashioka_s_RBI_groundout_Kyle_Higashioka_.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

@@ -1,0 +1,7 @@
+video_title: Lucas Erceg closes out win for Royals Lucas Erceg closes out win for Royals Lucas Erceg closes out win for Royals Lucas Erceg induces a groundout from JP Crawford to secure the Royals' 3-2 win in 10 innings
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/03/82e8bb58-c8121afd-00a70b5f-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_823144_lucas-erceg-in-play-out-s-to-j-p-crawford-dkjdno
+clip_id: MLB_823144_lucas-erceg-in-play-out-s-to-j-p-crawford-dkjdno_head_0p000_6p000
+source_path: raw_sources\MLB_823144_lucas-erceg-in-play-out-s-to-j-p-crawford-dkjdno_Lucas_Erceg_closes_out_win_for_Royals_Lucas_Erceg_closes_out_win_for_Royals_Luca.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

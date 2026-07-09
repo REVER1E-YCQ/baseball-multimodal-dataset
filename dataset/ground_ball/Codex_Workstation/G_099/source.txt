@@ -1,0 +1,7 @@
+video_title: José Ramírez scores on David Fry's groundout José Ramírez scores on David Fry's groundout José Ramírez scores on David Fry's groundout
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/07/05bce4a8-0805fe37-641776e9-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_824118_david-fry-grounds-out-third-baseman-maikel-garcia-to-shortstop-bobby-
+clip_id: MLB_824118_david-fry-grounds-out-third-baseman-maikel-garcia-to-shortstop-bobby-_head_0p000_6p000
+source_path: raw_sources\MLB_824118_david-fry-grounds-out-third-baseman-maikel-garcia-to-shortstop-bobby-_Jos_Ram_rez_scores_on_David_Fry_s_groundout_Jos_Ram_rez_scores_on_David_Fry_s_gr.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

@@ -1,0 +1,7 @@
+video_title: Nick Gonzales' RBI groundout Nick Gonzales' RBI groundout Nick Gonzales' RBI groundout
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/02/25c7b6ef-a889f77a-b0a99dd4-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_823388_rhett-lowder-in-play-out-s-to-nick-gonzales
+clip_id: MLB_823388_rhett-lowder-in-play-out-s-to-nick-gonzales_head_0p000_6p000
+source_path: raw_sources\MLB_823388_rhett-lowder-in-play-out-s-to-nick-gonzales_Nick_Gonzales_RBI_groundout_Nick_Gonzales_RBI_groundout_Nick_Gonzales_RBI_ground.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

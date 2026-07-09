@@ -1,0 +1,7 @@
+video_title: Xander Bogaerts' RBI groundout Xander Bogaerts' RBI groundout Xander Bogaerts' RBI groundout
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/05/ec1c9b10-5f35e446-f213dd4f-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_823227_logan-webb-in-play-run-s-to-xander-bogaerts-d0d75s
+clip_id: MLB_823227_logan-webb-in-play-run-s-to-xander-bogaerts-d0d75s_head_0p000_6p000
+source_path: raw_sources\MLB_823227_logan-webb-in-play-run-s-to-xander-bogaerts-d0d75s_Xander_Bogaerts_RBI_groundout_Xander_Bogaerts_RBI_groundout_Xander_Bogaerts_RBI_.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

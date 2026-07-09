@@ -1,0 +1,7 @@
+video_title: Bobby Witt Jr.'s brilliant diving play Bobby Witt Jr.'s brilliant diving play Bobby Witt Jr.'s brilliant diving play Bobby Witt Jr. lays out for a grounder up the middle and delivers a strike to first, nabbing Daniel Schneemann for the final out of the 8th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/04/dd0d2df0-b18c867a-584a10a2-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_824120_daniel-schneemann-grounds-out-shortstop-bobby-witt-jr-to-first-basema
+clip_id: MLB_824120_daniel-schneemann-grounds-out-shortstop-bobby-witt-jr-to-first-basema_head_0p000_6p000
+source_path: raw_sources\MLB_824120_daniel-schneemann-grounds-out-shortstop-bobby-witt-jr-to-first-basema_Bobby_Witt_Jr._s_brilliant_diving_play_Bobby_Witt_Jr._s_brilliant_diving_play_Bo.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

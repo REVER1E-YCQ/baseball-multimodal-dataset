@@ -1,0 +1,7 @@
+video_title: JR Ritchie escapes bases-loaded jam induces groundout JR Ritchie escapes bases-loaded jam induces groundout JR Ritchie escapes bases-loaded jam induces groundout
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/04/7c84a016-da596e3e-b61bbc39-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_823143_josh-naylor-grounds-out-to-first-baseman-matt-olson-mejv3r
+clip_id: MLB_823143_josh-naylor-grounds-out-to-first-baseman-matt-olson-mejv3r_head_0p000_6p000
+source_path: raw_sources\MLB_823143_josh-naylor-grounds-out-to-first-baseman-matt-olson-mejv3r_JR_Ritchie_escapes_bases-loaded_jam_induces_groundout_JR_Ritchie_escapes_bases-l.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

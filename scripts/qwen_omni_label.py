@@ -12,7 +12,7 @@ import urllib.request
 from pathlib import Path
 from typing import Any
 
-from common import append_jsonl, get_env_first, read_csv, repo_path, write_csv
+from common import append_jsonl, get_env_first, load_jsonl, read_csv, repo_path, write_csv
 
 
 class AuthError(RuntimeError):
@@ -32,6 +32,9 @@ CLIP_FIELDS = [
     "notes",
 ]
 
+DEFAULT_MODEL_TOKEN_CAP = 800_000
+DEFAULT_MODEL_TOKEN_RESERVE = 10_000
+
 
 def load_models() -> list[str]:
     env = os.getenv("QWEN_MODEL_FALLBACKS")
@@ -41,6 +44,75 @@ def load_models() -> list[str]:
     if cfg_path.exists():
         return json.loads(cfg_path.read_text(encoding="utf-8"))["fallback_models"]
     return ["qwen3.5-omni-flash", "qwen3-omni-flash", "qwen-omni-turbo-latest", "qwen3.5-omni-plus"]
+
+
+def usage_total_tokens(usage: dict[str, Any]) -> int:
+    total = usage.get("total_tokens")
+    if total is not None:
+        try:
+            return int(total)
+        except (TypeError, ValueError):
+            return 0
+    prompt = usage.get("prompt_tokens", usage.get("input_tokens", 0))
+    completion = usage.get("completion_tokens", usage.get("output_tokens", 0))
+    try:
+        return int(prompt or 0) + int(completion or 0)
+    except (TypeError, ValueError):
+        return 0
+
+
+def model_usage_totals(labels_path: Path) -> dict[str, int]:
+    totals: dict[str, int] = {}
+    for record in load_jsonl(labels_path):
+        model = record.get("model")
+        usage = record.get("usage") or {}
+        if model and usage:
+            totals[model] = totals.get(model, 0) + usage_total_tokens(usage)
+    return totals
+
+
+def model_token_cap() -> int:
+    raw = os.getenv("QWEN_MODEL_TOKEN_CAP")
+    if raw is None:
+        return DEFAULT_MODEL_TOKEN_CAP
+    try:
+        return int(raw)
+    except ValueError:
+        raise SystemExit("QWEN_MODEL_TOKEN_CAP must be an integer token count, or 0 to disable.")
+
+
+def model_token_reserve() -> int:
+    raw = os.getenv("QWEN_MODEL_TOKEN_RESERVE")
+    if raw is None:
+        return DEFAULT_MODEL_TOKEN_RESERVE
+    try:
+        return int(raw)
+    except ValueError:
+        raise SystemExit("QWEN_MODEL_TOKEN_RESERVE must be an integer token count.")
+
+
+def filter_models_by_usage(
+    models: list[str],
+    usage_totals: dict[str, int],
+    cap: int,
+    reserve: int,
+    announced: set[str] | None = None,
+) -> list[str]:
+    if cap <= 0:
+        return models
+    available: list[str] = []
+    for model in models:
+        used = usage_totals.get(model, 0)
+        if used + reserve >= cap:
+            if announced is not None and model not in announced:
+                print(
+                    f"Skipping {model}: local_usage_total_tokens={used} "
+                    f"+ reserve={reserve} >= cap={cap}"
+                )
+                announced.add(model)
+            continue
+        available.append(model)
+    return available
 
 
 def data_url(path: Path) -> str:
@@ -167,16 +239,27 @@ def main() -> int:
     prompt = args.prompt.read_text(encoding="utf-8")
     api_key = get_env_first(["QWEN_API_KEY", "DASHSCOPE_API_KEY"])
     base_url = os.getenv("QWEN_BASE_URL", "https://dashscope.aliyuncs.com/compatible-mode/v1")
-    models = load_models()
+    all_models = load_models()
+    cap = model_token_cap()
+    reserve = model_token_reserve()
+    usage_totals = model_usage_totals(args.output)
+    announced_skips: set[str] = set()
+    models = filter_models_by_usage(all_models, usage_totals, cap, reserve, announced_skips)
 
     if args.dry_run:
         print(f"Would label {len(pending)} clips with models: {', '.join(models)}")
         return 0
     if not api_key:
         raise SystemExit("Set QWEN_API_KEY or DASHSCOPE_API_KEY before labeling.")
+    if not models:
+        raise SystemExit("No Qwen models are below QWEN_MODEL_TOKEN_CAP; set QWEN_MODEL_TOKEN_CAP=0 to override.")
 
     row_by_clip = {row["clip_id"]: row for row in rows}
     for row in pending:
+        models = filter_models_by_usage(all_models, usage_totals, cap, reserve, announced_skips)
+        if not models:
+            print("No Qwen models are below QWEN_MODEL_TOKEN_CAP; stopping before the next clip.")
+            break
         clip_path = Path(row["clip_path"])
         if not clip_path.is_absolute():
             clip_path = repo_path(str(clip_path))
@@ -211,6 +294,8 @@ def main() -> int:
             "error": last_error if result is None else "",
         }
         append_jsonl(args.output, record)
+        if used_model and usage:
+            usage_totals[used_model] = usage_totals.get(used_model, 0) + usage_total_tokens(usage)
 
         mutable = row_by_clip[row["clip_id"]]
         if result is None:

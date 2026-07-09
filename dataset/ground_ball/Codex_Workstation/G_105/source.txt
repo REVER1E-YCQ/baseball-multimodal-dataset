@@ -1,0 +1,7 @@
+video_title: Cole Sulser induces groundout for the save Cole Sulser induces groundout for the save Cole Sulser induces groundout for the save Cole Sulser induces a ground ball to second base to lock down the save in the Rays' 8-4 win
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/07/47625dd6-8baebe75-3b35b373-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_824767_marcelo-mayer-grounds-out-second-baseman-ben-williamson-to-first-base
+clip_id: MLB_824767_marcelo-mayer-grounds-out-second-baseman-ben-williamson-to-first-base_head_0p000_6p000
+source_path: raw_sources\MLB_824767_marcelo-mayer-grounds-out-second-baseman-ben-williamson-to-first-base_Cole_Sulser_induces_groundout_for_the_save_Cole_Sulser_induces_groundout_for_the.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

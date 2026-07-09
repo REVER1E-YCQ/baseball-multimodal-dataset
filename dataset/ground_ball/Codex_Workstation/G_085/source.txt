@@ -1,0 +1,7 @@
+video_title: Brad Keller secures Phillies' 1-0 win with groundout Brad Keller secures Phillies' 1-0 win with groundout Brad Keller secures Phillies' 1-0 win with groundout Brad Keller secures the Phillies' shut-out win over the Marlins 1-0
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/04/1dc8cfb5-6029491d-88212bd9-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_823874_liam-hicks-grounds-out-second-baseman-bryson-stott-to-first-baseman-b
+clip_id: MLB_823874_liam-hicks-grounds-out-second-baseman-bryson-stott-to-first-baseman-b_head_0p000_6p000
+source_path: raw_sources\MLB_823874_liam-hicks-grounds-out-second-baseman-bryson-stott-to-first-baseman-b_Brad_Keller_secures_Phillies_1-0_win_with_groundout_Brad_Keller_secures_Phillies.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000
