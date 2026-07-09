@@ -1,0 +1,4 @@
+interface:
+  display_name: "Baseball Hit Dataset QC"
+  short_description: "Validate baseball hit audio-video samples and labels."
+  default_prompt: "Validate this baseball hit dataset batch against schema, media, audio-contact, and label-consistency gates."

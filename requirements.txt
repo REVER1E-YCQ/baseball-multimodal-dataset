@@ -1,0 +1,2 @@
+# Optional fallback downloader for non-direct video pages.
+yt-dlp>=2024.8.6

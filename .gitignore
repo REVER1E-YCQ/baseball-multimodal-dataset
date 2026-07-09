@@ -1,0 +1,26 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Large/local media caches. Keep manifests and scripts in git.
+raw_sources/**
+!raw_sources/.gitkeep
+clips/**
+!clips/pending/
+!clips/pending/.gitkeep
+!clips/accepted/
+!clips/accepted/.gitkeep
+!clips/rejected/
+!clips/rejected/.gitkeep
+reports/*.html
+reports/*.jsonl
+reports/*.csv
+reports/*.log
+
+# Dataset media is large. Commit intentionally when a reviewed batch is ready.
+dataset/**/*.mp4
+dataset/**/*.wav
+
