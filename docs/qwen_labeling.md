@@ -15,11 +15,13 @@ The labeling script uses OpenAI-compatible chat completions over standard-librar
 Default models:
 
 ```text
-qwen3.5-omni-plus
 qwen3.5-omni-flash
 qwen3-omni-flash
 qwen-omni-turbo-latest
+qwen3.5-omni-plus
 ```
+
+The default order is cost-conscious: flash/turbo models are tried before plus. Override with `QWEN_MODEL_FALLBACKS` only when you intentionally want a different cost/quality tradeoff.
 
 For local clips, the script sends Base64 data URLs when the encoded file is under the model/API limit. If local video is too large, recut or downscale the clip before retrying.
 

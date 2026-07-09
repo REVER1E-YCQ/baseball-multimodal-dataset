@@ -40,7 +40,7 @@ def load_models() -> list[str]:
     cfg_path = repo_path("config", "qwen_models.json")
     if cfg_path.exists():
         return json.loads(cfg_path.read_text(encoding="utf-8"))["fallback_models"]
-    return ["qwen3.5-omni-plus", "qwen3.5-omni-flash", "qwen3-omni-flash", "qwen-omni-turbo-latest"]
+    return ["qwen3.5-omni-flash", "qwen3-omni-flash", "qwen-omni-turbo-latest", "qwen3.5-omni-plus"]
 
 
 def data_url(path: Path) -> str:

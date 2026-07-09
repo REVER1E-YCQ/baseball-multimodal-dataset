@@ -73,12 +73,17 @@ def main() -> int:
     parser.add_argument("--min-peak-time", type=float, default=0.25)
     parser.add_argument("--window-ms", type=float, default=20.0)
     parser.add_argument("--limit", type=int, default=0)
+    parser.add_argument("--rescore", action="store_true", help="Score clips even when notes already contain prefilter_peak.")
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args()
 
     wanted = {item.strip() for item in args.statuses.split(",") if item.strip()}
     rows = read_csv(args.clips_manifest)
-    selected = [row for row in rows if row.get("status") in wanted]
+    selected = [
+        row
+        for row in rows
+        if row.get("status") in wanted and (args.rescore or "prefilter_peak=" not in row.get("notes", ""))
+    ]
     if args.limit:
         selected = selected[: args.limit]
 
