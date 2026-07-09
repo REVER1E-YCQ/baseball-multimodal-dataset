@@ -88,8 +88,9 @@ def load_audit_passes(path: Path) -> set[str] | None:
     return passes
 
 
-def existing_materialized_clip_ids(dataset_root: Path) -> set[str]:
+def existing_materialized_ids(dataset_root: Path) -> tuple[set[str], set[str]]:
     clip_ids: set[str] = set()
+    source_ids: set[str] = set()
     for source_file in dataset_root.glob("*/*/*/source.txt"):
         try:
             for line in source_file.read_text(encoding="utf-8").splitlines():
@@ -97,9 +98,13 @@ def existing_materialized_clip_ids(dataset_root: Path) -> set[str]:
                     clip_id = line.split(":", 1)[1].strip()
                     if clip_id:
                         clip_ids.add(clip_id)
+                if line.startswith("source_id:"):
+                    source_id = line.split(":", 1)[1].strip()
+                    if source_id:
+                        source_ids.add(source_id)
         except OSError:
             continue
-    return clip_ids
+    return clip_ids, source_ids
 
 
 def main() -> int:
@@ -118,11 +123,11 @@ def main() -> int:
     source_rows = {row["source_id"]: row for row in read_csv(args.sources_manifest) if row.get("source_id")}
     records = latest_records(load_jsonl(args.labels)).values()
     audit_passes = load_audit_passes(args.audit)
-    already_materialized = existing_materialized_clip_ids(repo_path("dataset"))
+    already_materialized_clips, already_materialized_sources = existing_materialized_ids(repo_path("dataset"))
     created = 0
 
     for record in records:
-        if record.get("clip_id") in already_materialized:
+        if record.get("clip_id") in already_materialized_clips:
             continue
         if args.require_audit_pass and (audit_passes is None or record.get("clip_id") not in audit_passes):
             continue
@@ -134,6 +139,8 @@ def main() -> int:
             continue
         clip_row = clip_rows.get(record.get("clip_id", ""))
         if not clip_row:
+            continue
+        if clip_row.get("source_id") in already_materialized_sources:
             continue
 
         collector_dir = repo_path("dataset", label, args.collector)
@@ -155,6 +162,8 @@ def main() -> int:
         write_sample_csv(out_dir / "sample.csv", sample_id, label_payload)
         (out_dir / "source.txt").write_text(source_text(clip_row, source_rows), encoding="utf-8")
         created += 1
+        already_materialized_clips.add(record.get("clip_id", ""))
+        already_materialized_sources.add(clip_row.get("source_id", ""))
         print(f"Created {out_dir.relative_to(repo_path())}")
 
     print(f"Materialized {created} samples")

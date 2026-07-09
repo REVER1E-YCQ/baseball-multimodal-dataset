@@ -1,0 +1,7 @@
+video_title: Jim Jarvis' stellar scoop Jim Jarvis' stellar scoop Jim Jarvis' stellar scoop Jim Jarvis makes an amazing scoop to field a hard hit ground ball from Tyrone Taylor and flips to second base to end the top of the 1st inning
+video_url: https://bdata-producedclips.mlb.com/d43fc97a-b787-42a9-a4f8-167617291411.mp4
+source_id: MLB_824902_martin-perez-in-play-out-s-to-tyrone-taylor-mvutkg
+clip_id: MLB_824902_martin-perez-in-play-out-s-to-tyrone-taylor-mvutkg_head_0p000_6p000
+source_path: raw_sources\MLB_824902_martin-perez-in-play-out-s-to-tyrone-taylor-mvutkg_Jim_Jarvis_stellar_scoop_Jim_Jarvis_stellar_scoop_Jim_Jarvis_stellar_scoop_Jim_J.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

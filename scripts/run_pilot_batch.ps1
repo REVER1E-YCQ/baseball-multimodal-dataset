@@ -23,6 +23,7 @@ if ($LabelLimit -lt 1) {
 python scripts/collect_mlb_sources.py --start-date $StartDate --end-date $EndDate --limit $SourceLimit
 python scripts/download_sources.py
 
+python scripts/extract_head_candidates.py --limit $SourceLimit
 python scripts/auto_extract_candidates.py --limit $SourceLimit --candidates-per-source 1
 
 python scripts/qwen_omni_label.py --limit $LabelLimit

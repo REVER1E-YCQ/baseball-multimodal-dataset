@@ -4,6 +4,7 @@ import argparse
 import datetime as dt
 import json
 import re
+import time
 import urllib.parse
 import urllib.request
 from pathlib import Path
@@ -29,10 +30,18 @@ FIELDS = [
 ]
 
 
-def fetch_json(url: str) -> dict[str, Any]:
+def fetch_json(url: str, retries: int = 3, backoff: float = 1.5) -> dict[str, Any]:
     req = urllib.request.Request(url, headers={"User-Agent": "baseball-dataset-research/0.1"})
-    with urllib.request.urlopen(req, timeout=30) as response:
-        return json.loads(response.read().decode("utf-8"))
+    last_error: Exception | None = None
+    for attempt in range(retries):
+        try:
+            with urllib.request.urlopen(req, timeout=30) as response:
+                return json.loads(response.read().decode("utf-8"))
+        except Exception as exc:
+            last_error = exc
+            if attempt < retries - 1:
+                time.sleep(backoff * (attempt + 1))
+    raise RuntimeError(f"Failed to fetch {url}: {last_error}") from last_error
 
 
 def schedule_game_pks(start_date: str, end_date: str) -> list[dict[str, str]]:
@@ -98,7 +107,11 @@ def classify_expected(text: str) -> str:
 
 def collect_for_game(game: dict[str, str], keywords: list[str]) -> list[dict[str, str]]:
     url = f"https://statsapi.mlb.com/api/v1/game/{game['game_pk']}/content"
-    payload = fetch_json(url)
+    try:
+        payload = fetch_json(url)
+    except Exception as exc:
+        print(f"SKIP gamePk={game['game_pk']}: {exc}")
+        return []
     rows: list[dict[str, str]] = []
     for item in iter_video_items(payload):
         text = text_for_video(item)
@@ -163,4 +176,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-

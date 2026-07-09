@@ -36,7 +36,7 @@ sample_id,label,landing_zone,strength,trajectory_type,event_start,event_end
 
 1. Add source rows to `manifests/sources_manifest.csv`.
 2. Download sources into `raw_sources/` with `scripts/download_sources.py`.
-3. Cut candidate clips with `scripts/extract_candidates.py` for manual windows or `scripts/auto_extract_candidates.py` for audio-peak windows.
+3. Cut candidate clips. Prefer `scripts/extract_head_candidates.py` for MLB highlight clips, then use `scripts/auto_extract_candidates.py` as a secondary pass when head windows miss contact.
 4. Label pending clips with `scripts/qwen_omni_label.py`.
 5. Refine Qwen contact timings with `scripts/refine_qwen_events.py`.
 6. Audit Qwen labels with `scripts/audit_qwen_labels.py --labels reports/qwen_labels_refined.jsonl`.
@@ -61,6 +61,7 @@ Manual staged pilot:
 ```powershell
 python scripts/collect_mlb_sources.py --start-date 2026-07-01 --end-date 2026-07-01 --limit 20
 python scripts/download_sources.py
+python scripts/extract_head_candidates.py --limit 20
 python scripts/auto_extract_candidates.py --limit 20 --candidates-per-source 1
 python scripts/qwen_omni_label.py --limit 20
 python scripts/refine_qwen_events.py

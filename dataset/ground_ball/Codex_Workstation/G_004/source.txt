@@ -1,0 +1,7 @@
+video_title: Tyler Callihan escapes bases-loaded jam in the 8th Tyler Callihan escapes bases-loaded jam in the 8th Tyler Callihan escapes bases-loaded jam in the 8th Tyler Callihan fields José Tena's ground ball and makes the throw to first to get him out and escapes bases-loaded jam in the bottom of the 8th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-07/03/401f0a15-7d905fad-66cb9957-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_822714_tyler-callihan-in-play-out-s-to-jose-tena
+clip_id: MLB_822714_tyler-callihan-in-play-out-s-to-jose-tena_head_0p000_6p000
+source_path: raw_sources\MLB_822714_tyler-callihan-in-play-out-s-to-jose-tena_Tyler_Callihan_escapes_bases-loaded_jam_in_the_8th_Tyler_Callihan_escapes_bases-.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

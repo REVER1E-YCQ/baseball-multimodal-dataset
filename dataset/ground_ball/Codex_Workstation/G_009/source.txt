@@ -1,0 +1,7 @@
+video_title: Joshua Kuroda-Grauer's sharp play Joshua Kuroda-Grauer's sharp play Joshua Kuroda-Grauer's sharp play Joshua Kuroda-Grauer reacts quickly to field a grounder that deflects off third base and steps on the bag for the out in the 9th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-07/04/f4e46264-746b7043-6caf21bb-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_824983_kade-morris-in-play-out-s-to-esteury-ruiz-ao1doh
+clip_id: MLB_824983_kade-morris-in-play-out-s-to-esteury-ruiz-ao1doh_head_0p000_6p000
+source_path: raw_sources\MLB_824983_kade-morris-in-play-out-s-to-esteury-ruiz-ao1doh_Joshua_Kuroda-Grauer_s_sharp_play_Joshua_Kuroda-Grauer_s_sharp_play_Joshua_Kurod.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000
