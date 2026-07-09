@@ -1,0 +1,7 @@
+video_title: Joey Ortiz throws out Jordan Walker in the bottom of the 3rd Joey Ortiz throws out Jordan Walker in the bottom of the 3rd Joey Ortiz throws out Jordan Walker in the bottom of the 3rd Joey Ortiz fields Jordan Walker's ground ball and make the throw to first, ending the bottom of the 3rd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-07/07/dd26c675-87f96bd1-fd6717c3-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_823035_jordan-walker-grounds-out-third-baseman-joey-ortiz-to-first-baseman-a
+clip_id: MLB_823035_jordan-walker-grounds-out-third-baseman-joey-ortiz-to-first-baseman-a_head_0p000_6p000
+source_path: raw_sources\MLB_823035_jordan-walker-grounds-out-third-baseman-joey-ortiz-to-first-baseman-a_Joey_Ortiz_throws_out_Jordan_Walker_in_the_bottom_of_the_3rd_Joey_Ortiz_throws_o.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000
