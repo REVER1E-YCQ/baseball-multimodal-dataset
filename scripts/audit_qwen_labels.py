@@ -7,6 +7,10 @@ from typing import Any
 
 from common import load_jsonl, read_csv, repo_path
 
+VALID_STRENGTH = {"low", "medium", "high"}
+VALID_BOUNCE = {"yes", "no"}
+VALID_TRAJECTORY = {"fly", "line_drive", "pop_fly"}
+
 
 def latest_by_clip(records: list[dict[str, Any]]) -> dict[str, dict[str, Any]]:
     latest: dict[str, dict[str, Any]] = {}
@@ -48,6 +52,30 @@ def audit_record(
         errors.append(f"insufficient_precontact={event_start:.3f}")
     if payload.get("contact_sound_clear") is not True:
         errors.append("contact_sound_not_clear")
+    if label == "ground_ball":
+        ground_ball = payload.get("ground_ball") or {}
+        try:
+            region = int(ground_ball.get("region", ""))
+            if region < 1 or region > 4:
+                errors.append("region_out_of_range")
+        except (TypeError, ValueError):
+            errors.append("invalid_region")
+        if ground_ball.get("strength") not in VALID_STRENGTH:
+            errors.append("invalid_ground_strength")
+        if ground_ball.get("bounce") not in VALID_BOUNCE:
+            errors.append("invalid_bounce")
+    if label == "fly_ball":
+        fly_ball = payload.get("fly_ball") or {}
+        try:
+            landing_zone = int(fly_ball.get("landing_zone", ""))
+            if landing_zone < 1 or landing_zone > 9:
+                errors.append("landing_zone_out_of_range")
+        except (TypeError, ValueError):
+            errors.append("invalid_landing_zone")
+        if fly_ball.get("strength") not in VALID_STRENGTH:
+            errors.append("invalid_fly_strength")
+        if fly_ball.get("trajectory_type") not in VALID_TRAJECTORY:
+            errors.append("invalid_trajectory_type")
     return errors
 
 

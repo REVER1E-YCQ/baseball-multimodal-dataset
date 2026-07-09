@@ -1,0 +1,7 @@
+video_title: Chase Meidroth's running catch for the White Sox win Chase Meidroth's running catch for the White Sox win Chase Meidroth's running catch for the White Sox win Chase Meidroth makes the running catch for Ozzie Albies' fly ball for the White Sox 2-1 win against the Braves
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/10/43b5444d-8bfade50-28536ab4-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_824590_ozzie-albies-pops-out-to-second-baseman-chase-meidroth
+clip_id: MLB_824590_ozzie-albies-pops-out-to-second-baseman-chase-meidroth_head_0p000_7p000
+source_path: raw_sources\MLB_824590_ozzie-albies-pops-out-to-second-baseman-chase-meidroth_Chase_Meidroth_s_running_catch_for_the_White_Sox_win_Chase_Meidroth_s_running_ca.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

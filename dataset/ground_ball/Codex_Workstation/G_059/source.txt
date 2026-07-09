@@ -1,0 +1,7 @@
+video_title: Jackson Holliday's sliding snag Jackson Holliday's sliding snag Jackson Holliday's sliding snag Jackson Holliday slides to snare Josh Naylor's hard-hit grounder, robbing him of a hit and making it 11 consecutive Mariners retired
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/10/42da9b16-58bb83f6-a825cf3e-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_824831_brandon-young-in-play-out-s-to-josh-naylor-wjmthr
+clip_id: MLB_824831_brandon-young-in-play-out-s-to-josh-naylor-wjmthr_head_0p000_6p000
+source_path: raw_sources\MLB_824831_brandon-young-in-play-out-s-to-josh-naylor-wjmthr_Jackson_Holliday_s_sliding_snag_Jackson_Holliday_s_sliding_snag_Jackson_Holliday.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

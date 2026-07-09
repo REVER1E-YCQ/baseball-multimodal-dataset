@@ -1,0 +1,7 @@
+video_title: Bryson Stott's sliding play to first in 9th Bryson Stott's sliding play to first in 9th Bryson Stott's sliding play to first in 9th Bryson Stott makes a sliding play for Andrew Benintendi's ground ball and throw him out at first base for second out in the top of the 9th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/05/2cd9d8e1-59b33b16-3e45514a-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_823455_andrew-benintendi-grounds-out-second-baseman-bryson-stott-to-first-ba
+clip_id: MLB_823455_andrew-benintendi-grounds-out-second-baseman-bryson-stott-to-first-ba_head_0p000_6p000
+source_path: raw_sources\MLB_823455_andrew-benintendi-grounds-out-second-baseman-bryson-stott-to-first-ba_Bryson_Stott_s_sliding_play_to_first_in_9th_Bryson_Stott_s_sliding_play_to_first.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

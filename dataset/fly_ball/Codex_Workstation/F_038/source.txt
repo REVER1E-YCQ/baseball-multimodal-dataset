@@ -1,0 +1,7 @@
+video_title: Chandler Simpson makes the running catch Chandler Simpson makes the running catch Chandler Simpson makes the running catch Chandler Simpson snags a liner off Hao-Yu Lee's bat for the first out of the 4th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/01/53e6bb9d-3cdaeba8-525cd21a-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_822974_griffin-jax-in-play-out-s-to-hao-yu-lee-j7r3k9
+clip_id: MLB_822974_griffin-jax-in-play-out-s-to-hao-yu-lee-j7r3k9_head_0p000_7p000
+source_path: raw_sources\MLB_822974_griffin-jax-in-play-out-s-to-hao-yu-lee-j7r3k9_Chandler_Simpson_makes_the_running_catch_Chandler_Simpson_makes_the_running_catc.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000
