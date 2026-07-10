@@ -1,0 +1,7 @@
+video_title: Ernie Clement scores on Tyler Heineman's groundout Ernie Clement scores on Tyler Heineman's groundout Ernie Clement scores on Tyler Heineman's groundout
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/09/e90bf428-2b989789-32b1ef35-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_822820_adam-frazier-in-play-run-s-to-tyler-heineman
+clip_id: MLB_822820_adam-frazier-in-play-run-s-to-tyler-heineman_head_0p000_6p000
+source_path: raw_sources\MLB_822820_adam-frazier-in-play-run-s-to-tyler-heineman_Ernie_Clement_scores_on_Tyler_Heineman_s_groundout_Ernie_Clement_scores_on_Tyler.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

@@ -1,0 +1,7 @@
+video_title: Maikel Garcia drives in Isbel on RBI groundout Maikel Garcia drives in Isbel on RBI groundout Maikel Garcia drives in Isbel on RBI groundout
+video_url: https://bdata-producedclips.mlb.com/72ce86c2-3307-42de-838f-cc729e42d4c5.mp4
+source_id: MLB_824602_tyler-davis-in-play-run-s-to-maikel-garcia
+clip_id: MLB_824602_tyler-davis-in-play-run-s-to-maikel-garcia_head_0p000_6p000
+source_path: raw_sources\MLB_824602_tyler-davis-in-play-run-s-to-maikel-garcia_Maikel_Garcia_drives_in_Isbel_on_RBI_groundout_Maikel_Garcia_drives_in_Isbel_on_.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

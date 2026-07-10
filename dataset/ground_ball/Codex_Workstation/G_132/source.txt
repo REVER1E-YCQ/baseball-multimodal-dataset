@@ -1,0 +1,7 @@
+video_title: Anthony Volpe makes an error in return to MLB Anthony Volpe makes an error in return to MLB Anthony Volpe makes an error in return to MLB Anthony Volpe misplays the ground ball off the bat of Leodys Taveres leading off the bottom of the 8th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/13/1d41409e-c7d26c20-983a4e3b-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_824841_ryan-yarbrough-in-play-no-out-to-leody-taveras
+clip_id: MLB_824841_ryan-yarbrough-in-play-no-out-to-leody-taveras_head_0p000_6p000
+source_path: raw_sources\MLB_824841_ryan-yarbrough-in-play-no-out-to-leody-taveras_Anthony_Volpe_makes_an_error_in_return_to_MLB_Anthony_Volpe_makes_an_error_in_re.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

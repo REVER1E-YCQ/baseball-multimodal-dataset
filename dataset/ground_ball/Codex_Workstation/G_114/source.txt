@@ -1,0 +1,7 @@
+video_title: Ryan O'Hearn's RBI groundout Ryan O'Hearn's RBI groundout Ryan O'Hearn's RBI groundout
+video_url: https://bdata-producedclips.mlb.com/643b5e05-935a-486c-9856-597be843ce29.mp4
+source_id: MLB_823224_ryan-o-hearn-grounds-into-a-double-play-shortstop-willy-adames-to-fir
+clip_id: MLB_823224_ryan-o-hearn-grounds-into-a-double-play-shortstop-willy-adames-to-fir_head_0p000_6p000
+source_path: raw_sources\MLB_823224_ryan-o-hearn-grounds-into-a-double-play-shortstop-willy-adames-to-fir_Ryan_O_Hearn_s_RBI_groundout_Ryan_O_Hearn_s_RBI_groundout_Ryan_O_Hearn_s_RBI_gro.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

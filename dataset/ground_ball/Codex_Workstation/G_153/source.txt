@@ -1,0 +1,7 @@
+video_title: Tristan Peters' RBI groundout Tristan Peters' RBI groundout Tristan Peters' RBI groundout Tristan Peters' RBI groundout cuts the Cubs' lead to 4-2 in the 5th inning
+video_url: https://bdata-producedclips.mlb.com/8f4489fa-fd4a-41b7-9758-37886f7264c0.mp4
+source_id: MLB_824601_edward-cabrera-in-play-run-s-to-tristan-peters
+clip_id: MLB_824601_edward-cabrera-in-play-run-s-to-tristan-peters_head_0p000_6p000
+source_path: raw_sources\MLB_824601_edward-cabrera-in-play-run-s-to-tristan-peters_Tristan_Peters_RBI_groundout_Tristan_Peters_RBI_groundout_Tristan_Peters_RBI_gro.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

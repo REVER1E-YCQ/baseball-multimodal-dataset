@@ -1,0 +1,7 @@
+video_title: Roki Sasaki escapes jam with a groundout Roki Sasaki escapes jam with a groundout Roki Sasaki escapes jam with a groundout
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/11/7128094b-8d0fb95f-a0ca21bf-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_823953_roki-sasaki-in-play-out-s-to-heliot-ramos
+clip_id: MLB_823953_roki-sasaki-in-play-out-s-to-heliot-ramos_head_0p000_6p000
+source_path: raw_sources\MLB_823953_roki-sasaki-in-play-out-s-to-heliot-ramos_Roki_Sasaki_escapes_jam_with_a_groundout_Roki_Sasaki_escapes_jam_with_a_groundou.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

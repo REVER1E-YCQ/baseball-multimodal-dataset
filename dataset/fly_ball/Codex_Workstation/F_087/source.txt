@@ -1,0 +1,7 @@
+video_title: J.P. Crawford's leadoff homer! (5)  J.P. Crawford's leadoff homer! (5)  J.P. Crawford homers (5) on a fly ball to right field. J.P. Crawford opens the game with a solo homer to right field to give the Mariners an early 1-0 lead in the top of the 1st inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/13/5ab2dfdb-0471d531-4a81a52c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_824195_j-p-crawford-homers-5-on-a-fly-ball-to-right-field-7prgpm
+clip_id: MLB_824195_j-p-crawford-homers-5-on-a-fly-ball-to-right-field-7prgpm_head_0p000_7p000
+source_path: raw_sources\MLB_824195_j-p-crawford-homers-5-on-a-fly-ball-to-right-field-7prgpm_J.P._Crawford_s_leadoff_homer_5_J.P._Crawford_s_leadoff_homer_5_J.P._Crawford_ho.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

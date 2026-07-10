@@ -1,0 +1,7 @@
+video_title: Chase Meidroth grounds into a force out, shortstop Bobby Witt Jr. to second baseman Nick Loftin. Miguel Vargas out at 2nd. Chase Meidroth grounds into a force out, shortstop Bobby Witt Jr. to second baseman Nick Loftin. Miguel Vargas out at 2nd. Chase Meidroth grounds into a force out, shortstop Bob
+video_url: https://bdata-producedclips.mlb.com/238fcbfd-dc4f-4dc1-9348-0fa0851ec617.mp4
+source_id: MLB_824603_chase-meidroth-grounds-into-a-force-out-shortstop-bobby-witt-jr-to-se
+clip_id: MLB_824603_chase-meidroth-grounds-into-a-force-out-shortstop-bobby-witt-jr-to-se_head_0p000_6p000
+source_path: raw_sources\MLB_824603_chase-meidroth-grounds-into-a-force-out-shortstop-bobby-witt-jr-to-se_Chase_Meidroth_grounds_into_a_force_out_shortstop_Bobby_Witt_Jr._to_second_basem.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

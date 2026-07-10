@@ -1,0 +1,7 @@
+video_title: Coby Mayo's slick defense Coby Mayo's slick defense Coby Mayo's slick defense Coby Mayo charges in for a ground ball and delivers a strong throw across the diamond to end the 3rd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/15/87cba9f7-ead3a026-e0d1ffde-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_822739_shane-baz-in-play-out-s-to-curtis-mead
+clip_id: MLB_822739_shane-baz-in-play-out-s-to-curtis-mead_head_0p000_6p000
+source_path: raw_sources\MLB_822739_shane-baz-in-play-out-s-to-curtis-mead_Coby_Mayo_s_slick_defense_Coby_Mayo_s_slick_defense_Coby_Mayo_s_slick_defense_Co.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

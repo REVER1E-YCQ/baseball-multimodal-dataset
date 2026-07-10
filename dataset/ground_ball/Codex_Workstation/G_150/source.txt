@@ -1,0 +1,7 @@
+video_title: Bo Bichette's nice play on Aaron Judge's grounder Bo Bichette's nice play on Aaron Judge's grounder Bo Bichette's nice play on Aaron Judge's grounder Bo Bichette fields Aaron Judge's grounder and throws to first for the out
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/15/2b94bd00-33a0ef86-157d9374-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_823629_craig-kimbrel-in-play-out-s-to-aaron-judge
+clip_id: MLB_823629_craig-kimbrel-in-play-out-s-to-aaron-judge_head_0p000_6p000
+source_path: raw_sources\MLB_823629_craig-kimbrel-in-play-out-s-to-aaron-judge_Bo_Bichette_s_nice_play_on_Aaron_Judge_s_grounder_Bo_Bichette_s_nice_play_on_Aar.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

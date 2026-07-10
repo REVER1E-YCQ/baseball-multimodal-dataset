@@ -1,0 +1,7 @@
+video_title: Riley Greene scores on double play Riley Greene scores on double play Riley Greene scores on double play Riley Greene scores as Spencer Torkelson grounds into a 5-4-3 double play to give the Tigers a 1-0 lead in the top of the 2nd
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/08/5cf5cac6-7ad87d2c-69248a61-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_824116_kris-bubic-in-play-run-s-to-spencer-torkelson
+clip_id: MLB_824116_kris-bubic-in-play-run-s-to-spencer-torkelson_head_0p000_6p000
+source_path: raw_sources\MLB_824116_kris-bubic-in-play-run-s-to-spencer-torkelson_Riley_Greene_scores_on_double_play_Riley_Greene_scores_on_double_play_Riley_Gree.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

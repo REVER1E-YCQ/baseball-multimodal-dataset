@@ -1,0 +1,7 @@
+video_title: Seranthony Domínguez secures save with groundout  Seranthony Domínguez secures save with groundout  Seranthony Domínguez secures save with ground-out  Seranthony Domínguez gets Brandon Donovan to ground out in the bottom of the 9th, securing the White Sox win, 2-1
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/10/3f80cd6a-a95070b8-4b5c36c5-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_824605_brendan-donovan-grounds-out-to-first-baseman-munetaka-murakami
+clip_id: MLB_824605_brendan-donovan-grounds-out-to-first-baseman-munetaka-murakami_head_0p000_6p000
+source_path: raw_sources\MLB_824605_brendan-donovan-grounds-out-to-first-baseman-munetaka-murakami_Seranthony_Dom_nguez_secures_save_with_groundout_Seranthony_Dom_nguez_secures_sa.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

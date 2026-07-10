@@ -1,0 +1,7 @@
+video_title: Bryan Abreu induces groundout for the win Bryan Abreu induces groundout for the win Bryan Abreu induces groundout for the win Ezequiel Duran induces a ground ball to second base to lock down the save in the Astros' 4-1 win
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/16/eee3d669-315c0f9c-4e7648e6-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_824193_bryan-abreu-in-play-out-s-to-ezequiel-duran-hu8i3q
+clip_id: MLB_824193_bryan-abreu-in-play-out-s-to-ezequiel-duran-hu8i3q_head_0p000_6p000
+source_path: raw_sources\MLB_824193_bryan-abreu-in-play-out-s-to-ezequiel-duran-hu8i3q_Bryan_Abreu_induces_groundout_for_the_win_Bryan_Abreu_induces_groundout_for_the_.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

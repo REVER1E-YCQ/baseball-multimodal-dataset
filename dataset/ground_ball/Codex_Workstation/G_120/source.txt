@@ -1,0 +1,7 @@
+video_title: Peyton Pallette secures the win with a groundout Peyton Pallette secures the win with a groundout Kyle Manzardo secures the win with a groundout Peyton Pallette retires Jorge Soler with a groundout to first base, securing a 7-2 Guardians victory
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/11/c73298da-b776084b-5e440f21-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_824441_peyton-pallette-in-play-out-s-to-jorge-soler
+clip_id: MLB_824441_peyton-pallette-in-play-out-s-to-jorge-soler_head_0p000_6p000
+source_path: raw_sources\MLB_824441_peyton-pallette-in-play-out-s-to-jorge-soler_Peyton_Pallette_secures_the_win_with_a_groundout_Peyton_Pallette_secures_the_win.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

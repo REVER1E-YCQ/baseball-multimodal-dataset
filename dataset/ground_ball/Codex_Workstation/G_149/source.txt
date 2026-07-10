@@ -1,0 +1,7 @@
+video_title: Brett Baty's RBI single Brett Baty's RBI single Brett Baty's RBI single Brett Baty singles on a ground ball to right field, scoring MJ Melendez to
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/15/c59f3bb3-8a4bac9d-68cfd543-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_823629_david-bednar-in-play-run-s-to-brett-baty
+clip_id: MLB_823629_david-bednar-in-play-run-s-to-brett-baty_head_0p000_6p000
+source_path: raw_sources\MLB_823629_david-bednar-in-play-run-s-to-brett-baty_Brett_Baty_s_RBI_single_Brett_Baty_s_RBI_single_Brett_Baty_s_RBI_single_Brett_Ba.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000
