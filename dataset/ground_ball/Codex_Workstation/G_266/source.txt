@@ -1,0 +1,7 @@
+video_title: Jonathan Aranda's RBI groundout Jonathan Aranda's RBI groundout Jonathan Aranda's RBI groundout
+video_url: https://bdata-producedclips.mlb.com/eba101ee-9ccb-4257-bfb5-8ae795f932ce.mp4
+source_id: MLB_822997_camilo-doval-in-play-run-s-to-jonathan-aranda
+clip_id: MLB_822997_camilo-doval-in-play-run-s-to-jonathan-aranda_auto1_1p360_7p360
+source_path: raw_sources\MLB_822997_camilo-doval-in-play-run-s-to-jonathan-aranda_Jonathan_Aranda_s_RBI_groundout_Jonathan_Aranda_s_RBI_groundout_Jonathan_Aranda_.mp4
+clip_start_time: 1.360
+clip_end_time: 7.360

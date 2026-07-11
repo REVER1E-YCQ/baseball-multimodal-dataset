@@ -1,0 +1,7 @@
+video_title: Nolan Schanuel's RBI groundout Nolan Schanuel's RBI groundout Nolan Schanuel's RBI groundout
+video_url: https://bdata-producedclips.mlb.com/3e4e2b17-792a-4a29-82ae-8ee902f32003.mp4
+source_id: MLB_824535_brandon-williamson-in-play-run-s-to-nolan-schanuel
+clip_id: MLB_824535_brandon-williamson-in-play-run-s-to-nolan-schanuel_auto1_3p420_9p420
+source_path: raw_sources\MLB_824535_brandon-williamson-in-play-run-s-to-nolan-schanuel_Nolan_Schanuel_s_RBI_groundout_Nolan_Schanuel_s_RBI_groundout_Nolan_Schanuel_s_R.mp4
+clip_start_time: 3.420
+clip_end_time: 9.420

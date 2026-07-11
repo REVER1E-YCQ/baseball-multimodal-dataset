@@ -1,0 +1,7 @@
+video_title: Cal Raleigh's RBI groundout Cal Raleigh's RBI groundout Cal Raleigh's RBI groundout
+video_url: https://bdata-producedclips.mlb.com/56ec6046-35ec-4866-9aac-353ff44dd29c.mp4
+source_id: MLB_823156_cal-raleigh-grounds-out-second-baseman-isaac-paredes-to-first-baseman
+clip_id: MLB_823156_cal-raleigh-grounds-out-second-baseman-isaac-paredes-to-first-baseman_auto1_1p560_7p560
+source_path: raw_sources\MLB_823156_cal-raleigh-grounds-out-second-baseman-isaac-paredes-to-first-baseman_Cal_Raleigh_s_RBI_groundout_Cal_Raleigh_s_RBI_groundout_Cal_Raleigh_s_RBI_ground.mp4
+clip_start_time: 1.560
+clip_end_time: 7.560

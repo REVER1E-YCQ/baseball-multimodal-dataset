@@ -1,0 +1,7 @@
+video_title: Richie Palacios' RBI groundout Richie Palacios' RBI groundout Richie Palacios' RBI groundout
+video_url: https://bdata-producedclips.mlb.com/8dfcd2b0-dfd7-40c5-a167-a5bad2b2e371.mp4
+source_id: MLB_822998_richie-palacios-grounds-out-shortstop-jose-caballero-to-first-baseman
+clip_id: MLB_822998_richie-palacios-grounds-out-shortstop-jose-caballero-to-first-baseman_auto1_1p420_7p420
+source_path: raw_sources\MLB_822998_richie-palacios-grounds-out-shortstop-jose-caballero-to-first-baseman_Richie_Palacios_RBI_groundout_Richie_Palacios_RBI_groundout_Richie_Palacios_RBI_.mp4
+clip_start_time: 1.420
+clip_end_time: 7.420

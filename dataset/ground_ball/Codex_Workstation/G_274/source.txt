@@ -1,0 +1,7 @@
+video_title: Oswald Peraza's RBI groundout Oswald Peraza's RBI groundout Oswald Peraza's RBI groundout
+video_url: https://bdata-producedclips.mlb.com/467c3971-2ce4-44c6-9599-b9b5be610bda.mp4
+source_id: MLB_824533_sam-moll-in-play-run-s-to-oswald-peraza
+clip_id: MLB_824533_sam-moll-in-play-run-s-to-oswald-peraza_auto1_3p960_9p960
+source_path: raw_sources\MLB_824533_sam-moll-in-play-run-s-to-oswald-peraza_Oswald_Peraza_s_RBI_groundout_Oswald_Peraza_s_RBI_groundout_Oswald_Peraza_s_RBI_.mp4
+clip_start_time: 3.960
+clip_end_time: 9.960

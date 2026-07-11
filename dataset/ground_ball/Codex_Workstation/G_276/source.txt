@@ -1,0 +1,7 @@
+video_title: Giancarlo Stanton's RBI groundout Giancarlo Stanton's RBI groundout Giancarlo Stanton's RBI groundout
+video_url: https://bdata-producedclips.mlb.com/3982f0b0-2c94-43cb-843d-f8d5345e0694.mp4
+source_id: MLB_822998_kevin-kelly-in-play-run-s-to-giancarlo-stanton-7zz9lv
+clip_id: MLB_822998_kevin-kelly-in-play-run-s-to-giancarlo-stanton-7zz9lv_auto1_1p700_7p700
+source_path: raw_sources\MLB_822998_kevin-kelly-in-play-run-s-to-giancarlo-stanton-7zz9lv_Giancarlo_Stanton_s_RBI_groundout_Giancarlo_Stanton_s_RBI_groundout_Giancarlo_St.mp4
+clip_start_time: 1.700
+clip_end_time: 7.700
