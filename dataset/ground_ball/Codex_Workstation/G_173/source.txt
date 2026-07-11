@@ -1,0 +1,7 @@
+video_title: Steven Kwan scores on groundout Steven Kwan scores on groundout Steven Kwan scores on groundout Steven Kwan scores on a Bryan Rocchio ground out to give the Guardians the lead in the top of the 7th, 4-3
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/19/e8f6744c-93fcc7ad-2b23f553-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_824276_brayan-rocchio-grounds-out-shortstop-zack-short-to-first-baseman-spen
+clip_id: MLB_824276_brayan-rocchio-grounds-out-shortstop-zack-short-to-first-baseman-spen_head_0p000_6p000
+source_path: raw_sources\MLB_824276_brayan-rocchio-grounds-out-shortstop-zack-short-to-first-baseman-spen_Steven_Kwan_scores_on_groundout_Steven_Kwan_scores_on_groundout_Steven_Kwan_scor.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

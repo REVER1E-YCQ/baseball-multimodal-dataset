@@ -1,0 +1,7 @@
+video_title: Taylor Walls throws out Coby Mayo Taylor Walls throws out Coby Mayo Taylor Walls throws out Coby Mayo Taylor Walls fields Coby Mayo's ground ball and throws to first base for the first out in the top of the 6th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/18/933027f9-f8d822c8-bc867a29-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_822980_coby-mayo-grounds-out-shortstop-taylor-walls-to-first-baseman-jonatha
+clip_id: MLB_822980_coby-mayo-grounds-out-shortstop-taylor-walls-to-first-baseman-jonatha_head_0p000_6p000
+source_path: raw_sources\MLB_822980_coby-mayo-grounds-out-shortstop-taylor-walls-to-first-baseman-jonatha_Taylor_Walls_throws_out_Coby_Mayo_Taylor_Walls_throws_out_Coby_Mayo_Taylor_Walls.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

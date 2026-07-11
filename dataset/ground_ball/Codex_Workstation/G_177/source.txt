@@ -1,0 +1,7 @@
+video_title: Shohei Ohtani's RBI groundout Shohei Ohtani's RBI groundout Shohei Ohtani's RBI groundout
+video_url: https://bdata-producedclips.mlb.com/eacff942-c601-4005-a36f-64c0b4a4298f.mp4
+source_id: MLB_823302_griffin-canning-in-play-run-s-to-shohei-ohtani
+clip_id: MLB_823302_griffin-canning-in-play-run-s-to-shohei-ohtani_head_0p000_6p000
+source_path: raw_sources\MLB_823302_griffin-canning-in-play-run-s-to-shohei-ohtani_Shohei_Ohtani_s_RBI_groundout_Shohei_Ohtani_s_RBI_groundout_Shohei_Ohtani_s_RBI_.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

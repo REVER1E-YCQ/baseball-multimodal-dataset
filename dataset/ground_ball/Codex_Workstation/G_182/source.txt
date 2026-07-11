@@ -1,0 +1,7 @@
+video_title: Ildemaro Vargas grounds out, Tim Tawa scores Ildemaro Vargas grounds out, Tim Tawa scores Ildemaro Vargas grounds out, Tim Tawa scores
+video_url: https://bdata-producedclips.mlb.com/88488c03-8c31-4716-a68c-47d4cf0e850b.mp4
+source_id: MLB_825084_tyler-mahle-in-play-run-s-to-ildemaro-vargas
+clip_id: MLB_825084_tyler-mahle-in-play-run-s-to-ildemaro-vargas_head_0p000_6p000
+source_path: raw_sources\MLB_825084_tyler-mahle-in-play-run-s-to-ildemaro-vargas_Ildemaro_Vargas_grounds_out_Tim_Tawa_scores_Ildemaro_Vargas_grounds_out_Tim_Tawa.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

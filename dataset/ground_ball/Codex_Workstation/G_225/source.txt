@@ -1,0 +1,7 @@
+video_title: The Twins earn a win in the 11th inning! The Twins earn a win in the 11th inning! The Twin earn a win in the 11th inning! Ryan Kreidler fields Randal Grichuk's groundout, securing a 5-3 Twins win in 11 innings
+video_url: https://bdata-producedclips.mlb.com/40b6ff84-31e0-4842-bf34-1b294e8d766d.mp4
+source_id: MLB_824597_randal-grichuk-grounds-out-sharply-shortstop-ryan-kreidler-to-first-b
+clip_id: MLB_824597_randal-grichuk-grounds-out-sharply-shortstop-ryan-kreidler-to-first-b_head_0p000_6p000
+source_path: raw_sources\MLB_824597_randal-grichuk-grounds-out-sharply-shortstop-ryan-kreidler-to-first-b_The_Twins_earn_a_win_in_the_11th_inning_The_Twins_earn_a_win_in_the_11th_inning_.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

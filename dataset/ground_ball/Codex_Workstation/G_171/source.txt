@@ -1,0 +1,7 @@
+video_title: Matt Olson's two-run single Matt Olson's two-run single Matt Olson's two-run single Matt Olson grounds a single to left field, plating Ha-Seong Kim and Ronald Acuña Jr. to extend the Braves lead to 7-4 in the 8th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/19/6adbf31f-6dfef3bc-321a4189-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_823865_calvin-faucher-in-play-run-s-to-matt-olson
+clip_id: MLB_823865_calvin-faucher-in-play-run-s-to-matt-olson_head_0p000_6p000
+source_path: raw_sources\MLB_823865_calvin-faucher-in-play-run-s-to-matt-olson_Matt_Olson_s_two-run_single_Matt_Olson_s_two-run_single_Matt_Olson_s_two-run_sin.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

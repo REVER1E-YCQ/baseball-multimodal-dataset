@@ -1,0 +1,7 @@
+video_title: José Ramírez's RBI groundout José Ramírez's RBI groundout José Ramírez's RBI groundout José Ramírez drives in a run on a groundout to third base, cutting the Nationals' lead to 6-3 in the 9th inning
+video_url: https://bdata-producedclips.mlb.com/54ae232f-772c-4767-a5b3-8a8ce8dfc8ad.mp4
+source_id: MLB_824434_mitchell-parker-in-play-run-s-to-jose-ramirez
+clip_id: MLB_824434_mitchell-parker-in-play-run-s-to-jose-ramirez_head_0p000_6p000
+source_path: raw_sources\MLB_824434_mitchell-parker-in-play-run-s-to-jose-ramirez_Jos_Ram_rez_s_RBI_groundout_Jos_Ram_rez_s_RBI_groundout_Jos_Ram_rez_s_RBI_ground.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

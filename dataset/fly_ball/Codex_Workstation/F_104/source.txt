@@ -1,0 +1,7 @@
+video_title: Ceddanne Rafaela's running grab Ceddanne Rafaela's running grab Ceddanne Rafaela's running grab Ceddanne Rafaela makes a great catch in center field on Michael Harris II's line drive
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/16/72ffbf82-a30ccd67-61faf41b-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_824924_payton-tolle-in-play-out-s-to-michael-harris-ii
+clip_id: MLB_824924_payton-tolle-in-play-out-s-to-michael-harris-ii_head_0p000_7p000
+source_path: raw_sources\MLB_824924_payton-tolle-in-play-out-s-to-michael-harris-ii_Ceddanne_Rafaela_s_running_grab_Ceddanne_Rafaela_s_running_grab_Ceddanne_Rafaela.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

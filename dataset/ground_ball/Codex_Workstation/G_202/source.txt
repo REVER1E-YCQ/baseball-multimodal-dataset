@@ -1,0 +1,7 @@
+video_title: Nick Castellanos scores on groundout Nick Castellanos scores on groundout Nick Castellanos scores on groundout
+video_url: https://bdata-producedclips.mlb.com/e07e5f5c-c98e-412b-b6bc-e172f34c0928.mp4
+source_id: MLB_823300_jose-suarez-in-play-run-s-to-ty-france-x4828
+clip_id: MLB_823300_jose-suarez-in-play-run-s-to-ty-france-x4828_head_0p000_6p000
+source_path: raw_sources\MLB_823300_jose-suarez-in-play-run-s-to-ty-france-x4828_Nick_Castellanos_scores_on_groundout_Nick_Castellanos_scores_on_groundout_Nick_C.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

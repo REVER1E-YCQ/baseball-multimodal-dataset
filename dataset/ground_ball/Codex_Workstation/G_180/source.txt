@@ -1,0 +1,7 @@
+video_title: Andrew Morris pitches the 9th for first MLB save Andrew Morris pitches the 9th for first MLB save Andrew Morris pitches the 9th for first MLB save Andrew Morris pitches in the 9th and induces a groundout to seal the Twins' 4-1 win over the Astros and record his first Major League save
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/20/ab43a883-a08598c2-63ace7d0-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_823703_jake-meyers-grounds-out-shortstop-ryan-kreidler-to-first-baseman-kody
+clip_id: MLB_823703_jake-meyers-grounds-out-shortstop-ryan-kreidler-to-first-baseman-kody_head_0p000_6p000
+source_path: raw_sources\MLB_823703_jake-meyers-grounds-out-shortstop-ryan-kreidler-to-first-baseman-kody_Andrew_Morris_pitches_the_9th_for_first_MLB_save_Andrew_Morris_pitches_the_9th_f.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

@@ -1,0 +1,7 @@
+video_title: Ronald Acuña Jr., Luis García Jr. have funny interaction Ronald Acuña Jr., Luis García Jr. have funny interaction Ronald Acuña Jr., Luis García Jr. have funny interact Ronald Acuña Jr. grounds out to shortstop, but in the process, tries to avoid Luis García Jr.'s tag at first base and have a funny i
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/22/aebab8b8-74d65a87-f2f4f488-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_824922_miles-mikolas-in-play-out-s-to-ronald-acuna-jr-vy8dmp
+clip_id: MLB_824922_miles-mikolas-in-play-out-s-to-ronald-acuna-jr-vy8dmp_head_0p000_6p000
+source_path: raw_sources\MLB_824922_miles-mikolas-in-play-out-s-to-ronald-acuna-jr-vy8dmp_Ronald_Acu_a_Jr._Luis_Garc_a_Jr._have_funny_interaction_Ronald_Acu_a_Jr._Luis_Ga.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

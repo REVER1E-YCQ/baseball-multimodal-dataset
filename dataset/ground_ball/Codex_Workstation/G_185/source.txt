@@ -1,0 +1,7 @@
+video_title: Hogan Harris earns save, secures A's 6-5 win Hogan Harris earns save, secures A's 6-5 win Hogan Harris earns save, secures A's 6-5 win Hogan Harris induces a groundout from Jorge Soler to seal the A's 6-5 victory in extras
+video_url: https://bdata-producedclips.mlb.com/c73d7347-12e7-4e4d-bf45-11473bedd0cb.mp4
+source_id: MLB_824032_hogan-harris-in-play-out-s-to-jorge-soler
+clip_id: MLB_824032_hogan-harris-in-play-out-s-to-jorge-soler_head_0p000_6p000
+source_path: raw_sources\MLB_824032_hogan-harris-in-play-out-s-to-jorge-soler_Hogan_Harris_earns_save_secures_A_s_6-5_win_Hogan_Harris_earns_save_secures_A_s_.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

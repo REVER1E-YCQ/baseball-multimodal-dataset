@@ -1,0 +1,7 @@
+video_title: Jarren Duran's RBI groundout Jarren Duran's RBI groundout Jarren Duran's RBI groundout
+video_url: https://bdata-producedclips.mlb.com/ef8e980e-debf-47db-85ed-2cb4e6483cfd.mp4
+source_id: MLB_824761_connor-prielipp-in-play-run-s-to-jarren-duran
+clip_id: MLB_824761_connor-prielipp-in-play-run-s-to-jarren-duran_head_0p000_6p000
+source_path: raw_sources\MLB_824761_connor-prielipp-in-play-run-s-to-jarren-duran_Jarren_Duran_s_RBI_groundout_Jarren_Duran_s_RBI_groundout_Jarren_Duran_s_RBI_gro.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

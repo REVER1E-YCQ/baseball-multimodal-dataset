@@ -116,10 +116,12 @@ def main() -> int:
     parser.add_argument("--min-confidence", type=float, default=0.70)
     parser.add_argument("--audit", type=Path, default=repo_path("reports", "qwen_label_audit.jsonl"))
     parser.add_argument("--require-audit-pass", action="store_true")
+    parser.add_argument("--accepted-clip-statuses", default="labeled")
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args()
 
     clip_rows = {row["clip_id"]: row for row in read_csv(args.clips_manifest)}
+    accepted_statuses = {item.strip() for item in args.accepted_clip_statuses.split(",") if item.strip()}
     source_rows = {row["source_id"]: row for row in read_csv(args.sources_manifest) if row.get("source_id")}
     records = latest_records(load_jsonl(args.labels)).values()
     audit_passes = load_audit_passes(args.audit)
@@ -139,6 +141,8 @@ def main() -> int:
             continue
         clip_row = clip_rows.get(record.get("clip_id", ""))
         if not clip_row:
+            continue
+        if accepted_statuses and clip_row.get("status") not in accepted_statuses:
             continue
         if clip_row.get("source_id") in already_materialized_sources:
             continue

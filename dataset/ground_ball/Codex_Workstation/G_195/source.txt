@@ -1,0 +1,7 @@
+video_title: Brent Rooker's RBI groundout Brent Rooker's RBI groundout Brent Rooker's RBI groundout
+video_url: https://bdata-producedclips.mlb.com/7c62751b-7832-41fc-871b-fd0d418ff07b.mp4
+source_id: MLB_823298_brent-rooker-grounds-out-third-baseman-manny-machado-to-first-baseman
+clip_id: MLB_823298_brent-rooker-grounds-out-third-baseman-manny-machado-to-first-baseman_head_0p000_6p000
+source_path: raw_sources\MLB_823298_brent-rooker-grounds-out-third-baseman-manny-machado-to-first-baseman_Brent_Rooker_s_RBI_groundout_Brent_Rooker_s_RBI_groundout_Brent_Rooker_s_RBI_gro.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

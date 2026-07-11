@@ -1,0 +1,7 @@
+video_title: Nolan Gorman's spinning throw Nolan Gorman's spinning throw Nolan Gorman's spinning throw Nolan Gorman shows off his defense at third base, fielding a ground ball and makes a spinning throw to first base in time for the out
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/19/ccafb7af-a2dba0c4-2499386e-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_823059_matthew-liberatore-in-play-out-s-to-konnor-griffin
+clip_id: MLB_823059_matthew-liberatore-in-play-out-s-to-konnor-griffin_head_0p000_6p000
+source_path: raw_sources\MLB_823059_matthew-liberatore-in-play-out-s-to-konnor-griffin_Nolan_Gorman_s_spinning_throw_Nolan_Gorman_s_spinning_throw_Nolan_Gorman_s_spinn.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

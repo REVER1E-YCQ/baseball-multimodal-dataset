@@ -1,0 +1,7 @@
+video_title: Josh Naylor's RBI groundout Josh Naylor's RBI groundout Josh Naylor's RBI groundout
+video_url: https://bdata-producedclips.mlb.com/96136fb3-03fa-4b32-be5f-24732f9c091a.mp4
+source_id: MLB_825005_aaron-civale-in-play-run-s-to-josh-naylor
+clip_id: MLB_825005_aaron-civale-in-play-run-s-to-josh-naylor_head_0p000_6p000
+source_path: raw_sources\MLB_825005_aaron-civale-in-play-run-s-to-josh-naylor_Josh_Naylor_s_RBI_groundout_Josh_Naylor_s_RBI_groundout_Josh_Naylor_s_RBI_ground.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

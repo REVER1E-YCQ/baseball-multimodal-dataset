@@ -1,0 +1,7 @@
+video_title: Colt Emerson throws out Cole Young Colt Emerson throws out Cole Young Colt Emerson throws out Cole Young Colt Emerson fields Miguel Vargas' ground ball and throws to second base for the forceout of Cole Young in the top of the 1st
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/18/7f443db3-80082ba5-e9443997-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_823137_miguel-vargas-grounds-into-a-force-out-third-baseman-colt-emerson-to-
+clip_id: MLB_823137_miguel-vargas-grounds-into-a-force-out-third-baseman-colt-emerson-to-_head_0p000_6p000
+source_path: raw_sources\MLB_823137_miguel-vargas-grounds-into-a-force-out-third-baseman-colt-emerson-to-_Colt_Emerson_throws_out_Cole_Young_Colt_Emerson_throws_out_Cole_Young_Colt_Emers.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

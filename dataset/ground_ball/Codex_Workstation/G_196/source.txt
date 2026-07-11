@@ -1,0 +1,7 @@
+video_title: Jesus Rodriguez's RBI groundout Jesus Rodriguez's RBI groundout Jesus Rodriguez's RBI groundout Jesus Rodriguez grounds out to first base, cutting the White Sox's lead to 9-4 in the 6th inning
+video_url: https://bdata-producedclips.mlb.com/70d8a03e-65b0-4771-af36-a38120975884.mp4
+source_id: MLB_823223_davis-martin-in-play-run-s-to-jesus-rodriguez
+clip_id: MLB_823223_davis-martin-in-play-run-s-to-jesus-rodriguez_head_0p000_6p000
+source_path: raw_sources\MLB_823223_davis-martin-in-play-run-s-to-jesus-rodriguez_Jesus_Rodriguez_s_RBI_groundout_Jesus_Rodriguez_s_RBI_groundout_Jesus_Rodriguez_.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000
