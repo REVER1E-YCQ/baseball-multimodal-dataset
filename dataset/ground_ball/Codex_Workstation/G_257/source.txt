@@ -1,0 +1,7 @@
+video_title: Curtis Mead's RBI single Curtis Mead's RBI single Curtis Mead's RBI single Curtis Mead singles on a ground ball to center field, scoring James Wood and extending the Nationals' lead to 5-2 in the bottom of the 6th inning
+video_url: https://bdata-producedclips.mlb.com/df3db0ca-4f16-47ab-a355-fa443054f11f.mp4
+source_id: MLB_822754_curtis-mead-singles-on-a-ground-ball-to-center-fielder-nathan-church-
+clip_id: MLB_822754_curtis-mead-singles-on-a-ground-ball-to-center-fielder-nathan-church-_auto1_1p480_7p480
+source_path: raw_sources\MLB_822754_curtis-mead-singles-on-a-ground-ball-to-center-fielder-nathan-church-_Curtis_Mead_s_RBI_single_Curtis_Mead_s_RBI_single_Curtis_Mead_s_RBI_single_Curti.mp4
+clip_start_time: 1.480
+clip_end_time: 7.480

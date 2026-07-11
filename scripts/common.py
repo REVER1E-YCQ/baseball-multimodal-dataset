@@ -7,6 +7,7 @@ import os
 import re
 import shutil
 import subprocess
+import time
 from pathlib import Path
 from typing import Any
 
@@ -27,11 +28,22 @@ def read_csv(path: Path) -> list[dict[str, str]]:
 
 def write_csv(path: Path, rows: list[dict[str, Any]], fieldnames: list[str]) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
-    with path.open("w", newline="", encoding="utf-8") as fh:
-        writer = csv.DictWriter(fh, fieldnames=fieldnames)
-        writer.writeheader()
-        for row in rows:
-            writer.writerow({name: row.get(name, "") for name in fieldnames})
+    last_error: OSError | None = None
+    for attempt in range(5):
+        try:
+            with path.open("w", newline="", encoding="utf-8") as fh:
+                writer = csv.DictWriter(fh, fieldnames=fieldnames)
+                writer.writeheader()
+                for row in rows:
+                    writer.writerow({name: row.get(name, "") for name in fieldnames})
+            return
+        except OSError as exc:
+            last_error = exc
+            if attempt == 4:
+                break
+            time.sleep(0.25 * (attempt + 1))
+    if last_error:
+        raise last_error
 
 
 def append_jsonl(path: Path, payload: dict[str, Any]) -> None:

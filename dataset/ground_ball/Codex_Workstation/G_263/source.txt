@@ -1,0 +1,7 @@
+video_title: Jose Fernandez's RBI groundout Jose Fernandez's RBI groundout Jose Fernandez's RBI groundout
+video_url: https://bdata-producedclips.mlb.com/ceba3e30-b066-4f7d-9efc-ce25ee3f1871.mp4
+source_id: MLB_823645_luis-garcia-in-play-run-s-to-jose-fernandez
+clip_id: MLB_823645_luis-garcia-in-play-run-s-to-jose-fernandez_auto1_3p500_9p500
+source_path: raw_sources\MLB_823645_luis-garcia-in-play-run-s-to-jose-fernandez_Jose_Fernandez_s_RBI_groundout_Jose_Fernandez_s_RBI_groundout_Jose_Fernandez_s_R.mp4
+clip_start_time: 3.500
+clip_end_time: 9.500

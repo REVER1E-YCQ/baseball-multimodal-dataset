@@ -1,0 +1,7 @@
+﻿video_title: Giants escape jam with groundout  Giants escape jam with groundout  Giants escape jam with groundout
+video_url: https://bdata-producedclips.mlb.com/ae96a542-7cf4-444a-bce6-e8af4e855aa6.mp4
+source_id: MLB_823235_justin-crawford-grounds-out-pitcher-ryan-walker-to-first-baseman-rafa
+clip_id: MLB_823235_justin-crawford-grounds-out-pitcher-ryan-walker-to-first-baseman-rafa_auto1_1p440_7p440
+source_path: raw_sources\MLB_823235_justin-crawford-grounds-out-pitcher-ryan-walker-to-first-baseman-rafa_Giants_escape_jam_with_groundout_Giants_escape_jam_with_groundout_Giants_escape_.mp4
+clip_start_time: 1.440
+clip_end_time: 7.440

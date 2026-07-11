@@ -1,0 +1,7 @@
+video_title: Drake Baldwin's game-tying groundout Drake Baldwin's game-tying groundout Drake Baldwin's game-tying groundout Drake Baldwin's RBI groundout ties the game in the top of the 7th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/05/9fa8c454-d9bc508b-d2b39d25-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_825102_ryan-thompson-in-play-run-s-to-drake-baldwin
+clip_id: MLB_825102_ryan-thompson-in-play-run-s-to-drake-baldwin_auto1_5p200_11p200
+source_path: raw_sources\MLB_825102_ryan-thompson-in-play-run-s-to-drake-baldwin_Drake_Baldwin_s_game-tying_groundout_Drake_Baldwin_s_game-tying_groundout_Drake_.mp4
+clip_start_time: 5.200
+clip_end_time: 11.200

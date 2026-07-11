@@ -1,0 +1,7 @@
+video_title: Angel Zerpa escapes jam in the 7th Angel Zerpa escapes jam in the 7th Angel Zerpa escapes jam in the 7th Angel Zerpa induces a groundout to escape the jam in the bottom of the 7th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/05/7dfa8a04-0051308e-a7f2dab8-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_824131_angel-zerpa-in-play-out-s-to-lane-thomas
+clip_id: MLB_824131_angel-zerpa-in-play-out-s-to-lane-thomas_auto1_2p960_8p960
+source_path: raw_sources\MLB_824131_angel-zerpa-in-play-out-s-to-lane-thomas_Angel_Zerpa_escapes_jam_in_the_7th_Angel_Zerpa_escapes_jam_in_the_7th_Angel_Zerp.mp4
+clip_start_time: 2.960
+clip_end_time: 8.960

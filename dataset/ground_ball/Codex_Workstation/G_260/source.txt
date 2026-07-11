@@ -1,0 +1,7 @@
+video_title: Jonathan India's sliding play Jonathan India's sliding play Jonathan India's sliding play Jonathan India reacts quickly to a hard-hit grounder, slides down to make a slick play, and gets the runner at first in the bottom of the 4th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/08/2ff5efa0-1ec33450-4cd30f1e-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_824455_luinder-avila-in-play-out-s-to-steven-kwan-gxiqoh
+clip_id: MLB_824455_luinder-avila-in-play-out-s-to-steven-kwan-gxiqoh_auto1_0p000_6p000
+source_path: raw_sources\MLB_824455_luinder-avila-in-play-out-s-to-steven-kwan-gxiqoh_Jonathan_India_s_sliding_play_Jonathan_India_s_sliding_play_Jonathan_India_s_sli.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

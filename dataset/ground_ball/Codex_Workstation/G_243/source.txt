@@ -1,0 +1,7 @@
+video_title: Mike Yastrzemski's RBI groundout Mike Yastrzemski's RBI groundout Mike Yastrzemski's RBI groundout
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/02/51c714cb-dfe6bc42-0a2d6f02-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_825105_joe-ross-in-play-run-s-to-mike-yastrzemski-x3661
+clip_id: MLB_825105_joe-ross-in-play-run-s-to-mike-yastrzemski-x3661_auto1_4p340_10p340
+source_path: raw_sources\MLB_825105_joe-ross-in-play-run-s-to-mike-yastrzemski-x3661_Mike_Yastrzemski_s_RBI_groundout_Mike_Yastrzemski_s_RBI_groundout_Mike_Yastrzems.mp4
+clip_start_time: 4.340
+clip_end_time: 10.340

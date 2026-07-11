@@ -15,15 +15,22 @@ The labeling script uses OpenAI-compatible chat completions over standard-librar
 Default models:
 
 ```text
+qwen3-omni-flash-2025-12-01
+qwen3-omni-flash-2025-09-15
+qwen-omni-turbo
+qwen3.5-omni-flash-2026-03-15
+qwen3.5-omni-plus-2026-03-15
 qwen3-omni-flash
 qwen-omni-turbo-latest
 qwen3.5-omni-flash
 qwen3.5-omni-plus
 ```
 
-The default order is quota-conscious: newer flash/turbo models are tried before the nearly capped 3.5 models. Override with `QWEN_MODEL_FALLBACKS` only when you intentionally want a different cost/quality tradeoff.
+The default order is quota-conscious: dated flash/turbo snapshots are tried before aliases that may already be near the local cap. Override with `QWEN_MODEL_FALLBACKS` only when you intentionally want a different cost/quality tradeoff.
 
 The labeling script also enforces a local per-model token cap before and during each run. By default, any model with `local_usage + 10000 >= 800000` total tokens in `reports/qwen_labels.jsonl` is skipped. Override with `QWEN_MODEL_TOKEN_CAP` and `QWEN_MODEL_TOKEN_RESERVE`; set the cap to `0` only when you intentionally want to disable the guard.
+
+If DashScope returns `AllocationQuota.FreeTierOnly`, the script treats that model as quota-blocked for the current run and falls through to the next configured model.
 
 Clips whose `source_id` already exists in `dataset/*/*/*/source.txt` are skipped before model calls. This avoids spending tokens on alternate cuts from a source that cannot be materialized again under the source de-duplication rule.
 

@@ -19,6 +19,10 @@ class AuthError(RuntimeError):
     pass
 
 
+class ModelQuotaError(RuntimeError):
+    pass
+
+
 CLIP_FIELDS = [
     "clip_id",
     "source_id",
@@ -43,7 +47,17 @@ def load_models() -> list[str]:
     cfg_path = repo_path("config", "qwen_models.json")
     if cfg_path.exists():
         return json.loads(cfg_path.read_text(encoding="utf-8"))["fallback_models"]
-    return ["qwen3.5-omni-flash", "qwen3-omni-flash", "qwen-omni-turbo-latest", "qwen3.5-omni-plus"]
+    return [
+        "qwen3-omni-flash-2025-12-01",
+        "qwen3-omni-flash-2025-09-15",
+        "qwen-omni-turbo",
+        "qwen3.5-omni-flash-2026-03-15",
+        "qwen3.5-omni-plus-2026-03-15",
+        "qwen3-omni-flash",
+        "qwen-omni-turbo-latest",
+        "qwen3.5-omni-flash",
+        "qwen3.5-omni-plus",
+    ]
 
 
 def usage_total_tokens(usage: dict[str, Any]) -> int:
@@ -189,7 +203,7 @@ def call_qwen(model: str, clip_path: Path, prompt: str, base_url: str, api_key: 
         "stream_options": {"include_usage": True},
         "temperature": 0,
     }
-    if model == "qwen3-omni-flash":
+    if model.startswith("qwen3-omni-flash"):
         body["enable_thinking"] = False
 
     endpoint = base_url.rstrip("/") + "/chat/completions"
@@ -211,6 +225,8 @@ def call_qwen(model: str, clip_path: Path, prompt: str, base_url: str, api_key: 
         detail = exc.read().decode("utf-8", errors="replace")
         if exc.code in {401, 403} or "invalid_api_key" in detail or "Incorrect API key" in detail:
             raise AuthError(f"HTTP {exc.code}: authentication failed; check QWEN_API_KEY/DASHSCOPE_API_KEY")
+        if "AllocationQuota.FreeTierOnly" in detail or "free quota has been exhausted" in detail:
+            raise ModelQuotaError(f"{model}: free quota exhausted or billing mode blocks this model")
         raise RuntimeError(f"HTTP {exc.code}: {detail[:800]}") from exc
 
     with response:
@@ -267,7 +283,12 @@ def main() -> int:
     reserve = model_token_reserve()
     usage_totals = model_usage_totals(args.output)
     announced_skips: set[str] = set()
-    models = filter_models_by_usage(all_models, usage_totals, cap, reserve, announced_skips)
+    quota_blocked: set[str] = set()
+    models = [
+        model
+        for model in filter_models_by_usage(all_models, usage_totals, cap, reserve, announced_skips)
+        if model not in quota_blocked
+    ]
 
     if args.dry_run:
         if skipped_materialized:
@@ -281,7 +302,11 @@ def main() -> int:
 
     row_by_clip = {row["clip_id"]: row for row in rows}
     for row in pending:
-        models = filter_models_by_usage(all_models, usage_totals, cap, reserve, announced_skips)
+        models = [
+            model
+            for model in filter_models_by_usage(all_models, usage_totals, cap, reserve, announced_skips)
+            if model not in quota_blocked
+        ]
         if not models:
             print("No Qwen models are below QWEN_MODEL_TOKEN_CAP; stopping before the next clip.")
             break
@@ -304,6 +329,11 @@ def main() -> int:
                 last_error = str(exc)
                 print(last_error)
                 return 2
+            except ModelQuotaError as exc:
+                last_error = str(exc)
+                quota_blocked.add(model)
+                print(last_error)
+                continue
             except Exception as exc:
                 last_error = f"{type(exc).__name__}: {exc}"
                 continue
