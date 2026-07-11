@@ -1,0 +1,7 @@
+video_title: Vladimir Guerrero Jr. secures Blue Jays' win Vladimir Guerrero Jr. secures Blue Jays' win Vladimir Guerrero Jr. secures Blue Jays' win Vladimir Guerrero Jr. fields Jackson Holliday's groundout for the Blue Jays' 2-1 win
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/28/2609cf74-2cb57a35-67d4a178-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_824834_louis-varland-in-play-out-s-to-jackson-holliday
+clip_id: MLB_824834_louis-varland-in-play-out-s-to-jackson-holliday_head_0p000_6p000
+source_path: raw_sources\MLB_824834_louis-varland-in-play-out-s-to-jackson-holliday_Vladimir_Guerrero_Jr._secures_Blue_Jays_win_Vladimir_Guerrero_Jr._secures_Blue_J.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

@@ -1,9 +1,11 @@
 from __future__ import annotations
 
 import argparse
+import os
 import shutil
 import subprocess
 import urllib.parse
+import urllib.error
 import urllib.request
 from pathlib import Path
 
@@ -53,12 +55,20 @@ def download_one(row: dict[str, str], output_dir: Path, dry_run: bool) -> dict[s
     output_dir.mkdir(parents=True, exist_ok=True)
     if direct_media:
         media = output_dir / f"{source_id}_{title}{suffix}"
+        part = media.with_suffix(media.suffix + ".part")
         req = urllib.request.Request(url, headers={"User-Agent": "baseball-dataset-research/0.1"})
-        with urllib.request.urlopen(req, timeout=60) as response, media.open("wb") as fh:
-            shutil.copyfileobj(response, fh)
-        row["status"] = "downloaded"
-        row["local_path"] = str(media.relative_to(repo_path()))
-        row["source_hash"] = sha256_file(media)
+        try:
+            with urllib.request.urlopen(req, timeout=60) as response, part.open("wb") as fh:
+                shutil.copyfileobj(response, fh)
+            os.replace(part, media)
+            row["status"] = "downloaded"
+            row["local_path"] = str(media.relative_to(repo_path()))
+            row["source_hash"] = sha256_file(media)
+            row["notes"] = row.get("notes", "")
+        except (OSError, urllib.error.URLError) as exc:
+            part.unlink(missing_ok=True)
+            row["status"] = "download_failed"
+            row["notes"] = f"{type(exc).__name__}: {str(exc)[:450]}"
         return row
 
     if not shutil.which("yt-dlp"):
@@ -99,6 +109,7 @@ def main() -> int:
     parser = argparse.ArgumentParser(description="Download source videos listed in sources_manifest.csv.")
     parser.add_argument("--manifest", type=Path, default=repo_path("manifests", "sources_manifest.csv"))
     parser.add_argument("--output-dir", type=Path, default=repo_path("raw_sources"))
+    parser.add_argument("--limit", type=int, default=0)
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args()
 
@@ -112,15 +123,17 @@ def main() -> int:
         print(f"Dry run checked {len(rows)} rows; manifest not modified")
         return 0
 
-    updated = []
+    processed = 0
     for row in rows:
         if row.get("status") == "downloaded" and row.get("local_path"):
-            updated.append(row)
             continue
-        updated.append(download_one(row, args.output_dir, args.dry_run))
+        download_one(row, args.output_dir, args.dry_run)
+        processed += 1
+        write_csv(args.manifest, rows, FIELDS)
+        if args.limit and processed >= args.limit:
+            break
 
-    write_csv(args.manifest, updated, FIELDS)
-    print(f"Updated {args.manifest} ({len(updated)} rows)")
+    print(f"Updated {args.manifest} ({len(rows)} rows; processed={processed})")
     return 0
 
 

@@ -115,6 +115,20 @@ def filter_models_by_usage(
     return available
 
 
+def materialized_source_ids(dataset_root: Path = repo_path("dataset")) -> set[str]:
+    source_ids: set[str] = set()
+    for source_file in dataset_root.glob("*/*/*/source.txt"):
+        try:
+            for line in source_file.read_text(encoding="utf-8").splitlines():
+                if line.startswith("source_id:"):
+                    source_id = line.split(":", 1)[1].strip()
+                    if source_id:
+                        source_ids.add(source_id)
+        except OSError:
+            continue
+    return source_ids
+
+
 def data_url(path: Path) -> str:
     mime = mimetypes.guess_type(path.name)[0] or "video/mp4"
     encoded = base64.b64encode(path.read_bytes()).decode("ascii")
@@ -232,7 +246,16 @@ def main() -> int:
 
     rows = read_csv(args.clips_manifest)
     wanted_statuses = {item.strip() for item in args.statuses.split(",") if item.strip()}
-    pending = [r for r in rows if r.get("status") in wanted_statuses or (not r.get("status") and "" in wanted_statuses)]
+    materialized_sources = materialized_source_ids()
+    skipped_materialized = 0
+    pending = []
+    for row in rows:
+        if not (row.get("status") in wanted_statuses or (not row.get("status") and "" in wanted_statuses)):
+            continue
+        if row.get("source_id") in materialized_sources:
+            skipped_materialized += 1
+            continue
+        pending.append(row)
     if args.limit:
         pending = pending[: args.limit]
 
@@ -247,6 +270,8 @@ def main() -> int:
     models = filter_models_by_usage(all_models, usage_totals, cap, reserve, announced_skips)
 
     if args.dry_run:
+        if skipped_materialized:
+            print(f"Skipped {skipped_materialized} clips whose source_id is already materialized.")
         print(f"Would label {len(pending)} clips with models: {', '.join(models)}")
         return 0
     if not api_key:

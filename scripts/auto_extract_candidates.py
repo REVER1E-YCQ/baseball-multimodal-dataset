@@ -96,6 +96,20 @@ def selected_sources(rows: list[dict[str, str]], statuses: set[str], labels: set
     return selected
 
 
+def materialized_source_ids(dataset_root: Path = repo_path("dataset")) -> set[str]:
+    source_ids: set[str] = set()
+    for source_file in dataset_root.glob("*/*/*/source.txt"):
+        try:
+            for line in source_file.read_text(encoding="utf-8").splitlines():
+                if line.startswith("source_id:"):
+                    source_id = line.split(":", 1)[1].strip()
+                    if source_id:
+                        source_ids.add(source_id)
+        except OSError:
+            continue
+    return source_ids
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description="Cut candidate clips around likely audio contact peaks.")
     parser.add_argument("--sources-manifest", type=Path, default=repo_path("manifests", "sources_manifest.csv"))
@@ -115,9 +129,11 @@ def main() -> int:
     source_rows = read_csv(args.sources_manifest)
     clip_rows = read_csv(args.clips_manifest)
     existing_ids = {row.get("clip_id") for row in clip_rows}
+    existing_source_ids = {row.get("source_id") for row in clip_rows if row.get("source_id")}
+    existing_source_ids.update(materialized_source_ids())
     statuses = {item.strip() for item in args.statuses.split(",") if item.strip()}
     labels = {item.strip() for item in args.labels.split(",") if item.strip()}
-    sources = selected_sources(source_rows, statuses, labels)
+    sources = [row for row in selected_sources(source_rows, statuses, labels) if row.get("source_id") not in existing_source_ids]
     if args.limit:
         sources = sources[: args.limit]
 
@@ -176,4 +192,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-

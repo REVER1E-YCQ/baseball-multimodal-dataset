@@ -1,0 +1,7 @@
+video_title: Josh Jung's smooth stop seals the Rangers win Josh Jung's smooth stop seals the Rangers win Josh Jung's smooth stop seals the Rangers win Josh Jung makes a smooth stop on a hard-hit ground ball and fires to first for the final out, sealing the Rangers win
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/26/a87cae91-88bf432b-caf402e4-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_822898_yordan-alvarez-grounds-out-third-baseman-josh-jung-to-first-baseman-j
+clip_id: MLB_822898_yordan-alvarez-grounds-out-third-baseman-josh-jung-to-first-baseman-j_head_0p000_6p000
+source_path: raw_sources\MLB_822898_yordan-alvarez-grounds-out-third-baseman-josh-jung-to-first-baseman-j_Josh_Jung_s_smooth_stop_seals_the_Rangers_win_Josh_Jung_s_smooth_stop_seals_the_.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

@@ -1,0 +1,7 @@
+video_title: Ryan Kreidler's RBI groundout puts Twins on the board Ryan Kreidler's RBI groundout puts Twins on the board Ryan Kreidler's RBI groundout puts Twins on the board
+video_url: https://bdata-producedclips.mlb.com/0e6a2de0-5da9-48a4-98ef-cfdd04d7ff74.mp4
+source_id: MLB_824595_davis-martin-in-play-run-s-to-ryan-kreidler
+clip_id: MLB_824595_davis-martin-in-play-run-s-to-ryan-kreidler_head_0p000_6p000
+source_path: raw_sources\MLB_824595_davis-martin-in-play-run-s-to-ryan-kreidler_Ryan_Kreidler_s_RBI_groundout_puts_Twins_on_the_board_Ryan_Kreidler_s_RBI_ground.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

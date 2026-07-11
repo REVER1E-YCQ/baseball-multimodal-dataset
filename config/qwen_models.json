@@ -2,9 +2,9 @@
   "base_url_env": "QWEN_BASE_URL",
   "api_key_env_order": ["QWEN_API_KEY", "DASHSCOPE_API_KEY"],
   "fallback_models": [
-    "qwen3.5-omni-flash",
     "qwen3-omni-flash",
     "qwen-omni-turbo-latest",
+    "qwen3.5-omni-flash",
     "qwen3.5-omni-plus"
   ],
   "notes": [
