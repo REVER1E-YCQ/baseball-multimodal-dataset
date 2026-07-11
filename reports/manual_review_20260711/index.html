@@ -1,0 +1,310 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Manual audio review</title>
+  <style>
+    :root {
+      color-scheme: light;
+      font-family: Arial, Helvetica, sans-serif;
+      background: #f6f7f9;
+      color: #18202a;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      padding: 24px;
+    }
+    main {
+      max-width: 1340px;
+      margin: 0 auto;
+    }
+    h1 {
+      margin: 0 0 8px;
+      font-size: 28px;
+      line-height: 1.2;
+    }
+    .summary {
+      margin: 0 0 20px;
+      color: #536173;
+      font-size: 14px;
+    }
+    .sample {
+      background: #ffffff;
+      border: 1px solid #d9dee7;
+      border-radius: 8px;
+      padding: 16px;
+      margin: 0 0 18px;
+    }
+    header {
+      display: flex;
+      align-items: start;
+      justify-content: space-between;
+      gap: 16px;
+      margin-bottom: 10px;
+    }
+    h2 {
+      margin: 0 0 4px;
+      font-size: 20px;
+    }
+    .meta, .source {
+      color: #4d5b69;
+      font-size: 13px;
+      line-height: 1.45;
+    }
+    .meta { margin: 0; }
+    .source {
+      border-top: 1px solid #edf0f4;
+      padding-top: 10px;
+      margin-bottom: 12px;
+      overflow-wrap: anywhere;
+    }
+    .audio-link {
+      flex: 0 0 auto;
+      color: #0f5f99;
+      font-size: 13px;
+      text-decoration: none;
+    }
+    .audio-link:hover { text-decoration: underline; }
+    .media-grid {
+      display: grid;
+      grid-template-columns: minmax(320px, 0.95fr) minmax(360px, 1.05fr);
+      gap: 14px;
+      align-items: start;
+    }
+    video, img {
+      display: block;
+      width: 100%;
+      max-width: 100%;
+      border: 1px solid #cfd6df;
+      border-radius: 6px;
+      background: #111820;
+    }
+    audio {
+      display: block;
+      width: 100%;
+      margin: 0 0 10px;
+    }
+    @media (max-width: 920px) {
+      body { padding: 14px; }
+      .media-grid { grid-template-columns: 1fr; }
+      header { display: block; }
+      .audio-link { display: inline-block; margin-top: 8px; }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Manual audio review</h1>
+    <p class="summary">Each sample includes video, direct audio controls, and an ffmpeg-generated spectrogram from audio.wav.</p>
+
+      <section class="sample" id="G_003">
+        <header>
+          <div>
+            <h2>G_003</h2>
+            <p class="meta">ground_ball | sample_id: G_003 | label: ground_ball | region: 1 | strength: medium | bounce: yes | event_start: 3.400 | event_end: 3.500</p>
+          </div>
+          <a class="audio-link" href="file:///C:/Users/chaim/Documents/baseball%20dataset/dataset/ground_ball/Codex_Workstation/G_003/audio.wav">Open audio file</a>
+        </header>
+        <div class="source">
+          <div><strong>source_id</strong>: MLB_824335_javier-sanoja-grounds-out-third-baseman-kyle-karros-to-first-baseman-</div>
+          <div><strong>clip_id</strong>: MLB_824335_javier-sanoja-grounds-out-third-baseman-kyle-karros-to-first-baseman-_head_0p000_6p000</div>
+          <div><strong>title</strong>: Kyle Karros&#x27; strong throw from third Kyle Karros&#x27; strong throw from third Kyle Karros&#x27; strong throw from third Kyle Karros handles the grounder at third and makes the strong throw from third base in the top of the 8th inning</div>
+        </div>
+        <div class="media-grid">
+          <video controls preload="metadata" src="file:///C:/Users/chaim/Documents/baseball%20dataset/dataset/ground_ball/Codex_Workstation/G_003/video.mp4"></video>
+          <div class="audio-panel">
+            <audio controls preload="metadata" src="file:///C:/Users/chaim/Documents/baseball%20dataset/dataset/ground_ball/Codex_Workstation/G_003/audio.wav"></audio>
+            <img src="file:///C:/Users/chaim/Documents/baseball%20dataset/reports/manual_review_20260711/spectrograms/G_003.png" alt="Spectrogram for G_003">
+          </div>
+        </div>
+      </section>
+
+
+      <section class="sample" id="G_007">
+        <header>
+          <div>
+            <h2>G_007</h2>
+            <p class="meta">ground_ball | sample_id: G_007 | label: ground_ball | region: 3 | strength: medium | bounce: yes | event_start: 0.900 | event_end: 1.000</p>
+          </div>
+          <a class="audio-link" href="file:///C:/Users/chaim/Documents/baseball%20dataset/dataset/ground_ball/Codex_Workstation/G_007/audio.wav">Open audio file</a>
+        </header>
+        <div class="source">
+          <div><strong>source_id</strong>: MLB_824415_grant-taylor-in-play-out-s-to-david-fry</div>
+          <div><strong>clip_id</strong>: MLB_824415_grant-taylor-in-play-out-s-to-david-fry_head_0p000_6p000</div>
+          <div><strong>title</strong>: Grant Taylor seals save, 3-1 victory Grant Taylor seals save, 3-1 victory Grant Taylor seals save, 3-1 victory Grant Taylor induces a ground ball to third base, sealing the save and securing the 3-1 victory over the Guardians</div>
+        </div>
+        <div class="media-grid">
+          <video controls preload="metadata" src="file:///C:/Users/chaim/Documents/baseball%20dataset/dataset/ground_ball/Codex_Workstation/G_007/video.mp4"></video>
+          <div class="audio-panel">
+            <audio controls preload="metadata" src="file:///C:/Users/chaim/Documents/baseball%20dataset/dataset/ground_ball/Codex_Workstation/G_007/audio.wav"></audio>
+            <img src="file:///C:/Users/chaim/Documents/baseball%20dataset/reports/manual_review_20260711/spectrograms/G_007.png" alt="Spectrogram for G_007">
+          </div>
+        </div>
+      </section>
+
+
+      <section class="sample" id="G_015">
+        <header>
+          <div>
+            <h2>G_015</h2>
+            <p class="meta">ground_ball | sample_id: G_015 | label: ground_ball | region: 4 | strength: low | bounce: yes | event_start: 2.580 | event_end: 2.680</p>
+          </div>
+          <a class="audio-link" href="file:///C:/Users/chaim/Documents/baseball%20dataset/dataset/ground_ball/Codex_Workstation/G_015/audio.wav">Open audio file</a>
+        </header>
+        <div class="source">
+          <div><strong>source_id</strong>: MLB_823279_jackson-merrill-s-rbi-ground-out</div>
+          <div><strong>clip_id</strong>: MLB_823279_jackson-merrill-s-rbi-ground-out_head_0p000_6p000</div>
+          <div><strong>title</strong>: Jackson Merrill drives in Song on an RBI groundout Jackson Merrill drives in Song on an RBI groundout Jackson Merrill drives in Song on an RBI groundout Jackson Merrill drives in Sung-Mun Song on a ground ball to left, getting the Padres on the board in the 3rd inning</div>
+        </div>
+        <div class="media-grid">
+          <video controls preload="metadata" src="file:///C:/Users/chaim/Documents/baseball%20dataset/dataset/ground_ball/Codex_Workstation/G_015/video.mp4"></video>
+          <div class="audio-panel">
+            <audio controls preload="metadata" src="file:///C:/Users/chaim/Documents/baseball%20dataset/dataset/ground_ball/Codex_Workstation/G_015/audio.wav"></audio>
+            <img src="file:///C:/Users/chaim/Documents/baseball%20dataset/reports/manual_review_20260711/spectrograms/G_015.png" alt="Spectrogram for G_015">
+          </div>
+        </div>
+      </section>
+
+
+      <section class="sample" id="G_055">
+        <header>
+          <div>
+            <h2>G_055</h2>
+            <p class="meta">ground_ball | sample_id: G_055 | label: ground_ball | region: 1 | strength: low | bounce: yes | event_start: 1.140 | event_end: 1.240</p>
+          </div>
+          <a class="audio-link" href="file:///C:/Users/chaim/Documents/baseball%20dataset/dataset/ground_ball/Codex_Workstation/G_055/audio.wav">Open audio file</a>
+        </header>
+        <div class="source">
+          <div><strong>source_id</strong>: MLB_823214_brad-lord-takes-awkward-fall-stays-in-game</div>
+          <div><strong>clip_id</strong>: MLB_823214_brad-lord-takes-awkward-fall-stays-in-game_head_0p000_6p000</div>
+          <div><strong>title</strong>: Brad Lord takes awkward fall, stays in game Brad Lord takes awkward fall, stays in game Brad Lord takes awkward fall, stays in game Brad Lord stays in the game after taking an awkward fall while fielding a grounder in the 6th inning</div>
+        </div>
+        <div class="media-grid">
+          <video controls preload="metadata" src="file:///C:/Users/chaim/Documents/baseball%20dataset/dataset/ground_ball/Codex_Workstation/G_055/video.mp4"></video>
+          <div class="audio-panel">
+            <audio controls preload="metadata" src="file:///C:/Users/chaim/Documents/baseball%20dataset/dataset/ground_ball/Codex_Workstation/G_055/audio.wav"></audio>
+            <img src="file:///C:/Users/chaim/Documents/baseball%20dataset/reports/manual_review_20260711/spectrograms/G_055.png" alt="Spectrogram for G_055">
+          </div>
+        </div>
+      </section>
+
+
+      <section class="sample" id="F_004">
+        <header>
+          <div>
+            <h2>F_004</h2>
+            <p class="meta">fly_ball | sample_id: F_004 | label: fly_ball | landing_zone: 8 | strength: medium | trajectory_type: line_drive | event_start: 2.640 | event_end: 2.740</p>
+          </div>
+          <a class="audio-link" href="file:///C:/Users/chaim/Documents/baseball%20dataset/dataset/fly_ball/Codex_Workstation/F_004/audio.wav">Open audio file</a>
+        </header>
+        <div class="source">
+          <div><strong>source_id</strong>: MLB_824658_pete-crow-armstrong-singles-in-the-8th-inning</div>
+          <div><strong>clip_id</strong>: MLB_824658_pete-crow-armstrong-singles-in-the-8th-inning_head_0p000_7p000</div>
+          <div><strong>title</strong>: Pete Crow-Armstrong singles in the 8th inning Pete Crow-Armstrong singles in the 8th inning Pete Crow-Armstrong singles in the 8th inning Pete Crow-Armstrong singles on a fly ball to center field in the 8th inning</div>
+        </div>
+        <div class="media-grid">
+          <video controls preload="metadata" src="file:///C:/Users/chaim/Documents/baseball%20dataset/dataset/fly_ball/Codex_Workstation/F_004/video.mp4"></video>
+          <div class="audio-panel">
+            <audio controls preload="metadata" src="file:///C:/Users/chaim/Documents/baseball%20dataset/dataset/fly_ball/Codex_Workstation/F_004/audio.wav"></audio>
+            <img src="file:///C:/Users/chaim/Documents/baseball%20dataset/reports/manual_review_20260711/spectrograms/F_004.png" alt="Spectrogram for F_004">
+          </div>
+        </div>
+      </section>
+
+
+      <section class="sample" id="F_007">
+        <header>
+          <div>
+            <h2>F_007</h2>
+            <p class="meta">fly_ball | sample_id: F_007 | label: fly_ball | landing_zone: 8 | strength: medium | trajectory_type: line_drive | event_start: 1.070 | event_end: 1.170</p>
+          </div>
+          <a class="audio-link" href="file:///C:/Users/chaim/Documents/baseball%20dataset/dataset/fly_ball/Codex_Workstation/F_007/audio.wav">Open audio file</a>
+        </header>
+        <div class="source">
+          <div><strong>source_id</strong>: MLB_824413_shawn-armstrong-in-play-out-s-to-tristan-peters</div>
+          <div><strong>clip_id</strong>: MLB_824413_shawn-armstrong-in-play-out-s-to-tristan-peters_head_0p000_7p000</div>
+          <div><strong>title</strong>: Kahlil Watson&#x27;s diving grab Kahlil Watson&#x27;s diving grab Kahlil Watson&#x27;s diving grab Kahlil Watson runs down Tristan Peters&#x27; fly ball and makes the diving grab in the top of the 8th inning</div>
+        </div>
+        <div class="media-grid">
+          <video controls preload="metadata" src="file:///C:/Users/chaim/Documents/baseball%20dataset/dataset/fly_ball/Codex_Workstation/F_007/video.mp4"></video>
+          <div class="audio-panel">
+            <audio controls preload="metadata" src="file:///C:/Users/chaim/Documents/baseball%20dataset/dataset/fly_ball/Codex_Workstation/F_007/audio.wav"></audio>
+            <img src="file:///C:/Users/chaim/Documents/baseball%20dataset/reports/manual_review_20260711/spectrograms/F_007.png" alt="Spectrogram for F_007">
+          </div>
+        </div>
+      </section>
+
+
+      <section class="sample" id="F_020">
+        <header>
+          <div>
+            <h2>F_020</h2>
+            <p class="meta">fly_ball | sample_id: F_020 | label: fly_ball | landing_zone: 9 | strength: high | trajectory_type: line_drive | event_start: 0.780 | event_end: 0.880</p>
+          </div>
+          <a class="audio-link" href="file:///C:/Users/chaim/Documents/baseball%20dataset/dataset/fly_ball/Codex_Workstation/F_020/audio.wav">Open audio file</a>
+        </header>
+        <div class="source">
+          <div><strong>source_id</strong>: MLB_824343_juan-mejia-in-play-run-s-to-jake-mangum</div>
+          <div><strong>clip_id</strong>: MLB_824343_juan-mejia-in-play-run-s-to-jake-mangum_head_0p000_7p000</div>
+          <div><strong>title</strong>: Jake Mangum&#x27;s RBI double Jake Mangum&#x27;s RBI double Jake Mangum&#x27;s RBI double Jake Mangum doubles on a line drive to right scoring Tyler Callihan, increasing the Pirates&#x27; lead to 5-1 over the Rockies in the top of the 6th inning</div>
+        </div>
+        <div class="media-grid">
+          <video controls preload="metadata" src="file:///C:/Users/chaim/Documents/baseball%20dataset/dataset/fly_ball/Codex_Workstation/F_020/video.mp4"></video>
+          <div class="audio-panel">
+            <audio controls preload="metadata" src="file:///C:/Users/chaim/Documents/baseball%20dataset/dataset/fly_ball/Codex_Workstation/F_020/audio.wav"></audio>
+            <img src="file:///C:/Users/chaim/Documents/baseball%20dataset/reports/manual_review_20260711/spectrograms/F_020.png" alt="Spectrogram for F_020">
+          </div>
+        </div>
+      </section>
+
+
+      <section class="sample" id="F_033">
+        <header>
+          <div>
+            <h2>F_033</h2>
+            <p class="meta">fly_ball | sample_id: F_033 | label: fly_ball | landing_zone: 7 | strength: medium | trajectory_type: line_drive | event_start: 1.720 | event_end: 1.820</p>
+          </div>
+          <a class="audio-link" href="file:///C:/Users/chaim/Documents/baseball%20dataset/dataset/fly_ball/Codex_Workstation/F_033/audio.wav">Open audio file</a>
+        </header>
+        <div class="source">
+          <div><strong>source_id</strong>: MLB_824014_walbert-urena-in-play-run-s-to-shea-langeliers</div>
+          <div><strong>clip_id</strong>: MLB_824014_walbert-urena-in-play-run-s-to-shea-langeliers_head_0p000_7p000</div>
+          <div><strong>title</strong>: Shea Langeliers&#x27; RBI single Shea Langeliers&#x27; RBI single Shea Langeliers&#x27; RBI single Shea Langeliers hits a single on a line drive to left field scoring Nick Kurtz, extending the A&#x27;s lead to 7-1 in the top of the 5th inning</div>
+        </div>
+        <div class="media-grid">
+          <video controls preload="metadata" src="file:///C:/Users/chaim/Documents/baseball%20dataset/dataset/fly_ball/Codex_Workstation/F_033/video.mp4"></video>
+          <div class="audio-panel">
+            <audio controls preload="metadata" src="file:///C:/Users/chaim/Documents/baseball%20dataset/dataset/fly_ball/Codex_Workstation/F_033/audio.wav"></audio>
+            <img src="file:///C:/Users/chaim/Documents/baseball%20dataset/reports/manual_review_20260711/spectrograms/F_033.png" alt="Spectrogram for F_033">
+          </div>
+        </div>
+      </section>
+
+
+      <section class="sample" id="F_044">
+        <header>
+          <div>
+            <h2>F_044</h2>
+            <p class="meta">fly_ball | sample_id: F_044 | label: fly_ball | landing_zone: 8 | strength: high | trajectory_type: line_drive | event_start: 3.360 | event_end: 3.460</p>
+          </div>
+          <a class="audio-link" href="file:///C:/Users/chaim/Documents/baseball%20dataset/dataset/fly_ball/Codex_Workstation/F_044/audio.wav">Open audio file</a>
+        </header>
+        <div class="source">
+          <div><strong>source_id</strong>: MLB_823542_slade-cecconi-in-play-run-s-to-jazz-chisholm-jr</div>
+          <div><strong>clip_id</strong>: MLB_823542_slade-cecconi-in-play-run-s-to-jazz-chisholm-jr_head_0p000_7p000</div>
+          <div><strong>title</strong>: Jazz Chisholm Jr.&#x27;s sac fly Jazz Chisholm Jr.&#x27;s sac fly Jazz Chisholm Jr.&#x27;s sac fly Jazz Chisholm Jr. hits a fly ball to left field deep enough for Paul Goldschmidt to tag up and score to put the Yankees on the board in the 4th</div>
+        </div>
+        <div class="media-grid">
+          <video controls preload="metadata" src="file:///C:/Users/chaim/Documents/baseball%20dataset/dataset/fly_ball/Codex_Workstation/F_044/video.mp4"></video>
+          <div class="audio-panel">
+            <audio controls preload="metadata" src="file:///C:/Users/chaim/Documents/baseball%20dataset/dataset/fly_ball/Codex_Workstation/F_044/audio.wav"></audio>
+            <img src="file:///C:/Users/chaim/Documents/baseball%20dataset/reports/manual_review_20260711/spectrograms/F_044.png" alt="Spectrogram for F_044">
+          </div>
+        </div>
+      </section>
+
+  </main>
+</body>
+</html>
