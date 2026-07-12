@@ -38,6 +38,9 @@ def audit_record(
 
     if record.get("error"):
         errors.append(f"model_error={record['error']}")
+    if record.get("event_refinement_review"):
+        reason = (record.get("event_refinement_review") or {}).get("reason", "event_refinement_review")
+        errors.append(f"event_refinement_review={reason}")
     if label not in {"ground_ball", "fly_ball"}:
         errors.append(f"not_accepted_label={label}")
     if confidence < min_confidence:

@@ -1,0 +1,11 @@
+{
+  "checked": 403,
+  "changed_samples": 4,
+  "needs_review_samples": 339,
+  "changed_sample_ids": [
+    "G_006",
+    "G_009",
+    "G_012",
+    "G_016"
+  ]
+}

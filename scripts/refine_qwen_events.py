@@ -80,6 +80,17 @@ def refine_record(record: dict[str, Any], clip_row: dict[str, str], args: argpar
     event_start = float(payload.get("event_start") or 0.0)
     event_end = float(payload.get("event_end") or 0.0)
     peak = peak_near_event(samples, sample_rate, event_start, event_end, args.search_margin, args.window_ms)
+    original_mid = (event_start + event_end) / 2.0
+    if args.max_shift > 0 and abs(peak - original_mid) > args.max_shift:
+        refined["event_refinement_review"] = {
+            "reason": "audio_peak_shift_exceeds_limit",
+            "method": "audio_peak_near_qwen_interval",
+            "original_event_start": event_start,
+            "original_event_end": event_end,
+            "peak_time": round(peak, 3),
+            "max_shift": args.max_shift,
+        }
+        return refined
     half_width = args.event_width / 2.0
     duration = len(samples) / sample_rate
     new_start = max(0.0, peak - half_width)
@@ -107,6 +118,12 @@ def main() -> int:
     parser.add_argument("--search-margin", type=float, default=0.750)
     parser.add_argument("--event-width", type=float, default=0.100)
     parser.add_argument("--window-ms", type=float, default=20.0)
+    parser.add_argument(
+        "--max-shift",
+        type=float,
+        default=0.350,
+        help="Do not rewrite event timing when the selected audio peak is this many seconds from the original event midpoint. Use 0 to disable.",
+    )
     args = parser.parse_args()
 
     clip_rows = {row["clip_id"]: row for row in read_csv(args.clips_manifest)}
@@ -132,4 +149,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-

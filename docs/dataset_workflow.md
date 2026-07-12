@@ -26,6 +26,15 @@ Ground ball CSV:
 sample_id,label,region,strength,bounce,event_start,event_end
 ```
 
+Ground ball `region` uses the home-plate viewpoint facing second base/outfield. Divide the infield with three rays from home plate: to the midpoint between third base and second base, to second base, and to the midpoint between first base and second base. From left to right:
+
+- `1`: third-base line to the third/second midpoint boundary.
+- `2`: third/second midpoint boundary to the home-to-second boundary.
+- `3`: home-to-second boundary to the first/second midpoint boundary.
+- `4`: first/second midpoint boundary to the first-base line.
+
+`bounce` should not be inferred from `ground_ball` alone. Mark `bounce=yes` only when the ball is at or below the receiving fielder's knee height when fielded. Mark `bounce=no` when the receiving height is above the fielder's knee. Send unclear receiving-height cases to manual review.
+
 Fly ball CSV:
 
 ```csv
