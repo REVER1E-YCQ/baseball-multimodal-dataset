@@ -33,6 +33,14 @@ Ground ball `region` uses the home-plate viewpoint facing second base/outfield. 
 - `3`: home-to-second boundary to the first/second midpoint boundary.
 - `4`: first/second midpoint boundary to the first-base line.
 
+If the ball path is near a boundary, near the middle line, or hard to separate from camera angle,
+use the fielder who actually fields or clearly attempts the play as the tie-breaker:
+
+- `1`: third baseman or third-base-line play.
+- `2`: shortstop or left-of-second infield play.
+- `3`: second baseman or right-of-second infield play.
+- `4`: first baseman or first-base-line play.
+
 `bounce` should not be inferred from `ground_ball` alone. Mark `bounce=yes` only when the ball is at or below the receiving fielder's knee height when fielded. Mark `bounce=no` when the receiving height is above the fielder's knee. Send unclear receiving-height cases to manual review.
 
 Fly ball CSV:
@@ -51,14 +59,15 @@ sample_id,label,landing_zone,strength,trajectory_type,event_start,event_end
 6. Label pending clips with `scripts/qwen_omni_label.py`.
 7. Refine Qwen contact timings with `scripts/refine_qwen_events.py`.
 8. Audit Qwen labels with `scripts/audit_qwen_labels.py --labels reports/qwen_labels_refined.jsonl`.
-9. Materialize accepted labels into `dataset/` with `scripts/materialize_dataset.py --labels reports/qwen_labels_refined.jsonl --require-audit-pass`.
+9. Run staged candidate review with `scripts/qwen_review_candidates.py`.
+10. Materialize accepted labels into `dataset/` with `scripts/materialize_dataset.py --labels reports/qwen_labels_refined.jsonl --require-audit-pass --require-visual-audit-pass`.
 10. Run validation:
    - `scripts/validate_schema.py`
    - `scripts/validate_media.py`
    - `scripts/detect_contact_audio.py`
    - `scripts/audit_labels.py`
-11. Generate an HTML review sheet with `scripts/build_review_sheet.py`.
-12. Commit only reviewed batches.
+12. Generate an HTML review sheet with `scripts/build_review_sheet.py`.
+13. Commit only reviewed batches.
 
 Pilot command:
 
@@ -79,7 +88,8 @@ python scripts/summarize_qwen_usage.py
 python scripts/qwen_omni_label.py --limit 20
 python scripts/refine_qwen_events.py
 python scripts/audit_qwen_labels.py --labels reports/qwen_labels_refined.jsonl
-python scripts/materialize_dataset.py --labels reports/qwen_labels_refined.jsonl --collector Your_Name --require-audit-pass
+python scripts/qwen_review_candidates.py
+python scripts/materialize_dataset.py --labels reports/qwen_labels_refined.jsonl --collector Your_Name --require-audit-pass --require-visual-audit-pass
 ```
 
 For larger backfills, prefer the resumable batch collector. It writes the manifest after each game and deduplicates by both `source_id` and `source_url`:

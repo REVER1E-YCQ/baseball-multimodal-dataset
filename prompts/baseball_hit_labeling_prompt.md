@@ -31,6 +31,11 @@ Rules:
   - 2: third/second midpoint boundary to the home-to-second boundary.
   - 3: home-to-second boundary to the first/second midpoint boundary.
   - 4: first/second midpoint boundary to the first-base line.
+- If the ball path is near a boundary, near the middle line, or hard to separate from camera angle, use the fielder who actually fields or clearly attempts the play as the tie-breaker:
+  - third baseman or third-base-line play => region 1.
+  - shortstop or left-of-second infield play => region 2.
+  - second baseman or right-of-second infield play => region 3.
+  - first baseman or first-base-line play => region 4.
 - Do not infer bounce=yes only because the hit is a ground_ball. For ground_ball, mark bounce=yes only when the ball is at or below the receiving fielder's knee height when fielded. Mark bounce=no when the receiving height is above the fielder's knee. If the receiving fielder or receiving height cannot be judged, lower confidence or use uncertain.
 - Prefer conservative labels. A bad sample is worse than a rejected sample.
 - Do not invent source metadata.
