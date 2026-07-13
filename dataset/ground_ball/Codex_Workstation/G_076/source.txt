@@ -1,0 +1,7 @@
+video_title: James Wood singles on a ground ball after Nationals challenge James Wood singles on a ground ball after Nationals challenge James Wood singles on a ground ball after Nationals challenge James Wood singles on a ground ball in the bottom of the 1st after the Nationals challenge and the call on the fie
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/02/990cb1b9-706bb7e7-bf85078a-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_822746_kyle-harrison-in-play-out-s-to-james-wood-j6yujz
+clip_id: MLB_822746_kyle-harrison-in-play-out-s-to-james-wood-j6yujz_head_0p000_6p000
+source_path: raw_sources\MLB_822746_kyle-harrison-in-play-out-s-to-james-wood-j6yujz_James_Wood_singles_on_a_ground_ball_after_Nationals_challenge_James_Wood_singles.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

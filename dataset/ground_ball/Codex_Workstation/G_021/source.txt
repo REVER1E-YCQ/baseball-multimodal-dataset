@@ -1,0 +1,7 @@
+video_title: Masyn Winn's sharp diving play Masyn Winn's sharp diving play Masyn Winn's sharp diving play Masyn Winn makes a terrific diving stop on a hard ground ball from Lourdes Gurriel Jr. and tosses to third for the out in the 2nd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/22/d5b82972-e1ad90ba-6b3920bd-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_823040_andre-pallante-in-play-out-s-to-lourdes-gurriel-jr-1tzdvc
+clip_id: MLB_823040_andre-pallante-in-play-out-s-to-lourdes-gurriel-jr-1tzdvc_head_0p000_6p000
+source_path: raw_sources\MLB_823040_andre-pallante-in-play-out-s-to-lourdes-gurriel-jr-1tzdvc_Masyn_Winn_s_sharp_diving_play_Masyn_Winn_s_sharp_diving_play_Masyn_Winn_s_sharp.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

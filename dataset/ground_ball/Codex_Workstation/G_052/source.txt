@@ -1,0 +1,7 @@
+video_title: Kyle Tucker's RBI groundout Kyle Tucker's RBI groundout Kyle Tucker's RBI groundout Kyle Tucker hits a soft ground ball in front of the plate, bringing home Shohei Ohtani to put the Dodgers on the board in the 3rd
+video_url: https://bdata-producedclips.mlb.com/a77204f7-ac1c-425b-b82a-117a84dee00b.mp4
+source_id: MLB_823941_jose-soriano-in-play-run-s-to-kyle-tucker
+clip_id: MLB_823941_jose-soriano-in-play-run-s-to-kyle-tucker_head_0p000_6p000
+source_path: raw_sources\MLB_823941_jose-soriano-in-play-run-s-to-kyle-tucker_Kyle_Tucker_s_RBI_groundout_Kyle_Tucker_s_RBI_groundout_Kyle_Tucker_s_RBI_ground.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

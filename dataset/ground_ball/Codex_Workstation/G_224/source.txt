@@ -1,0 +1,7 @@
+video_title: Deflection off Spencer Miles leads to out Deflection off Spencer Miles leads to out Deflection off Spencer Miles leads to out A grounder deflects off Spencer Miles on the mound and Lenyn Sosa fields the ball at first base to get the out
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/26/a6f570d4-7a0afada-28092933-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_822811_spencer-miles-in-play-out-s-to-jakob-marsee
+clip_id: MLB_822811_spencer-miles-in-play-out-s-to-jakob-marsee_head_0p000_6p000
+source_path: raw_sources\MLB_822811_spencer-miles-in-play-out-s-to-jakob-marsee_Deflection_off_Spencer_Miles_leads_to_out_Deflection_off_Spencer_Miles_leads_to_.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

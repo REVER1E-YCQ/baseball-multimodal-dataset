@@ -1,0 +1,7 @@
+video_title: Willson Contreras' RBI groundout Willson Contreras' RBI groundout Willson Contreras' RBI groundout
+video_url: https://bdata-producedclips.mlb.com/926605bf-924d-43f5-8281-c8f751c9987b.mp4
+source_id: MLB_824112_nick-mears-in-play-run-s-to-willson-contreras
+clip_id: MLB_824112_nick-mears-in-play-run-s-to-willson-contreras_head_0p000_6p000
+source_path: raw_sources\MLB_824112_nick-mears-in-play-run-s-to-willson-contreras_Willson_Contreras_RBI_groundout_Willson_Contreras_RBI_groundout_Willson_Contrera.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

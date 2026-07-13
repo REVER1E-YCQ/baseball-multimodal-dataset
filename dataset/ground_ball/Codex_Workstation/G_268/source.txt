@@ -1,0 +1,7 @@
+video_title: Drew Anderson closes Tigers' win, seals save Drew Anderson closes Tigers' win, seals save Drew Anderson closes Tigers' win, seals save Drew Anderson induces a ground ball from Jakob Marsee after a 14-pitch at bat, sealing the Tigers' win and save
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/11/bf0dfd28-610d7fac-142957d4-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_824294_jakob-marsee-grounds-out-to-first-baseman-spencer-torkelson
+clip_id: MLB_824294_jakob-marsee-grounds-out-to-first-baseman-spencer-torkelson_auto1_0p020_6p020
+source_path: raw_sources\MLB_824294_jakob-marsee-grounds-out-to-first-baseman-spencer-torkelson_Drew_Anderson_closes_Tigers_win_seals_save_Drew_Anderson_closes_Tigers_win_seals.mp4
+clip_start_time: 0.020
+clip_end_time: 6.020

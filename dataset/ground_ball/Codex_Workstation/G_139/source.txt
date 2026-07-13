@@ -1,0 +1,7 @@
+video_title: Brice Turang's RBI fielder's choice Brice Turang's RBI fielder's choice Brice Turang's RBI fielder's choice Brice Turang grounds into a 3-6 fielder's choice to drive in Sal Frelick and give the Brewers a 1-0 lead
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/13/b962203e-7479fb85-d3e3c75c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_823791_michael-king-in-play-run-s-to-brice-turang-8uvl8g
+clip_id: MLB_823791_michael-king-in-play-run-s-to-brice-turang-8uvl8g_head_0p000_6p000
+source_path: raw_sources\MLB_823791_michael-king-in-play-run-s-to-brice-turang-8uvl8g_Brice_Turang_s_RBI_fielder_s_choice_Brice_Turang_s_RBI_fielder_s_choice_Brice_Tu.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

@@ -1,0 +1,7 @@
+video_title: Chris Sale throws out Luisangel Acuña Chris Sale throws out Luisangel Acuña Chris Sale throws out Luisangel Acuña Chris Sale fields Luisangel Acuña's ground ball and throws him out at first for the second out in bottom of the 4th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/10/a31ee544-fe939be3-77d6f3b3-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_824590_chris-sale-throws-out-luisangel-acuna
+clip_id: MLB_824590_chris-sale-throws-out-luisangel-acuna_head_0p000_6p000
+source_path: raw_sources\MLB_824590_chris-sale-throws-out-luisangel-acuna_Chris_Sale_throws_out_Luisangel_Acu_a_Chris_Sale_throws_out_Luisangel_Acu_a_Chri.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

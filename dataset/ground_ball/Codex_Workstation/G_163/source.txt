@@ -1,0 +1,7 @@
+video_title: Matt Gage induces groundout for the win Matt Gage induces groundout for the win Matt Gage induces groundout for the win Matt Gage induces a ground ball to third base to lock down the Giants' 6-4 win
+video_url: https://bdata-producedclips.mlb.com/1273175e-e14c-4b56-8d5a-b767ea46ebe3.mp4
+source_id: MLB_825007_jonah-heim-grounds-out-third-baseman-matt-chapman-to-first-baseman-ra
+clip_id: MLB_825007_jonah-heim-grounds-out-third-baseman-matt-chapman-to-first-baseman-ra_head_0p000_6p000
+source_path: raw_sources\MLB_825007_jonah-heim-grounds-out-third-baseman-matt-chapman-to-first-baseman-ra_Matt_Gage_induces_groundout_for_the_win_Matt_Gage_induces_groundout_for_the_win_.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

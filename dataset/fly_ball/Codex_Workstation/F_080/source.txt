@@ -1,0 +1,7 @@
+video_title: Mickey Moniak breaks up no-hitter Mickey Moniak breaks up no-hitter Mickey Moniak breaks up no-hitter Mickey Moniak singles on a line drive to left field, breaking up Paul Skenes' no-hitter in the top of the 7th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/12/4cc07dfe-83333867-d40f3039-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_823385_paul-skenes-in-play-no-out-to-mickey-moniak-bus4ip
+clip_id: MLB_823385_paul-skenes-in-play-no-out-to-mickey-moniak-bus4ip_head_0p000_7p000
+source_path: raw_sources\MLB_823385_paul-skenes-in-play-no-out-to-mickey-moniak-bus4ip_Mickey_Moniak_breaks_up_no-hitter_Mickey_Moniak_breaks_up_no-hitter_Mickey_Monia.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

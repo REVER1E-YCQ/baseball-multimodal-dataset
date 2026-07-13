@@ -1,0 +1,7 @@
+video_title: Daniel Schneemann's RBI single Daniel Schneemann's RBI single Daniel Schneemann singles on a ground ball to right fielder Jac Caglianone. Kyle Manzardo scores.
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/07/ac230e6c-d641d319-eb218458-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_824117_seth-lugo-in-play-run-s-to-daniel-schneemann
+clip_id: MLB_824117_seth-lugo-in-play-run-s-to-daniel-schneemann_head_0p000_6p000
+source_path: raw_sources\MLB_824117_seth-lugo-in-play-run-s-to-daniel-schneemann_Daniel_Schneemann_s_RBI_single_Daniel_Schneemann_s_RBI_single_Daniel_Schneemann_.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

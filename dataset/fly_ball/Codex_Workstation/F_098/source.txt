@@ -1,0 +1,7 @@
+video_title: Ryan McMahon catches the lineout to end the game Ryan McMahon catches the lineout to end the game Ryan McMahon catches the lineout to the end game Ryan McMahon snags Marcus Semien's line drive to end the game, securing a 5-2 win for the Yankees
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/15/5332ee45-6194c8a3-7f4a3fb5-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_823629_david-bednar-in-play-out-s-to-marcus-semien
+clip_id: MLB_823629_david-bednar-in-play-out-s-to-marcus-semien_head_0p000_7p000
+source_path: raw_sources\MLB_823629_david-bednar-in-play-out-s-to-marcus-semien_Ryan_McMahon_catches_the_lineout_to_end_the_game_Ryan_McMahon_catches_the_lineou.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

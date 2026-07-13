@@ -1,0 +1,7 @@
+video_title: Dansby Swanson's RBI groundout Dansby Swanson's RBI groundout Dansby Swanson's RBI groundout
+video_url: https://bdata-producedclips.mlb.com/1511f3a8-1bdc-4a00-b533-86e40154f8cf.mp4
+source_id: MLB_824697_dansby-swanson-grounds-out-shortstop-konnor-griffin-to-first-baseman-
+clip_id: MLB_824697_dansby-swanson-grounds-out-shortstop-konnor-griffin-to-first-baseman-_auto1_1p440_7p440
+source_path: raw_sources\MLB_824697_dansby-swanson-grounds-out-shortstop-konnor-griffin-to-first-baseman-_Dansby_Swanson_s_RBI_groundout_Dansby_Swanson_s_RBI_groundout_Dansby_Swanson_s_R.mp4
+clip_start_time: 1.440
+clip_end_time: 7.440

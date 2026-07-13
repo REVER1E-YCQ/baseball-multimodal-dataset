@@ -1,0 +1,7 @@
+video_title: Jeremiah Estrada earns the save Jeremiah Estrada earns the save Jeremiah Estrada earns the save Jeremiah Estrada earns the save, forcing Josh Naylor to groundout to end the game and seal the 7-4 win for the Padres
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/16/17d68528-9647ee38-f9dc2727-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_823139_jeremiah-estrada-in-play-out-s-to-josh-naylor-vqyrka
+clip_id: MLB_823139_jeremiah-estrada-in-play-out-s-to-josh-naylor-vqyrka_head_0p000_6p000
+source_path: raw_sources\MLB_823139_jeremiah-estrada-in-play-out-s-to-josh-naylor-vqyrka_Jeremiah_Estrada_earns_the_save_Jeremiah_Estrada_earns_the_save_Jeremiah_Estrada.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

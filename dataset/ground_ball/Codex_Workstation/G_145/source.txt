@@ -1,0 +1,7 @@
+video_title: Rafael Devers out at second base stands Rafael Devers out at second base stands Rafael Devers out at second base stands Miguel Rojas fields a ground ball and flips to Hyeseong Kim covering second base for the force out and the call stands after an unsuccessful challenge by the Giants
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/14/9529087e-a64edc58-370aff78-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_823950_rafael-devers-out-at-second-base-stands
+clip_id: MLB_823950_rafael-devers-out-at-second-base-stands_head_0p000_6p000
+source_path: raw_sources\MLB_823950_rafael-devers-out-at-second-base-stands_Rafael_Devers_out_at_second_base_stands_Rafael_Devers_out_at_second_base_stands_.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

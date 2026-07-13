@@ -1,0 +1,7 @@
+video_title: Yuki Matsui escapes jam Yuki Matsui escapes jam Yuki Matsui escapes jam Yuki Matsui escapes a jam by forcing Masyn Winn into a groundout in the top of the 7th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/08/a69a454a-1b6c6f9e-33683118-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_823303_yuki-matsui-in-play-out-s-to-masyn-winn-afadze
+clip_id: MLB_823303_yuki-matsui-in-play-out-s-to-masyn-winn-afadze_head_0p000_6p000
+source_path: raw_sources\MLB_823303_yuki-matsui-in-play-out-s-to-masyn-winn-afadze_Yuki_Matsui_escapes_jam_Yuki_Matsui_escapes_jam_Yuki_Matsui_escapes_jam_Yuki_Mat.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

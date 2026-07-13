@@ -1,0 +1,7 @@
+video_title: Tyler Schweitzer induces groundout for White Sox win Tyler Schweitzer induces groundout for White Sox win Tyler Schweitzer induces groundout for White Sox win
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/09/a4176946-144b04e0-b972761c-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_824606_tyler-schweitzer-in-play-out-s-to-cole-young
+clip_id: MLB_824606_tyler-schweitzer-in-play-out-s-to-cole-young_head_0p000_6p000
+source_path: raw_sources\MLB_824606_tyler-schweitzer-in-play-out-s-to-cole-young_Tyler_Schweitzer_induces_groundout_for_White_Sox_win_Tyler_Schweitzer_induces_gr.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

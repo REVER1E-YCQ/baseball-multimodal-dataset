@@ -1,0 +1,7 @@
+video_title: Ronald Acuña Jr. leaves the game with an injury Ronald Acuña Jr. leaves the game with an injury Ronald Acuña Jr. leaves the game with an injury Ronald Acuña Jr. grounds out in the top of the 2nd and leaves the game with an injury announced by press box as left hamstring tightness
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/02/6af38d13-8dc6351e-eb3c199d-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_824365_chase-dollander-in-play-out-s-to-ronald-acuna-jr
+clip_id: MLB_824365_chase-dollander-in-play-out-s-to-ronald-acuna-jr_head_0p000_6p000
+source_path: raw_sources\MLB_824365_chase-dollander-in-play-out-s-to-ronald-acuna-jr_Ronald_Acu_a_Jr._leaves_the_game_with_an_injury_Ronald_Acu_a_Jr._leaves_the_game.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

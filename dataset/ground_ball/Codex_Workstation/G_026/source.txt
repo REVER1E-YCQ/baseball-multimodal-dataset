@@ -1,0 +1,7 @@
+video_title: Andruw Monasterio's beautiful glove flip Andruw Monasterio's beautiful glove flip Andruw Monasterio's beautiful glove flip Andruw Monasterio hustles for a ground ball and makes a terrific flip to Marcelo Mayer that ends the 3rd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/24/63d0cd40-e5aa6411-bc96f540-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_824341_ranger-suarez-in-play-run-s-to-jake-mccarthy-nn8phj-x3703
+clip_id: MLB_824341_ranger-suarez-in-play-run-s-to-jake-mccarthy-nn8phj-x3703_head_0p000_6p000
+source_path: raw_sources\MLB_824341_ranger-suarez-in-play-run-s-to-jake-mccarthy-nn8phj-x3703_Andruw_Monasterio_s_beautiful_glove_flip_Andruw_Monasterio_s_beautiful_glove_fli.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

@@ -1,0 +1,7 @@
+video_title: Isaac Paredes' RBI groundout Isaac Paredes' RBI groundout Isaac Paredes' RBI groundout Isaac Paredes' RBI groundout
+video_url: https://bdata-producedclips.mlb.com/9001e7e1-3e1f-4a2b-84cf-0bb32b58722d.mp4
+source_id: MLB_824522_tejay-antone-in-play-out-s-to-isaac-paredes
+clip_id: MLB_824522_tejay-antone-in-play-out-s-to-isaac-paredes_head_0p000_6p000
+source_path: raw_sources\MLB_824522_tejay-antone-in-play-out-s-to-isaac-paredes_Isaac_Paredes_RBI_groundout_Isaac_Paredes_RBI_groundout_Isaac_Paredes_RBI_ground.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

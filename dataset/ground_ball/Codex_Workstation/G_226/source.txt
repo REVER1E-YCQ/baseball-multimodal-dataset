@@ -1,0 +1,7 @@
+video_title: JJ Wetherholt throws out Jake Bauers JJ Wetherholt throws out Jake Bauers JJ Wetherholt throws out Jake Bauers JJ Wetherholt fields Jake Bauers' ground ball and throws him out at first in the bottom of the 7th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/26/b2b04dd0-a6c27999-2400a225-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_823785_justin-bruihl-in-play-out-s-to-jake-bauers
+clip_id: MLB_823785_justin-bruihl-in-play-out-s-to-jake-bauers_head_0p000_6p000
+source_path: raw_sources\MLB_823785_justin-bruihl-in-play-out-s-to-jake-bauers_JJ_Wetherholt_throws_out_Jake_Bauers_JJ_Wetherholt_throws_out_Jake_Bauers_JJ_Wet.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

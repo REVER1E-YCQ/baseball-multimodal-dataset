@@ -1,0 +1,7 @@
+video_title: Isaac Collins' leaping catch Isaac Collins' leaping catch Isaac Collins' leaping catch Isaac Collins makes a leaping catch for Miguel Vargas' fly ball in left field to get the first out in the bottom of the 5th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/13/50e6a2c4-3bb46107-3e3246a4-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_824603_miguel-vargas-flies-out-to-left-fielder-isaac-collins
+clip_id: MLB_824603_miguel-vargas-flies-out-to-left-fielder-isaac-collins_head_0p000_7p000
+source_path: raw_sources\MLB_824603_miguel-vargas-flies-out-to-left-fielder-isaac-collins_Isaac_Collins_leaping_catch_Isaac_Collins_leaping_catch_Isaac_Collins_leaping_ca.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

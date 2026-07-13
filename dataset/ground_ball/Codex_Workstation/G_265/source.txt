@@ -1,0 +1,7 @@
+video_title: TJ Friedl's RBI groundout TJ Friedl's RBI groundout TJ Friedl's RBI groundout TJ Friedl hits an RBI groundout to cut the Reds' deficit to 4-1 in the bottom of the 4th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/10/cb0681fd-7f4a8adc-a19e8685-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_824534_tj-friedl-s-rbi-groundout
+clip_id: MLB_824534_tj-friedl-s-rbi-groundout_auto1_0p000_6p000
+source_path: raw_sources\MLB_824534_tj-friedl-s-rbi-groundout_TJ_Friedl_s_RBI_groundout_TJ_Friedl_s_RBI_groundout_TJ_Friedl_s_RBI_groundout_TJ.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

@@ -1,0 +1,7 @@
+video_title: Masataka Yoshida scores on a fielding error by Olson Masataka Yoshida scores on a fielding error by Olson Masataka Yoshida scores on a fielding error by Olson Marcelo Mayer hits a ground ball to first base that gets by Matt Olson allowing Masataka Yoshida to score on the error to put the Red Sox on
+video_url: https://bdata-producedclips.mlb.com/49c8c78f-0a29-4f4b-864c-904eb21c6ea3.mp4
+source_id: MLB_824756_bryce-elder-in-play-no-out-to-marcelo-mayer
+clip_id: MLB_824756_bryce-elder-in-play-no-out-to-marcelo-mayer_head_0p000_6p000
+source_path: raw_sources\MLB_824756_bryce-elder-in-play-no-out-to-marcelo-mayer_Masataka_Yoshida_scores_on_a_fielding_error_by_Olson_Masataka_Yoshida_scores_on_.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

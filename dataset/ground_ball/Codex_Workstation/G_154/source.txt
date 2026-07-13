@@ -1,0 +1,7 @@
+video_title: Isaac Collins' RBI groundout Isaac Collins' RBI groundout Isaac Collins' RBI groundout
+video_url: https://bdata-producedclips.mlb.com/b7d9044d-a920-4990-bd16-23c43b01e27b.mp4
+source_id: MLB_823061_dustin-may-in-play-run-s-to-isaac-collins-xdvpjt
+clip_id: MLB_823061_dustin-may-in-play-run-s-to-isaac-collins-xdvpjt_head_0p000_6p000
+source_path: raw_sources\MLB_823061_dustin-may-in-play-run-s-to-isaac-collins-xdvpjt_Isaac_Collins_RBI_groundout_Isaac_Collins_RBI_groundout_Isaac_Collins_RBI_ground.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

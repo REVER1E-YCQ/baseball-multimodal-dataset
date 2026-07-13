@@ -1,0 +1,7 @@
+video_title: Brett Baty scores on a groundout Brett Baty scores on a groundout Brett Baty scores on a groundout
+video_url: https://bdata-producedclips.mlb.com/7e5f326c-3302-4bd9-994d-0b62429a0c06.mp4
+source_id: MLB_823625_brock-burke-in-play-run-s-to-carson-benge
+clip_id: MLB_823625_brock-burke-in-play-run-s-to-carson-benge_head_0p000_6p000
+source_path: raw_sources\MLB_823625_brock-burke-in-play-run-s-to-carson-benge_Brett_Baty_scores_on_a_groundout_Brett_Baty_scores_on_a_groundout_Brett_Baty_sco.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

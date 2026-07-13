@@ -1,0 +1,7 @@
+video_title: Curtis Mead's diving stop Curtis Mead's diving stop Curtis Mead's diving stop Curtis Mead makes a terrific diving play and throw on a sharp ground ball to take away a hit from Gabriel Moreno in the bottom of the 1st
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/07/09722815-fced48a2-2b7a3ba9-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_825074_gabriel-moreno-grounds-out-third-baseman-curtis-mead-to-first-baseman
+clip_id: MLB_825074_gabriel-moreno-grounds-out-third-baseman-curtis-mead-to-first-baseman_head_0p000_6p000
+source_path: raw_sources\MLB_825074_gabriel-moreno-grounds-out-third-baseman-curtis-mead-to-first-baseman_Curtis_Mead_s_diving_stop_Curtis_Mead_s_diving_stop_Curtis_Mead_s_diving_stop_Cu.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

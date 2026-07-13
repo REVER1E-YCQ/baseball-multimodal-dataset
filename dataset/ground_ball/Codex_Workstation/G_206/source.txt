@@ -1,0 +1,7 @@
+video_title: Victor Caratini's RBI groundout Victor Caratini's RBI groundout Victor Caratini's RBI groundout Victor Caratini drives in a run by grounding into a double-play, extending the Twins' lead to 3-1 in the 3rd inning
+video_url: https://bdata-producedclips.mlb.com/1af3736f-0485-4e25-a77f-8fca1e6b2b4c.mp4
+source_id: MLB_824759_sonny-gray-in-play-run-s-to-victor-caratini
+clip_id: MLB_824759_sonny-gray-in-play-run-s-to-victor-caratini_head_0p000_6p000
+source_path: raw_sources\MLB_824759_sonny-gray-in-play-run-s-to-victor-caratini_Victor_Caratini_s_RBI_groundout_Victor_Caratini_s_RBI_groundout_Victor_Caratini_.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

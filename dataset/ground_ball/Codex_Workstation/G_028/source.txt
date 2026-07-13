@@ -1,0 +1,7 @@
+video_title: Angels tie the game in the 10th on a chaotic play Angels tie the game in the 10th on a chaotic play Angels tie the game in the 10th on a chaotic play Nolan Schanuel hits a ground ball and Keegan Akin drops the toss from Jeremiah Jackson, allowing Oswald Peraza to score to tie the game in the 10th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/24/5ec6b966-41d9b8fc-7a8deeae-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_824018_keegan-akin-in-play-run-s-to-nolan-schanuel
+clip_id: MLB_824018_keegan-akin-in-play-run-s-to-nolan-schanuel_head_0p000_6p000
+source_path: raw_sources\MLB_824018_keegan-akin-in-play-run-s-to-nolan-schanuel_Angels_tie_the_game_in_the_10th_on_a_chaotic_play_Angels_tie_the_game_in_the_10t.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

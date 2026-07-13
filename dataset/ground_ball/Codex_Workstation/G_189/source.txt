@@ -1,0 +1,7 @@
+video_title: Kevin Ginkel induces groundout, escapes jam Kevin Ginkel induces groundout, escapes jam Kevin Ginkel induces groundout, escapes jam Kevin Ginkel induces a groundout to third base, curbing the Rockies' threat and escaping the jam in the top of the 8th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/21/1d7fff42-4bff00b8-ee497d10-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_825083_ezequiel-tovar-grounds-out-third-baseman-nolan-arenado-to-first-basem
+clip_id: MLB_825083_ezequiel-tovar-grounds-out-third-baseman-nolan-arenado-to-first-basem_head_0p000_6p000
+source_path: raw_sources\MLB_825083_ezequiel-tovar-grounds-out-third-baseman-nolan-arenado-to-first-basem_Kevin_Ginkel_induces_groundout_escapes_jam_Kevin_Ginkel_induces_groundout_escape.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000
