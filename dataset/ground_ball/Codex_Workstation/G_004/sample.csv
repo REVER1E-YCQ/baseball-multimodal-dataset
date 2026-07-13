@@ -1,2 +1,2 @@
 sample_id,label,region,strength,bounce,event_start,event_end
-G_004,ground_ball,2,medium,yes,1.420,1.520
+G_004,ground_ball,yes,medium,"MLB source identifies Tyler Callihan as the pitcher; full-play frames show the comebacker on the first-base side of the home-to-second line, so region 3 replaces region 2. The visible swing and 1.47 s audio peak support the existing 1.420-1.520 interval.",1.420,1.520

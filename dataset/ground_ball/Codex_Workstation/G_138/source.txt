@@ -1,7 +1,0 @@
-video_title: Connor Norby grounds into double play, Hicks scores Connor Norby grounds into double play, Hicks scores Connor Norby grounds into double play, Hicks scores Liam Hicks scores as Connor Norby grounds into a double play, extending the Marlins' lead to 2-0 in the top of the 1st inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/13/491f5d50-a84b00b3-05500421-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_823710_simeon-woods-richardson-in-play-run-s-to-connor-norby
-clip_id: MLB_823710_simeon-woods-richardson-in-play-run-s-to-connor-norby_head_0p000_6p000
-source_path: raw_sources\MLB_823710_simeon-woods-richardson-in-play-run-s-to-connor-norby_Connor_Norby_grounds_into_double_play_Hicks_scores_Connor_Norby_grounds_into_dou.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

@@ -1,7 +1,0 @@
-video_title: Geraldo Perdomo's RBI groundout scores Ketel Marte Geraldo Perdomo's RBI groundout scores Ketel Marte Geraldo Perdomo's RBI groundout scores Ketel Marte
-video_url: https://bdata-producedclips.mlb.com/e791fbb8-9ea4-4eab-b4e5-3e7c57871f4e.mp4
-source_id: MLB_825081_blas-castano-in-play-run-s-to-geraldo-perdomo
-clip_id: MLB_825081_blas-castano-in-play-run-s-to-geraldo-perdomo_head_0p000_6p000
-source_path: raw_sources\MLB_825081_blas-castano-in-play-run-s-to-geraldo-perdomo_Geraldo_Perdomo_s_RBI_groundout_scores_Ketel_Marte_Geraldo_Perdomo_s_RBI_groundo.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

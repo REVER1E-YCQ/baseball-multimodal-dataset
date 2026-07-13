@@ -1,7 +1,0 @@
-video_title: Jeff McNeil's RBI groundout Jeff McNeil's RBI groundout Jeff McNeil's RBI groundout
-video_url: https://bdata-producedclips.mlb.com/7e77e97e-d4c5-419e-a5f7-e3e2cbda8947.mp4
-source_id: MLB_825003_cooper-criswell-in-play-run-s-to-jeff-mcneil
-clip_id: MLB_825003_cooper-criswell-in-play-run-s-to-jeff-mcneil_head_0p000_6p000
-source_path: raw_sources\MLB_825003_cooper-criswell-in-play-run-s-to-jeff-mcneil_Jeff_McNeil_s_RBI_groundout_Jeff_McNeil_s_RBI_groundout_Jeff_McNeil_s_RBI_ground.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

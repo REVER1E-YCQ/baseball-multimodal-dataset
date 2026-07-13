@@ -1,7 +1,0 @@
-video_title: Jacob Wilson makes the double play Jacob Wilson makes the double play Jacob Wilson makes the double play Angel Martínez grounds into a double play, second baseman Jeff McNeil throws to shortstop. Jacob Wilson makes a great throw to first base for the double play and ends the 8th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/01/f4cdd559-8b6fab93-f3f745cc-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_825012_joel-kuhnel-in-play-out-s-to-angel-martinez
-clip_id: MLB_825012_joel-kuhnel-in-play-out-s-to-angel-martinez_head_0p000_6p000
-source_path: raw_sources\MLB_825012_joel-kuhnel-in-play-out-s-to-angel-martinez_Jacob_Wilson_makes_the_double_play_Jacob_Wilson_makes_the_double_play_Jacob_Wils.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

@@ -1,7 +1,0 @@
-video_title: Ben Williamson's diving play in the 6th Ben Williamson's diving play in the 6th Ben Williamson's diving play in the 6th Ben Williamson makes a dives for Masataka Yoshida's ground ball and throws to first baseman Jonathan Aranda for the last out in bottom of the 6th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/07/6e4e05c3-bbc92276-b152e2c1-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_824767_masataka-yoshida-grounds-out-second-baseman-ben-williamson-to-first-b
-clip_id: MLB_824767_masataka-yoshida-grounds-out-second-baseman-ben-williamson-to-first-b_head_0p000_6p000
-source_path: raw_sources\MLB_824767_masataka-yoshida-grounds-out-second-baseman-ben-williamson-to-first-b_Ben_Williamson_s_diving_play_in_the_6th_Ben_Williamson_s_diving_play_in_the_6th_.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

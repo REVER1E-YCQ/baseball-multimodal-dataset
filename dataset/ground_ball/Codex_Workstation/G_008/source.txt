@@ -1,7 +1,0 @@
-video_title: Casey Schmitt throws out Kyle Karros in the 3rd Casey Schmitt throws out Kyle Karros in the 3rd Casey Schmitt throws out Kyle Karros in the 3rd Casey Schmitt fields Kyle Karros' ground ball and males the throw to first to get him out in the bottom of the 3rd
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-07/04/168e4c6c-21b17041-8bfc136f-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_824334_kyle-karros-grounds-out-third-baseman-casey-schmitt-to-first-baseman-
-clip_id: MLB_824334_kyle-karros-grounds-out-third-baseman-casey-schmitt-to-first-baseman-_head_0p000_6p000
-source_path: raw_sources\MLB_824334_kyle-karros-grounds-out-third-baseman-casey-schmitt-to-first-baseman-_Casey_Schmitt_throws_out_Kyle_Karros_in_the_3rd_Casey_Schmitt_throws_out_Kyle_Ka.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

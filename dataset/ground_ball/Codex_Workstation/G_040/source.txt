@@ -1,7 +1,0 @@
-video_title: Nick Fortes' two-run double Nick Fortes' two-run double Nick Fortes' two-run double Nick Fortes hits a two-run double on a ground ball to third, scoring Junior Caminero and Victor Mesa Jr.
-video_url: https://bdata-producedclips.mlb.com/364587cb-71eb-4bb4-a399-d2b67c367054.mp4
-source_id: MLB_822974_will-vest-in-play-run-s-to-nick-fortes
-clip_id: MLB_822974_will-vest-in-play-run-s-to-nick-fortes_head_0p000_6p000
-source_path: raw_sources\MLB_822974_will-vest-in-play-run-s-to-nick-fortes_Nick_Fortes_two-run_double_Nick_Fortes_two-run_double_Nick_Fortes_two-run_double.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

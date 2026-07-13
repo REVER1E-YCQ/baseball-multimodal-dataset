@@ -1,7 +1,0 @@
-video_title: Rafael Devers's RBI single Rafael Devers's RBI single Rafael Devers's RBI single Rafael Devers singles on a ground ball to center field, giving the Giants a 2-1 lead in the 1st inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/04/c8b8b5aa-bae40c6b-3ebae87a-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_823228_randy-vasquez-in-play-run-s-to-rafael-devers
-clip_id: MLB_823228_randy-vasquez-in-play-run-s-to-rafael-devers_head_0p000_6p000
-source_path: raw_sources\MLB_823228_randy-vasquez-in-play-run-s-to-rafael-devers_Rafael_Devers_s_RBI_single_Rafael_Devers_s_RBI_single_Rafael_Devers_s_RBI_single.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

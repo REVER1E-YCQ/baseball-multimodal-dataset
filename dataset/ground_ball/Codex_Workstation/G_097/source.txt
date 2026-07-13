@@ -1,7 +1,0 @@
-video_title:  Elly De La Cruz's RBI groundout  Elly De La Cruz's RBI groundout  Elly De La Cruz's RBI groundout
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/07/de440e9f-f0cda14d-eed5c387-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_824683_colin-rea-in-play-run-s-to-elly-de-la-cruz
-clip_id: MLB_824683_colin-rea-in-play-run-s-to-elly-de-la-cruz_head_0p000_6p000
-source_path: raw_sources\MLB_824683_colin-rea-in-play-run-s-to-elly-de-la-cruz_Elly_De_La_Cruz_s_RBI_groundout_Elly_De_La_Cruz_s_RBI_groundout_Elly_De_La_Cruz_.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

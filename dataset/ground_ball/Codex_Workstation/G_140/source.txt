@@ -1,7 +1,0 @@
-video_title: Oneil Cruz's RBI groundout Oneil Cruz's RBI groundout Oneil Cruz's RBI groundout Oneil Cruz's RBI groundout extends the Pirates' lead to 6-0 in the 3rd inning
-video_url: https://bdata-producedclips.mlb.com/725c7403-e3c6-4d9e-8466-b3327eaaa7e8.mp4
-source_id: MLB_823383_oneil-cruz-grounds-out-shortstop-ezequiel-tovar-to-first-baseman-tj-r
-clip_id: MLB_823383_oneil-cruz-grounds-out-shortstop-ezequiel-tovar-to-first-baseman-tj-r_head_0p000_6p000
-source_path: raw_sources\MLB_823383_oneil-cruz-grounds-out-shortstop-ezequiel-tovar-to-first-baseman-tj-r_Oneil_Cruz_s_RBI_groundout_Oneil_Cruz_s_RBI_groundout_Oneil_Cruz_s_RBI_groundout.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

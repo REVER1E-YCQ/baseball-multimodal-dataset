@@ -1,7 +1,0 @@
-video_title: Cedric Mullins scores on a fielder's choice Cedric Mullins scores on a fielder's choice Cedric Mullins scores on a fielder's choice Cedric Mullins comes home to score after Ben Williamson grounds into a double play, extending the Rays' lead to 4-1 in the top of the 3rd
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/04/8380dd5b-27bf0974-bf07ec19-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_823730_mick-abel-in-play-out-s-to-ben-williamson
-clip_id: MLB_823730_mick-abel-in-play-out-s-to-ben-williamson_auto1_0p000_6p000
-source_path: raw_sources\MLB_823730_mick-abel-in-play-out-s-to-ben-williamson_Cedric_Mullins_scores_on_a_fielder_s_choice_Cedric_Mullins_scores_on_a_fielder_s.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

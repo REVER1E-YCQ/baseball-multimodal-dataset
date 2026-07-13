@@ -1,7 +1,0 @@
-video_title: Tyler Rogers' impressive shovel play Tyler Rogers' impressive shovel play Tyler Rogers' impressive shovel play Tyler Rogers fields the grounder and makes the impressive shovel play to retire Bryson Stott in the top of the 9th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/10/ee82fbbd-0d14bc41-92d5cc9a-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_822804_tyler-rogers-in-play-out-s-to-bryson-stott
-clip_id: MLB_822804_tyler-rogers-in-play-out-s-to-bryson-stott_head_0p000_6p000
-source_path: raw_sources\MLB_822804_tyler-rogers-in-play-out-s-to-bryson-stott_Tyler_Rogers_impressive_shovel_play_Tyler_Rogers_impressive_shovel_play_Tyler_Ro.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

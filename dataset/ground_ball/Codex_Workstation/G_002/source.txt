@@ -1,7 +1,0 @@
-video_title: Paul Blackburn's between-the-legs play Paul Blackburn's between-the-legs play Paul Blackburn's between-the-legs play Paul Blackburn plays the grounder between the legs and retires Zack McKinstry in the top of the 6th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-07/01/37391743-949f6560-00e74c60-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_823530_paul-blackburn-in-play-out-s-to-zach-mckinstry
-clip_id: MLB_823530_paul-blackburn-in-play-out-s-to-zach-mckinstry_0p000_6p000
-source_path: raw_sources\MLB_823530_paul-blackburn-in-play-out-s-to-zach-mckinstry_Paul_Blackburn_s_between-the-legs_play_Paul_Blackburn_s_between-the-legs_play_Pa.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

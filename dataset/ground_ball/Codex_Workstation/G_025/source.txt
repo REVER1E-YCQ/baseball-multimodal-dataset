@@ -1,7 +1,0 @@
-video_title: Pedro Ramírez's RBI single Pedro Ramírez's RBI single Pedro Ramírez's RBI single Pedro Ramírez singles on a ground ball to right field, cutting the Mets' lead 3-2 in the top of the 4th inning
-video_url: https://bdata-producedclips.mlb.com/91182c2b-9956-4dc5-bf2f-882b31685d1f.mp4
-source_id: MLB_823611_sean-manaea-in-play-run-s-to-pedro-ramirez
-clip_id: MLB_823611_sean-manaea-in-play-run-s-to-pedro-ramirez_head_0p000_6p000
-source_path: raw_sources\MLB_823611_sean-manaea-in-play-run-s-to-pedro-ramirez_Pedro_Ram_rez_s_RBI_single_Pedro_Ram_rez_s_RBI_single_Pedro_Ram_rez_s_RBI_single.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

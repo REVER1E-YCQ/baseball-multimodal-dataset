@@ -1,7 +1,0 @@
-video_title: Spencer Steer's sliding grab Spencer Steer's sliding grab Spencer Steer's sliding grab Spencer Steer tracks down a pop fly and makes a sliding grab to rob James Wood of an RBI in the 3rd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/14/87f1387f-b4f66cd5-15272692-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_824517_james-wood-flies-out-to-left-fielder-spencer-steer
-clip_id: MLB_824517_james-wood-flies-out-to-left-fielder-spencer-steer_head_0p000_7p000
-source_path: raw_sources\MLB_824517_james-wood-flies-out-to-left-fielder-spencer-steer_Spencer_Steer_s_sliding_grab_Spencer_Steer_s_sliding_grab_Spencer_Steer_s_slidin.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000

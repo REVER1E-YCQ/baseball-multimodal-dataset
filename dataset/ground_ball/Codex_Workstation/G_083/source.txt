@@ -1,7 +1,0 @@
-video_title: Nolan Schanuel tosses his glove for the out Nolan Schanuel tosses his glove for the out Nolan Schanuel tosses his glove for the out Nolan Schanuel underhands his glove to Jack Kochanowicz at first after a ground ball gets stuck in his glove in the top of the 3rd
-video_url: https://bdata-producedclips.mlb.com/a4252870-96f6-4ad2-a572-12b9f5377632.mp4
-source_id: MLB_824043_jack-kochanowicz-in-play-out-s-to-juan-soto
-clip_id: MLB_824043_jack-kochanowicz-in-play-out-s-to-juan-soto_head_0p000_6p000
-source_path: raw_sources\MLB_824043_jack-kochanowicz-in-play-out-s-to-juan-soto_Nolan_Schanuel_tosses_his_glove_for_the_out_Nolan_Schanuel_tosses_his_glove_for_.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

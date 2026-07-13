@@ -1,7 +1,0 @@
-video_title: Chad Stevens slides, flips to second base Chad Stevens slides, flips to second base Chad Stevens slides, flips to second base Chad Stevens slides to field a ground ball and flips to second base, recording the first out in the bottom of the 6th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/21/b52c07ff-d8f47dbd-0489b1da-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_825083_blas-castano-in-play-run-s-to-corbin-carroll-wp0qha-x7856
-clip_id: MLB_825083_blas-castano-in-play-run-s-to-corbin-carroll-wp0qha-x7856_head_0p000_6p000
-source_path: raw_sources\MLB_825083_blas-castano-in-play-run-s-to-corbin-carroll-wp0qha-x7856_Chad_Stevens_slides_flips_to_second_base_Chad_Stevens_slides_flips_to_second_bas.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

@@ -1,7 +1,0 @@
-video_title: Fernando Tatis Jr.'s impressive play Fernando Tatis Jr.'s impressive play Fernando Tatis Jr.'s impressive play Fernando Tatis Jr. makes a difficult play on a ground ball to nab Mookie Betts at first base in the 1st inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/19/e5a7ef66-da9545a6-71c84e68-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_823302_griffin-canning-in-play-out-s-to-mookie-betts-sfnlb4
-clip_id: MLB_823302_griffin-canning-in-play-out-s-to-mookie-betts-sfnlb4_head_0p000_6p000
-source_path: raw_sources\MLB_823302_griffin-canning-in-play-out-s-to-mookie-betts-sfnlb4_Fernando_Tatis_Jr._s_impressive_play_Fernando_Tatis_Jr._s_impressive_play_Fernan.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

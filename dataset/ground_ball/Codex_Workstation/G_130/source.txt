@@ -1,7 +1,0 @@
-video_title: Bobby Witt Jr. singles on overturned call Bobby Witt Jr. singles on overturned call Royals challenged (play at 1st), call on the field was overturned: Bobby Witt Jr. singles on a ground ball to third baseman Miguel Vargas. Bobby Witt Jr. singles on a ground ball to third after call is overturned and
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/12/42c22ee9-c93ffcc7-581e4a75-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_824604_bobby-witt-jr-grounds-out-third-baseman-miguel-vargas-to-first-basema
-clip_id: MLB_824604_bobby-witt-jr-grounds-out-third-baseman-miguel-vargas-to-first-basema_head_0p000_6p000
-source_path: raw_sources\MLB_824604_bobby-witt-jr-grounds-out-third-baseman-miguel-vargas-to-first-basema_Bobby_Witt_Jr._singles_on_overturned_call_Bobby_Witt_Jr._singles_on_overturned_c.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

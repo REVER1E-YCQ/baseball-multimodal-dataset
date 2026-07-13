@@ -1,7 +1,0 @@
-video_title: Leo Jiménez's brilliant recovery for the out Leo Jiménez's brilliant recovery for the out Leo Jiménez's brilliant recovery for the out Leo Jiménez recovers a deflected ground ball and delivers a sharp throw to nab Josh Jung at first in the 1st inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/24/d935dd0b-68b09c5f-f1142c7d-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_823850_eury-perez-in-play-out-s-to-josh-jung-f9kukn
-clip_id: MLB_823850_eury-perez-in-play-out-s-to-josh-jung-f9kukn_head_0p000_6p000
-source_path: raw_sources\MLB_823850_eury-perez-in-play-out-s-to-josh-jung-f9kukn_Leo_Jim_nez_s_brilliant_recovery_for_the_out_Leo_Jim_nez_s_brilliant_recovery_fo.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

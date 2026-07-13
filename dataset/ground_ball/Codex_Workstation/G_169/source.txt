@@ -1,7 +1,0 @@
-video_title: Ernie Clement's terrific diving grab Ernie Clement's terrific diving grab Ernie Clement's terrific diving grab Ernie Clement makes a slick play to nab a sharp ground ball with a nifty flip to second for the out in the bottom of the 6th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/18/3c274ca0-d083a973-d03c90e5-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_823549_max-schuemann-grounds-into-a-force-out-shortstop-ernie-clement-to-sec
-clip_id: MLB_823549_max-schuemann-grounds-into-a-force-out-shortstop-ernie-clement-to-sec_head_0p000_6p000
-source_path: raw_sources\MLB_823549_max-schuemann-grounds-into-a-force-out-shortstop-ernie-clement-to-sec_Ernie_Clement_s_terrific_diving_grab_Ernie_Clement_s_terrific_diving_grab_Ernie_.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

@@ -1,7 +1,0 @@
-video_title: Elly De La Cruz snags a liner in the hole Elly De La Cruz snags a liner in the hole Elly De La Cruz snags a liner in the hole Elly De La Cruz shows off his quick reflexes to snag a liner in the hole to end the inning
-video_url: https://bdata-producedclips.mlb.com/02c41b07-a3f7-4186-83d3-b53689d71fc8.mp4
-source_id: MLB_824535_jo-adell-lines-out-sharply-to-shortstop-elly-de-la-cruz-x7528
-clip_id: MLB_824535_jo-adell-lines-out-sharply-to-shortstop-elly-de-la-cruz-x7528_auto1_0p549_7p549
-source_path: raw_sources\MLB_824535_jo-adell-lines-out-sharply-to-shortstop-elly-de-la-cruz-x7528_Elly_De_La_Cruz_snags_a_liner_in_the_hole_Elly_De_La_Cruz_snags_a_liner_in_the_h.mp4
-clip_start_time: 0.549
-clip_end_time: 7.549

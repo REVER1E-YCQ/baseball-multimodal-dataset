@@ -1,7 +1,0 @@
-video_title: Andy Pages scores on a forceout Andy Pages scores on a forceout Andy Pages scores on a forceout Shohei Ohtani grounds into a force out, scoring Andy Pages to extend the Dodgers' lead to 5-2
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/04/8342b0aa-34364ed2-e31015eb-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_824201_ryan-weiss-in-play-run-s-to-shohei-ohtani
-clip_id: MLB_824201_ryan-weiss-in-play-run-s-to-shohei-ohtani_head_0p000_6p000
-source_path: raw_sources\MLB_824201_ryan-weiss-in-play-run-s-to-shohei-ohtani_Andy_Pages_scores_on_a_forceout_Andy_Pages_scores_on_a_forceout_Andy_Pages_score.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

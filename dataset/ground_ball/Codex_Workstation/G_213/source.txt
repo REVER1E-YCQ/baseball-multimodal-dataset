@@ -1,7 +1,0 @@
-video_title: Iván Herrera's RBI groundout Iván Herrera's RBI groundout Iván Herrera's RBI groundout
-video_url: https://bdata-producedclips.mlb.com/15fad698-51fc-41b5-a59e-ef0733063703.mp4
-source_id: MLB_823784_jacob-misiorowski-in-play-run-s-to-ivan-herrera
-clip_id: MLB_823784_jacob-misiorowski-in-play-run-s-to-ivan-herrera_head_0p000_6p000
-source_path: raw_sources\MLB_823784_jacob-misiorowski-in-play-run-s-to-ivan-herrera_Iv_n_Herrera_s_RBI_groundout_Iv_n_Herrera_s_RBI_groundout_Iv_n_Herrera_s_RBI_gro.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

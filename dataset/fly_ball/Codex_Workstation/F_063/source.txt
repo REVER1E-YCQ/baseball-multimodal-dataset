@@ -1,7 +1,0 @@
-video_title: Carson Benge's leaping catch at the wall Carson Benge's leaping catch at the wall Carson Benge's leaping catch at the wall Carson Benge tracks a fly ball to the warning track and makes a great catch on Josh Lowe in the bottom of the 7th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/03/a2f4e54d-cce59f24-4dee0592-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_824043_josh-lowe-flies-out-to-right-fielder-carson-benge
-clip_id: MLB_824043_josh-lowe-flies-out-to-right-fielder-carson-benge_head_0p000_7p000
-source_path: raw_sources\MLB_824043_josh-lowe-flies-out-to-right-fielder-carson-benge_Carson_Benge_s_leaping_catch_at_the_wall_Carson_Benge_s_leaping_catch_at_the_wal.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000

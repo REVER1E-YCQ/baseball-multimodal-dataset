@@ -1,7 +1,0 @@
-video_title: Jorge Mateo's RBI single Jorge Mateo's RBI single Jorge Mateo's RBI single Jorge Mateo grounds a single that hits off of Payton Tolle, scoring Matt Olson to put the Braves on the board in the 4th
-video_url: https://bdata-producedclips.mlb.com/84cc6e61-f105-4169-8b37-08211b4cd103.mp4
-source_id: MLB_824757_payton-tolle-in-play-run-s-to-jorge-mateo
-clip_id: MLB_824757_payton-tolle-in-play-run-s-to-jorge-mateo_head_0p000_6p000
-source_path: raw_sources\MLB_824757_payton-tolle-in-play-run-s-to-jorge-mateo_Jorge_Mateo_s_RBI_single_Jorge_Mateo_s_RBI_single_Jorge_Mateo_s_RBI_single_Jorge.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

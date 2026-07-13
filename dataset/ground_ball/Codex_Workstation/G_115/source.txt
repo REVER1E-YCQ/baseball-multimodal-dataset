@@ -1,7 +1,0 @@
-video_title: Brady House's RBI groundout Brady House's RBI groundout Brady House's RBI groundout Brady House grounds out, but a run comes home to score to trim the Nationals' deficit to 2-1 in the 4th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/10/b83bcc80-5e806c6c-7f7943a1-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_823868_brady-house-s-rbi-groundout
-clip_id: MLB_823868_brady-house-s-rbi-groundout_head_0p000_6p000
-source_path: raw_sources\MLB_823868_brady-house-s-rbi-groundout_Brady_House_s_RBI_groundout_Brady_House_s_RBI_groundout_Brady_House_s_RBI_ground.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

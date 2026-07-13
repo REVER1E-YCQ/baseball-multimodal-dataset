@@ -1,7 +1,0 @@
-video_title: Dylan Beavers' RBI groundout Dylan Beavers' RBI groundout Dylan Beavers' RBI groundout
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/01/d10ba474-b3f94dee-c710afa4-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_823557_fernando-cruz-in-play-run-s-to-dylan-beavers
-clip_id: MLB_823557_fernando-cruz-in-play-run-s-to-dylan-beavers_head_0p000_6p000
-source_path: raw_sources\MLB_823557_fernando-cruz-in-play-run-s-to-dylan-beavers_Dylan_Beavers_RBI_groundout_Dylan_Beavers_RBI_groundout_Dylan_Beavers_RBI_ground.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

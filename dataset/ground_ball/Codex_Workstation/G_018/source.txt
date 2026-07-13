@@ -1,7 +1,0 @@
-video_title: Ryan Kreidler throws out Corbin Carroll in the 1st Ryan Kreidler throws out Corbin Carroll in the 1st Ryan Kreidler throws out Corbin Carroll in the 1st Ryan Kreidler fields Corbin Carroll's ground ball and makes the throw to first to get him out in the bottom of the 1st
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/20/24e0a830-e73171f0-3697644f-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_825068_taj-bradley-in-play-out-s-to-corbin-carroll
-clip_id: MLB_825068_taj-bradley-in-play-out-s-to-corbin-carroll_head_0p000_6p000
-source_path: raw_sources\MLB_825068_taj-bradley-in-play-out-s-to-corbin-carroll_Ryan_Kreidler_throws_out_Corbin_Carroll_in_the_1st_Ryan_Kreidler_throws_out_Corb.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

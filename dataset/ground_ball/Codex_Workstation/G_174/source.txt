@@ -1,7 +1,0 @@
-video_title: Hunter Gaddis escapes bases-loaded jam with groundout Hunter Gaddis escapes bases-loaded jam with groundout Hunter Gaddis escapes bases-loaded jam with groundout
-video_url: https://bdata-producedclips.mlb.com/a4554b0d-7733-4683-8dfa-dbcdf9adbd9c.mp4
-source_id: MLB_824276_zach-mckinstry-grounds-out-to-first-baseman-kyle-manzardo
-clip_id: MLB_824276_zach-mckinstry-grounds-out-to-first-baseman-kyle-manzardo_head_0p000_6p000
-source_path: raw_sources\MLB_824276_zach-mckinstry-grounds-out-to-first-baseman-kyle-manzardo_Hunter_Gaddis_escapes_bases-loaded_jam_with_groundout_Hunter_Gaddis_escapes_base.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

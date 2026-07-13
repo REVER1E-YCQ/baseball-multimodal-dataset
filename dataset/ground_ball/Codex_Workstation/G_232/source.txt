@@ -1,7 +1,0 @@
-video_title: Donovan Walton singles after ball hits the bag Donovan Walton singles after ball hits the bag Donovan Walton singles after ball hits the bag Donovan Walton singles on a ground ball that is deflected when it hit the bag
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/27/679b0963-82897d60-0bd5c972-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_824270_casey-mize-in-play-no-out-to-donovan-walton
-clip_id: MLB_824270_casey-mize-in-play-no-out-to-donovan-walton_head_0p000_6p000
-source_path: raw_sources\MLB_824270_casey-mize-in-play-no-out-to-donovan-walton_Donovan_Walton_singles_after_ball_hits_the_bag_Donovan_Walton_singles_after_ball.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

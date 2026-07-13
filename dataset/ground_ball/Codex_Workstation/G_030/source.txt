@@ -1,7 +1,0 @@
-video_title: Chase Silseth's smooth flip play at home is confirmed Chase Silseth's smooth flip play at home is confirmed Chase Silseth's smooth flip play at home is confirmed Chase Silseth shows off his defense on the mound, fielding a soft grounder and flips the ball home in time for the out and the call is con
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/24/88b70a34-11db78c0-dcce9576-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_824018_chase-silseth-in-play-out-s-to-gunnar-henderson
-clip_id: MLB_824018_chase-silseth-in-play-out-s-to-gunnar-henderson_head_0p000_6p000
-source_path: raw_sources\MLB_824018_chase-silseth-in-play-out-s-to-gunnar-henderson_Chase_Silseth_s_smooth_flip_play_at_home_is_confirmed_Chase_Silseth_s_smooth_fli.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

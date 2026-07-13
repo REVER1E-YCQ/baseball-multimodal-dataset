@@ -1,7 +1,0 @@
-video_title: Jeffrey Springs completes six no-hit innings Jeffrey Springs completes six no-hit innings Jeffrey Springs completes six no-hit innings Jeffrey Springs induces a groundout to third base, completing six no-hit innings against the Yankees
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/09/25671e8c-124ca019-eb19661e-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_823565_jeffrey-springs-completes-six-no-hit-innings
-clip_id: MLB_823565_jeffrey-springs-completes-six-no-hit-innings_auto1_0p000_6p000
-source_path: raw_sources\MLB_823565_jeffrey-springs-completes-six-no-hit-innings_Jeffrey_Springs_completes_six_no-hit_innings_Jeffrey_Springs_completes_six_no-hi.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

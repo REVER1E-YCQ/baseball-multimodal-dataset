@@ -1,7 +1,0 @@
-video_title: Coby Mayo's go-ahead home run (4) Coby Mayo's go-ahead home run (4) Coby Mayo's go-ahead home run (4) Coby Mayo gives the Orioles the lead with a line drive three-run home run to left field in the bottom of the 7th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/11/89787bc2-bbe8e8a2-942b45e3-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_824844_coby-mayo-homers-4-on-a-fly-ball-to-left-field-adley-rutschman-scores
-clip_id: MLB_824844_coby-mayo-homers-4-on-a-fly-ball-to-left-field-adley-rutschman-scores_head_0p000_7p000
-source_path: raw_sources\MLB_824844_coby-mayo-homers-4-on-a-fly-ball-to-left-field-adley-rutschman-scores_Coby_Mayo_s_go-ahead_home_run_4_Coby_Mayo_s_go-ahead_home_run_4_Coby_Mayo_s_go-a.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000

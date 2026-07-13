@@ -1,7 +1,0 @@
-video_title: Jake Bauers' RBI triple Jake Bauers' RBI triple Jake Bauers' RBI triple Jake Bauers hits a RBI triple on a ground ball that goes into the right-field corner to give the Brewers a 1-0 lead in the top of the 6th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/23/14bb0410-3603e685-ad9aadb3-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_824501_caleb-ferguson-in-play-run-s-to-jake-bauers
-clip_id: MLB_824501_caleb-ferguson-in-play-run-s-to-jake-bauers_head_0p000_6p000
-source_path: raw_sources\MLB_824501_caleb-ferguson-in-play-run-s-to-jake-bauers_Jake_Bauers_RBI_triple_Jake_Bauers_RBI_triple_Jake_Bauers_RBI_triple_Jake_Bauers.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

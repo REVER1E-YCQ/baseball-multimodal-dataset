@@ -1,7 +1,0 @@
-video_title: Nick Morabito's slick diving catch Nick Morabito's slick diving catch Nick Morabito's slick diving catch Nick Morabito makes a slick diving atch on a line drive off the bat of Connor Norby to end the bottom of the 5th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/22/858e961c-b02b8a95-b5d09b3d-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_823863_sean-manaea-in-play-out-s-to-connor-norby
-clip_id: MLB_823863_sean-manaea-in-play-out-s-to-connor-norby_head_0p000_7p000
-source_path: raw_sources\MLB_823863_sean-manaea-in-play-out-s-to-connor-norby_Nick_Morabito_s_slick_diving_catch_Nick_Morabito_s_slick_diving_catch_Nick_Morab.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000

@@ -1,7 +1,0 @@
-video_title: Bryan Reynolds scores on a groundout Bryan Reynolds scores on a groundout Bryan Reynolds scores on a groundout Bryan Reynolds scores on a groundout
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/29/f9d7263d-f5efcad6-3d4d578d-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_823377_taj-bradley-in-play-out-s-to-oneil-cruz
-clip_id: MLB_823377_taj-bradley-in-play-out-s-to-oneil-cruz_head_0p000_6p000
-source_path: raw_sources\MLB_823377_taj-bradley-in-play-out-s-to-oneil-cruz_Bryan_Reynolds_scores_on_a_groundout_Bryan_Reynolds_scores_on_a_groundout_Bryan_.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

@@ -1,7 +1,0 @@
-video_title: Mike Trout's terrific rolling catch Mike Trout's terrific rolling catch Mike Trout's terrific rolling catch Mike Trout tracks a Willi Castro fly ball and dives for a fantastic catch in the top of the 3rd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/02/188caece-9cb8b09f-2ae84a9b-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_824026_grayson-rodriguez-in-play-out-s-to-willi-castro
-clip_id: MLB_824026_grayson-rodriguez-in-play-out-s-to-willi-castro_head_0p000_7p000
-source_path: raw_sources\MLB_824026_grayson-rodriguez-in-play-out-s-to-willi-castro_Mike_Trout_s_terrific_rolling_catch_Mike_Trout_s_terrific_rolling_catch_Mike_Tro.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000

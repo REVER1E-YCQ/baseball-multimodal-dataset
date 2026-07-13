@@ -1,7 +1,0 @@
-video_title: Eduardo Rodriguez nabs Tovar at home plate Eduardo Rodriguez nabs Tovar at home plate Eduardo Rodriguez nabs Tovar at home plate Eduardo Rodriguez fields a soft ground ball and throws to home plate to nab Ezequiel Tovar trying to score, recording the second out
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/21/7e80a426-f30dc407-bef6c598-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_825083_eduardo-rodriguez-in-play-out-s-to-braxton-fulford-txszqw
-clip_id: MLB_825083_eduardo-rodriguez-in-play-out-s-to-braxton-fulford-txszqw_head_0p000_6p000
-source_path: raw_sources\MLB_825083_eduardo-rodriguez-in-play-out-s-to-braxton-fulford-txszqw_Eduardo_Rodriguez_nabs_Tovar_at_home_plate_Eduardo_Rodriguez_nabs_Tovar_at_home_.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

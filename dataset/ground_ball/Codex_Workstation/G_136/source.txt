@@ -1,7 +1,0 @@
-video_title: Spencer Torkelson nabs Luis Torrens at home plate Spencer Torkelson nabs Luis Torrens at home plate Spencer Torkelson nabs Luis Torrens at home plate Spencer Torkelson fields a softly hit grounder and throws out Luis Torrens at home plate to save a run in the 3rd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/13/31ab8ede-d049bda7-3386a73f-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_823631_framber-valdez-in-play-out-s-to-bo-bichette-idyz3p
-clip_id: MLB_823631_framber-valdez-in-play-out-s-to-bo-bichette-idyz3p_head_0p000_6p000
-source_path: raw_sources\MLB_823631_framber-valdez-in-play-out-s-to-bo-bichette-idyz3p_Spencer_Torkelson_nabs_Luis_Torrens_at_home_plate_Spencer_Torkelson_nabs_Luis_To.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

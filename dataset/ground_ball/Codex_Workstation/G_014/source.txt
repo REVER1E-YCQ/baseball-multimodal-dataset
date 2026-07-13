@@ -1,7 +1,0 @@
-video_title: Ryan Kreidler throws out Gabriel Arias Ryan Kreidler throws out Gabriel Arias Ryan Kreidler throws out Gabriel Arias Ryan Kreidler fields Gabriel Arias' ground ball and makes the throw to first to get him out for the first out in the top of the 4th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-07/08/2f584048-e5243781-85df45b2-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_823684_connor-prielipp-in-play-out-s-to-gabriel-arias
-clip_id: MLB_823684_connor-prielipp-in-play-out-s-to-gabriel-arias_head_0p000_6p000
-source_path: raw_sources\MLB_823684_connor-prielipp-in-play-out-s-to-gabriel-arias_Ryan_Kreidler_throws_out_Gabriel_Arias_Ryan_Kreidler_throws_out_Gabriel_Arias_Ry.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

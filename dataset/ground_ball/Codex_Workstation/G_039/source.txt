@@ -1,7 +1,0 @@
-video_title: Michael Massey's spinning throw Michael Massey's spinning throw Michael Massey's spinning throw Michael Massey fields a ground ball to his left and makes a smooth spinning throw to first base in time for the out
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-07/01/f206ff4b-8254b021-980cb046-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_824094_jose-cuas-in-play-out-s-to-chandler-simpson
-clip_id: MLB_824094_jose-cuas-in-play-out-s-to-chandler-simpson_head_0p000_6p000
-source_path: raw_sources\MLB_824094_jose-cuas-in-play-out-s-to-chandler-simpson_Michael_Massey_s_spinning_throw_Michael_Massey_s_spinning_throw_Michael_Massey_s.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

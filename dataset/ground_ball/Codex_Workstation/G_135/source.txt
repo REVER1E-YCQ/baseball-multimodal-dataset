@@ -1,7 +1,0 @@
-video_title: Pirates score two on wild grounder, obstruction Pirates score two on wild grounder, obstruction Pirates score two on wild grounder, obstruction The Pirates get two runs in the 2nd inning after Henry Davis' ground ball turns into obstruction on a play at home
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/13/b28625ba-b0ab3944-97940d77-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_823386_jose-quintana-in-play-no-out-to-henry-davis-dshfyf
-clip_id: MLB_823386_jose-quintana-in-play-no-out-to-henry-davis-dshfyf_head_0p000_6p000
-source_path: raw_sources\MLB_823386_jose-quintana-in-play-no-out-to-henry-davis-dshfyf_Pirates_score_two_on_wild_grounder_obstruction_Pirates_score_two_on_wild_grounde.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

@@ -1,7 +1,0 @@
-video_title: Shane McClanahan fields Vlad Jr.'s ground ball Shane McClanahan fields Vlad Jr.'s ground ball Shane McClanahan fields Vlad Jr.'s ground ball
-video_url: https://bdata-producedclips.mlb.com/dd784c13-651b-4350-bb40-6ba9f85ce00a.mp4
-source_id: MLB_822985_vladimir-guerrero-jr-grounds-out-softly-pitcher-shane-mcclanahan-to-f
-clip_id: MLB_822985_vladimir-guerrero-jr-grounds-out-softly-pitcher-shane-mcclanahan-to-f_head_0p000_6p000
-source_path: raw_sources\MLB_822985_vladimir-guerrero-jr-grounds-out-softly-pitcher-shane-mcclanahan-to-f_Shane_McClanahan_fields_Vlad_Jr._s_ground_ball_Shane_McClanahan_fields_Vlad_Jr._.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

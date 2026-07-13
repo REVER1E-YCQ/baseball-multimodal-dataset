@@ -1,7 +1,0 @@
-﻿video_title: Carson Benge's RBI groundout聽 Carson Benge's RBI groundout聽 Carson Benge's RBI groundout
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/04/9ff7b3bd-5ca629ba-a9506c7c-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_823240_erik-miller-in-play-run-s-to-carson-benge
-clip_id: MLB_823240_erik-miller-in-play-run-s-to-carson-benge_auto1_1p480_7p480
-source_path: raw_sources\MLB_823240_erik-miller-in-play-run-s-to-carson-benge_Carson_Benge_s_RBI_groundout_Carson_Benge_s_RBI_groundout_Carson_Benge_s_RBI_gro.mp4
-clip_start_time: 1.480
-clip_end_time: 7.480

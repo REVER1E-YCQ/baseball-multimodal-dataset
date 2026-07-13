@@ -1,7 +1,0 @@
-video_title: A.J. Ewing's RBI single A.J. Ewing's RBI single A.J. Ewing's RBI single A.J. Ewing singles on a ground ball to center field, scoring Brett Baty in the bottom of the 4th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-07/07/95c06966-32ea39e1-d1758c33-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_823607_seth-lugo-in-play-run-s-to-a-j-ewing
-clip_id: MLB_823607_seth-lugo-in-play-run-s-to-a-j-ewing_head_0p000_6p000
-source_path: raw_sources\MLB_823607_seth-lugo-in-play-run-s-to-a-j-ewing_A.J._Ewing_s_RBI_single_A.J._Ewing_s_RBI_single_A.J._Ewing_s_RBI_single_A.J._Ewi.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

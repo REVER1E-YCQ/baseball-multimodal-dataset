@@ -1,7 +1,0 @@
-video_title: Garrett Mitchell's RBI groundout Garrett Mitchell's RBI groundout Garrett Mitchell's RBI groundout
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/03/8c676294-d018335d-8ede1ce6-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_822742_richard-lovelady-in-play-run-s-to-garrett-mitchell
-clip_id: MLB_822742_richard-lovelady-in-play-run-s-to-garrett-mitchell_head_0p000_6p000
-source_path: raw_sources\MLB_822742_richard-lovelady-in-play-run-s-to-garrett-mitchell_Garrett_Mitchell_s_RBI_groundout_Garrett_Mitchell_s_RBI_groundout_Garrett_Mitche.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

@@ -1,7 +1,0 @@
-video_title: Will Klein seals the save, Dodgers' 3-0 victory Will Klein seals the save, Dodgers' 3-0 victory Will Klein seals the save, Dodgers' 3-0 victory Will Klein induces a ground ball to first base, sealing the save and securing the Dodgers' 3-0 victory over the Padres
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-07/04/0106acb9-ebebf6d5-ece997ea-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_823932_ty-france-grounds-out-to-first-baseman-freddie-freeman
-clip_id: MLB_823932_ty-france-grounds-out-to-first-baseman-freddie-freeman_head_0p000_6p000
-source_path: raw_sources\MLB_823932_ty-france-grounds-out-to-first-baseman-freddie-freeman_Will_Klein_seals_the_save_Dodgers_3-0_victory_Will_Klein_seals_the_save_Dodgers_.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

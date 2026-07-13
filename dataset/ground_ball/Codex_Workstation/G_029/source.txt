@@ -1,7 +1,0 @@
-video_title: Oswald Peraza's outstanding off-balance throw Oswald Peraza's outstanding off-balance throw Oswald Peraza's outstanding off-balance throw Oswald Peraza shows off his arm strength at shortstop, making a stop on a ground ball and fires an off-balance throw to first base for the out
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/24/53801d42-a11f54ae-f855606c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_824018_jose-fermin-in-play-out-s-to-jeremiah-jackson
-clip_id: MLB_824018_jose-fermin-in-play-out-s-to-jeremiah-jackson_head_0p000_6p000
-source_path: raw_sources\MLB_824018_jose-fermin-in-play-out-s-to-jeremiah-jackson_Oswald_Peraza_s_outstanding_off-balance_throw_Oswald_Peraza_s_outstanding_off-ba.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

@@ -1,7 +1,0 @@
-video_title: Heliot Ramos' RBI groundout Heliot Ramos' RBI groundout Heliot Ramos' RBI groundout
-video_url: https://bdata-producedclips.mlb.com/9f433a41-740a-4b86-a280-07be4841120c.mp4
-source_id: MLB_824857_chris-bassitt-in-play-run-s-to-heliot-ramos-lj8gho
-clip_id: MLB_824857_chris-bassitt-in-play-run-s-to-heliot-ramos-lj8gho_auto1_3p460_9p460
-source_path: raw_sources\MLB_824857_chris-bassitt-in-play-run-s-to-heliot-ramos-lj8gho_Heliot_Ramos_RBI_groundout_Heliot_Ramos_RBI_groundout_Heliot_Ramos_RBI_groundout.mp4
-clip_start_time: 3.460
-clip_end_time: 9.460

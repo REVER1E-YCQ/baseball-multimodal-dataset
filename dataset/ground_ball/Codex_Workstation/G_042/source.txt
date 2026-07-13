@@ -1,7 +1,0 @@
-video_title: Bo Bichette scores on a throwing error Bo Bichette scores on a throwing error Bo Bichette scores on a throwing error Jared Young hits a ground ball to first base and Josh Naylor throws it away, allowing Bo Bichette to score to put the Mets on the board
-video_url: https://bdata-producedclips.mlb.com/f8a4eb39-0bdb-41f6-9398-b79f27ad2c98.mp4
-source_id: MLB_823130_george-kirby-in-play-no-out-to-jared-young
-clip_id: MLB_823130_george-kirby-in-play-no-out-to-jared-young_head_0p000_6p000
-source_path: raw_sources\MLB_823130_george-kirby-in-play-no-out-to-jared-young_Bo_Bichette_scores_on_a_throwing_error_Bo_Bichette_scores_on_a_throwing_error_Bo.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

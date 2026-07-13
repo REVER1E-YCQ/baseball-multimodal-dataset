@@ -1,7 +1,0 @@
-video_title: David Fry's RBI groundout David Fry's RBI groundout David Fry's RBI groundout
-video_url: https://bdata-producedclips.mlb.com/4e2b237d-091d-4434-a4fd-9622aec89a66.mp4
-source_id: MLB_824438_reid-detmers-in-play-run-s-to-david-fry
-clip_id: MLB_824438_reid-detmers-in-play-run-s-to-david-fry_head_0p000_6p000
-source_path: raw_sources\MLB_824438_reid-detmers-in-play-run-s-to-david-fry_David_Fry_s_RBI_groundout_David_Fry_s_RBI_groundout_David_Fry_s_RBI_groundout.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

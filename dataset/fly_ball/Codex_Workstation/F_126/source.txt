@@ -1,7 +1,0 @@
-video_title: James Wood catches pop fly to seal Nationals' win James Wood catches pop fly to seal Nationals' win James Wood catches pop fly to seal Nationals' win
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/21/456b2508-ea4daad5-ed9aa0be-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_823804_william-contreras-flies-out-to-right-fielder-james-wood-in-foul-terri
-clip_id: MLB_823804_william-contreras-flies-out-to-right-fielder-james-wood-in-foul-terri_auto1_6p502_13p502
-source_path: raw_sources\MLB_823804_william-contreras-flies-out-to-right-fielder-james-wood-in-foul-terri_James_Wood_catches_pop_fly_to_seal_Nationals_win_James_Wood_catches_pop_fly_to_s.mp4
-clip_start_time: 6.502
-clip_end_time: 13.502

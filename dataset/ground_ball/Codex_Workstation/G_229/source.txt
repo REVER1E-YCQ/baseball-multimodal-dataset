@@ -1,7 +1,0 @@
-video_title: Zack Gelof's great diving stop Zack Gelof's great diving stop Zack Gelof's great diving stop Randy Arozarena grounds out, third baseman Zack Gelof to first baseman Nick Kurtz.
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/27/62620df0-af5322e5-015ed4be-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_825003_luis-medina-in-play-out-s-to-randy-arozarena
-clip_id: MLB_825003_luis-medina-in-play-out-s-to-randy-arozarena_head_0p000_6p000
-source_path: raw_sources\MLB_825003_luis-medina-in-play-out-s-to-randy-arozarena_Zack_Gelof_s_great_diving_stop_Zack_Gelof_s_great_diving_stop_Zack_Gelof_s_great.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

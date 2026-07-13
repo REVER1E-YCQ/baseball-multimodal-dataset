@@ -1,7 +1,0 @@
-video_title: Nasim Nuñez's two-run single Nasim Nuñez's two-run single Nasim Nuñez's two-run single Nasim Nuñez extends the Nationals' lead to 3-0 on a hard ground ball to left field in the bottom of the 4th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/23/7c345e92-e3877871-f8da984e-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_822718_nasim-nunez-singles-on-a-ground-ball-to-left-fielder-brandon-marsh-an
-clip_id: MLB_822718_nasim-nunez-singles-on-a-ground-ball-to-left-fielder-brandon-marsh-an_head_0p000_6p000
-source_path: raw_sources\MLB_822718_nasim-nunez-singles-on-a-ground-ball-to-left-fielder-brandon-marsh-an_Nasim_Nu_ez_s_two-run_single_Nasim_Nu_ez_s_two-run_single_Nasim_Nu_ez_s_two-run_.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

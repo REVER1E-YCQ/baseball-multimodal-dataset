@@ -1,7 +1,0 @@
-video_title: Josh Jung leaves game with an injury Josh Jung leaves game with an injury Josh Jung leaves game with an injury Josh Jung leaves the game with an injury after diving for a ground ball in the 3rd
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/23/9e0bd80d-058b8282-dbbbf5bb-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_824030_nathan-eovaldi-in-play-no-out-to-zach-neto-sfghud
-clip_id: MLB_824030_nathan-eovaldi-in-play-no-out-to-zach-neto-sfghud_head_0p000_6p000
-source_path: raw_sources\MLB_824030_nathan-eovaldi-in-play-no-out-to-zach-neto-sfghud_Josh_Jung_leaves_game_with_an_injury_Josh_Jung_leaves_game_with_an_injury_Josh_J.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

@@ -1,7 +1,0 @@
-video_title: Taylor Ward's RBI groundout Taylor Ward's RBI groundout Taylor Ward's RBI groundout
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/02/465343a1-a8eaebf2-38528ed6-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_823554_taylor-ward-grounds-out-to-first-baseman-ben-rice-dylan-beavers-score
-clip_id: MLB_823554_taylor-ward-grounds-out-to-first-baseman-ben-rice-dylan-beavers-score_head_0p000_6p000
-source_path: raw_sources\MLB_823554_taylor-ward-grounds-out-to-first-baseman-ben-rice-dylan-beavers-score_Taylor_Ward_s_RBI_groundout_Taylor_Ward_s_RBI_groundout_Taylor_Ward_s_RBI_ground.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

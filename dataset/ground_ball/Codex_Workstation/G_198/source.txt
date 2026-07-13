@@ -1,7 +1,0 @@
-video_title: Marcell Ozuna's RBI groundout Marcell Ozuna's RBI groundout Marcell Ozuna's RBI groundout
-video_url: https://bdata-producedclips.mlb.com/b66f2e72-7421-430e-9e1b-877ad311fd42.mp4
-source_id: MLB_822814_yariel-rodriguez-in-play-run-s-to-marcell-ozuna
-clip_id: MLB_822814_yariel-rodriguez-in-play-run-s-to-marcell-ozuna_head_0p000_6p000
-source_path: raw_sources\MLB_822814_yariel-rodriguez-in-play-run-s-to-marcell-ozuna_Marcell_Ozuna_s_RBI_groundout_Marcell_Ozuna_s_RBI_groundout_Marcell_Ozuna_s_RBI_.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

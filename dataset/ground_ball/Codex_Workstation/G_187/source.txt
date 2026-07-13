@@ -1,7 +1,0 @@
-video_title: Andrés Chaparro's RBI groundout Andrés Chaparro's RBI groundout Andrés Chaparro's RBI groundout
-video_url: https://bdata-producedclips.mlb.com/1683fab9-86bc-432f-90c9-1d1c167acb53.mp4
-source_id: MLB_822733_david-peterson-in-play-run-s-to-andres-chaparro
-clip_id: MLB_822733_david-peterson-in-play-run-s-to-andres-chaparro_head_0p000_6p000
-source_path: raw_sources\MLB_822733_david-peterson-in-play-run-s-to-andres-chaparro_Andr_s_Chaparro_s_RBI_groundout_Andr_s_Chaparro_s_RBI_groundout_Andr_s_Chaparro_.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

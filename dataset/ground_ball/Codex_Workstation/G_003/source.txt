@@ -1,7 +1,0 @@
-video_title: Kyle Karros' strong throw from third Kyle Karros' strong throw from third Kyle Karros' strong throw from third Kyle Karros handles the grounder at third and makes the strong throw from third base in the top of the 8th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-07/02/7ff2b18d-c8dc5576-2e79c859-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_824335_javier-sanoja-grounds-out-third-baseman-kyle-karros-to-first-baseman-
-clip_id: MLB_824335_javier-sanoja-grounds-out-third-baseman-kyle-karros-to-first-baseman-_head_0p000_6p000
-source_path: raw_sources\MLB_824335_javier-sanoja-grounds-out-third-baseman-kyle-karros-to-first-baseman-_Kyle_Karros_strong_throw_from_third_Kyle_Karros_strong_throw_from_third_Kyle_Kar.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

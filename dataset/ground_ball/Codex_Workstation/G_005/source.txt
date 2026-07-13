@@ -1,7 +1,0 @@
-video_title: Shea Langeliers' barehanded stop and throw Shea Langeliers' barehanded stop and throw Shea Langeliers' barehanded stop and throw Shea Langeliers hustles to a soft ground ball, picks up the ball barehanded and fires to first in time for the out
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-07/03/6a9954d6-608aa2da-e12d7326-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_824982_jack-perkins-in-play-out-s-to-otto-lopez
-clip_id: MLB_824982_jack-perkins-in-play-out-s-to-otto-lopez_head_0p000_6p000
-source_path: raw_sources\MLB_824982_jack-perkins-in-play-out-s-to-otto-lopez_Shea_Langeliers_barehanded_stop_and_throw_Shea_Langeliers_barehanded_stop_and_th.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

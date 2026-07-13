@@ -1,7 +1,0 @@
-video_title: Kyle Hurt induces groundout, escapes jam in 7th Kyle Hurt induces groundout, escapes jam in 7th Kyle Hurt induces groundout, escapes jam in 7th
-video_url: https://bdata-producedclips.mlb.com/c04be5e2-f58a-4b61-9c46-b3ca9f912cf4.mp4
-source_id: MLB_823787_kyle-hurt-in-play-out-s-to-andrew-vaughn
-clip_id: MLB_823787_kyle-hurt-in-play-out-s-to-andrew-vaughn_head_0p000_6p000
-source_path: raw_sources\MLB_823787_kyle-hurt-in-play-out-s-to-andrew-vaughn_Kyle_Hurt_induces_groundout_escapes_jam_in_7th_Kyle_Hurt_induces_groundout_escap.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

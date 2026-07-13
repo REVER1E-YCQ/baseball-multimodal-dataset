@@ -1,7 +1,0 @@
-video_title: Cooper Criswell secures the win with a groundout Cooper Criswell secures the win with a groundout Cooper Criswell secures the win with a groundout
-video_url: https://bdata-producedclips.mlb.com/95a44c07-f4e5-43eb-8637-22bcaf4f7e88.mp4
-source_id: MLB_825003_darell-hernaiz-grounds-into-a-force-out-shortstop-j-p-crawford-to-sec
-clip_id: MLB_825003_darell-hernaiz-grounds-into-a-force-out-shortstop-j-p-crawford-to-sec_head_0p000_6p000
-source_path: raw_sources\MLB_825003_darell-hernaiz-grounds-into-a-force-out-shortstop-j-p-crawford-to-sec_Cooper_Criswell_secures_the_win_with_a_groundout_Cooper_Criswell_secures_the_win.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

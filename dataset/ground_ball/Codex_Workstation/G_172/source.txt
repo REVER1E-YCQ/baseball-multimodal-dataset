@@ -1,7 +1,0 @@
-video_title: Mauricio Dubón's RBI single Mauricio Dubón's RBI single Mauricio Dubón's RBI single Mauricio Dubón grounds a single to second base, bringing home Mike Yasremski to give the Braves a 5-4 lead in the 8th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/19/5a6df436-7f5efd78-c1115f63-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_823865_calvin-faucher-in-play-run-s-to-mauricio-dubon
-clip_id: MLB_823865_calvin-faucher-in-play-run-s-to-mauricio-dubon_head_0p000_6p000
-source_path: raw_sources\MLB_823865_calvin-faucher-in-play-run-s-to-mauricio-dubon_Mauricio_Dub_n_s_RBI_single_Mauricio_Dub_n_s_RBI_single_Mauricio_Dub_n_s_RBI_sin.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

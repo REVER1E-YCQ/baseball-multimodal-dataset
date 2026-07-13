@@ -1,7 +1,0 @@
-video_title: Elly De La Cruz's RBI groundout Elly De La Cruz's RBI groundout Elly De La Cruz's RBI groundout Elly De La Cruz puts the Reds on the board with an RBI groundout in the 6th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/01/ccf1b39f-7566c96a-5014a7c6-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_823389_mitch-keller-in-play-run-s-to-elly-de-la-cruz-tdkmqc
-clip_id: MLB_823389_mitch-keller-in-play-run-s-to-elly-de-la-cruz-tdkmqc_head_0p000_6p000
-source_path: raw_sources\MLB_823389_mitch-keller-in-play-run-s-to-elly-de-la-cruz-tdkmqc_Elly_De_La_Cruz_s_RBI_groundout_Elly_De_La_Cruz_s_RBI_groundout_Elly_De_La_Cruz_.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

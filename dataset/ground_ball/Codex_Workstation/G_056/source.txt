@@ -1,7 +1,0 @@
-video_title: Yandy Díaz second RBI single Yandy Díaz second RBI single Yandy Díaz second RBI single Yandy Díaz hits a ground ball RBI single to left field to extend the Rays' lead to 5-0 over the Red Sox in the 6th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/10/677f8d6d-973a358c-758373a3-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_822970_yandy-diaz-singles-on-a-ground-ball-to-left-fielder-jarren-duran-nick
-clip_id: MLB_822970_yandy-diaz-singles-on-a-ground-ball-to-left-fielder-jarren-duran-nick_head_0p000_6p000
-source_path: raw_sources\MLB_822970_yandy-diaz-singles-on-a-ground-ball-to-left-fielder-jarren-duran-nick_Yandy_D_az_second_RBI_single_Yandy_D_az_second_RBI_single_Yandy_D_az_second_RBI_.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

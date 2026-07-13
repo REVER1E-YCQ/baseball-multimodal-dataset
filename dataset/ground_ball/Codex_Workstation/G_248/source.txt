@@ -1,7 +1,0 @@
-video_title: Ben Williamson's outstanding play Ben Williamson's outstanding play Ben Williamson's outstanding play Ben Williamson lays out to corral a ground ball and rips a sharp throw to first, nabbing Brooks Lee for the out in the bottom of the 5th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/04/458c671f-b897ab07-b9b29835-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_823730_brooks-lee-grounds-out-sharply-shortstop-ben-williamson-to-first-base
-clip_id: MLB_823730_brooks-lee-grounds-out-sharply-shortstop-ben-williamson-to-first-base_auto1_0p000_6p000
-source_path: raw_sources\MLB_823730_brooks-lee-grounds-out-sharply-shortstop-ben-williamson-to-first-base_Ben_Williamson_s_outstanding_play_Ben_Williamson_s_outstanding_play_Ben_Williams.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

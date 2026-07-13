@@ -1,7 +1,0 @@
-video_title: Luis García Jr.'s RBI groundout Luis García Jr.'s RBI groundout Luis García Jr.'s RBI groundout
-video_url: https://bdata-producedclips.mlb.com/ceed7f58-7260-4e54-9f0e-02fbb002d648.mp4
-source_id: MLB_824519_tejay-antone-in-play-run-s-to-luis-garcia-jr
-clip_id: MLB_824519_tejay-antone-in-play-run-s-to-luis-garcia-jr_head_0p000_6p000
-source_path: raw_sources\MLB_824519_tejay-antone-in-play-run-s-to-luis-garcia-jr_Luis_Garc_a_Jr._s_RBI_groundout_Luis_Garc_a_Jr._s_RBI_groundout_Luis_Garc_a_Jr._.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

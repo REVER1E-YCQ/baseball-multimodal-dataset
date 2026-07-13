@@ -1,7 +1,0 @@
-video_title: Ildemaro Vargas' backhanded stop  Ildemaro Vargas' backhanded stop  Ildemaro Vargas' backhanded stop  Ildemaro Vargas makes a great play and snags a ground ball to get the first out in the bottom of the 5th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/11/bc265db7-0064c6ef-d23a3b08-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_822901_michael-soroka-in-play-out-s-to-joc-pederson
-clip_id: MLB_822901_michael-soroka-in-play-out-s-to-joc-pederson_head_0p000_6p000
-source_path: raw_sources\MLB_822901_michael-soroka-in-play-out-s-to-joc-pederson_Ildemaro_Vargas_backhanded_stop_Ildemaro_Vargas_backhanded_stop_Ildemaro_Vargas_.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

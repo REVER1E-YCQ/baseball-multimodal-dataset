@@ -1,7 +1,0 @@
-video_title: Jakob Marsee's RBI groundout Jakob Marsee's RBI groundout Jakob Marsee's RBI groundout
-video_url: https://bdata-producedclips.mlb.com/bb4efb19-c169-40bb-835c-307ea6eaba60.mp4
-source_id: MLB_822812_tyler-rogers-in-play-run-s-to-jakob-marsee
-clip_id: MLB_822812_tyler-rogers-in-play-run-s-to-jakob-marsee_head_0p000_6p000
-source_path: raw_sources\MLB_822812_tyler-rogers-in-play-run-s-to-jakob-marsee_Jakob_Marsee_s_RBI_groundout_Jakob_Marsee_s_RBI_groundout_Jakob_Marsee_s_RBI_gro.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

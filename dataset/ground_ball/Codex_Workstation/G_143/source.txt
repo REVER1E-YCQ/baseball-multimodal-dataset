@@ -1,7 +1,0 @@
-video_title: Matt Shaw's RBI fielder's choice Matt Shaw's RBI fielder's choice Matt Shaw's RBI fielder's choice Matt Shaw grounds into a fielder's choice, plating Ian Happ to put the Cubs on the board in the 6th
-video_url: https://bdata-producedclips.mlb.com/9fbcfe17-dd83-4803-b686-064fb09af37d.mp4
-source_id: MLB_824926_chris-sale-in-play-run-s-to-matt-shaw
-clip_id: MLB_824926_chris-sale-in-play-run-s-to-matt-shaw_head_0p000_6p000
-source_path: raw_sources\MLB_824926_chris-sale-in-play-run-s-to-matt-shaw_Matt_Shaw_s_RBI_fielder_s_choice_Matt_Shaw_s_RBI_fielder_s_choice_Matt_Shaw_s_RB.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

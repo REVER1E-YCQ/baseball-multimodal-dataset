@@ -1,7 +1,0 @@
-video_title: Paul Goldschmidt's RBI groundout Paul Goldschmidt's RBI groundout Paul Goldschmidt's RBI groundout Paul Goldschmidt's RBI groundout cuts the Blue Jays' lead to 2-1 in the 9th inning
-video_url: https://bdata-producedclips.mlb.com/f7bc52b2-15f5-4f85-afdb-f973cb024011.mp4
-source_id: MLB_823547_louis-varland-in-play-run-s-to-paul-goldschmidt
-clip_id: MLB_823547_louis-varland-in-play-run-s-to-paul-goldschmidt_head_0p000_6p000
-source_path: raw_sources\MLB_823547_louis-varland-in-play-run-s-to-paul-goldschmidt_Paul_Goldschmidt_s_RBI_groundout_Paul_Goldschmidt_s_RBI_groundout_Paul_Goldschmi.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

@@ -1,7 +1,0 @@
-video_title: Willi Castro's RBI groundout Willi Castro's RBI groundout Willi Castro's RBI groundout
-video_url: https://bdata-producedclips.mlb.com/5e76a6d2-9781-46e9-9edc-c9258f3526d6.mp4
-source_id: MLB_823947_shohei-ohtani-in-play-run-s-to-willi-castro
-clip_id: MLB_823947_shohei-ohtani-in-play-run-s-to-willi-castro_head_0p000_6p000
-source_path: raw_sources\MLB_823947_shohei-ohtani-in-play-run-s-to-willi-castro_Willi_Castro_s_RBI_groundout_Willi_Castro_s_RBI_groundout_Willi_Castro_s_RBI_gro.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

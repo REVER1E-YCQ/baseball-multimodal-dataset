@@ -1,0 +1,404 @@
+sample_id,sample_path,status,audio_ratio,changed_fields,old_values,new_values,reason
+F_001,dataset\fly_ball\Codex_Workstation\F_001,manual_applied,,,{},{},Replaced post-contact auto clip with head 0.000-7.000 clip; 25 fps frames show the swing at about 0.98 s and the local audio transient is at 0.98 s.
+F_002,dataset\fly_ball\Codex_Workstation\F_002,manual_applied,,"event_start,event_end","{""event_end"": ""2.820"", ""event_start"": ""2.720""}","{""event_end"": ""1.350"", ""event_start"": ""1.250""}",50 fps frames place bat-ball contact at about 1.24-1.30 s; local RMS and differential audio peaks are both at 1.30 s.
+F_003,dataset\fly_ball\Codex_Workstation\F_003,auto_applied,11.145,"strength,event_start,event_end","{""event_end"": ""1.920"", ""event_start"": ""1.820"", ""strength"": ""medium""}","{""event_end"": ""1.950"", ""event_start"": ""1.800"", ""strength"": ""high""}","strict timing, semantics, and adjudication gates passed"
+F_004,dataset\fly_ball\Codex_Workstation\F_004,auto_applied,6.226,"event_start,event_end","{""event_end"": ""2.740"", ""event_start"": ""2.640""}","{""event_end"": ""3.500"", ""event_start"": ""3.400""}","strict timing, semantics, and adjudication gates passed"
+F_005,dataset\fly_ball\Codex_Workstation\F_005,manual_applied,,,{},{},50 fps frames place contact around 1.52-1.60 s and the audio peak is 1.62 s; retain current 1.580-1.680 interval.
+F_006,dataset\fly_ball\Codex_Workstation\F_006,manual_applied,,,{},{},Current 0.790-0.890 interval contains the 0.84 s audio peak and visible swing; reject Qwen boundary-time correction.
+F_007,dataset\fly_ball\Codex_Workstation\F_007,auto_applied,9.692,,{},{},"strict timing, semantics, and adjudication gates passed"
+F_008,dataset\fly_ball\Codex_Workstation\F_008,manual_applied,,,{},{},25 fps frames show contact in the current interval and the spectrogram has a distinct broadband vertical transient at about 3.45 s; retain despite RMS ratio 1.72.
+F_009,dataset\fly_ball\Codex_Workstation\F_009,auto_applied,4.773,"event_start,event_end","{""event_end"": ""2.760"", ""event_start"": ""2.660""}","{""event_end"": ""1.930"", ""event_start"": ""1.830""}","strict timing, semantics, and adjudication gates passed"
+F_010,dataset\fly_ball\Codex_Workstation\F_010,auto_applied,9.902,"trajectory_type,event_start,event_end","{""event_end"": ""3.500"", ""event_start"": ""3.400"", ""trajectory_type"": ""fly""}","{""event_end"": ""3.490"", ""event_start"": ""3.390"", ""trajectory_type"": ""line_drive""}","strict timing, semantics, and adjudication gates passed"
+F_011,dataset\fly_ball\Codex_Workstation\F_011,manual_applied,,,{},{},Current 1.060-1.160 interval contains the global RMS and differential peak at 1.12 s; Qwen correction is late.
+F_012,dataset\fly_ball\Codex_Workstation\F_012,auto_applied,16.252,"trajectory_type,event_start,event_end","{""event_end"": ""3.480"", ""event_start"": ""3.380"", ""trajectory_type"": ""fly""}","{""event_end"": ""3.470"", ""event_start"": ""3.370"", ""trajectory_type"": ""line_drive""}","strict timing, semantics, and adjudication gates passed"
+F_013,dataset\fly_ball\Codex_Workstation\F_013,manual_applied,,,{},{},Current 3.300-3.400 interval contains the global RMS and differential peak at 3.36 s and matches the contact sequence.
+F_014,dataset\fly_ball\Codex_Workstation\F_014,auto_applied,11.649,"event_start,event_end","{""event_end"": ""1.200"", ""event_start"": ""1.100""}","{""event_end"": ""1.190"", ""event_start"": ""1.090""}","strict timing, semantics, and adjudication gates passed"
+F_015,dataset\fly_ball\Codex_Workstation\F_015,auto_applied,9.380,"event_start,event_end","{""event_end"": ""1.060"", ""event_start"": ""0.960""}","{""event_end"": ""1.070"", ""event_start"": ""0.970""}","strict timing, semantics, and adjudication gates passed"
+F_016,dataset\fly_ball\Codex_Workstation\F_016,manual_applied,,,{},{},Current 3.660-3.760 interval contains the differential peak at 3.72 s and matches the contact sequence.
+F_017,dataset\fly_ball\Codex_Workstation\F_017,manual_applied,,,{},{},25 fps frames show contact near 1.23 s and the spectrogram has a distinct broadband transient at the same time; retain despite a noisy baseline.
+F_018,dataset\fly_ball\Codex_Workstation\F_018,manual_applied,,,{},{},25 fps frames show contact near 1.97 s and the spectrogram has a strong narrow broadband transient at the same time; retain despite RMS ratio 1.33.
+F_019,dataset\fly_ball\Codex_Workstation\F_019,manual_applied,,"event_start,event_end","{""event_end"": ""3.780"", ""event_start"": ""3.680""}","{""event_end"": ""4.120"", ""event_start"": ""3.980""}",High-resolution frames place contact around 4.04-4.12 s; differential audio peak is about 4.00 s.
+F_020,dataset\fly_ball\Codex_Workstation\F_020,auto_applied,9.830,"event_start,event_end","{""event_end"": ""0.880"", ""event_start"": ""0.780""}","{""event_end"": ""0.960"", ""event_start"": ""0.820""}","strict timing, semantics, and adjudication gates passed"
+F_021,dataset\fly_ball\Codex_Workstation\F_021,manual_applied,,,{},{},25 fps frames show contact near 1.59 s and the spectrogram contains a narrow all-band transient at the same time; retain after manual audio-visual review.
+F_022,dataset\fly_ball\Codex_Workstation\F_022,manual_applied,,,{},{},25 fps frames show contact near 3.49 s and the spectrogram has a clear isolated broadband transient at that time; retain despite the median-based ratio.
+F_023,dataset\fly_ball\Codex_Workstation\F_023,manual_applied,,,{},{},Current interval covers the visible swing and has stronger local transient evidence than the proposed timing.
+F_024,dataset\fly_ball\Codex_Workstation\F_024,manual_applied,,,{},{},25 fps frames place contact in the current 1.020-1.120 interval and its local transient ratio is 6.58; reject the model interval that incorrectly begins at 0.56 s.
+F_025,dataset\fly_ball\Codex_Workstation\F_025,manual_applied,,,{},{},25 fps frames place contact in the current 0.960-1.060 interval with adequate pre-contact context and a local transient ratio of 8.44; reject the erroneous 0.035-0.135 proposal.
+F_026,dataset\fly_ball\Codex_Workstation\F_026,manual_applied,,,{},{},25 fps frames show contact near 2.35 s and the spectrogram contains a strong isolated broadband transient aligned with it.
+F_027,dataset\fly_ball\Codex_Workstation\F_027,auto_applied,10.508,"event_start,event_end","{""event_end"": ""0.800"", ""event_start"": ""0.700""}","{""event_end"": ""0.690"", ""event_start"": ""0.590""}","strict timing, semantics, and adjudication gates passed"
+F_028,dataset\fly_ball\Codex_Workstation\F_028,auto_applied,4.048,"event_start,event_end","{""event_end"": ""0.830"", ""event_start"": ""0.730""}","{""event_end"": ""1.010"", ""event_start"": ""0.910""}","strict timing, semantics, and adjudication gates passed"
+F_029,dataset\fly_ball\Codex_Workstation\F_029,auto_applied,25.927,"event_start,event_end","{""event_end"": ""3.280"", ""event_start"": ""3.180""}","{""event_end"": ""3.270"", ""event_start"": ""3.170""}","strict timing, semantics, and adjudication gates passed"
+F_030,dataset\fly_ball\Codex_Workstation\F_030,auto_applied,34.087,"event_start,event_end","{""event_end"": ""3.300"", ""event_start"": ""3.200""}","{""event_end"": ""4.770"", ""event_start"": ""4.670""}","strict timing, semantics, and adjudication gates passed"
+F_031,dataset\fly_ball\Codex_Workstation\F_031,manual_applied,,,{},{},25 fps frames place contact in the current 0.980-1.080 interval and its local transient ratio is 11.67; reject the erroneous 0.233-0.300 proposal.
+F_032,dataset\fly_ball\Codex_Workstation\F_032,auto_applied,8.205,"event_start,event_end","{""event_end"": ""3.500"", ""event_start"": ""3.400""}","{""event_end"": ""3.510"", ""event_start"": ""3.410""}","strict timing, semantics, and adjudication gates passed"
+F_033,dataset\fly_ball\Codex_Workstation\F_033,auto_applied,10.079,"event_start,event_end","{""event_end"": ""1.820"", ""event_start"": ""1.720""}","{""event_end"": ""1.830"", ""event_start"": ""1.730""}","strict timing, semantics, and adjudication gates passed"
+F_034,dataset\fly_ball\Codex_Workstation\F_034,auto_applied,9.335,"event_start,event_end","{""event_end"": ""3.440"", ""event_start"": ""3.340""}","{""event_end"": ""3.330"", ""event_start"": ""3.230""}","strict timing, semantics, and adjudication gates passed"
+F_035,dataset\fly_ball\Codex_Workstation\F_035,auto_applied,3.209,"event_start,event_end","{""event_end"": ""3.760"", ""event_start"": ""3.660""}","{""event_end"": ""3.270"", ""event_start"": ""3.170""}","strict timing, semantics, and adjudication gates passed"
+F_036,dataset\fly_ball\Codex_Workstation\F_036,auto_applied,8.803,"event_start,event_end","{""event_end"": ""3.540"", ""event_start"": ""3.440""}","{""event_end"": ""3.510"", ""event_start"": ""3.410""}","strict timing, semantics, and adjudication gates passed"
+F_037,dataset\fly_ball\Codex_Workstation\F_037,manual_applied,,,{},{},25 fps frames show contact near 1.65 s and the spectrogram contains a strong isolated broadband transient aligned with it.
+F_038,dataset\fly_ball\Codex_Workstation\F_038,manual_applied,,,{},{},25 fps frames show contact near 1.72 s and the spectrogram contains a strong isolated broadband transient aligned with it.
+F_039,dataset\fly_ball\Codex_Workstation\F_039,manual_applied,,,{},{},25 fps frames show contact near 1.31 s and the spectrogram contains a narrow broadband transient at the same time; retain after manual review.
+F_040,dataset\fly_ball\Codex_Workstation\F_040,auto_applied,2.382,"event_start,event_end","{""event_end"": ""0.870"", ""event_start"": ""0.770""}","{""event_end"": ""0.983"", ""event_start"": ""0.883""}","strict timing, semantics, and adjudication gates passed"
+F_041,dataset\fly_ball\Codex_Workstation\F_041,auto_applied,7.053,"event_start,event_end","{""event_end"": ""3.500"", ""event_start"": ""3.400""}","{""event_end"": ""3.490"", ""event_start"": ""3.390""}","strict timing, semantics, and adjudication gates passed"
+F_042,dataset\fly_ball\Codex_Workstation\F_042,manual_reject,,,{},{},"The swing is visible, but the contact interval has no distinct broadband contact transient in the spectrogram and the local ratio is 0.84; unsuitable for the contact-sound dataset."
+F_043,dataset\fly_ball\Codex_Workstation\F_043,manual_applied,,,{},{},Current interval covers the visible swing and has a local transient ratio of 8.64; reject weaker proposed timing.
+F_044,dataset\fly_ball\Codex_Workstation\F_044,auto_applied,37.909,"event_start,event_end","{""event_end"": ""3.460"", ""event_start"": ""3.360""}","{""event_end"": ""3.430"", ""event_start"": ""3.330""}","strict timing, semantics, and adjudication gates passed"
+F_045,dataset\fly_ball\Codex_Workstation\F_045,auto_applied,6.580,"event_start,event_end","{""event_end"": ""2.960"", ""event_start"": ""2.860""}","{""event_end"": ""2.180"", ""event_start"": ""2.080""}","strict timing, semantics, and adjudication gates passed"
+F_046,dataset\fly_ball\Codex_Workstation\F_046,auto_applied,8.313,"event_start,event_end","{""event_end"": ""0.960"", ""event_start"": ""0.860""}","{""event_end"": ""0.970"", ""event_start"": ""0.870""}","strict timing, semantics, and adjudication gates passed"
+F_047,dataset\fly_ball\Codex_Workstation\F_047,manual_review,4.449,,{},{},adjudication evidence gate failed
+F_048,dataset\fly_ball\Codex_Workstation\F_048,manual_applied,,,{},{},Current interval covers the visible contact; spectrogram shows a usable transient despite a high-noise baseline.
+F_049,dataset\fly_ball\Codex_Workstation\F_049,manual_applied,,"event_start,event_end","{""event_end"": ""4.100"", ""event_start"": ""4.000""}","{""event_end"": ""3.490"", ""event_start"": ""3.390""}","25 fps frames centered on the 3.44 s broadband transient show the collision there; replace the late 4.000-4.100 interval, which is already at the camera transition."
+F_050,dataset\fly_ball\Codex_Workstation\F_050,manual_reject,,,{},{},Visible swing is present but no clear short contact transient exists near the collision; unsuitable for contact-sound dataset.
+F_051,dataset\fly_ball\Codex_Workstation\F_051,manual_review,53.331,,{},{},adjudication evidence gate failed
+F_052,dataset\fly_ball\Codex_Workstation\F_052,manual_applied,,,{},{},Current interval covers the visible swing and has a local transient ratio of 11.90; reject weaker proposed timing.
+F_053,dataset\fly_ball\Codex_Workstation\F_053,manual_review,7.530,,{},{},adjudication evidence gate failed
+F_054,dataset\fly_ball\Codex_Workstation\F_054,manual_applied,,,{},{},Current interval covers the visible swing and has a local transient ratio of 9.95; reject weaker proposed timing.
+F_055,dataset\fly_ball\Codex_Workstation\F_055,manual_applied,,,{},{},25 fps frames place contact in the current 1.100-1.200 interval and its local transient ratio is 4.17; reject the model's early 0.38-0.58 proposal.
+F_056,dataset\fly_ball\Codex_Workstation\F_056,manual_applied,,,{},{},"25 fps frames and the isolated 1.78 s broadband transient support the current 1.740-1.840 interval; reject the 2.36 s timing proposal, which aligns with later broadcast audio."
+F_057,dataset\fly_ball\Codex_Workstation\F_057,manual_review,10.450,,{},{},adjudication evidence gate failed
+F_058,dataset\fly_ball\Codex_Workstation\F_058,manual_review,48.127,,{},{},adjudication evidence gate failed
+F_059,dataset\fly_ball\Codex_Workstation\F_059,manual_applied,,,{},{},"The current 1.340-1.440 interval contains the visible collision and a strong isolated 1.40 s broadband transient; full-play frames support zone 4, high strength, and line-drive trajectory."
+F_060,dataset\fly_ball\Codex_Workstation\F_060,manual_review,19.152,,{},{},adjudication evidence gate failed
+F_061,dataset\fly_ball\Codex_Workstation\F_061,manual_applied,,,{},{},Current interval covers the visible swing and has a local transient ratio of 25.34; reject weaker proposed timing.
+F_062,dataset\fly_ball\Codex_Workstation\F_062,manual_applied,,,{},{},Current interval covers the visible swing and has a local transient ratio of 11.55; reject weaker proposed timing.
+F_063,dataset\fly_ball\Codex_Workstation\F_063,manual_review,15.416,,{},{},adjudication evidence gate failed
+F_064,dataset\fly_ball\Codex_Workstation\F_064,manual_review,18.143,,{},{},adjudication evidence gate failed
+F_065,dataset\fly_ball\Codex_Workstation\F_065,manual_applied,,,{},{},The current 0.970-1.070 interval contains the visible collision and isolated 1.02 s broadband transient; reject the impossible 0.00-0.04 model proposal.
+F_066,dataset\fly_ball\Codex_Workstation\F_066,manual_applied,,,{},{},25 fps frames show contact near 1.92 s and the spectrogram contains a clear isolated broadband transient at the same time.
+F_067,dataset\fly_ball\Codex_Workstation\F_067,manual_review,,,{},{},foundational audio-visual evidence gate failed
+F_068,dataset\fly_ball\Codex_Workstation\F_068,manual_applied,,,{},{},Current interval covers the visible swing and has a local transient ratio of 10.16; reject weaker proposed timing.
+F_069,dataset\fly_ball\Codex_Workstation\F_069,manual_applied,,,{},{},"25 fps frames place contact in the current 4.120-4.220 interval and the local transient ratio is 4.16; full-play frames support zone 7, high strength, and fly trajectory."
+F_070,dataset\fly_ball\Codex_Workstation\F_070,manual_applied,,"event_start,event_end","{""event_end"": ""2.880"", ""event_start"": ""2.780""}","{""event_end"": ""3.210"", ""event_start"": ""3.110""}","25 fps frames place contact at about 3.16 s and the local transient ratio is 3.10; retain zone 7, medium strength, and line-drive fields from the complete play."
+F_071,dataset\fly_ball\Codex_Workstation\F_071,manual_applied,,,{},{},Current interval covers the visible swing and passes the local transient threshold; proposed timing is weaker.
+F_072,dataset\fly_ball\Codex_Workstation\F_072,manual_review,6.649,,{},{},adjudication evidence gate failed
+F_073,dataset\fly_ball\Codex_Workstation\F_073,auto_applied,8.481,,{},{},"strict timing, semantics, and adjudication gates passed"
+F_074,dataset\fly_ball\Codex_Workstation\F_074,auto_applied,10.498,"landing_zone,event_start,event_end","{""event_end"": ""2.080"", ""event_start"": ""1.980"", ""landing_zone"": ""3""}","{""event_end"": ""2.130"", ""event_start"": ""2.030"", ""landing_zone"": ""1""}","strict timing, semantics, and adjudication gates passed"
+F_075,dataset\fly_ball\Codex_Workstation\F_075,manual_review,2.351,,{},{},adjudication evidence gate failed
+F_076,dataset\fly_ball\Codex_Workstation\F_076,manual_review,6.121,,{},{},adjudication evidence gate failed
+F_077,dataset\fly_ball\Codex_Workstation\F_077,manual_review,3.266,,{},{},adjudication evidence gate failed
+F_078,dataset\fly_ball\Codex_Workstation\F_078,manual_reject,,,{},{},"The clip begins after the actual collision; 25 fps review around the apparent 1.17 s audio peak and the labeled 2.32-2.42 s interval shows only follow-through or a camera cut, so contact is absent."
+F_079,dataset\fly_ball\Codex_Workstation\F_079,manual_review,8.754,,{},{},adjudication evidence gate failed
+F_080,dataset\fly_ball\Codex_Workstation\F_080,manual_review,14.811,,{},{},adjudication evidence gate failed
+F_081,dataset\fly_ball\Codex_Workstation\F_081,manual_applied,,"event_start,event_end","{""event_end"": ""3.240"", ""event_start"": ""3.140""}","{""event_end"": ""4.410"", ""event_start"": ""4.310""}","25 fps frames place contact at about 4.36 s and the local transient ratio is 5.65; retain zone 5, medium strength, and line-drive fields."
+F_082,dataset\fly_ball\Codex_Workstation\F_082,manual_review,4.326,,{},{},adjudication evidence gate failed
+F_083,dataset\fly_ball\Codex_Workstation\F_083,manual_review,6.350,,{},{},adjudication evidence gate failed
+F_084,dataset\fly_ball\Codex_Workstation\F_084,manual_review,15.341,,{},{},adjudication evidence gate failed
+F_085,dataset\fly_ball\Codex_Workstation\F_085,manual_applied,,"event_start,event_end","{""event_end"": ""4.640"", ""event_start"": ""4.540""}","{""event_end"": ""3.170"", ""event_start"": ""3.070""}",25 fps frames place contact at about 3.12 s and the local transient ratio is 4.02; replace the late 4.540-4.640 interval and retain zone 2 medium pop-fly fields.
+F_086,dataset\fly_ball\Codex_Workstation\F_086,manual_review,,,{},{},foundational audio-visual evidence gate failed
+F_087,dataset\fly_ball\Codex_Workstation\F_087,manual_review,,,{},{},foundational audio-visual evidence gate failed
+F_088,dataset\fly_ball\Codex_Workstation\F_088,manual_review,,,{},{},foundational audio-visual evidence gate failed
+F_089,dataset\fly_ball\Codex_Workstation\F_089,manual_review,,,{},{},foundational audio-visual evidence gate failed
+F_090,dataset\fly_ball\Codex_Workstation\F_090,manual_applied,,"event_start,event_end","{""event_end"": ""4.720"", ""event_start"": ""4.620""}","{""event_end"": ""3.490"", ""event_start"": ""3.390""}",25 fps frames place contact at about 3.44 s and the local transient ratio is 20.29; replace the late 4.620-4.720 interval and retain zone 1 medium line-drive fields.
+F_091,dataset\fly_ball\Codex_Workstation\F_091,manual_review,,,{},{},foundational audio-visual evidence gate failed
+F_092,dataset\fly_ball\Codex_Workstation\F_092,manual_review,,,{},{},foundational audio-visual evidence gate failed
+F_093,dataset\fly_ball\Codex_Workstation\F_093,manual_review,,,{},{},foundational audio-visual evidence gate failed
+F_094,dataset\fly_ball\Codex_Workstation\F_094,manual_applied,,"event_start,event_end","{""event_end"": ""2.540"", ""event_start"": ""2.440""}","{""event_end"": ""1.470"", ""event_start"": ""1.370""}",25 fps frames and the isolated 1.42 s broadband transient identify contact there; replace the late 2.440-2.540 interval and retain zone 4 high fly fields.
+F_095,dataset\fly_ball\Codex_Workstation\F_095,manual_review,,,{},{},foundational audio-visual evidence gate failed
+F_096,dataset\fly_ball\Codex_Workstation\F_096,manual_review,10.383,,{},{},adjudication evidence gate failed
+F_097,dataset\fly_ball\Codex_Workstation\F_097,manual_review,8.599,,{},{},adjudication evidence gate failed
+F_098,dataset\fly_ball\Codex_Workstation\F_098,manual_review,10.493,,{},{},adjudication evidence gate failed
+F_099,dataset\fly_ball\Codex_Workstation\F_099,manual_review,7.233,,{},{},adjudication evidence gate failed
+F_100,dataset\fly_ball\Codex_Workstation\F_100,manual_review,6.909,,{},{},adjudication evidence gate failed
+F_101,dataset\fly_ball\Codex_Workstation\F_101,manual_review,,,{},{},foundational audio-visual evidence gate failed
+F_102,dataset\fly_ball\Codex_Workstation\F_102,manual_review,2.567,,{},{},adjudication evidence gate failed
+F_103,dataset\fly_ball\Codex_Workstation\F_103,manual_applied,,"event_start,event_end","{""event_end"": ""2.700"", ""event_start"": ""2.600""}","{""event_end"": ""1.510"", ""event_start"": ""1.410""}",25 fps frames and the isolated 1.46 s broadband transient identify contact there; replace the late 2.600-2.700 interval and retain MLB-supported zone 3 medium fly fields.
+F_104,dataset\fly_ball\Codex_Workstation\F_104,manual_review,9.455,,{},{},adjudication evidence gate failed
+F_105,dataset\fly_ball\Codex_Workstation\F_105,manual_review,5.441,,{},{},adjudication evidence gate failed
+F_106,dataset\fly_ball\Codex_Workstation\F_106,manual_review,3.353,,{},{},adjudication evidence gate failed
+F_107,dataset\fly_ball\Codex_Workstation\F_107,manual_review,3.818,,{},{},adjudication evidence gate failed
+F_108,dataset\fly_ball\Codex_Workstation\F_108,manual_review,2.477,,{},{},adjudication evidence gate failed
+F_109,dataset\fly_ball\Codex_Workstation\F_109,manual_applied,,,{},{},"Current interval covers visible contact and the local transient ratio is 1.94, within manual tolerance for the noisy broadcast baseline."
+F_110,dataset\fly_ball\Codex_Workstation\F_110,manual_review,6.906,,{},{},adjudication evidence gate failed
+F_111,dataset\fly_ball\Codex_Workstation\F_111,manual_review,13.417,,{},{},adjudication evidence gate failed
+F_112,dataset\fly_ball\Codex_Workstation\F_112,manual_review,5.157,,{},{},adjudication evidence gate failed
+F_113,dataset\fly_ball\Codex_Workstation\F_113,manual_review,9.618,,{},{},adjudication evidence gate failed
+F_114,dataset\fly_ball\Codex_Workstation\F_114,manual_review,2.386,,{},{},adjudication evidence gate failed
+F_115,dataset\fly_ball\Codex_Workstation\F_115,manual_review,7.879,,{},{},adjudication evidence gate failed
+F_116,dataset\fly_ball\Codex_Workstation\F_116,manual_review,13.395,,{},{},adjudication evidence gate failed
+F_117,dataset\fly_ball\Codex_Workstation\F_117,manual_review,14.271,,{},{},adjudication evidence gate failed
+F_118,dataset\fly_ball\Codex_Workstation\F_118,manual_review,,,{},{},foundational audio-visual evidence gate failed
+F_119,dataset\fly_ball\Codex_Workstation\F_119,manual_applied,,,{},{},"MLB source and the full play identify a line-drive triple, not a ground ball. The current contact interval has a local transient ratio of 2.21; retain fly_ball, zone 6, medium strength, and line_drive."
+F_120,dataset\fly_ball\Codex_Workstation\F_120,manual_review,,,{},{},foundational audio-visual evidence gate failed
+F_121,dataset\fly_ball\Codex_Workstation\F_121,manual_review,,,{},{},foundational audio-visual evidence gate failed
+F_123,dataset\fly_ball\Codex_Workstation\F_123,manual_review,,,{},{},foundational audio-visual evidence gate failed
+F_124,dataset\fly_ball\Codex_Workstation\F_124,manual_review,,,{},{},foundational audio-visual evidence gate failed
+F_125,dataset\fly_ball\Codex_Workstation\F_125,manual_review,,,{},{},foundational audio-visual evidence gate failed
+F_126,dataset\fly_ball\Codex_Workstation\F_126,manual_review,,,{},{},foundational audio-visual evidence gate failed
+F_127,dataset\fly_ball\Codex_Workstation\F_127,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_001,dataset\ground_ball\Codex_Workstation\G_001,manual_applied,,"region,bounce","{""bounce"": ""yes"", ""region"": ""4""}","{""bounce"": ""Full-play frames and MLB source identify the second baseman fielding the grounder; under the fixed home-to-second wedge map this is region 3, not region 4. Contact remains aligned near 1.52 s and the receiving play is below knee height."", ""region"": ""yes""}",
+G_002,dataset\ground_ball\Codex_Workstation\G_002,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_003,dataset\ground_ball\Codex_Workstation\G_003,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_004,dataset\ground_ball\Codex_Workstation\G_004,manual_applied,,"region,bounce","{""bounce"": ""yes"", ""region"": ""2""}","{""bounce"": ""MLB source identifies Tyler Callihan as the pitcher; full-play frames show the comebacker on the first-base side of the home-to-second line, so region 3 replaces region 2. The visible swing and 1.47 s audio peak support the existing 1.420-1.520 interval."", ""region"": ""yes""}",
+G_005,dataset\ground_ball\Codex_Workstation\G_005,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_006,dataset\ground_ball\Codex_Workstation\G_006,manual_applied,,"region,bounce","{""bounce"": ""no"", ""region"": ""4""}","{""bounce"": ""Full-play and contact-neighborhood review confirms the 2.460-2.560 timing and right-field-side region 4. Bounce is locked to no under the user-defined receiving-height rule."", ""region"": ""no""}",
+G_007,dataset\ground_ball\Codex_Workstation\G_007,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_008,dataset\ground_ball\Codex_Workstation\G_008,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_009,dataset\ground_ball\Codex_Workstation\G_009,manual_applied,,,{},{},"The prior 2.220-2.320 interval was after the camera cut. The repaired interval brackets the visible collision and 1.02 s transient; the ball deflects off third base, fixing region 1 and bounce no."
+G_010,dataset\ground_ball\Codex_Workstation\G_010,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_011,dataset\ground_ball\Codex_Workstation\G_011,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_012,dataset\ground_ball\Codex_Workstation\G_012,manual_applied,,"region,bounce","{""bounce"": ""yes"", ""region"": ""1""}","{""bounce"": ""Contact and the 2.04 s audio peak align in the current interval. MLB source and full-play frames show a third-baseman grounder, fixing region 1; the low fielding moment supports bounce yes."", ""region"": ""yes""}",
+G_013,dataset\ground_ball\Codex_Workstation\G_013,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_014,dataset\ground_ball\Codex_Workstation\G_014,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_015,dataset\ground_ball\Codex_Workstation\G_015,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_016,dataset\ground_ball\Codex_Workstation\G_016,manual_applied,,"region,bounce","{""bounce"": ""yes"", ""region"": ""2""}","{""bounce"": ""Contact and the 1.26 s transient align. MLB source and full-play frames show CJ Abrams fielding on the shortstop side, fixing region 2; the low backhand receiving moment supports bounce yes."", ""region"": ""yes""}",
+G_017,dataset\ground_ball\Codex_Workstation\G_017,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_018,dataset\ground_ball\Codex_Workstation\G_018,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_019,dataset\ground_ball\Codex_Workstation\G_019,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_020,dataset\ground_ball\Codex_Workstation\G_020,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_021,dataset\ground_ball\Codex_Workstation\G_021,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_022,dataset\ground_ball\Codex_Workstation\G_022,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_023,dataset\ground_ball\Codex_Workstation\G_023,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_024,dataset\ground_ball\Codex_Workstation\G_024,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_025,dataset\ground_ball\Codex_Workstation\G_025,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_026,dataset\ground_ball\Codex_Workstation\G_026,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_027,dataset\ground_ball\Codex_Workstation\G_027,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_028,dataset\ground_ball\Codex_Workstation\G_028,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_029,dataset\ground_ball\Codex_Workstation\G_029,manual_review,7.712,,{},{},adjudication evidence gate failed
+G_030,dataset\ground_ball\Codex_Workstation\G_030,manual_review,17.919,,{},{},adjudication evidence gate failed
+G_031,dataset\ground_ball\Codex_Workstation\G_031,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_032,dataset\ground_ball\Codex_Workstation\G_032,manual_review,51.328,,{},{},adjudication evidence gate failed
+G_033,dataset\ground_ball\Codex_Workstation\G_033,manual_review,,,{},{},class change requires directory and sample-id migration
+G_034,dataset\ground_ball\Codex_Workstation\G_034,auto_applied,28.899,"event_start,event_end","{""event_end"": ""1.080"", ""event_start"": ""0.980""}","{""event_end"": ""1.030"", ""event_start"": ""0.970""}","strict timing, semantics, and adjudication gates passed"
+G_035,dataset\ground_ball\Codex_Workstation\G_035,auto_applied,2.612,,{},{},"strict timing, semantics, and adjudication gates passed"
+G_036,dataset\ground_ball\Codex_Workstation\G_036,auto_applied,17.017,,{},{},"strict timing, semantics, and adjudication gates passed"
+G_037,dataset\ground_ball\Codex_Workstation\G_037,auto_applied,4.130,,{},{},"strict timing, semantics, and adjudication gates passed"
+G_038,dataset\ground_ball\Codex_Workstation\G_038,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_039,dataset\ground_ball\Codex_Workstation\G_039,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_040,dataset\ground_ball\Codex_Workstation\G_040,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_041,dataset\ground_ball\Codex_Workstation\G_041,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_042,dataset\ground_ball\Codex_Workstation\G_042,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_043,dataset\ground_ball\Codex_Workstation\G_043,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_044,dataset\ground_ball\Codex_Workstation\G_044,auto_applied,43.589,"event_start,event_end","{""event_end"": ""1.760"", ""event_start"": ""1.660""}","{""event_end"": ""1.850"", ""event_start"": ""1.700""}","strict timing, semantics, and adjudication gates passed"
+G_045,dataset\ground_ball\Codex_Workstation\G_045,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_046,dataset\ground_ball\Codex_Workstation\G_046,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_047,dataset\ground_ball\Codex_Workstation\G_047,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_048,dataset\ground_ball\Codex_Workstation\G_048,auto_applied,2.886,"event_start,event_end","{""event_end"": ""1.840"", ""event_start"": ""1.740""}","{""event_end"": ""1.860"", ""event_start"": ""1.760""}","strict timing, semantics, and adjudication gates passed"
+G_049,dataset\ground_ball\Codex_Workstation\G_049,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_050,dataset\ground_ball\Codex_Workstation\G_050,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_051,dataset\ground_ball\Codex_Workstation\G_051,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_052,dataset\ground_ball\Codex_Workstation\G_052,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_053,dataset\ground_ball\Codex_Workstation\G_053,manual_review,5.029,,{},{},adjudication fields do not match the evidence-backed candidate
+G_054,dataset\ground_ball\Codex_Workstation\G_054,auto_applied,5.419,"region,event_start,event_end","{""event_end"": ""2.020"", ""event_start"": ""1.920"", ""region"": ""3""}","{""event_end"": ""2.010"", ""event_start"": ""1.910"", ""region"": ""4""}","strict timing, semantics, and adjudication gates passed"
+G_055,dataset\ground_ball\Codex_Workstation\G_055,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_056,dataset\ground_ball\Codex_Workstation\G_056,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_057,dataset\ground_ball\Codex_Workstation\G_057,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_059,dataset\ground_ball\Codex_Workstation\G_059,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_060,dataset\ground_ball\Codex_Workstation\G_060,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_061,dataset\ground_ball\Codex_Workstation\G_061,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_062,dataset\ground_ball\Codex_Workstation\G_062,auto_applied,12.951,"event_start,event_end","{""event_end"": ""2.120"", ""event_start"": ""2.020""}","{""event_end"": ""2.110"", ""event_start"": ""2.010""}","strict timing, semantics, and adjudication gates passed"
+G_063,dataset\ground_ball\Codex_Workstation\G_063,auto_applied,25.890,,{},{},"strict timing, semantics, and adjudication gates passed"
+G_064,dataset\ground_ball\Codex_Workstation\G_064,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_065,dataset\ground_ball\Codex_Workstation\G_065,auto_applied,4.695,"event_start,event_end","{""event_end"": ""4.920"", ""event_start"": ""4.820""}","{""event_end"": ""4.950"", ""event_start"": ""4.850""}","strict timing, semantics, and adjudication gates passed"
+G_066,dataset\ground_ball\Codex_Workstation\G_066,auto_applied,10.100,"event_start,event_end","{""event_end"": ""3.540"", ""event_start"": ""3.440""}","{""event_end"": ""3.530"", ""event_start"": ""3.430""}","strict timing, semantics, and adjudication gates passed"
+G_067,dataset\ground_ball\Codex_Workstation\G_067,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_068,dataset\ground_ball\Codex_Workstation\G_068,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_069,dataset\ground_ball\Codex_Workstation\G_069,auto_applied,24.033,,{},{},"strict timing, semantics, and adjudication gates passed"
+G_070,dataset\ground_ball\Codex_Workstation\G_070,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_071,dataset\ground_ball\Codex_Workstation\G_071,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_072,dataset\ground_ball\Codex_Workstation\G_072,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_073,dataset\ground_ball\Codex_Workstation\G_073,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_074,dataset\ground_ball\Codex_Workstation\G_074,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_075,dataset\ground_ball\Codex_Workstation\G_075,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_076,dataset\ground_ball\Codex_Workstation\G_076,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_077,dataset\ground_ball\Codex_Workstation\G_077,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_078,dataset\ground_ball\Codex_Workstation\G_078,auto_applied,8.773,,{},{},"strict timing, semantics, and adjudication gates passed"
+G_079,dataset\ground_ball\Codex_Workstation\G_079,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_080,dataset\ground_ball\Codex_Workstation\G_080,auto_applied,4.069,,{},{},"strict timing, semantics, and adjudication gates passed"
+G_081,dataset\ground_ball\Codex_Workstation\G_081,auto_applied,6.982,,{},{},"strict timing, semantics, and adjudication gates passed"
+G_082,dataset\ground_ball\Codex_Workstation\G_082,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_083,dataset\ground_ball\Codex_Workstation\G_083,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_084,dataset\ground_ball\Codex_Workstation\G_084,auto_applied,2.810,,{},{},"strict timing, semantics, and adjudication gates passed"
+G_085,dataset\ground_ball\Codex_Workstation\G_085,manual_review,5.821,,{},{},adjudication fields do not match the evidence-backed candidate
+G_086,dataset\ground_ball\Codex_Workstation\G_086,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_087,dataset\ground_ball\Codex_Workstation\G_087,manual_review,1.484,,{},{},local contact transient ratio 1.48 is below 2.00
+G_088,dataset\ground_ball\Codex_Workstation\G_088,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_089,dataset\ground_ball\Codex_Workstation\G_089,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_090,dataset\ground_ball\Codex_Workstation\G_090,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_091,dataset\ground_ball\Codex_Workstation\G_091,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_092,dataset\ground_ball\Codex_Workstation\G_092,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_093,dataset\ground_ball\Codex_Workstation\G_093,auto_applied,4.485,,{},{},"strict timing, semantics, and adjudication gates passed"
+G_094,dataset\ground_ball\Codex_Workstation\G_094,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_095,dataset\ground_ball\Codex_Workstation\G_095,auto_applied,11.880,"region,event_start,event_end","{""event_end"": ""2.820"", ""event_start"": ""2.720"", ""region"": ""3""}","{""event_end"": ""2.810"", ""event_start"": ""2.710"", ""region"": ""2""}","strict timing, semantics, and adjudication gates passed"
+G_096,dataset\ground_ball\Codex_Workstation\G_096,auto_applied,20.358,"event_start,event_end","{""event_end"": ""4.700"", ""event_start"": ""4.600""}","{""event_end"": ""4.695"", ""event_start"": ""4.595""}","strict timing, semantics, and adjudication gates passed"
+G_097,dataset\ground_ball\Codex_Workstation\G_097,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_098,dataset\ground_ball\Codex_Workstation\G_098,auto_applied,3.630,,{},{},"strict timing, semantics, and adjudication gates passed"
+G_099,dataset\ground_ball\Codex_Workstation\G_099,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_100,dataset\ground_ball\Codex_Workstation\G_100,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_101,dataset\ground_ball\Codex_Workstation\G_101,auto_applied,29.141,,{},{},"strict timing, semantics, and adjudication gates passed"
+G_102,dataset\ground_ball\Codex_Workstation\G_102,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_103,dataset\ground_ball\Codex_Workstation\G_103,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_104,dataset\ground_ball\Codex_Workstation\G_104,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_105,dataset\ground_ball\Codex_Workstation\G_105,manual_review,16.830,,{},{},adjudication fields do not match the evidence-backed candidate
+G_106,dataset\ground_ball\Codex_Workstation\G_106,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_107,dataset\ground_ball\Codex_Workstation\G_107,auto_applied,11.267,"event_start,event_end","{""event_end"": ""1.820"", ""event_start"": ""1.720""}","{""event_end"": ""1.830"", ""event_start"": ""1.730""}","strict timing, semantics, and adjudication gates passed"
+G_108,dataset\ground_ball\Codex_Workstation\G_108,auto_applied,2.750,"region,event_start,event_end","{""event_end"": ""1.060"", ""event_start"": ""0.960"", ""region"": ""3""}","{""event_end"": ""1.030"", ""event_start"": ""0.970"", ""region"": ""2""}","strict timing, semantics, and adjudication gates passed"
+G_109,dataset\ground_ball\Codex_Workstation\G_109,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_110,dataset\ground_ball\Codex_Workstation\G_110,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_111,dataset\ground_ball\Codex_Workstation\G_111,auto_applied,5.835,"event_start,event_end","{""event_end"": ""3.500"", ""event_start"": ""3.400""}","{""event_end"": ""3.480"", ""event_start"": ""3.420""}","strict timing, semantics, and adjudication gates passed"
+G_112,dataset\ground_ball\Codex_Workstation\G_112,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_113,dataset\ground_ball\Codex_Workstation\G_113,auto_applied,30.257,,{},{},"strict timing, semantics, and adjudication gates passed"
+G_114,dataset\ground_ball\Codex_Workstation\G_114,auto_applied,26.202,"event_start,event_end","{""event_end"": ""3.820"", ""event_start"": ""3.720""}","{""event_end"": ""3.850"", ""event_start"": ""3.750""}","strict timing, semantics, and adjudication gates passed"
+G_115,dataset\ground_ball\Codex_Workstation\G_115,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_116,dataset\ground_ball\Codex_Workstation\G_116,auto_applied,5.487,,{},{},"strict timing, semantics, and adjudication gates passed"
+G_117,dataset\ground_ball\Codex_Workstation\G_117,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_118,dataset\ground_ball\Codex_Workstation\G_118,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_119,dataset\ground_ball\Codex_Workstation\G_119,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_120,dataset\ground_ball\Codex_Workstation\G_120,auto_applied,11.366,,{},{},"strict timing, semantics, and adjudication gates passed"
+G_121,dataset\ground_ball\Codex_Workstation\G_121,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_122,dataset\ground_ball\Codex_Workstation\G_122,auto_applied,31.851,"event_start,event_end","{""event_end"": ""3.480"", ""event_start"": ""3.380""}","{""event_end"": ""3.490"", ""event_start"": ""3.390""}","strict timing, semantics, and adjudication gates passed"
+G_123,dataset\ground_ball\Codex_Workstation\G_123,auto_applied,6.926,"event_start,event_end","{""event_end"": ""3.120"", ""event_start"": ""3.020""}","{""event_end"": ""3.130"", ""event_start"": ""3.030""}","strict timing, semantics, and adjudication gates passed"
+G_124,dataset\ground_ball\Codex_Workstation\G_124,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_125,dataset\ground_ball\Codex_Workstation\G_125,auto_applied,28.633,"event_start,event_end","{""event_end"": ""3.480"", ""event_start"": ""3.380""}","{""event_end"": ""3.470"", ""event_start"": ""3.370""}","strict timing, semantics, and adjudication gates passed"
+G_126,dataset\ground_ball\Codex_Workstation\G_126,auto_applied,41.910,"event_start,event_end","{""event_end"": ""3.520"", ""event_start"": ""3.420""}","{""event_end"": ""3.550"", ""event_start"": ""3.450""}","strict timing, semantics, and adjudication gates passed"
+G_127,dataset\ground_ball\Codex_Workstation\G_127,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_128,dataset\ground_ball\Codex_Workstation\G_128,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_129,dataset\ground_ball\Codex_Workstation\G_129,auto_applied,18.100,,{},{},"strict timing, semantics, and adjudication gates passed"
+G_130,dataset\ground_ball\Codex_Workstation\G_130,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_131,dataset\ground_ball\Codex_Workstation\G_131,auto_applied,24.912,"event_start,event_end","{""event_end"": ""4.940"", ""event_start"": ""4.840""}","{""event_end"": ""4.930"", ""event_start"": ""4.830""}","strict timing, semantics, and adjudication gates passed"
+G_132,dataset\ground_ball\Codex_Workstation\G_132,auto_applied,6.973,"event_start,event_end","{""event_end"": ""1.060"", ""event_start"": ""0.960""}","{""event_end"": ""1.030"", ""event_start"": ""0.930""}","strict timing, semantics, and adjudication gates passed"
+G_133,dataset\ground_ball\Codex_Workstation\G_133,manual_review,17.524,,{},{},adjudication fields do not match the evidence-backed candidate
+G_134,dataset\ground_ball\Codex_Workstation\G_134,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_135,dataset\ground_ball\Codex_Workstation\G_135,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_136,dataset\ground_ball\Codex_Workstation\G_136,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_137,dataset\ground_ball\Codex_Workstation\G_137,auto_applied,57.364,,{},{},"strict timing, semantics, and adjudication gates passed"
+G_138,dataset\ground_ball\Codex_Workstation\G_138,manual_review,17.524,,{},{},adjudication fields do not match the evidence-backed candidate
+G_139,dataset\ground_ball\Codex_Workstation\G_139,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_140,dataset\ground_ball\Codex_Workstation\G_140,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_141,dataset\ground_ball\Codex_Workstation\G_141,auto_applied,106.505,"event_start,event_end","{""event_end"": ""3.520"", ""event_start"": ""3.420""}","{""event_end"": ""3.530"", ""event_start"": ""3.430""}","strict timing, semantics, and adjudication gates passed"
+G_142,dataset\ground_ball\Codex_Workstation\G_142,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_143,dataset\ground_ball\Codex_Workstation\G_143,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_144,dataset\ground_ball\Codex_Workstation\G_144,auto_applied,23.387,"event_start,event_end","{""event_end"": ""3.650"", ""event_start"": ""3.550""}","{""event_end"": ""3.640"", ""event_start"": ""3.540""}","strict timing, semantics, and adjudication gates passed"
+G_145,dataset\ground_ball\Codex_Workstation\G_145,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_146,dataset\ground_ball\Codex_Workstation\G_146,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_147,dataset\ground_ball\Codex_Workstation\G_147,auto_applied,14.959,"event_start,event_end","{""event_end"": ""1.320"", ""event_start"": ""1.220""}","{""event_end"": ""1.330"", ""event_start"": ""1.230""}","strict timing, semantics, and adjudication gates passed"
+G_148,dataset\ground_ball\Codex_Workstation\G_148,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_149,dataset\ground_ball\Codex_Workstation\G_149,auto_applied,14.136,"event_start,event_end","{""event_end"": ""2.040"", ""event_start"": ""1.940""}","{""event_end"": ""2.030"", ""event_start"": ""1.930""}","strict timing, semantics, and adjudication gates passed"
+G_150,dataset\ground_ball\Codex_Workstation\G_150,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_151,dataset\ground_ball\Codex_Workstation\G_151,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_152,dataset\ground_ball\Codex_Workstation\G_152,auto_applied,6.191,"event_start,event_end","{""event_end"": ""2.100"", ""event_start"": ""2.000""}","{""event_end"": ""2.110"", ""event_start"": ""2.010""}","strict timing, semantics, and adjudication gates passed"
+G_153,dataset\ground_ball\Codex_Workstation\G_153,auto_applied,6.562,,{},{},"strict timing, semantics, and adjudication gates passed"
+G_154,dataset\ground_ball\Codex_Workstation\G_154,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_155,dataset\ground_ball\Codex_Workstation\G_155,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_156,dataset\ground_ball\Codex_Workstation\G_156,manual_review,5.897,,{},{},adjudication evidence gate failed
+G_157,dataset\ground_ball\Codex_Workstation\G_157,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_158,dataset\ground_ball\Codex_Workstation\G_158,auto_applied,2.674,"event_start,event_end","{""event_end"": ""4.080"", ""event_start"": ""3.980""}","{""event_end"": ""4.070"", ""event_start"": ""3.970""}","strict timing, semantics, and adjudication gates passed"
+G_159,dataset\ground_ball\Codex_Workstation\G_159,manual_review,6.391,,{},{},adjudication fields do not match the evidence-backed candidate
+G_160,dataset\ground_ball\Codex_Workstation\G_160,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_161,dataset\ground_ball\Codex_Workstation\G_161,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_162,dataset\ground_ball\Codex_Workstation\G_162,auto_applied,8.827,,{},{},"strict timing, semantics, and adjudication gates passed"
+G_163,dataset\ground_ball\Codex_Workstation\G_163,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_164,dataset\ground_ball\Codex_Workstation\G_164,auto_applied,6.260,,{},{},"strict timing, semantics, and adjudication gates passed"
+G_165,dataset\ground_ball\Codex_Workstation\G_165,auto_applied,14.514,"event_start,event_end","{""event_end"": ""1.300"", ""event_start"": ""1.200""}","{""event_end"": ""1.320"", ""event_start"": ""1.220""}","strict timing, semantics, and adjudication gates passed"
+G_166,dataset\ground_ball\Codex_Workstation\G_166,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_167,dataset\ground_ball\Codex_Workstation\G_167,auto_applied,17.847,"event_start,event_end","{""event_end"": ""1.120"", ""event_start"": ""1.020""}","{""event_end"": ""1.110"", ""event_start"": ""1.010""}","strict timing, semantics, and adjudication gates passed"
+G_168,dataset\ground_ball\Codex_Workstation\G_168,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_169,dataset\ground_ball\Codex_Workstation\G_169,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_170,dataset\ground_ball\Codex_Workstation\G_170,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_171,dataset\ground_ball\Codex_Workstation\G_171,auto_applied,13.343,"event_start,event_end","{""event_end"": ""2.240"", ""event_start"": ""2.140""}","{""event_end"": ""2.250"", ""event_start"": ""2.170""}","strict timing, semantics, and adjudication gates passed"
+G_172,dataset\ground_ball\Codex_Workstation\G_172,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_173,dataset\ground_ball\Codex_Workstation\G_173,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_174,dataset\ground_ball\Codex_Workstation\G_174,manual_review,25.623,,{},{},adjudication evidence gate failed
+G_175,dataset\ground_ball\Codex_Workstation\G_175,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_176,dataset\ground_ball\Codex_Workstation\G_176,auto_applied,10.026,,{},{},"strict timing, semantics, and adjudication gates passed"
+G_177,dataset\ground_ball\Codex_Workstation\G_177,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_178,dataset\ground_ball\Codex_Workstation\G_178,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_179,dataset\ground_ball\Codex_Workstation\G_179,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_180,dataset\ground_ball\Codex_Workstation\G_180,auto_applied,13.788,"event_start,event_end","{""event_end"": ""2.080"", ""event_start"": ""1.980""}","{""event_end"": ""2.045"", ""event_start"": ""1.945""}","strict timing, semantics, and adjudication gates passed"
+G_181,dataset\ground_ball\Codex_Workstation\G_181,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_182,dataset\ground_ball\Codex_Workstation\G_182,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_183,dataset\ground_ball\Codex_Workstation\G_183,auto_applied,3.756,,{},{},"strict timing, semantics, and adjudication gates passed"
+G_184,dataset\ground_ball\Codex_Workstation\G_184,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_185,dataset\ground_ball\Codex_Workstation\G_185,auto_applied,5.056,"event_start,event_end","{""event_end"": ""4.960"", ""event_start"": ""4.860""}","{""event_end"": ""4.930"", ""event_start"": ""4.780""}","strict timing, semantics, and adjudication gates passed"
+G_186,dataset\ground_ball\Codex_Workstation\G_186,manual_review,32.069,,{},{},adjudication fields do not match the evidence-backed candidate
+G_187,dataset\ground_ball\Codex_Workstation\G_187,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_188,dataset\ground_ball\Codex_Workstation\G_188,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_189,dataset\ground_ball\Codex_Workstation\G_189,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_190,dataset\ground_ball\Codex_Workstation\G_190,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_191,dataset\ground_ball\Codex_Workstation\G_191,auto_applied,41.585,,{},{},"strict timing, semantics, and adjudication gates passed"
+G_192,dataset\ground_ball\Codex_Workstation\G_192,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_193,dataset\ground_ball\Codex_Workstation\G_193,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_194,dataset\ground_ball\Codex_Workstation\G_194,auto_applied,18.266,,{},{},"strict timing, semantics, and adjudication gates passed"
+G_195,dataset\ground_ball\Codex_Workstation\G_195,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_196,dataset\ground_ball\Codex_Workstation\G_196,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_197,dataset\ground_ball\Codex_Workstation\G_197,auto_applied,6.163,"event_start,event_end","{""event_end"": ""3.400"", ""event_start"": ""3.300""}","{""event_end"": ""3.420"", ""event_start"": ""3.310""}","strict timing, semantics, and adjudication gates passed"
+G_198,dataset\ground_ball\Codex_Workstation\G_198,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_199,dataset\ground_ball\Codex_Workstation\G_199,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_200,dataset\ground_ball\Codex_Workstation\G_200,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_201,dataset\ground_ball\Codex_Workstation\G_201,manual_review,18.539,,{},{},adjudication evidence gate failed
+G_202,dataset\ground_ball\Codex_Workstation\G_202,auto_applied,8.024,"event_start,event_end","{""event_end"": ""3.520"", ""event_start"": ""3.420""}","{""event_end"": ""3.530"", ""event_start"": ""3.430""}","strict timing, semantics, and adjudication gates passed"
+G_203,dataset\ground_ball\Codex_Workstation\G_203,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_204,dataset\ground_ball\Codex_Workstation\G_204,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_205,dataset\ground_ball\Codex_Workstation\G_205,manual_review,6.658,,{},{},adjudication evidence gate failed
+G_206,dataset\ground_ball\Codex_Workstation\G_206,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_207,dataset\ground_ball\Codex_Workstation\G_207,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_208,dataset\ground_ball\Codex_Workstation\G_208,auto_applied,7.313,"event_start,event_end","{""event_end"": ""1.840"", ""event_start"": ""1.740""}","{""event_end"": ""1.830"", ""event_start"": ""1.730""}","strict timing, semantics, and adjudication gates passed"
+G_209,dataset\ground_ball\Codex_Workstation\G_209,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_210,dataset\ground_ball\Codex_Workstation\G_210,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_211,dataset\ground_ball\Codex_Workstation\G_211,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_212,dataset\ground_ball\Codex_Workstation\G_212,manual_review,7.272,,{},{},adjudication fields do not match the evidence-backed candidate
+G_213,dataset\ground_ball\Codex_Workstation\G_213,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_214,dataset\ground_ball\Codex_Workstation\G_214,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_216,dataset\ground_ball\Codex_Workstation\G_216,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_217,dataset\ground_ball\Codex_Workstation\G_217,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_218,dataset\ground_ball\Codex_Workstation\G_218,auto_applied,6.950,"event_start,event_end","{""event_end"": ""3.720"", ""event_start"": ""3.620""}","{""event_end"": ""3.730"", ""event_start"": ""3.630""}","strict timing, semantics, and adjudication gates passed"
+G_219,dataset\ground_ball\Codex_Workstation\G_219,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_220,dataset\ground_ball\Codex_Workstation\G_220,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_221,dataset\ground_ball\Codex_Workstation\G_221,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_222,dataset\ground_ball\Codex_Workstation\G_222,auto_applied,6.180,event_end,"{""event_end"": ""2.100""}","{""event_end"": ""2.150""}","strict timing, semantics, and adjudication gates passed"
+G_223,dataset\ground_ball\Codex_Workstation\G_223,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_224,dataset\ground_ball\Codex_Workstation\G_224,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_225,dataset\ground_ball\Codex_Workstation\G_225,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_226,dataset\ground_ball\Codex_Workstation\G_226,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_227,dataset\ground_ball\Codex_Workstation\G_227,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_228,dataset\ground_ball\Codex_Workstation\G_228,manual_review,1.643,,{},{},local contact transient ratio 1.64 is below 2.00
+G_229,dataset\ground_ball\Codex_Workstation\G_229,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_230,dataset\ground_ball\Codex_Workstation\G_230,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_231,dataset\ground_ball\Codex_Workstation\G_231,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_232,dataset\ground_ball\Codex_Workstation\G_232,manual_review,0.305,,{},{},local contact transient ratio 0.30 is below 2.00
+G_233,dataset\ground_ball\Codex_Workstation\G_233,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_234,dataset\ground_ball\Codex_Workstation\G_234,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_235,dataset\ground_ball\Codex_Workstation\G_235,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_236,dataset\ground_ball\Codex_Workstation\G_236,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_237,dataset\ground_ball\Codex_Workstation\G_237,auto_applied,2.823,"event_start,event_end","{""event_end"": ""3.240"", ""event_start"": ""3.140""}","{""event_end"": ""3.230"", ""event_start"": ""3.130""}","strict timing, semantics, and adjudication gates passed"
+G_238,dataset\ground_ball\Codex_Workstation\G_238,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_239,dataset\ground_ball\Codex_Workstation\G_239,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_240,dataset\ground_ball\Codex_Workstation\G_240,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_241,dataset\ground_ball\Codex_Workstation\G_241,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_242,dataset\ground_ball\Codex_Workstation\G_242,auto_applied,7.513,,{},{},"strict timing, semantics, and adjudication gates passed"
+G_243,dataset\ground_ball\Codex_Workstation\G_243,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_244,dataset\ground_ball\Codex_Workstation\G_244,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_245,dataset\ground_ball\Codex_Workstation\G_245,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_247,dataset\ground_ball\Codex_Workstation\G_247,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_248,dataset\ground_ball\Codex_Workstation\G_248,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_249,dataset\ground_ball\Codex_Workstation\G_249,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_250,dataset\ground_ball\Codex_Workstation\G_250,manual_review,0.539,,{},{},local contact transient ratio 0.54 is below 2.00
+G_251,dataset\ground_ball\Codex_Workstation\G_251,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_252,dataset\ground_ball\Codex_Workstation\G_252,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_253,dataset\ground_ball\Codex_Workstation\G_253,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_254,dataset\ground_ball\Codex_Workstation\G_254,auto_applied,9.283,"event_start,event_end","{""event_end"": ""2.360"", ""event_start"": ""2.260""}","{""event_end"": ""2.120"", ""event_start"": ""1.970""}","strict timing, semantics, and adjudication gates passed"
+G_255,dataset\ground_ball\Codex_Workstation\G_255,auto_applied,4.545,,{},{},"strict timing, semantics, and adjudication gates passed"
+G_256,dataset\ground_ball\Codex_Workstation\G_256,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_257,dataset\ground_ball\Codex_Workstation\G_257,auto_applied,6.594,"event_start,event_end","{""event_end"": ""2.040"", ""event_start"": ""1.940""}","{""event_end"": ""2.100"", ""event_start"": ""2.030""}","strict timing, semantics, and adjudication gates passed"
+G_258,dataset\ground_ball\Codex_Workstation\G_258,auto_applied,12.350,"event_start,event_end","{""event_end"": ""2.040"", ""event_start"": ""1.940""}","{""event_end"": ""2.050"", ""event_start"": ""1.950""}","strict timing, semantics, and adjudication gates passed"
+G_259,dataset\ground_ball\Codex_Workstation\G_259,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_260,dataset\ground_ball\Codex_Workstation\G_260,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_261,dataset\ground_ball\Codex_Workstation\G_261,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_262,dataset\ground_ball\Codex_Workstation\G_262,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_263,dataset\ground_ball\Codex_Workstation\G_263,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_264,dataset\ground_ball\Codex_Workstation\G_264,auto_applied,2.703,"event_start,event_end","{""event_end"": ""1.960"", ""event_start"": ""1.860""}","{""event_end"": ""1.930"", ""event_start"": ""1.830""}","strict timing, semantics, and adjudication gates passed"
+G_265,dataset\ground_ball\Codex_Workstation\G_265,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_266,dataset\ground_ball\Codex_Workstation\G_266,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_267,dataset\ground_ball\Codex_Workstation\G_267,auto_applied,15.213,,{},{},"strict timing, semantics, and adjudication gates passed"
+G_268,dataset\ground_ball\Codex_Workstation\G_268,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_269,dataset\ground_ball\Codex_Workstation\G_269,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_270,dataset\ground_ball\Codex_Workstation\G_270,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_271,dataset\ground_ball\Codex_Workstation\G_271,auto_applied,2.152,,{},{},"strict timing, semantics, and adjudication gates passed"
+G_272,dataset\ground_ball\Codex_Workstation\G_272,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_273,dataset\ground_ball\Codex_Workstation\G_273,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_274,dataset\ground_ball\Codex_Workstation\G_274,manual_review,1.962,,{},{},local contact transient ratio 1.96 is below 2.00
+G_275,dataset\ground_ball\Codex_Workstation\G_275,auto_applied,7.365,"event_start,event_end","{""event_end"": ""1.680"", ""event_start"": ""1.580""}","{""event_end"": ""1.690"", ""event_start"": ""1.590""}","strict timing, semantics, and adjudication gates passed"
+G_276,dataset\ground_ball\Codex_Workstation\G_276,auto_applied,7.626,"event_start,event_end","{""event_end"": ""2.040"", ""event_start"": ""1.940""}","{""event_end"": ""2.030"", ""event_start"": ""1.930""}","strict timing, semantics, and adjudication gates passed"
+G_277,dataset\ground_ball\Codex_Workstation\G_277,auto_applied,20.383,"event_start,event_end","{""event_end"": ""2.060"", ""event_start"": ""1.960""}","{""event_end"": ""2.050"", ""event_start"": ""1.950""}","strict timing, semantics, and adjudication gates passed"
+G_278,dataset\ground_ball\Codex_Workstation\G_278,auto_applied,18.540,"event_start,event_end","{""event_end"": ""2.040"", ""event_start"": ""1.940""}","{""event_end"": ""2.050"", ""event_start"": ""1.950""}","strict timing, semantics, and adjudication gates passed"
+G_279,dataset\ground_ball\Codex_Workstation\G_279,manual_review,,,{},{},foundational audio-visual evidence gate failed
+G_280,dataset\ground_ball\Codex_Workstation\G_280,auto_applied,7.920,,{},{},"strict timing, semantics, and adjudication gates passed"

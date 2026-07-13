@@ -1,7 +1,0 @@
-video_title: Ryan Watson seals the 7-1 Red Sox win Ryan Watson seals the 7-1 Red Sox win Ryan Watson seals the 7-1 Red Sox win Ryan Watson induces a Yohel Pozo groundout to seal the 7-1 Red Sox win
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/11/486fcd7c-f2d45e64-71578a59-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_823074_ryan-watson-seals-the-red-sox-7-1-win
-clip_id: MLB_823074_ryan-watson-seals-the-red-sox-7-1-win_auto1_0p000_6p000
-source_path: raw_sources\MLB_823074_ryan-watson-seals-the-red-sox-7-1-win_Ryan_Watson_seals_the_7-1_Red_Sox_win_Ryan_Watson_seals_the_7-1_Red_Sox_win_Ryan.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

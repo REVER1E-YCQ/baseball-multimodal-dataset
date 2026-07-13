@@ -1,7 +1,0 @@
-video_title: Javier Báez's smooth sliding play Javier Báez's smooth sliding play Javier Báez's smooth sliding play Javier Báez makes a smooth sliding play on a ground ball for the third out of the top of the 5th inning for the Tigers
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/05/8d727fb4-aa1dfd49-b6b3cb48-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_824296_alec-burleson-grounds-out-shortstop-javier-baez-to-first-baseman-spen
-clip_id: MLB_824296_alec-burleson-grounds-out-shortstop-javier-baez-to-first-baseman-spen_auto1_2p020_8p020
-source_path: raw_sources\MLB_824296_alec-burleson-grounds-out-shortstop-javier-baez-to-first-baseman-spen_Javier_B_ez_s_smooth_sliding_play_Javier_B_ez_s_smooth_sliding_play_Javier_B_ez_.mp4
-clip_start_time: 2.020
-clip_end_time: 8.020

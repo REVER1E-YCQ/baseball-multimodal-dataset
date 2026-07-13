@@ -1,7 +1,0 @@
-video_title: Richard Lovelady records the final out of the game Richard Lovelady records the final out of the game Richard Lovelady records the final out of the game Richard Lovelady records the final out of the game as he gets Ozzie Albies to groundout to third base and give the Nationals a 2-0 win
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/23/4eeef55d-205586d3-68daff41-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_824920_ozzie-albies-grounds-out-third-baseman-jorbit-vivas-to-first-baseman-
-clip_id: MLB_824920_ozzie-albies-grounds-out-third-baseman-jorbit-vivas-to-first-baseman-_head_0p000_6p000
-source_path: raw_sources\MLB_824920_ozzie-albies-grounds-out-third-baseman-jorbit-vivas-to-first-baseman-_Richard_Lovelady_records_the_final_out_of_the_game_Richard_Lovelady_records_the_.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

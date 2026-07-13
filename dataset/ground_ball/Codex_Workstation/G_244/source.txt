@@ -1,7 +1,0 @@
-video_title: Jacob Young's RBI groundout Jacob Young's RBI groundout Jacob Young's RBI groundout
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/03/3fe3b5b1-201a72ed-4b4ea459-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_822758_edgardo-henriquez-in-play-run-s-to-jacob-young
-clip_id: MLB_822758_edgardo-henriquez-in-play-run-s-to-jacob-young_auto1_1p460_7p460
-source_path: raw_sources\MLB_822758_edgardo-henriquez-in-play-run-s-to-jacob-young_Jacob_Young_s_RBI_groundout_Jacob_Young_s_RBI_groundout_Jacob_Young_s_RBI_ground.mp4
-clip_start_time: 1.460
-clip_end_time: 7.460

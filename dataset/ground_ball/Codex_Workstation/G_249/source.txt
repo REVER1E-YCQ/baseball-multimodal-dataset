@@ -1,7 +1,0 @@
-video_title: Addison Barger exits game with ankle discomfort Addison Barger exits game with ankle discomfort Addison Barger exits game with ankle discomfort Addison Barger exits the game with ankle discomfort after trying to beat out a ground ball in the top of the 3rd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/05/fb2b5376-43bd5b92-dc207ca1-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_824620_addison-barger-exits-game-with-ankle-discomfort
-clip_id: MLB_824620_addison-barger-exits-game-with-ankle-discomfort_auto1_5p140_11p140
-source_path: raw_sources\MLB_824620_addison-barger-exits-game-with-ankle-discomfort_Addison_Barger_exits_game_with_ankle_discomfort_Addison_Barger_exits_game_with_a.mp4
-clip_start_time: 5.140
-clip_end_time: 11.140

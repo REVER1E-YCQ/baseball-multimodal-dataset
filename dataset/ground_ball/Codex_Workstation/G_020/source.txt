@@ -1,7 +1,0 @@
-video_title: Vladimir Guerrero Jr. singles in the 1st inning Vladimir Guerrero Jr. singles in the 1st inning Vladimir Guerrero Jr. singles in the 1st inning Vladimir Guerrero Jr. singles on a ground ball in the 1st inning
-video_url: https://bdata-producedclips.mlb.com/b6360a8b-6a77-48ae-8a73-30c74213617c.mp4
-source_id: MLB_822800_hunter-brown-in-play-no-out-to-vladimir-guerrero-jr
-clip_id: MLB_822800_hunter-brown-in-play-no-out-to-vladimir-guerrero-jr_head_0p000_6p000
-source_path: raw_sources\MLB_822800_hunter-brown-in-play-no-out-to-vladimir-guerrero-jr_Vladimir_Guerrero_Jr._singles_in_the_1st_inning_Vladimir_Guerrero_Jr._singles_in.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000
