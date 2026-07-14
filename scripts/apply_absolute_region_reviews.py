@@ -48,13 +48,33 @@ def main() -> int:
     args = parser.parse_args()
 
     reviews = latest_successes(args.review)
+    override_path = repo_path("reports", "manual_region_overrides_20260714.csv")
+    overrides: dict[str, int] = {}
+    if override_path.exists():
+        with override_path.open("r", newline="", encoding="utf-8-sig") as fh:
+            for row in csv.DictReader(fh):
+                try:
+                    region = int(row.get("region", ""))
+                except ValueError:
+                    continue
+                if region in {1, 2, 3, 4} and row.get("sample_id"):
+                    overrides[row["sample_id"]] = region
     changes: list[dict[str, str]] = []
     by_id: dict[str, int] = {}
     for sample_csv in sorted(repo_path("dataset", "ground_ball").glob("*/*/sample.csv")):
         with sample_csv.open("r", newline="", encoding="utf-8-sig") as fh:
             row = next(csv.DictReader(fh))
         sample_id = row["sample_id"]
-        region = accepted(reviews.get(sample_id, {}))
+        if sample_id in overrides:
+            region = overrides[sample_id]
+            confidence = "manual"
+            control_time = ""
+            evidence = "user_manual_qc"
+        else:
+            region = accepted(reviews.get(sample_id, {}))
+            confidence = str(reviews.get(sample_id, {}).get("confidence", ""))
+            control_time = str(reviews.get(sample_id, {}).get("first_control_time_seconds", ""))
+            evidence = str(reviews.get(sample_id, {}).get("evidence", ""))
         if region is None or str(region) == row["region"]:
             continue
         changes.append(
@@ -62,9 +82,9 @@ def main() -> int:
                 "sample_id": sample_id,
                 "old_region": row["region"],
                 "new_region": str(region),
-                "confidence": str(reviews[sample_id].get("confidence", "")),
-                "first_control_time_seconds": str(reviews[sample_id].get("first_control_time_seconds", "")),
-                "evidence": str(reviews[sample_id].get("evidence", "")),
+                "confidence": confidence,
+                "first_control_time_seconds": control_time,
+                "evidence": evidence,
             }
         )
         by_id[sample_id] = region
