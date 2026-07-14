@@ -103,7 +103,7 @@ dataset_no,sample_id,label,collector,relative_path,event_start,event_end,region,
 102,F_106,fly_ball,Codex_Workstation,fly_ball/Codex_Workstation/F_106,1.780,1.820,,8,medium,,fly
 103,F_107,fly_ball,Codex_Workstation,fly_ball/Codex_Workstation/F_107,2.490,2.590,,6,high,,line_drive
 104,F_108,fly_ball,Codex_Workstation,fly_ball/Codex_Workstation/F_108,0.800,0.900,,7,high,,fly
-105,F_109,fly_ball,Codex_Workstation,fly_ball/Codex_Workstation/F_109,4.740,4.840,,6,medium,,fly
+105,F_109,fly_ball,Codex_Workstation,fly_ball/Codex_Workstation/F_109,5.060,5.160,,6,medium,,fly
 106,F_110,fly_ball,Codex_Workstation,fly_ball/Codex_Workstation/F_110,4.140,4.240,,8,high,,fly
 107,F_111,fly_ball,Codex_Workstation,fly_ball/Codex_Workstation/F_111,1.660,1.760,,6,high,,line_drive
 108,F_112,fly_ball,Codex_Workstation,fly_ball/Codex_Workstation/F_112,1.320,1.420,,3,low,,pop_fly
@@ -155,7 +155,7 @@ dataset_no,sample_id,label,collector,relative_path,event_start,event_end,region,
 154,G_035,ground_ball,Codex_Workstation,ground_ball/Codex_Workstation/G_035,0.800,0.900,3,,low,yes,
 155,G_036,ground_ball,Codex_Workstation,ground_ball/Codex_Workstation/G_036,2.080,2.180,4,,medium,yes,
 156,G_037,ground_ball,Codex_Workstation,ground_ball/Codex_Workstation/G_037,2.780,2.880,4,,medium,yes,
-157,G_038,ground_ball,Codex_Workstation,ground_ball/Codex_Workstation/G_038,1.880,1.980,2,,medium,yes,
+157,G_038,ground_ball,Codex_Workstation,ground_ball/Codex_Workstation/G_038,2.320,2.420,2,,medium,yes,
 158,G_039,ground_ball,Codex_Workstation,ground_ball/Codex_Workstation/G_039,2.410,2.510,4,,medium,yes,
 159,G_040,ground_ball,Codex_Workstation,ground_ball/Codex_Workstation/G_040,3.470,3.620,3,,medium,yes,
 160,G_041,ground_ball,Codex_Workstation,ground_ball/Codex_Workstation/G_041,0.970,1.070,4,,medium,yes,
@@ -266,7 +266,7 @@ dataset_no,sample_id,label,collector,relative_path,event_start,event_end,region,
 265,G_150,ground_ball,Codex_Workstation,ground_ball/Codex_Workstation/G_150,1.130,1.230,3,,medium,yes,
 266,G_151,ground_ball,Codex_Workstation,ground_ball/Codex_Workstation/G_151,1.180,1.280,2,,high,yes,
 267,G_152,ground_ball,Codex_Workstation,ground_ball/Codex_Workstation/G_152,2.010,2.110,2,,medium,yes,
-268,G_153,ground_ball,Codex_Workstation,ground_ball/Codex_Workstation/G_153,3.420,3.520,1,,medium,yes,
+268,G_153,ground_ball,Codex_Workstation,ground_ball/Codex_Workstation/G_153,3.420,3.520,3,,medium,yes,
 269,G_154,ground_ball,Codex_Workstation,ground_ball/Codex_Workstation/G_154,3.360,3.460,4,,medium,yes,
 270,G_155,ground_ball,Codex_Workstation,ground_ball/Codex_Workstation/G_155,2.460,2.560,2,,medium,yes,
 271,G_156,ground_ball,Codex_Workstation,ground_ball/Codex_Workstation/G_156,2.870,2.970,3,,medium,yes,
@@ -305,7 +305,7 @@ dataset_no,sample_id,label,collector,relative_path,event_start,event_end,region,
 304,G_189,ground_ball,Codex_Workstation,ground_ball/Codex_Workstation/G_189,1.090,1.240,1,,medium,no,
 305,G_190,ground_ball,Codex_Workstation,ground_ball/Codex_Workstation/G_190,0.965,1.045,3,,medium,yes,
 306,G_191,ground_ball,Codex_Workstation,ground_ball/Codex_Workstation/G_191,3.400,3.500,2,,medium,yes,
-307,G_192,ground_ball,Codex_Workstation,ground_ball/Codex_Workstation/G_192,3.030,3.130,1,,low,no,
+307,G_192,ground_ball,Codex_Workstation,ground_ball/Codex_Workstation/G_192,3.030,3.130,4,,low,no,
 308,G_193,ground_ball,Codex_Workstation,ground_ball/Codex_Workstation/G_193,1.480,1.520,1,,medium,yes,
 309,G_194,ground_ball,Codex_Workstation,ground_ball/Codex_Workstation/G_194,1.000,1.100,2,,medium,no,
 310,G_195,ground_ball,Codex_Workstation,ground_ball/Codex_Workstation/G_195,3.430,3.530,1,,medium,yes,
