@@ -1,0 +1,37 @@
+sample_id,old_region,new_region,confidence,first_control_time_seconds,evidence
+G_217,1,2,0.95,3.2,The ball is fielded by the third baseman in the left-middle quadrant of the infield.
+G_218,1,2,0.95,4.0,"The ground ball is fielded by a player positioned in the left-center area of the infield (between third base and second base), corresponding to the left-middle quarter of the diamond."
+G_221,2,3,0.95,3.0,The ball is fielded by the second baseman in the right-middle quadrant of the infield.
+G_223,1,2,0.95,5.75,"At 5.75s, the ball is first controlled by the first baseman near the left-middle quarter of the infield diamond, just inside the foul line near first base."
+G_224,3,2,0.99,5.667,Fielder in blue catches a ground ball near first base.
+G_225,2,3,0.95,0.05,"At 0.05s, the ball is fielded by the shortstop near the right-middle quadrant of the infield diamond, just inside the third-base foul line."
+G_227,2,3,0.95,4.0,The batted ball is fielded by a player positioned in the right-middle sector of the infield (between second base and first base) at approximately the 4-second mark.
+G_228,1,2,0.95,4.2,"At 00:04.2, the batted ball is clearly visible on the ground in the left-middle quarter of the infield (near second base) as it is being fielded by the shortstop."
+G_229,1,4,0.95,2.6,"At timestamp 00:02.6, the batted ball is seen rolling on the dirt near the first base line (right side of the infield from this perspective) and is being fielded by the first baseman."
+G_230,2,3,0.95,4.1,The ball is hit into the right-middle infield and is fielded by the second baseman.
+G_232,3,2,0.95,4.75,"At 4.75s, the ball is controlled by the first baseman near the first-base bag, positioned in the left-middle quarter of the infield when viewed from top-down."
+G_237,2,4,0.95,4.5,"At 00:04.5, the batted ground ball is seen rolling on the dirt near the first base line (right side of the infield from camera view) and is being fielded by a player in that sector."
+G_238,2,3,0.95,4.0,"At timestamp 00:04, the ground ball is cleanly fielded by the shortstop who is positioned on the right side of the infield diamond (from the camera's perspective). The ball is secured in his glove at this moment."
+G_239,2,3,1.0,3.0,"The ball is fielded by the second baseman near the right-middle sector of the infield, just inside the foul line, as he dives and secures it."
+G_241,4,1,1.0,0.0,Ball is controlled by the first baseman near the first-base line in the leftmost quarter of the infield fan.
+G_242,1,2,0.95,0.04,Ground ball hit to left side; fielder in left field makes first control of the ball at approximately00:00:04.
+G_243,3,2,0.95,0.00275,"At 00:00:02.750, the ball is visibly controlled by the fielder after a diving stop near the left side of the infield, just inside the third-base foul line, placing it in the left-middle quarter of the fair infield fan."
+G_244,1,2,0.95,4.2,"The batted ball travels along the ground towards the left side of the infield. At approximately 4.2 seconds, a fielder fields the ball cleanly in the area between third base and shortstop, corresponding to the second quadrant from the left."
+G_253,1,3,0.95,2.5,"The ground ball is fielded by the pitcher on the mound. On a top-down view of the infield diamond divided into four equal sectors from third to first base, the pitcher's mound falls squarely within the right-middle quarter (Region 3)."
+G_254,2,3,0.95,3.0,"The batted ball travels up the middle of the infield. At approximately 3 seconds, the fielder positioned in the right-middle sector (second base area) fields the ground ball."
+G_255,2,4,0.95,0.5,"At 00:00.5, the batted ball is cleanly fielded by a fielder in the right-side infield (third base area). The ball is immediately secured in his glove, marking the first moment of control."
+G_256,2,3,0.95,0.5,"At 00:00.5, the batted ball is seen rolling on the dirt in the right-middle section of the infield diamond, between the pitcher's mound and the first-base line, before being fielded."
+G_257,2,3,1.0,3.5,"The ball is first controlled by the shortstop near the right-middle sector of the infield diamond, just inside the third-base foul line, as he fields it after it bounces off the ground."
+G_258,2,3,0.95,3.0,The ball is hit into the right-center field gap and is fielded by the right fielder.
+G_261,4,2,0.95,3.2,"At 3.2s, the ball is stopped by a diving fielder near the left-middle infield quadrant, just inside the third-base foul line, confirming first control in region 2."
+G_264,2,4,0.95,0.0,"At 00:00, the batted ball is rolling on the ground in the right-middle infield sector (near the first base line), and by 00:01 it is being fielded by a player positioned in the rightmost quarter of the infield diamond."
+G_265,2,3,0.95,3.2,"At 00:03.2, the batted ground ball is seen rolling on the infield dirt between second and first base, clearly within the right-middle sector of the top-down view before being fielded by the shortstop."
+G_267,2,3,0.95,3.0,"The ball is hit into the right-middle infield, and the second baseman fields it cleanly near the foul line."
+G_268,1,3,1.0,3.0,"The ball is first controlled by the second baseman near second base, within the right-middle quarter of the infield when viewed from above."
+G_269,2,3,0.95,3.2,"At 3.2s, the ball is first controlled by the second baseman near the right side of the infield, just inside the foul line, within the right-middle quarter of the fair infield fan."
+G_271,2,3,0.95,3.1,The batted ball is fielded by an infielder positioned in the right-middle section of the diamond (between the pitcher's mound and first base) at approximately 3.1 seconds.
+G_273,1,4,0.95,6.0,"At 00:06, the batted ball is seen on the ground in the right field side of the infield (from camera perspective), where it is controlled by a fielder."
+G_274,2,3,0.95,1.8,"At 00:01.8, the ground ball is cleanly fielded by the shortstop in the right-middle sector of the infield (between second base and third base) before being thrown."
+G_275,2,3,0.95,4.2,"At 4.2 seconds, the ball is on the grass near the right-middle infield sector, just after being hit, and a fielder is moving to receive it."
+G_276,2,3,0.95,3.0,The ball is fielded by the second baseman in the right-middle sector of the infield.
+G_277,4,3,0.95,4.2,"The ball is fielded by a defender in the right-middle quadrant of the infield, just inside the third-base foul line, as he dives to secure it."

@@ -36,8 +36,11 @@ CLIP_FIELDS = [
     "notes",
 ]
 
-DEFAULT_MODEL_TOKEN_CAP = 800_000
-DEFAULT_MODEL_TOKEN_RESERVE = 10_000
+DEFAULT_MODEL_TOKEN_CAP = 1_000_000
+# Keep at least 10% of the nominal per-model allowance unused.  The project
+# rotates before this reserve is reached so a review run never consumes a
+# model's last quota and risks account-level overage.
+DEFAULT_MODEL_TOKEN_RESERVE = 100_000
 
 
 def load_models() -> list[str]:

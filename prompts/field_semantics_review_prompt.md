@@ -9,17 +9,12 @@ region, bounce, strength, or label needs correction.
 Check all fields:
 - `label`: ground_ball or fly_ball; use review/reject when evidence is insufficient. A `ground_ball` first contacts the ground in the infield and continues primarily along/near the ground through the infield. A `line_drive` remains `fly_ball` even if it later lands or bounces in the outfield. Do not convert an outfield line drive into ground_ball merely because it eventually touches grass.
 - `strength`: low, medium, or high, based on exit speed and play evidence rather than crowd reaction.
-- Ground-ball `region`: use baseball-field geometry from home plate toward second base, NEVER the
-  temporary left/right orientation of a broadcast camera. The immutable map is:
-  `THIRD-BASE FOUL LINE | region 1 | 3B-2B midpoint | region 2 | SECOND BASE | region 3 | 1B-2B midpoint | region 4 | FIRST-BASE FOUL LINE`.
-  Therefore a ball toward the third-base side MUST be region 1 or 2 and can NEVER be 3 or 4. A
-  ball toward the first-base side MUST be region 3 or 4 and can NEVER be 1 or 2. State the side
-  and wedge boundaries in `region_evidence`, then verify that the numeric region agrees. Judge the
-  ball's path through the infield, not screen position. When the path is near a boundary, near the
-  middle line, or ambiguous from the camera angle, use the actual fielder who fields or clearly
-  attempts the play as the tie-breaker: third baseman/third-base-line play => region 1; shortstop
-  or left-of-second play => region 2; second baseman or right-of-second play => region 3; first
-  baseman/first-base-line play => region 4.
+- Ground-ball `region`: at the first frame where the batted ball is controlled, mentally transform
+  the infield to a top-down view and locate the BALL'S absolute position. Divide the fair infield
+  fan from third-base foul line to first-base foul line into four equal left-to-right sectors:
+  1=leftmost, 2=left-middle, 3=right-middle, 4=rightmost. Never derive region from the fielder's
+  nominal position, player identity, ball path, later throw/catch, or the temporary broadcast
+  screen orientation. If that first-control ball location is not visible, mark the region unverified.
 - Ground-ball `bounce`: yes only when the ball is at or below the receiving fielder's knee height at the fielding/catch moment; no when above the knee. Do not infer yes merely because it is a ground ball. If the receiving moment or knee reference is not visible, mark the field unverified.
 - Fly-ball `landing_zone` and `trajectory_type`: verify from the visible flight and receiving/landing area.
 

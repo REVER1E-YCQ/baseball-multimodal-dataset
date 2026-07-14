@@ -1,2 +1,2 @@
 sample_id,label,region,strength,bounce,event_start,event_end
-G_016,ground_ball,yes,medium,"Contact and the 1.26 s transient align. MLB source and full-play frames show CJ Abrams fielding on the shortstop side, fixing region 2; the low backhand receiving moment supports bounce yes.",1.200,1.300
+G_016,ground_ball,2,medium,yes,1.200,1.300

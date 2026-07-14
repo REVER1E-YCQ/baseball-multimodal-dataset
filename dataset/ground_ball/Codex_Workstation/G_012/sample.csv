@@ -1,2 +1,2 @@
 sample_id,label,region,strength,bounce,event_start,event_end
-G_012,ground_ball,yes,medium,"Contact and the 2.04 s audio peak align in the current interval. MLB source and full-play frames show a third-baseman grounder, fixing region 1; the low fielding moment supports bounce yes.",1.980,2.080
+G_012,ground_ball,1,medium,yes,1.980,2.080

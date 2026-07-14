@@ -1,2 +1,2 @@
 sample_id,label,region,strength,bounce,event_start,event_end
-G_001,ground_ball,yes,medium,"Full-play frames and MLB source identify the second baseman fielding the grounder; under the fixed home-to-second wedge map this is region 3, not region 4. Contact remains aligned near 1.52 s and the receiving play is below knee height.",1.400,1.600
+G_001,ground_ball,3,medium,yes,1.400,1.600
