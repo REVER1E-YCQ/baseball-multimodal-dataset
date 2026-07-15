@@ -10,11 +10,13 @@ Check all fields:
 - `label`: ground_ball or fly_ball; use review/reject when evidence is insufficient. A `ground_ball` first contacts the ground in the infield and continues primarily along/near the ground through the infield. A `line_drive` remains `fly_ball` even if it later lands or bounces in the outfield. Do not convert an outfield line drive into ground_ball merely because it eventually touches grass.
 - `strength`: low, medium, or high, based on exit speed and play evidence rather than crowd reaction.
 - Ground-ball `region`: at the first frame where the batted ball is controlled, mentally transform
-  the infield to a top-down view and locate the BALL'S absolute position. Divide the fair infield
+  the infield to a top-down view and locate the BALL'S absolute position. If no defender controls
+  the ball in the clip, use its last clear locatable position while it remains in the fair infield.
+  Divide the fair infield
   fan from third-base foul line to first-base foul line into four equal left-to-right sectors:
   1=leftmost, 2=left-middle, 3=right-middle, 4=rightmost. Never derive region from the fielder's
   nominal position, player identity, ball path, later throw/catch, or the temporary broadcast
-  screen orientation. If that first-control ball location is not visible, mark the region unverified.
+  screen orientation. If neither evidence point is visible, mark the region unverified.
 - Ground-ball `bounce`: yes only when the ball is at or below the receiving fielder's knee height at the fielding/catch moment; no when above the knee. Do not infer yes merely because it is a ground ball. If the receiving moment or knee reference is not visible, mark the field unverified.
 - Fly-ball `landing_zone` and `trajectory_type`: verify from the visible flight and receiving/landing area.
 

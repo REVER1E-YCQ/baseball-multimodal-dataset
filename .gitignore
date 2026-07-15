@@ -19,8 +19,8 @@ reports/*.html
 reports/*.jsonl
 reports/*.csv
 reports/*.log
+reports/*.lock
 
 # Dataset media is large. Commit intentionally when a reviewed batch is ready.
 dataset/**/*.mp4
 dataset/**/*.wav
-

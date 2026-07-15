@@ -7,12 +7,19 @@ from common import ffprobe_duration, read_csv, repo_path, safe_slug, write_csv
 from extract_candidates import CLIP_FIELDS, run_ffmpeg
 
 
-def selected_sources(rows: list[dict[str, str]], statuses: set[str], labels: set[str]) -> list[dict[str, str]]:
+def selected_sources(
+    rows: list[dict[str, str]],
+    statuses: set[str],
+    labels: set[str],
+    min_game_date: str,
+) -> list[dict[str, str]]:
     selected = []
     for row in rows:
         if row.get("status") not in statuses:
             continue
         if row.get("expected_label") not in labels:
+            continue
+        if min_game_date and row.get("game_date", "") < min_game_date:
             continue
         if not row.get("local_path"):
             continue
@@ -30,6 +37,7 @@ def main() -> int:
     parser.add_argument("--fly-duration", type=float, default=7.0)
     parser.add_argument("--statuses", default="downloaded")
     parser.add_argument("--labels", default="ground_ball,fly_ball")
+    parser.add_argument("--min-game-date", default="", help="Only consider source rows on or after this YYYY-MM-DD date.")
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args()
 
@@ -41,7 +49,7 @@ def main() -> int:
     }
     statuses = {item.strip() for item in args.statuses.split(",") if item.strip()}
     labels = {item.strip() for item in args.labels.split(",") if item.strip()}
-    sources = selected_sources(source_rows, statuses, labels)
+    sources = selected_sources(source_rows, statuses, labels, args.min_game_date)
     if args.limit:
         sources = sources[: args.limit]
 

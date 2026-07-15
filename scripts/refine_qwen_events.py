@@ -115,6 +115,7 @@ def main() -> int:
     parser.add_argument("--labels", type=Path, default=repo_path("reports", "qwen_labels.jsonl"))
     parser.add_argument("--clips-manifest", type=Path, default=repo_path("manifests", "clips_manifest.csv"))
     parser.add_argument("--output", type=Path, default=repo_path("reports", "qwen_labels_refined.jsonl"))
+    parser.add_argument("--clip-id", action="append", default=[], help="Refine only these clip IDs; repeatable.")
     parser.add_argument("--search-margin", type=float, default=0.750)
     parser.add_argument("--event-width", type=float, default=0.100)
     parser.add_argument("--window-ms", type=float, default=20.0)
@@ -128,10 +129,13 @@ def main() -> int:
 
     clip_rows = {row["clip_id"]: row for row in read_csv(args.clips_manifest)}
     records = latest_records(load_jsonl(args.labels))
+    wanted_clips = set(args.clip_id)
     args.output.parent.mkdir(parents=True, exist_ok=True)
     refined_count = 0
     with args.output.open("w", encoding="utf-8") as fh:
         for clip_id, record in records.items():
+            if wanted_clips and clip_id not in wanted_clips:
+                continue
             clip_row = clip_rows.get(clip_id)
             if not clip_row:
                 continue

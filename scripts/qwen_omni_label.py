@@ -226,10 +226,10 @@ def call_qwen(model: str, clip_path: Path, prompt: str, base_url: str, api_key: 
         response = urllib.request.urlopen(req, timeout=180)
     except urllib.error.HTTPError as exc:
         detail = exc.read().decode("utf-8", errors="replace")
-        if exc.code in {401, 403} or "invalid_api_key" in detail or "Incorrect API key" in detail:
-            raise AuthError(f"HTTP {exc.code}: authentication failed; check QWEN_API_KEY/DASHSCOPE_API_KEY")
         if "AllocationQuota.FreeTierOnly" in detail or "free quota has been exhausted" in detail:
             raise ModelQuotaError(f"{model}: free quota exhausted or billing mode blocks this model")
+        if exc.code in {401, 403} or "invalid_api_key" in detail or "Incorrect API key" in detail:
+            raise AuthError(f"HTTP {exc.code}: authentication failed; check QWEN_API_KEY/DASHSCOPE_API_KEY")
         raise RuntimeError(f"HTTP {exc.code}: {detail[:800]}") from exc
 
     with response:

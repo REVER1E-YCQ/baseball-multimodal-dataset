@@ -1,0 +1,7 @@
+video_title: Luis Robert Jr.'s RBI single Luis Robert Jr.'s RBI single Luis Robert Jr.'s RBI single Luis Robert Jr. singles on a ground ball to left, scoring Francisco Lindor and making it a 6-3 Mets lead
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-03/26/c99fc6d6-daee7f1b-74f5643e-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_823649_luis-robert-jr-singles-on-a-ground-ball-to-left-fielder-bryan-reynold
+clip_id: MLB_823649_luis-robert-jr-singles-on-a-ground-ball-to-left-fielder-bryan-reynold_auto1_15p180_21p180
+source_path: raw_sources\MLB_823649_luis-robert-jr-singles-on-a-ground-ball-to-left-fielder-bryan-reynold_Luis_Robert_Jr._s_RBI_single_Luis_Robert_Jr._s_RBI_single_Luis_Robert_Jr._s_RBI_.mp4
+clip_start_time: 15.180
+clip_end_time: 21.180

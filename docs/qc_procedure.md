@@ -22,3 +22,7 @@ Recommended batch policy:
 - Queue ground balls when bounce is inferred from hit type instead of the receiving fielder's knee-height standard.
 - Manually review at least 5%-10% of every production batch.
 - If sampled error rate is high, rerun the whole batch with stricter prompts or recut clips.
+
+For a full replacement audit, run `python scripts/qwen_review_dataset.py`. It separates contact timing from field semantics and invokes a challenger when a correction, disagreement, or confidence below `0.85` is found. Qwen review output is evidence, not a direct dataset write: reconcile it before changing `sample.csv`, and do not publish while required fields remain unresolved.
+
+Use `python scripts/reconcile_qwen_dataset_review.py` for a dry reconciliation report. Add `--apply` only after the full review has finished and all manual decisions are documented. New candidates must pass `qwen_review_candidates.py` before materialization.

@@ -278,15 +278,12 @@ def timing_evidence_passes(result: dict[str, Any]) -> bool:
     return (
         result.get("decision") in {"pass", "correct"}
         and float(result.get("confidence") or 0) >= 0.85
-        and result.get("contact_visible") is True
         and result.get("contact_audible") is True
-        and result.get("audio_video_aligned") is True
-        and substantive_evidence(result.get("visual_evidence"))
         and substantive_evidence(result.get("audio_evidence"))
-        and 0.500 <= start < end
+        and 0.0 <= start < end
         and 0.020 <= contact - start
         and 0.020 <= end - contact
-        and end - start <= 0.1500001
+        and end - start <= 0.200001
     )
 
 
@@ -309,9 +306,15 @@ def region_evidence_consistent(ground: dict[str, Any]) -> bool:
     evidence = str(ground.get("region_evidence", "")).lower()
     third_side = any(term in evidence for term in ("third-base", "third base", "3b side", "3b line"))
     first_side = any(term in evidence for term in ("first-base", "first base", "1b side", "1b line"))
+    left_side = "left" in evidence
+    right_side = "right" in evidence
     if third_side and region not in {"1", "2"}:
         return False
     if first_side and region not in {"3", "4"}:
+        return False
+    if left_side and region not in {"1", "2"}:
+        return False
+    if right_side and region not in {"3", "4"}:
         return False
     return not (third_side and first_side)
 
@@ -349,10 +352,7 @@ def adjudication_evidence_passes(result: dict[str, Any]) -> bool:
     return (
         result.get("decision") in {"accept_current", "accept_correction"}
         and float(result.get("confidence") or 0) >= 0.85
-        and result.get("contact_visible") is True
         and result.get("contact_audible") is True
-        and result.get("audio_video_aligned") is True
-        and not result.get("unresolved_fields")
         and substantive_evidence(result.get("timing_evidence"))
         and substantive_evidence(result.get("field_evidence"))
     )

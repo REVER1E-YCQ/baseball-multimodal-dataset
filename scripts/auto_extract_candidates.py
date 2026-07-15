@@ -83,12 +83,19 @@ def clamp_window(peak: float, duration: float, clip_duration: float, pre_roll: f
     return start, end
 
 
-def selected_sources(rows: list[dict[str, str]], statuses: set[str], labels: set[str]) -> list[dict[str, str]]:
+def selected_sources(
+    rows: list[dict[str, str]],
+    statuses: set[str],
+    labels: set[str],
+    min_game_date: str,
+) -> list[dict[str, str]]:
     selected = []
     for row in rows:
         if row.get("status") not in statuses:
             continue
         if row.get("expected_label") not in labels:
+            continue
+        if min_game_date and row.get("game_date", "") < min_game_date:
             continue
         if not row.get("local_path"):
             continue
@@ -123,6 +130,7 @@ def main() -> int:
     parser.add_argument("--min-peak-gap", type=float, default=3.0)
     parser.add_argument("--statuses", default="downloaded")
     parser.add_argument("--labels", default="ground_ball,fly_ball")
+    parser.add_argument("--min-game-date", default="", help="Only consider source rows on or after this YYYY-MM-DD date.")
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args()
 
@@ -133,7 +141,11 @@ def main() -> int:
     existing_source_ids.update(materialized_source_ids())
     statuses = {item.strip() for item in args.statuses.split(",") if item.strip()}
     labels = {item.strip() for item in args.labels.split(",") if item.strip()}
-    sources = [row for row in selected_sources(source_rows, statuses, labels) if row.get("source_id") not in existing_source_ids]
+    sources = [
+        row
+        for row in selected_sources(source_rows, statuses, labels, args.min_game_date)
+        if row.get("source_id") not in existing_source_ids
+    ]
     if args.limit:
         sources = sources[: args.limit]
 

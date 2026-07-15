@@ -88,6 +88,27 @@ def load_audit_passes(path: Path) -> set[str] | None:
     return passes
 
 
+def load_visual_passes(path: Path) -> set[str] | None:
+    if not path.exists():
+        return None
+    with path.open("r", newline="", encoding="utf-8-sig") as fh:
+        return {row["clip_id"] for row in csv.DictReader(fh) if row.get("final_status") == "auto_accepted"}
+
+
+def candidate_score(record: dict[str, Any], clip_row: dict[str, str]) -> tuple[float, float, float, str]:
+    payload = record.get("label") or {}
+    start = float(payload.get("event_start") or 0.0)
+    end = float(payload.get("event_end") or 0.0)
+    duration = max(0.0, float(clip_row.get("end_time") or 0.0) - float(clip_row.get("start_time") or 0.0))
+    boundary_margin = min(start, max(0.0, duration - end))
+    return (
+        float(payload.get("confidence") or 0.0),
+        boundary_margin,
+        -abs((start + end) / 2.0 - 2.0),
+        str(record.get("clip_id", "")),
+    )
+
+
 def existing_materialized_ids(dataset_root: Path) -> tuple[set[str], set[str]]:
     clip_ids: set[str] = set()
     source_ids: set[str] = set()
@@ -116,6 +137,8 @@ def main() -> int:
     parser.add_argument("--min-confidence", type=float, default=0.70)
     parser.add_argument("--audit", type=Path, default=repo_path("reports", "qwen_label_audit.jsonl"))
     parser.add_argument("--require-audit-pass", action="store_true")
+    parser.add_argument("--visual-audit", type=Path, default=repo_path("reports", "qwen_candidate_review_summary.csv"))
+    parser.add_argument("--require-visual-audit-pass", action="store_true")
     parser.add_argument("--accepted-clip-statuses", default="labeled")
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args()
@@ -125,13 +148,17 @@ def main() -> int:
     source_rows = {row["source_id"]: row for row in read_csv(args.sources_manifest) if row.get("source_id")}
     records = latest_records(load_jsonl(args.labels)).values()
     audit_passes = load_audit_passes(args.audit)
+    visual_passes = load_visual_passes(args.visual_audit)
     already_materialized_clips, already_materialized_sources = existing_materialized_ids(repo_path("dataset"))
     created = 0
 
+    eligible_by_source: dict[str, list[tuple[dict[str, Any], dict[str, str]]]] = {}
     for record in records:
         if record.get("clip_id") in already_materialized_clips:
             continue
         if args.require_audit_pass and (audit_passes is None or record.get("clip_id") not in audit_passes):
+            continue
+        if args.require_visual_audit_pass and (visual_passes is None or record.get("clip_id") not in visual_passes):
             continue
         label_payload = record.get("label") or {}
         label = label_payload.get("label")
@@ -146,6 +173,13 @@ def main() -> int:
             continue
         if clip_row.get("source_id") in already_materialized_sources:
             continue
+
+        eligible_by_source.setdefault(clip_row.get("source_id", ""), []).append((record, clip_row))
+
+    selected = [max(candidates, key=lambda item: candidate_score(item[0], item[1])) for candidates in eligible_by_source.values()]
+    for record, clip_row in sorted(selected, key=lambda item: item[1].get("source_id", "")):
+        label_payload = record.get("label") or {}
+        label = label_payload.get("label")
 
         collector_dir = repo_path("dataset", label, args.collector)
         sample_id = next_sample_id(label, collector_dir)

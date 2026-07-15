@@ -1,0 +1,7 @@
+video_title: Bo Bichette's smooth running toss Bo Bichette's smooth running toss Bo Bichette's smooth running toss Bo Bichette charges the ground ball and makes a nice running throw to first to retire Iván Herrera
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-03/30/44f17ecb-bd91ebd8-a8e22a25-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_823080_clay-holmes-in-play-out-s-to-ivan-herrera
+clip_id: MLB_823080_clay-holmes-in-play-out-s-to-ivan-herrera_auto1_0p860_6p860
+source_path: raw_sources\MLB_823080_clay-holmes-in-play-out-s-to-ivan-herrera_Bo_Bichette_s_smooth_running_toss_Bo_Bichette_s_smooth_running_toss_Bo_Bichette_.mp4
+clip_start_time: 0.860
+clip_end_time: 6.860

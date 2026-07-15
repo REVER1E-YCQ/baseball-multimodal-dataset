@@ -25,17 +25,9 @@ Rules:
 - Use reject if the contact sound is missing, heavily masked, replay-only, or the clip does not show the batted-ball event.
 - Use uncertain if evidence exists but the hit type or timing cannot be determined with confidence.
 - The event interval should bracket the bat-ball collision itself, not the whole play.
-- The event interval must align with both the audible contact peak and the video frame where bat-ball contact occurs. If audio and video disagree, use uncertain or reject.
-- For ground_ball region, divide the infield into four wedges from the home-plate viewpoint facing second base/outfield. Draw three boundary rays from home plate: one to the midpoint between third base and second base, one to second base, and one to the midpoint between first base and second base. From left to right:
-  - 1: third-base line to the third/second midpoint boundary.
-  - 2: third/second midpoint boundary to the home-to-second boundary.
-  - 3: home-to-second boundary to the first/second midpoint boundary.
-  - 4: first/second midpoint boundary to the first-base line.
-- If the ball path is near a boundary, near the middle line, or hard to separate from camera angle, use the fielder who actually fields or clearly attempts the play as the tie-breaker:
-  - third baseman or third-base-line play => region 1.
-  - shortstop or left-of-second infield play => region 2.
-  - second baseman or right-of-second infield play => region 3.
-  - first baseman or first-base-line play => region 4.
+- The event interval is audio-first: tightly bracket the bat-contact sound, normally 0.05-0.20 seconds. If video and audio are offset, preserve the audio-centred time rather than moving it to match the picture. Report the offset in `audio_evidence`; do not reject a usable clip solely because of offset.
+- For ground-ball region, use video only. Mentally transform the fair infield to a top-down fan from the third-base foul line to the first-base foul line, split into four equal left-to-right sectors: 1=leftmost, 2=left-middle, 3=right-middle, 4=rightmost.
+- First use the BALL'S absolute location at the first fielding/control moment. If no defender controls it in the clip, use the ball's last clear locatable location while it remains in the fair infield. Never infer the region from a fielder's nominal position, player identity, ball path, later throw, or screen left/right orientation. If neither evidence point can be located, use uncertain rather than guessing a region.
 - Do not infer bounce=yes only because the hit is a ground_ball. For ground_ball, mark bounce=yes only when the ball is at or below the receiving fielder's knee height when fielded. Mark bounce=no when the receiving height is above the fielder's knee. If the receiving fielder or receiving height cannot be judged, lower confidence or use uncertain.
 - Prefer conservative labels. A bad sample is worse than a rejected sample.
 - Do not invent source metadata.

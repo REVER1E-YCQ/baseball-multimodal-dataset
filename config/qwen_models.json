@@ -2,6 +2,8 @@
   "base_url_env": "QWEN_BASE_URL",
   "api_key_env_order": ["QWEN_API_KEY", "DASHSCOPE_API_KEY"],
   "fallback_models": [
+    "qwen-omni-turbo-2025-03-26",
+    "qwen-omni-turbo-2025-01-19",
     "qwen3-omni-flash-2025-12-01",
     "qwen3-omni-flash-2025-09-15",
     "qwen-omni-turbo",
@@ -12,6 +14,80 @@
     "qwen3.5-omni-flash",
     "qwen3.5-omni-plus"
   ],
+  "review_fallback_models": [
+    "qwen-omni-turbo-2025-03-26",
+    "qwen-omni-turbo-2025-01-19",
+    "qwen3.5-omni-plus-2026-03-15",
+    "qwen3.5-omni-flash-2026-03-15",
+    "qwen3-omni-flash-2025-09-15",
+    "qwen-omni-turbo",
+    "qwen3-omni-flash-2025-12-01",
+    "qwen3-omni-flash",
+    "qwen-omni-turbo-latest",
+    "qwen3.5-omni-flash",
+    "qwen3.5-omni-plus"
+  ],
+  "review_realtime_models": [
+    "qwen3.5-omni-plus-realtime",
+    "qwen3.5-omni-flash-realtime",
+    "qwen3.5-omni-flash-realtime-2026-03-15",
+    "qwen3-omni-flash-realtime-2025-12-01",
+    "qwen3-omni-flash-realtime-2025-09-15",
+    "qwen3-omni-flash-realtime",
+    "qwen-omni-turbo-realtime-2025-05-08",
+    "qwen-omni-turbo-realtime-latest"
+  ],
+  "review_realtime_stage_models": {
+    "timing": [
+      "qwen3.5-omni-plus-realtime",
+      "qwen3.5-omni-flash-realtime",
+      "qwen3.5-omni-flash-realtime-2026-03-15",
+      "qwen3-omni-flash-realtime-2025-12-01",
+      "qwen3-omni-flash-realtime-2025-09-15",
+      "qwen3-omni-flash-realtime",
+      "qwen-omni-turbo-realtime-2025-05-08",
+      "qwen-omni-turbo-realtime-latest"
+    ],
+    "semantics": [
+      "qwen3.5-omni-flash",
+      "qwen3.5-omni-plus-realtime",
+      "qwen3.5-omni-flash-realtime",
+      "qwen3.5-omni-flash-realtime-2026-03-15",
+      "qwen-omni-turbo-realtime-2025-05-08",
+      "qwen-omni-turbo-realtime-latest"
+    ],
+    "adjudication": [
+      "qwen3.5-omni-flash",
+      "qwen3.5-omni-plus-realtime",
+      "qwen3.5-omni-flash-realtime",
+      "qwen3.5-omni-flash-realtime-2026-03-15",
+      "qwen-omni-turbo-realtime-2025-05-08",
+      "qwen-omni-turbo-realtime-latest"
+    ]
+  },
+  "review_stage_models": {
+    "timing": [
+      "qwen3.5-omni-plus-realtime",
+      "qwen3.5-omni-flash-realtime",
+      "qwen3-omni-flash-realtime-2025-12-01",
+      "qwen3-omni-flash-realtime-2025-09-15",
+      "qwen3-omni-flash-realtime",
+      "qwen-omni-turbo-2025-03-26",
+      "qwen-omni-turbo-2025-01-19"
+    ],
+    "semantics": [
+      "qwen3.5-omni-plus-realtime",
+      "qwen3.5-omni-flash-realtime",
+      "qwen3.5-omni-flash-realtime-2026-03-15",
+      "qwen3.5-omni-plus-2026-03-15"
+    ],
+    "adjudication": [
+      "qwen3.5-omni-plus-realtime",
+      "qwen3.5-omni-flash-realtime",
+      "qwen3.5-omni-flash-realtime-2026-03-15",
+      "qwen3.5-omni-plus-2026-03-15"
+    ]
+  },
   "notes": [
     "Qwen-Omni requires OpenAI-compatible invocation.",
     "Qwen3.5-Omni supports combined video, audio, and text inputs.",

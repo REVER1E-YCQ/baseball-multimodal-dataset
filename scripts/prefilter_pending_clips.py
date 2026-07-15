@@ -10,6 +10,27 @@ from common import read_csv, repo_path, write_csv
 from extract_candidates import CLIP_FIELDS
 
 
+# These are broadcast/roster segments, not batted-ball events.  Keep this
+# deliberately narrow: source-title exclusion is only appropriate when the
+# title itself makes a hit impossible.
+NON_HIT_TITLE_MARKERS = (
+    "-is-removed-from-the-game",
+    "-placed-on-the-injured-list",
+    "-press-conference",
+    "-postgame-interview",
+    "-mound-visit",
+    "-makes-her-first-out-call",
+    "-makes-his-first-out-call",
+    "-ball-boy-avoids-",
+    "-departs-game-with-injury",
+)
+
+
+def clearly_not_a_batted_ball(row: dict[str, str]) -> bool:
+    clip_id = row.get("clip_id", "").lower()
+    return any(marker in clip_id for marker in NON_HIT_TITLE_MARKERS)
+
+
 def read_wav_mono(path: Path) -> tuple[int, list[float]]:
     with wave.open(str(path), "rb") as wav:
         channels = wav.getnchannels()
@@ -73,16 +94,20 @@ def main() -> int:
     parser.add_argument("--min-peak-time", type=float, default=0.25)
     parser.add_argument("--window-ms", type=float, default=20.0)
     parser.add_argument("--limit", type=int, default=0)
+    parser.add_argument("--clip-ids", default="", help="Comma-separated pending clip IDs to score.")
     parser.add_argument("--rescore", action="store_true", help="Score clips even when notes already contain prefilter_peak.")
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args()
 
     wanted = {item.strip() for item in args.statuses.split(",") if item.strip()}
+    requested_ids = {item.strip() for item in args.clip_ids.split(",") if item.strip()}
     rows = read_csv(args.clips_manifest)
     selected = [
         row
         for row in rows
-        if row.get("status") in wanted and (args.rescore or "prefilter_peak=" not in row.get("notes", ""))
+        if row.get("status") in wanted
+        and (not requested_ids or row.get("clip_id") in requested_ids)
+        and (args.rescore or "prefilter_peak=" not in row.get("notes", ""))
     ]
     if args.limit:
         selected = selected[: args.limit]
@@ -91,6 +116,13 @@ def main() -> int:
     rejected = 0
     failed = 0
     for row in selected:
+        if clearly_not_a_batted_ball(row):
+            rejected += 1
+            if not args.dry_run:
+                row["status"] = args.reject_status
+                row["notes"] = "prefilter_reject=source_title_clearly_not_batted_ball"
+            print(f"REJECT {row['clip_id']}: source title clearly not a batted-ball event")
+            continue
         audio_path = Path(row.get("audio_path", ""))
         if not audio_path.is_absolute():
             audio_path = repo_path(str(audio_path))

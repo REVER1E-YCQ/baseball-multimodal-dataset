@@ -10,10 +10,10 @@ Non-negotiable definitions:
 - Region geometry is immutable regardless of camera orientation:
   `3B line | 1 | 3B-2B midpoint | 2 | second base | 3 | 1B-2B midpoint | 4 | 1B line`.
   Third-base-side evidence can only produce 1/2; first-base-side evidence can only produce 3/4.
-- If the ball is near a boundary, near the middle line, or the path is ambiguous, use the actual
-  fielder who fields or clearly attempts the play as the tie-breaker: third baseman/third-base-line
-  play => region 1; shortstop or left-of-second play => region 2; second baseman or right-of-second
-  play => region 3; first baseman/first-base-line play => region 4.
+- Region is the BALL'S absolute position at first fielding/control, or—only when no defender
+  controls it in the clip—its last clear locatable position in the fair infield. Never use the
+  fielder, player identity, ball path, later throw, or screen orientation as a tie-breaker. If the
+  ball cannot be located on the top-down infield plane, leave region unresolved for review.
 - The observed collision time must be inside the event interval with time on both sides. Pitch
   release and swing onset are context, never event boundaries.
 

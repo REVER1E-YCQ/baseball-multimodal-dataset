@@ -13,6 +13,7 @@ from typing import Any
 
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
+_REPO_ENV_LOADED = False
 
 
 def repo_path(*parts: str) -> Path:
@@ -122,7 +123,28 @@ def ffprobe_duration(path: Path) -> float | None:
         return None
 
 
+def load_repo_env() -> None:
+    """Load ignored local credentials without overriding process variables."""
+    global _REPO_ENV_LOADED
+    if _REPO_ENV_LOADED:
+        return
+    _REPO_ENV_LOADED = True
+    path = REPO_ROOT / ".env"
+    if not path.exists():
+        return
+    for raw_line in path.read_text(encoding="utf-8-sig").splitlines():
+        line = raw_line.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+        name, value = line.split("=", 1)
+        name = name.strip()
+        value = value.strip().strip('"').strip("'")
+        if name:
+            os.environ.setdefault(name, value)
+
+
 def get_env_first(names: list[str]) -> str | None:
+    load_repo_env()
     for name in names:
         value = os.getenv(name)
         if value:
