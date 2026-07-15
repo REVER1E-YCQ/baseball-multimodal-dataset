@@ -3,6 +3,7 @@ from __future__ import annotations
 import argparse
 import csv
 import json
+import subprocess
 from pathlib import Path
 
 from common import repo_path, write_csv
@@ -32,7 +33,20 @@ def accepted(result: dict) -> int | None:
         return None
     if result.get("receiving_moment_visible") is not True:
         return None
+    if result.get("field_geometry_visible") is not True:
+        return None
     if float(result.get("confidence") or 0) < 0.85:
+        return None
+    evidence = str(result.get("evidence", "")).lower()
+    third_side = any(term in evidence for term in ("third-base", "third base", "3b side", "3b line"))
+    first_side = any(term in evidence for term in ("first-base", "first base", "1b side", "1b line"))
+    left_side = "left" in evidence
+    right_side = "right" in evidence
+    if (third_side and region not in {1, 2}) or (first_side and region not in {3, 4}):
+        return None
+    if region in {1, 2} and not (third_side or left_side):
+        return None
+    if region in {3, 4} and not (first_side or right_side):
         return None
     return region
 
@@ -44,10 +58,48 @@ def main() -> int:
         type=Path,
         default=repo_path("reports", "qwen_absolute_ground_region_audit_20260714.jsonl"),
     )
+    parser.add_argument(
+        "--restore-report",
+        type=Path,
+        help="Restore old regions from a previously generated correction report.",
+    )
+    parser.add_argument(
+        "--restore-ref",
+        help="When restoring, use the region from this Git ref as the authoritative baseline.",
+    )
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args()
 
     reviews = latest_successes(args.review)
+    restore_regions: dict[str, int] = {}
+    if args.restore_report:
+        with args.restore_report.open("r", newline="", encoding="utf-8-sig") as fh:
+            for row in csv.DictReader(fh):
+                try:
+                    region = int(row.get("old_region", ""))
+                except ValueError:
+                    continue
+                if region in {1, 2, 3, 4} and row.get("sample_id"):
+                    restore_regions[row["sample_id"]] = region
+    if args.restore_ref:
+        if not restore_regions:
+            raise SystemExit("--restore-ref requires --restore-report")
+        for sample_csv in sorted(repo_path("dataset", "ground_ball").glob("*/*/sample.csv")):
+            with sample_csv.open("r", newline="", encoding="utf-8-sig") as fh:
+                current_row = next(csv.DictReader(fh))
+            sample_id = current_row["sample_id"]
+            if sample_id not in restore_regions:
+                continue
+            relative = sample_csv.relative_to(repo_path()).as_posix()
+            source = subprocess.run(
+                ["git", "show", f"{args.restore_ref}:{relative}"],
+                check=True,
+                capture_output=True,
+                text=True,
+                encoding="utf-8",
+            ).stdout
+            reference_row = next(csv.DictReader(source.splitlines()))
+            restore_regions[sample_id] = int(reference_row["region"])
     override_path = repo_path("reports", "manual_region_overrides_20260714.csv")
     overrides: dict[str, int] = {}
     if override_path.exists():
@@ -65,7 +117,12 @@ def main() -> int:
         with sample_csv.open("r", newline="", encoding="utf-8-sig") as fh:
             row = next(csv.DictReader(fh))
         sample_id = row["sample_id"]
-        if sample_id in overrides:
+        if sample_id in restore_regions:
+            region = restore_regions[sample_id]
+            confidence = "restore"
+            control_time = ""
+            evidence = "restore_from_correction_report"
+        elif sample_id in overrides:
             region = overrides[sample_id]
             confidence = "manual"
             control_time = ""

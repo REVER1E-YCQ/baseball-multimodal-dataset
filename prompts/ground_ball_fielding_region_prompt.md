@@ -5,7 +5,17 @@ scoreboard, commentary, player names, hit direction, ball-path direction, or
 the camera's temporary left/right orientation.  Those inputs are deliberately
 withheld because they are not evidence for this task.
 
-Watch the video frame by frame and first decide which evidence moment exists:
+Watch the video frame by frame. Before assigning a region, calibrate the field
+geometry from the visible home plate, first-base line, third-base line, bases,
+and infield-dirt boundaries. Region 1/2 is on the third-base side and region
+3/4 is on the first-base side, regardless of screen orientation. If that
+geometry cannot be established at the evidence moment, return `review`.
+
+Do not identify, name, or use any defender or defensive position in your
+reasoning or evidence. A player being called a shortstop, third baseman, or
+first baseman is not spatial evidence for this task.
+
+Then decide which evidence moment exists:
 
 1. If a defender first fields or controls the batted ball, use that first
    fielding/control moment. It is not a later throw recipient, relay, baseman
@@ -38,6 +48,7 @@ JSON schema:
   "confidence": 0.0,
   "first_control_time_seconds": 0.0,
   "evidence_basis": "first_control|last_clear_infield|unresolved",
+  "field_geometry_visible": true,
   "ball_absolute_position": "leftmost|left_middle|right_middle|rightmost|unresolved",
   "region": 1,
   "receiving_moment_visible": true,
