@@ -1,0 +1,7 @@
+video_title: Freddy Fermin's RBI groundout Freddy Fermin's RBI groundout Freddy Fermin's RBI groundout Freddy Fermin grounds out to third base, scoring Ramón Laureano and cutting the Nationals' lead to 4-3 in the 4th inning
+video_url: https://bdata-producedclips.mlb.com/677ce801-9063-4dbe-b015-8a49a221fb98.mp4
+source_id: MLB_822732_andrew-alvarez-in-play-run-s-to-freddy-fermin
+clip_id: MLB_822732_andrew-alvarez-in-play-run-s-to-freddy-fermin_head_0p000_6p000
+source_path: raw_sources\MLB_822732_andrew-alvarez-in-play-run-s-to-freddy-fermin_Freddy_Fermin_s_RBI_groundout_Freddy_Fermin_s_RBI_groundout_Freddy_Fermin_s_RBI_.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

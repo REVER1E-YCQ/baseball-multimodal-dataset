@@ -1,0 +1,7 @@
+video_title: Cole Young's RBI groundout Cole Young's RBI groundout Cole Young's RBI groundout Cole Young grounds out, bringing in Josh Naylor to to cut the Mariners' deficit to 7-4 in the bottom of the 8th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/16/9306a01e-336c7a71-9c83a601-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_823139_cole-young-s-rbi-groundout
+clip_id: MLB_823139_cole-young-s-rbi-groundout_head_0p000_6p000
+source_path: raw_sources\MLB_823139_cole-young-s-rbi-groundout_Cole_Young_s_RBI_groundout_Cole_Young_s_RBI_groundout_Cole_Young_s_RBI_groundout.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

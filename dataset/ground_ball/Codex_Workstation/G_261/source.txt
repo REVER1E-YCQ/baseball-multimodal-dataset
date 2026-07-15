@@ -1,0 +1,7 @@
+video_title: Adley Rutschman's RBI groundout Adley Rutschman's RBI groundout Adley Rutschman's RBI groundout
+video_url: https://bdata-producedclips.mlb.com/d3b6c81e-65ec-4a91-8a57-e029a0bd0c8c.mp4
+source_id: MLB_824617_sean-burke-in-play-run-s-to-adley-rutschman
+clip_id: MLB_824617_sean-burke-in-play-run-s-to-adley-rutschman_auto1_3p720_9p720
+source_path: raw_sources\MLB_824617_sean-burke-in-play-run-s-to-adley-rutschman_Adley_Rutschman_s_RBI_groundout_Adley_Rutschman_s_RBI_groundout_Adley_Rutschman_.mp4
+clip_start_time: 3.720
+clip_end_time: 9.720

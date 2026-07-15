@@ -1,0 +1,7 @@
+video_title: Aaron Nola induces groundout, strands runner at third Aaron Nola induces groundout, strands runner at third Aaron Nola strands runner at third, induces groundout
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/04/d6d62671-85e06460-59f6e00f-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_823874_otto-lopez-grounds-out-third-baseman-alec-bohm-to-first-baseman-bryce
+clip_id: MLB_823874_otto-lopez-grounds-out-third-baseman-alec-bohm-to-first-baseman-bryce_head_0p000_6p000
+source_path: raw_sources\MLB_823874_otto-lopez-grounds-out-third-baseman-alec-bohm-to-first-baseman-bryce_Aaron_Nola_induces_groundout_strands_runner_at_third_Aaron_Nola_induces_groundou.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

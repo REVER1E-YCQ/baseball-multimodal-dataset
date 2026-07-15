@@ -1,0 +1,7 @@
+video_title: Otto Lopez's RBI single Otto Lopez's RBI single Otto Lopez's RBI single Otto Lopez opens the scoring the Marlins with a line drive to center field in the bottom of the 3rd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/10/27185104-18346bbf-609b47e4-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_823856_ryne-nelson-in-play-run-s-to-otto-lopez
+clip_id: MLB_823856_ryne-nelson-in-play-run-s-to-otto-lopez_head_0p000_7p000
+source_path: raw_sources\MLB_823856_ryne-nelson-in-play-run-s-to-otto-lopez_Otto_Lopez_s_RBI_single_Otto_Lopez_s_RBI_single_Otto_Lopez_s_RBI_single_Otto_Lop.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

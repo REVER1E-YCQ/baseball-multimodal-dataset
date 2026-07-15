@@ -1,0 +1,7 @@
+video_title: Seiya Suzuki's RBI forceout Seiya Suzuki's RBI forceout Seiya Suzuki's RBI forceout Seiya Suzuki grounds into a forceout, scoring Alex Bregman to extend the Cubs lead to 3-0 in the top of the 6th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/28/4571db13-c1740d6e-205f9c10-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_823378_mason-montgomery-in-play-run-s-to-seiya-suzuki
+clip_id: MLB_823378_mason-montgomery-in-play-run-s-to-seiya-suzuki_head_0p000_6p000
+source_path: raw_sources\MLB_823378_mason-montgomery-in-play-run-s-to-seiya-suzuki_Seiya_Suzuki_s_RBI_forceout_Seiya_Suzuki_s_RBI_forceout_Seiya_Suzuki_s_RBI_force.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

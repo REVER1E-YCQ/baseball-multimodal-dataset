@@ -1,0 +1,7 @@
+video_title: Konnor Griffin's RBI groundout Konnor Griffin's RBI groundout Konnor Griffin's RBI groundout
+video_url: https://bdata-producedclips.mlb.com/eaa0e2de-9138-43db-ace6-fa1b05ad249d.mp4
+source_id: MLB_823384_orion-kerkering-in-play-run-s-to-konnor-griffin
+clip_id: MLB_823384_orion-kerkering-in-play-run-s-to-konnor-griffin_head_0p000_6p000
+source_path: raw_sources\MLB_823384_orion-kerkering-in-play-run-s-to-konnor-griffin_Konnor_Griffin_s_RBI_groundout_Konnor_Griffin_s_RBI_groundout_Konnor_Griffin_s_R.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

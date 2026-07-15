@@ -1,0 +1,7 @@
+video_title: Luis Rengifo's RBI groundout Luis Rengifo's RBI groundout Luis Rengifo's RBI groundout Luis Rengifo extends the Brewers' lead to 3-0 with an RBI groundout
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/01/1d1e235c-1f9d1973-2d01a8d8-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_822744_jake-irvin-in-play-run-s-to-luis-rengifo-bhyxu6
+clip_id: MLB_822744_jake-irvin-in-play-run-s-to-luis-rengifo-bhyxu6_head_0p000_6p000
+source_path: raw_sources\MLB_822744_jake-irvin-in-play-run-s-to-luis-rengifo-bhyxu6_Luis_Rengifo_s_RBI_groundout_Luis_Rengifo_s_RBI_groundout_Luis_Rengifo_s_RBI_gro.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

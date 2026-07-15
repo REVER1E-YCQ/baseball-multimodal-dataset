@@ -1,0 +1,7 @@
+video_title: Victor Caratini's RBI groundout Victor Caratini's RBI groundout Victor Caratini's RBI groundout
+video_url: https://bdata-producedclips.mlb.com/1d277e8d-02c5-45c8-930d-b03c98769a38.mp4
+source_id: MLB_823709_calvin-faucher-in-play-run-s-to-victor-caratini
+clip_id: MLB_823709_calvin-faucher-in-play-run-s-to-victor-caratini_head_0p000_6p000
+source_path: raw_sources\MLB_823709_calvin-faucher-in-play-run-s-to-victor-caratini_Victor_Caratini_s_RBI_groundout_Victor_Caratini_s_RBI_groundout_Victor_Caratini_.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

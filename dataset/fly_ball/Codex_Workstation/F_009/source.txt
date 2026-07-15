@@ -1,0 +1,7 @@
+video_title: Shohei Ohtani's RBI single Shohei Ohtani's RBI single Shohei Ohtani's RBI single Shohei Ohtani rips a line drive to center field, scoring a run to cut the deficit to 5-2 in the bottom of the 7th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-07/05/714cc6c6-516fce58-2e16068c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_823931_shohei-ohtani-singles-on-a-line-drive-to-center-fielder-jackson-merri
+clip_id: MLB_823931_shohei-ohtani-singles-on-a-line-drive-to-center-fielder-jackson-merri_head_0p000_7p000
+source_path: raw_sources\MLB_823931_shohei-ohtani-singles-on-a-line-drive-to-center-fielder-jackson-merri_Shohei_Ohtani_s_RBI_single_Shohei_Ohtani_s_RBI_single_Shohei_Ohtani_s_RBI_single.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

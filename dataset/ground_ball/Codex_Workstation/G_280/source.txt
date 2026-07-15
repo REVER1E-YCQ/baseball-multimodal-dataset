@@ -1,0 +1,7 @@
+video_title: Austin Riley's RBI groundout Austin Riley's RBI groundout Austin Riley's RBI groundout Austin Riley grounds out, scoring Ronald Acuña Jr. in the bottom of the 5th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/13/84a700e9-dd4615ed-fa4feda0-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_824937_andrew-nardi-in-play-run-s-to-austin-riley
+clip_id: MLB_824937_andrew-nardi-in-play-run-s-to-austin-riley_auto1_0p000_6p000
+source_path: raw_sources\MLB_824937_andrew-nardi-in-play-run-s-to-austin-riley_Austin_Riley_s_RBI_groundout_Austin_Riley_s_RBI_groundout_Austin_Riley_s_RBI_gro.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

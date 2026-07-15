@@ -1,0 +1,7 @@
+video_title: Alex Bregman throws out Brent Rooker Alex Bregman throws out Brent Rooker Alex Bregman throws out Brent Rooker Alex Bregman fields Brent Rooker's ground ball and throws to first for first out in the top of the 9th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/02/5f479649-0409a2aa-23b5f36c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_824675_daniel-palencia-in-play-out-s-to-brent-rooker
+clip_id: MLB_824675_daniel-palencia-in-play-out-s-to-brent-rooker_head_0p000_6p000
+source_path: raw_sources\MLB_824675_daniel-palencia-in-play-out-s-to-brent-rooker_Alex_Bregman_throws_out_Brent_Rooker_Alex_Bregman_throws_out_Brent_Rooker_Alex_B.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

@@ -1,0 +1,7 @@
+video_title: Daylen Lile's RBI groundout Daylen Lile's RBI groundout Daylen Lile's RBI groundout
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/06/6fa1552a-c6cd2cf2-23e55efc-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_822755_andre-pallante-in-play-run-s-to-daylen-lile-76edfd
+clip_id: MLB_822755_andre-pallante-in-play-run-s-to-daylen-lile-76edfd_auto1_1p500_7p500
+source_path: raw_sources\MLB_822755_andre-pallante-in-play-run-s-to-daylen-lile-76edfd_Daylen_Lile_s_RBI_groundout_Daylen_Lile_s_RBI_groundout_Daylen_Lile_s_RBI_ground.mp4
+clip_start_time: 1.500
+clip_end_time: 7.500

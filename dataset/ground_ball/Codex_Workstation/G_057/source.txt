@@ -1,0 +1,7 @@
+video_title: Casey Schmitt's jumping throw Casey Schmitt's jumping throw Casey Schmitt's jumping throw Casey Schmitt scoops this ground ball and makes an outstanding jumping throw to retire Nasim Nuñez in the top of the 5th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/10/0fccb824-590b86a6-263c3b9c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_823215_robbie-ray-in-play-out-s-to-nasim-nunez-yhwzs3
+clip_id: MLB_823215_robbie-ray-in-play-out-s-to-nasim-nunez-yhwzs3_head_0p000_6p000
+source_path: raw_sources\MLB_823215_robbie-ray-in-play-out-s-to-nasim-nunez-yhwzs3_Casey_Schmitt_s_jumping_throw_Casey_Schmitt_s_jumping_throw_Casey_Schmitt_s_jump.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

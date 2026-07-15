@@ -1,0 +1,7 @@
+video_title: Derek Hill's running catch seals 6-5 win  Derek Hill's running catch seals 6-5 win  Derek Hill's running catch seals 6-5 win  Derek Hill catches Salvador Perez's foul fly ball to end the game and secure a 6-5 win for the White Sox
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/12/247527ef-30b38467-bf4a6b60-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_824604_bryan-hudson-in-play-out-s-to-salvador-perez
+clip_id: MLB_824604_bryan-hudson-in-play-out-s-to-salvador-perez_head_0p000_7p000
+source_path: raw_sources\MLB_824604_bryan-hudson-in-play-out-s-to-salvador-perez_Derek_Hill_s_running_catch_seals_6-5_win_Derek_Hill_s_running_catch_seals_6-5_wi.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

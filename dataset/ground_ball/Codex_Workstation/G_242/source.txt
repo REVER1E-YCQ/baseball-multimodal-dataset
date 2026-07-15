@@ -1,0 +1,7 @@
+video_title: Devin Williams secures the Mets' 4-3 win Devin Williams secures the Mets' 4-3 win Devin Williams secures the Mets' 4-3 win Jorge Soler grounds out, shortstop Ronny Mauricio to first baseman Brett Baty.
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/01/3f2f7402-0956df08-55b7a00d-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_824041_jorge-soler-grounds-out-shortstop-ronny-mauricio-to-first-baseman-bre
+clip_id: MLB_824041_jorge-soler-grounds-out-shortstop-ronny-mauricio-to-first-baseman-bre_auto1_10p360_16p360
+source_path: raw_sources\MLB_824041_jorge-soler-grounds-out-shortstop-ronny-mauricio-to-first-baseman-bre_Devin_Williams_secures_the_Mets_4-3_win_Devin_Williams_secures_the_Mets_4-3_win_.mp4
+clip_start_time: 10.360
+clip_end_time: 16.360

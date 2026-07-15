@@ -1,0 +1,7 @@
+video_title: TJ Rumfield's smooth stop at first base TJ Rumfield's smooth stop at first base TJ Rumfield's smooth stop at first base TJ Rumfield shows off his reflexes at first base, fielding an extremely hard-hit ground ball off the bat of Evan Carter and steps on first for the out
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/20/558c7a5b-62cf1be4-e536bca1-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_824355_jaden-hill-in-play-out-s-to-evan-carter
+clip_id: MLB_824355_jaden-hill-in-play-out-s-to-evan-carter_head_0p000_6p000
+source_path: raw_sources\MLB_824355_jaden-hill-in-play-out-s-to-evan-carter_TJ_Rumfield_s_smooth_stop_at_first_base_TJ_Rumfield_s_smooth_stop_at_first_base_.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

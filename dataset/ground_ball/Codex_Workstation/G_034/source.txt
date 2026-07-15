@@ -1,0 +1,7 @@
+video_title: Taylor Walls throws out Lourdes Gurriel Jr. Taylor Walls throws out Lourdes Gurriel Jr. Taylor Walls throws out Lourdes Gurriel Jr. Taylor Walls makes a nice hopping play for Lourdes Gurriel Jr.'s ground ball and throws him out for the second out in the top of the 2nd
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/26/3218fa02-1c47d17a-f8715901-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_822962_nick-martinez-in-play-out-s-to-lourdes-gurriel-jr-mfflzs
+clip_id: MLB_822962_nick-martinez-in-play-out-s-to-lourdes-gurriel-jr-mfflzs_head_0p000_6p000
+source_path: raw_sources\MLB_822962_nick-martinez-in-play-out-s-to-lourdes-gurriel-jr-mfflzs_Taylor_Walls_throws_out_Lourdes_Gurriel_Jr._Taylor_Walls_throws_out_Lourdes_Gurr.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

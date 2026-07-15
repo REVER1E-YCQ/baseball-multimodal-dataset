@@ -1,0 +1,7 @@
+video_title: Bryan Reynolds' RBI groundout Bryan Reynolds' RBI groundout Bryan Reynolds' RBI groundout
+video_url: https://bdata-producedclips.mlb.com/63af3bc8-b0bc-47fd-b651-32771c3b00d5.mp4
+source_id: MLB_822816_louis-varland-in-play-run-s-to-bryan-reynolds
+clip_id: MLB_822816_louis-varland-in-play-run-s-to-bryan-reynolds_head_0p000_6p000
+source_path: raw_sources\MLB_822816_louis-varland-in-play-run-s-to-bryan-reynolds_Bryan_Reynolds_RBI_groundout_Bryan_Reynolds_RBI_groundout_Bryan_Reynolds_RBI_gro.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

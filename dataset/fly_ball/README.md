@@ -1,15 +1,10 @@
 # Fly Ball Samples
 
-This folder contains one subfolder per data collector.
+Fly ball samples follow:
 
-Example:
-
-```text
-fly_ball/
-|-- Zihan_Chai/
-|   `-- F_001/
-`-- Zhangsan/
-    `-- F_002/
+```csv
+sample_id,label,landing_zone,strength,trajectory_type,event_start,event_end
 ```
 
-Fly ball sample IDs use the `F_001`, `F_002`, ... format.
+Sample IDs use `F_001`, `F_002`, and so on under each collector folder.
+

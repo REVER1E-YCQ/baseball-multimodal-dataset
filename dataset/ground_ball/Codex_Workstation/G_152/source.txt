@@ -1,0 +1,7 @@
+video_title: Groundout upheld after challenge Groundout upheld after challenge challenge by mets Mark Vientos grounds out after a challenge is upheld in the 7th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/15/f40c8f59-237e119c-db5a4d92-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_823629_cam-schlittler-in-play-out-s-to-mark-vientos-awnk9p
+clip_id: MLB_823629_cam-schlittler-in-play-out-s-to-mark-vientos-awnk9p_head_0p000_6p000
+source_path: raw_sources\MLB_823629_cam-schlittler-in-play-out-s-to-mark-vientos-awnk9p_Groundout_upheld_after_challenge_Groundout_upheld_after_challenge_challenge_by_m.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

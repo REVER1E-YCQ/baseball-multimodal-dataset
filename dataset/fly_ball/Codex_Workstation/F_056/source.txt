@@ -1,0 +1,7 @@
+video_title: Alec Burleson's solo home run (5) Alec Burleson's solo home run (5) Alec Burleson's solo home run (5) Alec Burleson makes it a three-run lead with a line drive home run to right field in the bottom of the 3rd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/01/0eec5bf0-0a77e631-41d110d1-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_823066_emmet-sheehan-in-play-run-s-to-alec-burleson
+clip_id: MLB_823066_emmet-sheehan-in-play-run-s-to-alec-burleson_head_0p000_7p000
+source_path: raw_sources\MLB_823066_emmet-sheehan-in-play-run-s-to-alec-burleson_Alec_Burleson_s_solo_home_run_5_Alec_Burleson_s_solo_home_run_5_Alec_Burleson_s_.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

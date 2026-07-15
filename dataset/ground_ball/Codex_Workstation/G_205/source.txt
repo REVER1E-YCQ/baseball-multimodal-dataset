@@ -1,0 +1,7 @@
+video_title: Ezequiel Tovar's RBI groundout Ezequiel Tovar's RBI groundout Ezequiel Tovar's RBI groundout
+video_url: https://bdata-producedclips.mlb.com/b3fe57a3-b5f6-4215-a1c8-6610c61b7a5c.mp4
+source_id: MLB_825080_ezequiel-tovar-grounds-into-a-force-out-shortstop-geraldo-perdomo-to-
+clip_id: MLB_825080_ezequiel-tovar-grounds-into-a-force-out-shortstop-geraldo-perdomo-to-_head_0p000_6p000
+source_path: raw_sources\MLB_825080_ezequiel-tovar-grounds-into-a-force-out-shortstop-geraldo-perdomo-to-_Ezequiel_Tovar_s_RBI_groundout_Ezequiel_Tovar_s_RBI_groundout_Ezequiel_Tovar_s_R.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

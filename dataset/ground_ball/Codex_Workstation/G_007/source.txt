@@ -1,0 +1,7 @@
+video_title: Grant Taylor seals save, 3-1 victory Grant Taylor seals save, 3-1 victory Grant Taylor seals save, 3-1 victory Grant Taylor induces a ground ball to third base, sealing the save and securing the 3-1 victory over the Guardians
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-07/04/d005d220-78b23e6e-0144f509-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_824415_grant-taylor-in-play-out-s-to-david-fry
+clip_id: MLB_824415_grant-taylor-in-play-out-s-to-david-fry_head_0p000_6p000
+source_path: raw_sources\MLB_824415_grant-taylor-in-play-out-s-to-david-fry_Grant_Taylor_seals_save_3-1_victory_Grant_Taylor_seals_save_3-1_victory_Grant_Ta.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

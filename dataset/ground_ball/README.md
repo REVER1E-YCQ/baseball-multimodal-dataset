@@ -1,15 +1,10 @@
 # Ground Ball Samples
 
-This folder contains one subfolder per data collector.
+Ground ball samples follow:
 
-Example:
-
-```text
-ground_ball/
-|-- Zihan_Chai/
-|   `-- G_001/
-`-- Zhangsan/
-    `-- G_002/
+```csv
+sample_id,label,region,strength,bounce,event_start,event_end
 ```
 
-Ground ball sample IDs use the `G_001`, `G_002`, ... format.
+Sample IDs use `G_001`, `G_002`, and so on under each collector folder.
+

@@ -1,0 +1,7 @@
+video_title: Dominic Smith's RBI groundout Dominic Smith's RBI groundout Dominic Smith's RBI groundout
+video_url: https://bdata-producedclips.mlb.com/a25c8488-8bfb-4ab2-b1b6-4913d2c4770a.mp4
+source_id: MLB_824758_greg-weissert-in-play-run-s-to-dominic-smith
+clip_id: MLB_824758_greg-weissert-in-play-run-s-to-dominic-smith_head_0p000_6p000
+source_path: raw_sources\MLB_824758_greg-weissert-in-play-run-s-to-dominic-smith_Dominic_Smith_s_RBI_groundout_Dominic_Smith_s_RBI_groundout_Dominic_Smith_s_RBI_.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

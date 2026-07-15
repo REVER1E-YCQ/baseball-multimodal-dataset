@@ -1,0 +1,7 @@
+video_title: Bobby Witt Jr. scores on a groundout Bobby Witt Jr. scores on a groundout Bobby Witt Jr. scores on a groundout
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/23/4861f41d-ca9d14b3-4ad8f23e-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_824109_carter-jensen-grounds-out-to-first-baseman-josh-naylor-bobby-witt-jr-
+clip_id: MLB_824109_carter-jensen-grounds-out-to-first-baseman-josh-naylor-bobby-witt-jr-_head_0p000_6p000
+source_path: raw_sources\MLB_824109_carter-jensen-grounds-out-to-first-baseman-josh-naylor-bobby-witt-jr-_Bobby_Witt_Jr._scores_on_a_groundout_Bobby_Witt_Jr._scores_on_a_groundout_Bobby_.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

@@ -1,0 +1,7 @@
+video_title: Yandy Díaz's RBI groundout Yandy Díaz's RBI groundout Yandy Díaz's RBI groundout
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/25/5283dc2a-0703e694-a21d4624-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_822998_cam-schlittler-in-play-run-s-to-yandy-diaz
+clip_id: MLB_822998_cam-schlittler-in-play-run-s-to-yandy-diaz_auto1_1p420_7p420
+source_path: raw_sources\MLB_822998_cam-schlittler-in-play-run-s-to-yandy-diaz_Yandy_D_az_s_RBI_groundout_Yandy_D_az_s_RBI_groundout_Yandy_D_az_s_RBI_groundout.mp4
+clip_start_time: 1.420
+clip_end_time: 7.420

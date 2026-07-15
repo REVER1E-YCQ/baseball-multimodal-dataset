@@ -1,0 +1,7 @@
+video_title: Owen Caissie's RBI groundout Owen Caissie's RBI groundout Owen Caissie's RBI groundout Owen Caissie grounds into a RBI groundout, tying the game in the bottom of the 2nd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/22/809d549b-9d9ab8b7-1422aee9-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_823863_sean-manaea-in-play-run-s-to-owen-caissie
+clip_id: MLB_823863_sean-manaea-in-play-run-s-to-owen-caissie_head_0p000_6p000
+source_path: raw_sources\MLB_823863_sean-manaea-in-play-run-s-to-owen-caissie_Owen_Caissie_s_RBI_groundout_Owen_Caissie_s_RBI_groundout_Owen_Caissie_s_RBI_gro.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

@@ -1,0 +1,7 @@
+video_title: Vladimir Guerrero Jr.'s RBI groundout Vladimir Guerrero Jr.'s RBI groundout Vladimir Guerrero Jr.'s RBI groundout Vladimir Guerrero Jr. plates Nathan Lukes with a groundout, cutting the Blue Jays' deficit to 8-5 in the bottom of the 5th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-03/29/abf10d3f-2e2cea76-cd803939-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_778536_dean-kremer-in-play-run-s-to-vladimir-guerrero-jr
+clip_id: MLB_778536_dean-kremer-in-play-run-s-to-vladimir-guerrero-jr_auto1_5p760_11p760
+source_path: raw_sources\MLB_778536_dean-kremer-in-play-run-s-to-vladimir-guerrero-jr_Vladimir_Guerrero_Jr._s_RBI_groundout_Vladimir_Guerrero_Jr._s_RBI_groundout_Vlad.mp4
+clip_start_time: 5.760
+clip_end_time: 11.760

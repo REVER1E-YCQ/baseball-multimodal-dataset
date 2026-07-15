@@ -1,0 +1,7 @@
+video_title: Jeremy Peña's first home run of the season Jeremy Peña's first home run of the season Jeremy Peña's first home run of the season Jeremy Peña hits a line drive over the left-field wall for his first home run of the season, giving the Astros a 1-0 lead in the 5th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-03/29/7e02fb32-1b951fd8-fdd4e18f-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_778530_jeremy-pena-s-first-home-run-of-the-season
+clip_id: MLB_778530_jeremy-pena-s-first-home-run-of-the-season_auto1_5p700_12p700
+source_path: raw_sources\MLB_778530_jeremy-pena-s-first-home-run-of-the-season_Jeremy_Pe_a_s_first_home_run_of_the_season_Jeremy_Pe_a_s_first_home_run_of_the_s.mp4
+clip_start_time: 5.700
+clip_end_time: 12.700

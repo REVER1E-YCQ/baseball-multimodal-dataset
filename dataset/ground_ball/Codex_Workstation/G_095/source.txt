@@ -1,0 +1,7 @@
+video_title: Chase Meidroth's impressive off-balance throw Chase Meidroth's impressive off-balance throw Chase Meidroth's impressive off-balance throw Chase Meidroth fields a ground ball and makes an athletic off-balance throw to first base in time for the out
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/06/bdf7a907-7af0d184-70d3fb75-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_824036_noah-schultz-in-play-out-s-to-travis-d-arnaud
+clip_id: MLB_824036_noah-schultz-in-play-out-s-to-travis-d-arnaud_head_0p000_6p000
+source_path: raw_sources\MLB_824036_noah-schultz-in-play-out-s-to-travis-d-arnaud_Chase_Meidroth_s_impressive_off-balance_throw_Chase_Meidroth_s_impressive_off-ba.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

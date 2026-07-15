@@ -1,0 +1,7 @@
+video_title: Alika Williams' RBI single Alika Williams' RBI single Alika Williams' RBI single Alika Williams singles on a ground ball to center field scoring Max Muncy, extending the Athletics' lead to 3-1 in the top of the 5th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/26/83a579ec-77ea1a84-d2f25217-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_824014_walbert-urena-in-play-run-s-to-alika-williams
+clip_id: MLB_824014_walbert-urena-in-play-run-s-to-alika-williams_head_0p000_6p000
+source_path: raw_sources\MLB_824014_walbert-urena-in-play-run-s-to-alika-williams_Alika_Williams_RBI_single_Alika_Williams_RBI_single_Alika_Williams_RBI_single_Al.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

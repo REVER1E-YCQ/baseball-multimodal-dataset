@@ -1,0 +1,7 @@
+video_title: Daniel Schneemann's spinning throw Daniel Schneemann's spinning throw Daniel Schneemann's spinning throw Daniel Schneemann snares a hard-hit grounder and completes a great spinning throw to first base in the 6th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-07/01/9abc8987-e3fa8a3f-c73455d1-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_824419_elias-diaz-grounds-out-second-baseman-daniel-schneemann-to-first-base
+clip_id: MLB_824419_elias-diaz-grounds-out-second-baseman-daniel-schneemann-to-first-base_0p000_6p000
+source_path: raw_sources\MLB_824419_elias-diaz-grounds-out-second-baseman-daniel-schneemann-to-first-base_Daniel_Schneemann_s_spinning_throw_Daniel_Schneemann_s_spinning_throw_Daniel_Sch.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

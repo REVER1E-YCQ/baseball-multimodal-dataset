@@ -1,0 +1,7 @@
+video_title: Caleb Durbin scores on Isiah Kiner-Falefa's grounder Caleb Durbin scores on Isiah Kiner-Falefa's grounder Caleb Durbin scores on Isiah Kiner-Falefa's grounder
+video_url: https://bdata-producedclips.mlb.com/e445cdfc-8623-4d3e-bec9-8539ddecfd1a.mp4
+source_id: MLB_824281_framber-valdez-in-play-run-s-to-isiah-kiner-falefa-a7cf80
+clip_id: MLB_824281_framber-valdez-in-play-run-s-to-isiah-kiner-falefa-a7cf80_head_0p000_6p000
+source_path: raw_sources\MLB_824281_framber-valdez-in-play-run-s-to-isiah-kiner-falefa-a7cf80_Caleb_Durbin_scores_on_Isiah_Kiner-Falefa_s_grounder_Caleb_Durbin_scores_on_Isia.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

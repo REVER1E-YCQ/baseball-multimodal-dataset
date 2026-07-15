@@ -1,0 +1,7 @@
+video_title: Nolan Arenado throws out Ryan Kreidler in the 2nd Nolan Arenado throws out Ryan Kreidler in the 2nd Nolan Arenado throws out Ryan Kreidler in the 2nd Nolan Arenado fields Ryan Kreidler's ground ball and makes the throw to first to get him out in the top of the 2nd
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/20/f1aa0e96-bdee80e7-623263b4-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_825068_ryan-kreidler-grounds-out-third-baseman-nolan-arenado-to-first-basema
+clip_id: MLB_825068_ryan-kreidler-grounds-out-third-baseman-nolan-arenado-to-first-basema_head_0p000_6p000
+source_path: raw_sources\MLB_825068_ryan-kreidler-grounds-out-third-baseman-nolan-arenado-to-first-basema_Nolan_Arenado_throws_out_Ryan_Kreidler_in_the_2nd_Nolan_Arenado_throws_out_Ryan_.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

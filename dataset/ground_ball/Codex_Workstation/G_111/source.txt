@@ -1,0 +1,7 @@
+video_title: Pierce Johnson secures save with a Cam Smith groundout Pierce Johnson secures save with a Cam Smith groundout Pierce Johnson secures the save
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/09/c9024b7a-12534441-35f465a5-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_824523_pierce-johnson-in-play-out-s-to-cam-smith
+clip_id: MLB_824523_pierce-johnson-in-play-out-s-to-cam-smith_head_0p000_6p000
+source_path: raw_sources\MLB_824523_pierce-johnson-in-play-out-s-to-cam-smith_Pierce_Johnson_secures_save_with_a_Cam_Smith_groundout_Pierce_Johnson_secures_sa.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

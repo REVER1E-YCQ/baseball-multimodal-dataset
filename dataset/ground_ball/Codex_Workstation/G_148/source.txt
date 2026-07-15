@@ -1,0 +1,7 @@
+video_title: Angel Martínez's RBI groundout Angel Martínez's RBI groundout Angel Martínez's RBI groundout
+video_url: https://bdata-producedclips.mlb.com/fa6d9b9f-6553-417c-b34d-d4f85c90b64d.mp4
+source_id: MLB_824439_tejay-antone-in-play-run-s-to-angel-martinez
+clip_id: MLB_824439_tejay-antone-in-play-run-s-to-angel-martinez_head_0p000_6p000
+source_path: raw_sources\MLB_824439_tejay-antone-in-play-run-s-to-angel-martinez_Angel_Mart_nez_s_RBI_groundout_Angel_Mart_nez_s_RBI_groundout_Angel_Mart_nez_s_R.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

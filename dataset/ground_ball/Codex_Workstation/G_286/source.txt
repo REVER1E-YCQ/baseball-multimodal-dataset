@@ -1,0 +1,7 @@
+video_title: Jake Bauers clinches the victory for the Brewers Jake Bauers clinches the victory for the Brewers Jake Bauers clinches the victory for the Brewers Carson Williams grounds out to Jake Bauers, giving the Brewers a 6-2 victory
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-03/31/0a08e05a-944a073d-d8ad250d-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_823807_carson-williams-grounds-out-softly-to-first-baseman-jake-bauers
+clip_id: MLB_823807_carson-williams-grounds-out-softly-to-first-baseman-jake-bauers_auto1_0p000_6p000
+source_path: raw_sources\MLB_823807_carson-williams-grounds-out-softly-to-first-baseman-jake-bauers_Jake_Bauers_clinches_the_victory_for_the_Brewers_Jake_Bauers_clinches_the_victor.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

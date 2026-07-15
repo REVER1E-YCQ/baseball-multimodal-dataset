@@ -1,0 +1,7 @@
+video_title: Ezequiel Duran's RBI fielder's choice Ezequiel Duran's RBI fielder's choice Ezequiel Duran's RBI fielder's choice Ezequiel Duran grounds into a fielder's choice, plating Alejandro Osuna to give the Rangers a 2-1 lead
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/07/2c0a29ad-0928c42a-b5ef07d8-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_823551_tim-hill-in-play-run-s-to-ezequiel-duran
+clip_id: MLB_823551_tim-hill-in-play-run-s-to-ezequiel-duran_head_0p000_6p000
+source_path: raw_sources\MLB_823551_tim-hill-in-play-run-s-to-ezequiel-duran_Ezequiel_Duran_s_RBI_fielder_s_choice_Ezequiel_Duran_s_RBI_fielder_s_choice_Ezeq.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

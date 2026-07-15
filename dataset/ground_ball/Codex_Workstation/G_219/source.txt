@@ -1,0 +1,7 @@
+video_title: Tyler Soderstrom scores on double play Tyler Soderstrom scores on double play Tyler Soderstrom scores on double play Jeff McNeil hits into a groundout, Tyler Soderstrom scores on double play in the bottom of the 9th inning, giving the A's a 9-2 deficit
+video_url: https://bdata-producedclips.mlb.com/820da423-a46e-4046-bb9f-c250add22880.mp4
+source_id: MLB_825005_bryce-miller-in-play-run-s-to-jeff-mcneil
+clip_id: MLB_825005_bryce-miller-in-play-run-s-to-jeff-mcneil_head_0p000_6p000
+source_path: raw_sources\MLB_825005_bryce-miller-in-play-run-s-to-jeff-mcneil_Tyler_Soderstrom_scores_on_double_play_Tyler_Soderstrom_scores_on_double_play_Ty.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

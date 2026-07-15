@@ -1,0 +1,7 @@
+﻿video_title: Nico Hoerner's RBI groundout聽 Nico Hoerner's RBI groundout聽 Nico Hoerner's RBI groundout
+video_url: https://bdata-producedclips.mlb.com/ef8da5b8-6f6e-4c25-ac18-8412dc9949a4.mp4
+source_id: MLB_824697_nico-hoerner-grounds-out-second-baseman-brandon-lowe-to-first-baseman
+clip_id: MLB_824697_nico-hoerner-grounds-out-second-baseman-brandon-lowe-to-first-baseman_auto1_1p460_7p460
+source_path: raw_sources\MLB_824697_nico-hoerner-grounds-out-second-baseman-brandon-lowe-to-first-baseman_Nico_Hoerner_s_RBI_groundout_Nico_Hoerner_s_RBI_groundout_Nico_Hoerner_s_RBI_gro.mp4
+clip_start_time: 1.460
+clip_end_time: 7.460

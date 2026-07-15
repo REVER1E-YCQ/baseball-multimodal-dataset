@@ -1,0 +1,7 @@
+video_title: Luke Weaver induces groundout to escape trouble Luke Weaver induces groundout to escape trouble Luke Weaver induces groundout to escape trouble
+video_url: https://bdata-producedclips.mlb.com/0727b82e-3476-437a-b3af-a02c743f0d4a.mp4
+source_id: MLB_823647_bryan-reynolds-grounds-into-a-force-out-third-baseman-bo-bichette-to-
+clip_id: MLB_823647_bryan-reynolds-grounds-into-a-force-out-third-baseman-bo-bichette-to-_auto1_1p380_7p380
+source_path: raw_sources\MLB_823647_bryan-reynolds-grounds-into-a-force-out-third-baseman-bo-bichette-to-_Luke_Weaver_induces_groundout_to_escape_trouble_Luke_Weaver_induces_groundout_to.mp4
+clip_start_time: 1.380
+clip_end_time: 7.380

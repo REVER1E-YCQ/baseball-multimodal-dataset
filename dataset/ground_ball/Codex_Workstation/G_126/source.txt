@@ -1,0 +1,7 @@
+video_title: Aaron Judge singles on a deflected ground ball Aaron Judge singles on a deflected ground ball Aaron Judge singles on a deflected ground ball Aaron Judge singles on a ground ball to third at the top of the 7th inning
+video_url: https://bdata-producedclips.mlb.com/d771a85a-60ed-4c25-9d22-38c0a53ee030.mp4
+source_id: MLB_824843_aaron-judge-singles-on-a-ground-ball-to-third-baseman-coby-mayo-defle
+clip_id: MLB_824843_aaron-judge-singles-on-a-ground-ball-to-third-baseman-coby-mayo-defle_head_0p000_6p000
+source_path: raw_sources\MLB_824843_aaron-judge-singles-on-a-ground-ball-to-third-baseman-coby-mayo-defle_Aaron_Judge_singles_on_a_deflected_ground_ball_Aaron_Judge_singles_on_a_deflecte.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

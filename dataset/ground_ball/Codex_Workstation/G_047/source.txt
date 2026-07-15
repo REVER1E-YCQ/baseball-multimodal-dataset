@@ -1,0 +1,7 @@
+video_title: Ryan Vilade's RBI single Ryan Vilade's RBI single Ryan Vilade's RBI single Ryan Vilade singles on a ground ball to right fielder Owen Caissie. Richie Palacios scores.
+video_url: https://bdata-producedclips.mlb.com/6cac54e7-052a-48cd-8dfc-42b053615f54.mp4
+source_id: MLB_823860_ryan-vilade-singles-on-a-ground-ball-to-right-fielder-owen-caissie-ri
+clip_id: MLB_823860_ryan-vilade-singles-on-a-ground-ball-to-right-fielder-owen-caissie-ri_head_0p000_6p000
+source_path: raw_sources\MLB_823860_ryan-vilade-singles-on-a-ground-ball-to-right-fielder-owen-caissie-ri_Ryan_Vilade_s_RBI_single_Ryan_Vilade_s_RBI_single_Ryan_Vilade_s_RBI_single_Ryan_.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

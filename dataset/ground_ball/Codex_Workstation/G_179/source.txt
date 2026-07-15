@@ -1,0 +1,7 @@
+video_title: Spencer Steer scores on Will Benson's RBI groundout Spencer Steer scores on Will Benson's RBI groundout Spencer Steer scores on Will Benson's RBI groundout Spencer Steer comes home to score on a Will Benson RBI groundout in the top of the 2nd
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/20/ee689c0e-aec4bea0-334ef670-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_823462_aaron-nola-in-play-run-s-to-will-benson
+clip_id: MLB_823462_aaron-nola-in-play-run-s-to-will-benson_head_0p000_6p000
+source_path: raw_sources\MLB_823462_aaron-nola-in-play-run-s-to-will-benson_Spencer_Steer_scores_on_Will_Benson_s_RBI_groundout_Spencer_Steer_scores_on_Will.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

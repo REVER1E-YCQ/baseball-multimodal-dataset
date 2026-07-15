@@ -1,0 +1,7 @@
+video_title: Patrick Bailey's RBI groundout Patrick Bailey's RBI groundout Patrick Bailey's RBI groundout Patrick Bailey grounds out to first base, plating Daniel Schneemann to extend the Guardians lead to 2-0
+video_url: https://bdata-producedclips.mlb.com/56436e73-8bca-40d8-850e-3faed223bbe4.mp4
+source_id: MLB_824442_walbert-urena-in-play-out-s-to-patrick-bailey-rghvxd
+clip_id: MLB_824442_walbert-urena-in-play-out-s-to-patrick-bailey-rghvxd_head_0p000_6p000
+source_path: raw_sources\MLB_824442_walbert-urena-in-play-out-s-to-patrick-bailey-rghvxd_Patrick_Bailey_s_RBI_groundout_Patrick_Bailey_s_RBI_groundout_Patrick_Bailey_s_R.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

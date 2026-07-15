@@ -1,0 +1,7 @@
+video_title: Oneil Cruz scores on Bryan Reynolds' groundout Oneil Cruz scores on Bryan Reynolds' groundout Oneil Cruz scores on Bryan Reynolds' groundout
+video_url: https://bdata-producedclips.mlb.com/5118a82a-c2f0-4b1e-a64c-0a32192c7734.mp4
+source_id: MLB_823056_justin-bruihl-in-play-run-s-to-bryan-reynolds-fbq70k
+clip_id: MLB_823056_justin-bruihl-in-play-run-s-to-bryan-reynolds-fbq70k_head_0p000_6p000
+source_path: raw_sources\MLB_823056_justin-bruihl-in-play-run-s-to-bryan-reynolds-fbq70k_Oneil_Cruz_scores_on_Bryan_Reynolds_groundout_Oneil_Cruz_scores_on_Bryan_Reynold.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

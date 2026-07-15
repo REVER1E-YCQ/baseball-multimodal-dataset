@@ -1,1 +1,1 @@
-2.383400	2.384400	ground_ball|3|H|N
+ground_ball

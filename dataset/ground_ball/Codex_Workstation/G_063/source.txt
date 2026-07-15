@@ -1,0 +1,7 @@
+video_title: Riley Greene's RBI groundout Riley Greene's RBI groundout Riley Greene's RBI groundout
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/01/43481123-e860c39c-6bab323c-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_824287_riley-greene-s-rbi-groundout
+clip_id: MLB_824287_riley-greene-s-rbi-groundout_head_0p000_6p000
+source_path: raw_sources\MLB_824287_riley-greene-s-rbi-groundout_Riley_Greene_s_RBI_groundout_Riley_Greene_s_RBI_groundout_Riley_Greene_s_RBI_gro.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

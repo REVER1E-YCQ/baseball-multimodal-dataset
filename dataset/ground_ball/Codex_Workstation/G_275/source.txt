@@ -1,0 +1,7 @@
+video_title: Cody Bellinger's RBI single Cody Bellinger's RBI single Cody Bellinger's RBI single Cody Bellinger grounds an RBI single to center field, plating Ben Rice and putting the Yankees on the board in the 7th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/12/8daca946-bad035c6-7cdce710-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_822998_cole-sulser-in-play-run-s-to-cody-bellinger-x8695
+clip_id: MLB_822998_cole-sulser-in-play-run-s-to-cody-bellinger-x8695_auto1_0p000_6p000
+source_path: raw_sources\MLB_822998_cole-sulser-in-play-run-s-to-cody-bellinger-x8695_Cody_Bellinger_s_RBI_single_Cody_Bellinger_s_RBI_single_Cody_Bellinger_s_RBI_sin.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

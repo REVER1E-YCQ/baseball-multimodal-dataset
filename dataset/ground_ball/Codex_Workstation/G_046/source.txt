@@ -1,0 +1,7 @@
+video_title: Jesús Luzardo's between-the-legs play in 4th Jesús Luzardo's between-the-legs play in 4th Jesús Luzardo's between-the-legs play in 4th Jesús Luzardo reaches for the grounder between his legs to get the second out of the top of the 4th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/05/fe3ddf72-b55a9d7b-e5da94d5-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_823455_sam-antonacci-grounds-out-pitcher-jesus-luzardo-to-first-baseman-bryc
+clip_id: MLB_823455_sam-antonacci-grounds-out-pitcher-jesus-luzardo-to-first-baseman-bryc_head_0p000_6p000
+source_path: raw_sources\MLB_823455_sam-antonacci-grounds-out-pitcher-jesus-luzardo-to-first-baseman-bryc_Jes_s_Luzardo_s_between-the-legs_play_in_4th_Jes_s_Luzardo_s_between-the-legs_pl.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

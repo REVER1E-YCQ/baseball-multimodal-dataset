@@ -1,0 +1,7 @@
+video_title: Bobby Witt Jr.'s diving play to first Bobby Witt Jr.'s diving play to first Bobby Witt Jr.'s diving play to first Bobby Witt Jr. dives for Randal Grichuk's ground ball and throws to first base for the second out in the bottom of the 8th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/12/88d88f8c-c006799c-0423783b-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_824604_matt-strahm-in-play-out-s-to-randal-grichuk-eukxx9
+clip_id: MLB_824604_matt-strahm-in-play-out-s-to-randal-grichuk-eukxx9_head_0p000_6p000
+source_path: raw_sources\MLB_824604_matt-strahm-in-play-out-s-to-randal-grichuk-eukxx9_Bobby_Witt_Jr._s_diving_play_to_first_Bobby_Witt_Jr._s_diving_play_to_first_Bobb.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

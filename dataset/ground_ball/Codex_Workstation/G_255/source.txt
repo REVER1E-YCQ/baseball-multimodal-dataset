@@ -1,0 +1,7 @@
+video_title: Lenyn Sosa's RBI groundout Lenyn Sosa's RBI groundout Lenyn Sosa's RBI groundout
+video_url: https://bdata-producedclips.mlb.com/50074279-18ab-4f5a-910c-2639f827e2e3.mp4
+source_id: MLB_824619_lenyn-sosa-grounds-out-sharply-shortstop-gunnar-henderson-to-first-ba
+clip_id: MLB_824619_lenyn-sosa-grounds-out-sharply-shortstop-gunnar-henderson-to-first-ba_auto1_5p600_11p600
+source_path: raw_sources\MLB_824619_lenyn-sosa-grounds-out-sharply-shortstop-gunnar-henderson-to-first-ba_Lenyn_Sosa_s_RBI_groundout_Lenyn_Sosa_s_RBI_groundout_Lenyn_Sosa_s_RBI_groundout.mp4
+clip_start_time: 5.600
+clip_end_time: 11.600

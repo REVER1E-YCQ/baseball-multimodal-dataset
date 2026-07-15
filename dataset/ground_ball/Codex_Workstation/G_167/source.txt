@@ -1,0 +1,7 @@
+video_title: Hunter Bigge induces groundout for the 16-6 win Hunter Bigge induces groundout for the 16-6 win Hunter Bigge induces groundout for the 16-6 win Hunter Bigge induces a ground ball to Taylor Walls to Jonathan Aranda retire Jeremiah Jackson, sealing the Rays' 16-6 victory
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/18/ba34aa08-55af2c78-b7206bd5-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_822980_jeremiah-jackson-grounds-out-shortstop-taylor-walls-to-first-baseman-
+clip_id: MLB_822980_jeremiah-jackson-grounds-out-shortstop-taylor-walls-to-first-baseman-_head_0p000_6p000
+source_path: raw_sources\MLB_822980_jeremiah-jackson-grounds-out-shortstop-taylor-walls-to-first-baseman-_Hunter_Bigge_induces_groundout_for_the_16-6_win_Hunter_Bigge_induces_groundout_f.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

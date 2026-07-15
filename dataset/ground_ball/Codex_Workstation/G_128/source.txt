@@ -1,0 +1,7 @@
+video_title: Juan Soto's RBI groundout Juan Soto's RBI groundout Juan Soto's RBI groundout
+video_url: https://bdata-producedclips.mlb.com/3fcb2cb9-b87f-419e-ab8f-e040ff0512cb.mp4
+source_id: MLB_823632_enmanuel-de-jesus-in-play-run-s-to-juan-soto
+clip_id: MLB_823632_enmanuel-de-jesus-in-play-run-s-to-juan-soto_head_0p000_6p000
+source_path: raw_sources\MLB_823632_enmanuel-de-jesus-in-play-run-s-to-juan-soto_Juan_Soto_s_RBI_groundout_Juan_Soto_s_RBI_groundout_Juan_Soto_s_RBI_groundout.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

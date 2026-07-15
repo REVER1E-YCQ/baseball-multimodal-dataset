@@ -1,0 +1,7 @@
+video_title: Miguel Andujar's RBI groundout Miguel Andujar's RBI groundout Miguel Andujar's RBI groundout Miguel Andujar grounds out, scoring Manny Machado to put the Padres up 2-0 in the 4th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/16/19387d34-889b8572-0548bb70-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_823139_miguel-andujar-s-rbi-groundout
+clip_id: MLB_823139_miguel-andujar-s-rbi-groundout_head_0p000_6p000
+source_path: raw_sources\MLB_823139_miguel-andujar-s-rbi-groundout_Miguel_Andujar_s_RBI_groundout_Miguel_Andujar_s_RBI_groundout_Miguel_Andujar_s_R.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

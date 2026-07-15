@@ -1,0 +1,7 @@
+video_title: Tatis Jr. scores on Manny Machado's RBI groundout Tatis Jr. scores on Manny Machado's RBI groundout Tatis Jr. scores on Manny Machado's RBI groundout
+video_url: https://bdata-producedclips.mlb.com/b4b9a7b5-04e3-4f07-8a63-1e28446ca125.mp4
+source_id: MLB_823401_yohan-ramirez-in-play-run-s-to-manny-machado
+clip_id: MLB_823401_yohan-ramirez-in-play-run-s-to-manny-machado_auto1_3p180_9p180
+source_path: raw_sources\MLB_823401_yohan-ramirez-in-play-run-s-to-manny-machado_Tatis_Jr._scores_on_Manny_Machado_s_RBI_groundout_Tatis_Jr._scores_on_Manny_Mach.mp4
+clip_start_time: 3.180
+clip_end_time: 9.180

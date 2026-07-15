@@ -1,0 +1,7 @@
+video_title: Dansby Swanson's outstanding diving stop Dansby Swanson's outstanding diving stop Dansby Swanson's outstanding diving stop Dansby Swanson lays out for a sharp ground ball up the middle to make a gorgeous play on Troy Johnston for the final out of the 4th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/10/ea37a4d6-d5905fab-5b1e4249-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_824348_troy-johnston-grounds-out-shortstop-dansby-swanson-to-first-baseman-m
+clip_id: MLB_824348_troy-johnston-grounds-out-shortstop-dansby-swanson-to-first-baseman-m_head_0p000_6p000
+source_path: raw_sources\MLB_824348_troy-johnston-grounds-out-shortstop-dansby-swanson-to-first-baseman-m_Dansby_Swanson_s_outstanding_diving_stop_Dansby_Swanson_s_outstanding_diving_sto.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

@@ -1,0 +1,7 @@
+video_title: Luis Torrens' RBI groundout Luis Torrens' RBI groundout Luis Torrens' RBI groundout
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/07/47825331-8ceb96e2-e8508120-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_824361_michael-lorenzen-in-play-run-s-to-luis-torrens
+clip_id: MLB_824361_michael-lorenzen-in-play-run-s-to-luis-torrens_head_0p000_6p000
+source_path: raw_sources\MLB_824361_michael-lorenzen-in-play-run-s-to-luis-torrens_Luis_Torrens_RBI_groundout_Luis_Torrens_RBI_groundout_Luis_Torrens_RBI_groundout.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000
