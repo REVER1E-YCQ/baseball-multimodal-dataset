@@ -1,0 +1,7 @@
+video_title: Josh Maciejewski makes his MLB debut Josh Maciejewski makes his MLB debut Josh Maciejewski makes his MLB debut Josh Maciejewski induces three groundouts by the Marlins in his relief outing during his MLB debut with the Yankees
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-04/08/65c23799-5a88fe91-cfdc7c59-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745761_josh-maciejewski-makes-his-mlb-debut
+clip_id: MLB_745761_josh-maciejewski-makes-his-mlb-debut_auto1_0p720_6p720
+source_path: raw_sources\MLB_745761_josh-maciejewski-makes-his-mlb-debut_Josh_Maciejewski_makes_his_MLB_debut_Josh_Maciejewski_makes_his_MLB_debut_Josh_M.mp4
+clip_start_time: 0.720
+clip_end_time: 6.720

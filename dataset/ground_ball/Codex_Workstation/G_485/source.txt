@@ -1,0 +1,7 @@
+video_title: Jorge Soler's RBI groundout  Jorge Soler's RBI groundout  Jorge Soler's RBI groundout 
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/22/0f09cb1d-d84cc0e7-cf103a81-csvm-diamondx64-asset-4000K.mp4
+source_id: MLB_745502_colin-holderman-in-play-run-s-to-jorge-soler
+clip_id: MLB_745502_colin-holderman-in-play-run-s-to-jorge-soler_auto1_6p200_12p200
+source_path: raw_sources\MLB_745502_colin-holderman-in-play-run-s-to-jorge-soler_Jorge_Soler_s_RBI_groundout_Jorge_Soler_s_RBI_groundout_Jorge_Soler_s_RBI_ground.mp4
+clip_start_time: 6.200
+clip_end_time: 12.200

@@ -1,0 +1,7 @@
+video_title: Byron Buxton's RBI groundout Byron Buxton's RBI groundout Byron Buxton's RBI groundout
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/05/cbfb6dfb-c9d6641c-c212ef97-csvm-diamondx64-asset-4000K.mp4
+source_id: MLB_745740_byron-buxton-grounds-out-third-baseman-dj-lemahieu-to-first-baseman-a
+clip_id: MLB_745740_byron-buxton-grounds-out-third-baseman-dj-lemahieu-to-first-baseman-a_auto1_2p980_8p980
+source_path: raw_sources\MLB_745740_byron-buxton-grounds-out-third-baseman-dj-lemahieu-to-first-baseman-a_Byron_Buxton_s_RBI_groundout_Byron_Buxton_s_RBI_groundout_Byron_Buxton_s_RBI_gro.mp4
+clip_start_time: 2.980
+clip_end_time: 8.980

@@ -1,0 +1,7 @@
+video_title: Cody Bellinger's RBI single  Cody Bellinger's RBI single  Cody Bellinger grounds an RBI single to right field 
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/25/aed40837-8110994c-2adb7a89-csvm-diamondx64-asset-4000K.mp4
+source_id: MLB_745176_cody-bellinger-s-single-x775
+clip_id: MLB_745176_cody-bellinger-s-single-x775_auto1_2p440_8p440
+source_path: raw_sources\MLB_745176_cody-bellinger-s-single-x775_Cody_Bellinger_s_RBI_single_Cody_Bellinger_s_RBI_single_Cody_Bellinger_grounds_a.mp4
+clip_start_time: 2.440
+clip_end_time: 8.440

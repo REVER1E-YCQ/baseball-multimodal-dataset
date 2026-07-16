@@ -1,0 +1,7 @@
+video_title: Oneil Cruz throws out Mark Canha for the final out Oneil Cruz throws out Mark Canha for the final out Oneil Cruz throws out Mark Canha for the final out Mark Canha grounds out to Oneil Cruz for the final out of the Pirates' 7-4 win, their best start to a season since 1992
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-04/08/99cfaa85-3f102ed6-f2360245-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745520_ryder-ryan-in-play-out-s-to-mark-canha
+clip_id: MLB_745520_ryder-ryan-in-play-out-s-to-mark-canha_auto1_4p120_10p120
+source_path: raw_sources\MLB_745520_ryder-ryan-in-play-out-s-to-mark-canha_Oneil_Cruz_throws_out_Mark_Canha_for_the_final_out_Oneil_Cruz_throws_out_Mark_Ca.mp4
+clip_start_time: 4.120
+clip_end_time: 10.120

@@ -1,0 +1,7 @@
+video_title: Cubs score a run on a fielder's choice Cubs score a run on a fielder's choice Cubs score a run on a fielder's choice David Bote grounds into a fielder's choice with a man on third base, scoring the Cubs' second run of the game
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/02/9cf202fb-69bad9b6-d7a8f85a-csvm-diamondx64-asset-4000K.mp4
+source_id: MLB_746871_nick-lodolo-in-play-run-s-to-david-bote
+clip_id: MLB_746871_nick-lodolo-in-play-run-s-to-david-bote_auto1_1p420_7p420
+source_path: raw_sources\MLB_746871_nick-lodolo-in-play-run-s-to-david-bote_Cubs_score_a_run_on_a_fielder_s_choice_Cubs_score_a_run_on_a_fielder_s_choice_Cu.mp4
+clip_start_time: 1.420
+clip_end_time: 7.420

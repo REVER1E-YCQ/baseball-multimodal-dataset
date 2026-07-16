@@ -1,0 +1,7 @@
+video_title: Sean Hjelle ends the threat Sean Hjelle ends the threat Sean Hjelle ends the threat Sean Hjelle induces a groundout for the third out, keeping the Giants' 6-2 lead intact in the 4th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/05/7e085861-74729eed-e1788b73-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_747195_lourdes-gurriel-jr-grounds-out-to-first-baseman-wilmer-flores
+clip_id: MLB_747195_lourdes-gurriel-jr-grounds-out-to-first-baseman-wilmer-flores_auto1_4p260_10p260
+source_path: raw_sources\MLB_747195_lourdes-gurriel-jr-grounds-out-to-first-baseman-wilmer-flores_Sean_Hjelle_ends_the_threat_Sean_Hjelle_ends_the_threat_Sean_Hjelle_ends_the_thr.mp4
+clip_start_time: 4.260
+clip_end_time: 10.260

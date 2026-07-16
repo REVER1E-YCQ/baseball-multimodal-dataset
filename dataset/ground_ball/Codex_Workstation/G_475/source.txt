@@ -1,0 +1,7 @@
+video_title: Dennis Santana's Pirates debut Dennis Santana's Pirates debut Dennis Santana's Pirates debut Dennis Santana induces a groundout for the second out of the 8th inning in his debut with the Pirates
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/13/05b75bf6-ebfd868f-e17fb11c-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745168_dennis-santana-s-pirates-debut
+clip_id: MLB_745168_dennis-santana-s-pirates-debut_auto1_3p480_9p480
+source_path: raw_sources\MLB_745168_dennis-santana-s-pirates-debut_Dennis_Santana_s_Pirates_debut_Dennis_Santana_s_Pirates_debut_Dennis_Santana_s_P.mp4
+clip_start_time: 3.480
+clip_end_time: 9.480

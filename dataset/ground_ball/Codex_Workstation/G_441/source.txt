@@ -1,0 +1,7 @@
+video_title: Shea Langeliers' RBI groundout  Shea Langeliers' RBI groundout  Shea Langeliers' RBI groundout 
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/05/dd20a710-b673652d-1433a456-csvm-diamondx64-asset-4000K.mp4
+source_id: MLB_745656_austin-voth-in-play-run-s-to-shea-langeliers
+clip_id: MLB_745656_austin-voth-in-play-run-s-to-shea-langeliers_auto1_1p460_7p460
+source_path: raw_sources\MLB_745656_austin-voth-in-play-run-s-to-shea-langeliers_Shea_Langeliers_RBI_groundout_Shea_Langeliers_RBI_groundout_Shea_Langeliers_RBI_.mp4
+clip_start_time: 1.460
+clip_end_time: 7.460

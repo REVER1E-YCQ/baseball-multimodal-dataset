@@ -1,0 +1,7 @@
+video_title: Masyn Winn's impressive double play Masyn Winn's impressive double play Masyn Winn's impressive double play Masyn Winn fields a grounder, sprints to second and makes a strong throw to first to turn an impressive double play
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/15/8b83fbaa-11dd32c1-cdefce0e-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746865_mike-tauchman-grounds-into-a-double-play-shortstop-masyn-winn-to-firs
+clip_id: MLB_746865_mike-tauchman-grounds-into-a-double-play-shortstop-masyn-winn-to-firs_auto1_0p000_6p000
+source_path: raw_sources\MLB_746865_mike-tauchman-grounds-into-a-double-play-shortstop-masyn-winn-to-firs_Masyn_Winn_s_impressive_double_play_Masyn_Winn_s_impressive_double_play_Masyn_Wi.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

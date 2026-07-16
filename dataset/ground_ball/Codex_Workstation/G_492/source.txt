@@ -1,0 +1,7 @@
+video_title: Mets score a run on a double play Mets score a run on a double play Mets score a run on a double play Starling Marte grounds into a double play with the bases loaded to plate the Mets' first run of the night
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/13/3b56ac9e-624183da-9b18fde2-csvm-diamondx64-asset-4000K.mp4
+source_id: MLB_745809_starling-marte-grounds-into-a-double-play-third-baseman-jake-burger-t
+clip_id: MLB_745809_starling-marte-grounds-into-a-double-play-third-baseman-jake-burger-t_auto1_1p440_7p440
+source_path: raw_sources\MLB_745809_starling-marte-grounds-into-a-double-play-third-baseman-jake-burger-t_Mets_score_a_run_on_a_double_play_Mets_score_a_run_on_a_double_play_Mets_score_a.mp4
+clip_start_time: 1.440
+clip_end_time: 7.440

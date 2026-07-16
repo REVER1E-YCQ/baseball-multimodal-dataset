@@ -1,0 +1,7 @@
+video_title: Tyler Locklear makes a diving play at first base Tyler Locklear makes a diving play at first base Tyler Locklear makes a diving play at first base Tyler Locklear dives to trap a sharp ground ball, then flips to first base to rob Andrew Benintendi of a base hit
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/13/e4269f10-0c272553-725db4a9-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745245_tyler-locklear-makes-a-diving-play-at-first-base
+clip_id: MLB_745245_tyler-locklear-makes-a-diving-play-at-first-base_auto1_0p000_6p000
+source_path: raw_sources\MLB_745245_tyler-locklear-makes-a-diving-play-at-first-base_Tyler_Locklear_makes_a_diving_play_at_first_base_Tyler_Locklear_makes_a_diving_p.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

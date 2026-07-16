@@ -1,0 +1,7 @@
+video_title: Nolan Gorman, Brandon Crawford turn slick double play Nolan Gorman, Brandon Crawford turn slick double play Nolan Gorman, Brandon Crawford turn slick double play Nolan Gorman makes a nifty flip to Brandon Crawford to turn a double play on an Alec Bohm ground ball in the bottom of the 6th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/31/da1cecd4-cacfc167-0a7a9d1d-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745574_miles-mikolas-in-play-out-s-to-alec-bohm-p3xein
+clip_id: MLB_745574_miles-mikolas-in-play-out-s-to-alec-bohm-p3xein_auto1_2p660_8p660
+source_path: raw_sources\MLB_745574_miles-mikolas-in-play-out-s-to-alec-bohm-p3xein_Nolan_Gorman_Brandon_Crawford_turn_slick_double_play_Nolan_Gorman_Brandon_Crawfo.mp4
+clip_start_time: 2.660
+clip_end_time: 8.660

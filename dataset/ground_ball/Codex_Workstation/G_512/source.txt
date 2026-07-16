@@ -1,0 +1,7 @@
+video_title: Kevin Newman grounds an RBI single  Kevin Newman grounds an RBI single  Kevin Newman grounds an RBI single 
+video_url: https://bdata-producedclips.mlb.com/eb84d627-86d3-4d95-a378-eb703072a2f6.mp4
+source_id: MLB_746569_kyle-freeland-in-play-run-s-to-kevin-newman
+clip_id: MLB_746569_kyle-freeland-in-play-run-s-to-kevin-newman_auto1_11p360_17p360
+source_path: raw_sources\MLB_746569_kyle-freeland-in-play-run-s-to-kevin-newman_Kevin_Newman_grounds_an_RBI_single_Kevin_Newman_grounds_an_RBI_single_Kevin_Newm.mp4
+clip_start_time: 11.360
+clip_end_time: 17.360

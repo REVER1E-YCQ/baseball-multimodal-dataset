@@ -1,0 +1,7 @@
+video_title: Pete Crow-Armstrong's RBI groundout Pete Crow-Armstrong's RBI groundout Pete Crow-Armstrong's RBI groundout
+video_url: https://bdata-producedclips.mlb.com/a1b3f05d-704a-4d80-a11f-35fcf6db8dac.mp4
+source_id: MLB_746703_fernando-cruz-in-play-run-s-to-pete-crow-armstrong
+clip_id: MLB_746703_fernando-cruz-in-play-run-s-to-pete-crow-armstrong_auto1_6p860_12p860
+source_path: raw_sources\MLB_746703_fernando-cruz-in-play-run-s-to-pete-crow-armstrong_Pete_Crow-Armstrong_s_RBI_groundout_Pete_Crow-Armstrong_s_RBI_groundout_Pete_Cro.mp4
+clip_start_time: 6.860
+clip_end_time: 12.860

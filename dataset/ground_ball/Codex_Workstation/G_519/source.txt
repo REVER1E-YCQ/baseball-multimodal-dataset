@@ -1,0 +1,7 @@
+video_title: Michael Busch's diving play Michael Busch's diving play Michael Busch's diving play Michael Busch makes a diving stop off Ronald Acuña Jr.'s grounder and makes a slick throw to first for the final out of the top of the 5th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/23/4d5a0985-40ad568b-ec987c1c-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746874_hayden-wesneski-in-play-out-s-to-ronald-acuna-jr
+clip_id: MLB_746874_hayden-wesneski-in-play-out-s-to-ronald-acuna-jr_auto1_0p000_6p000
+source_path: raw_sources\MLB_746874_hayden-wesneski-in-play-out-s-to-ronald-acuna-jr_Michael_Busch_s_diving_play_Michael_Busch_s_diving_play_Michael_Busch_s_diving_p.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

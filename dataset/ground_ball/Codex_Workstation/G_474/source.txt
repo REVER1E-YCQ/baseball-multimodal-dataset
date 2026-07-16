@@ -1,0 +1,7 @@
+video_title: Rays score a run on a fielder's choice Rays score a run on a fielder's choice Rays score a run on a fielder's choice Jonathan Aranda grounds into a fielder's choice with the bases loaded, driving in the Rays' first run of the game
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/24/91e4dc59-d84622a8-540e5542-csvm-diamondx64-asset-4000K.mp4
+source_id: MLB_745087_seth-lugo-in-play-run-s-to-jonathan-aranda
+clip_id: MLB_745087_seth-lugo-in-play-run-s-to-jonathan-aranda_auto1_1p520_7p520
+source_path: raw_sources\MLB_745087_seth-lugo-in-play-run-s-to-jonathan-aranda_Rays_score_a_run_on_a_fielder_s_choice_Rays_score_a_run_on_a_fielder_s_choice_Ra.mp4
+clip_start_time: 1.520
+clip_end_time: 7.520

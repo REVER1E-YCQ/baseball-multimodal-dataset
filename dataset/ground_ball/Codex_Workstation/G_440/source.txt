@@ -1,0 +1,7 @@
+video_title: Johan Rojas' RBI groundout Johan Rojas' RBI groundout Johan Rojas' RBI groundout Johan Rojas plates a run on a groundout to shortstop, tying the score at 2-2 in the 2nd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/03/cc01e8e8-ad2b1c96-09fd385d-csvm-diamondx64-asset-4000K.mp4
+source_id: MLB_745572_johan-rojas-rbi-groundout
+clip_id: MLB_745572_johan-rojas-rbi-groundout_auto1_1p440_7p440
+source_path: raw_sources\MLB_745572_johan-rojas-rbi-groundout_Johan_Rojas_RBI_groundout_Johan_Rojas_RBI_groundout_Johan_Rojas_RBI_groundout_Jo.mp4
+clip_start_time: 1.440
+clip_end_time: 7.440

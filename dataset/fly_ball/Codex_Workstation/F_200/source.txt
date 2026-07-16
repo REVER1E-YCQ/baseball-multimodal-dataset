@@ -1,0 +1,7 @@
+video_title: Aaron Judge's 900th career hit in the Majors Aaron Judge's 900th career hit in the Majors Aaron Judge lines a double for his 900th career hit Aaron Judge hits a line drive down the left-field line for his 900th career hit in the Majors
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/25/26b91cbb-80db40df-512ca7a6-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745411_aaron-judge-s-900th-career-hit-in-the-majors
+clip_id: MLB_745411_aaron-judge-s-900th-career-hit-in-the-majors_auto1_3p100_10p100
+source_path: raw_sources\MLB_745411_aaron-judge-s-900th-career-hit-in-the-majors_Aaron_Judge_s_900th_career_hit_in_the_Majors_Aaron_Judge_s_900th_career_hit_in_t.mp4
+clip_start_time: 3.100
+clip_end_time: 10.100

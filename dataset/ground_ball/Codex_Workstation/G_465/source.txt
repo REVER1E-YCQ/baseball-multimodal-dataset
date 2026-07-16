@@ -1,0 +1,7 @@
+video_title: Mark Canha's go-ahead groundout Mark Canha's go-ahead groundout Mark Canha's go-ahead groundout Mark Canha gives the Tigers a 4-3 lead with an RBI groundout in the top of the 7th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/02/4ef16b88-4b0e6c75-d5c18459-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746953_justin-slaten-in-play-run-s-to-mark-canha
+clip_id: MLB_746953_justin-slaten-in-play-run-s-to-mark-canha_auto1_0p000_6p000
+source_path: raw_sources\MLB_746953_justin-slaten-in-play-run-s-to-mark-canha_Mark_Canha_s_go-ahead_groundout_Mark_Canha_s_go-ahead_groundout_Mark_Canha_s_go-.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000
