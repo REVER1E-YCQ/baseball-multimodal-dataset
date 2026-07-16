@@ -10,15 +10,41 @@ def sample_dirs(dataset_root: Path) -> list[Path]:
     return [p for p in dataset_root.glob("*/*/*") if p.is_dir()]
 
 
+def parse_id_mins(value: str) -> dict[str, int]:
+    result: dict[str, int] = {}
+    if not value:
+        return result
+    for item in value.split(","):
+        prefix, separator, number = item.strip().partition("=")
+        if separator != "=" or prefix not in {"F", "G"} or not number.isdigit():
+            raise SystemExit("--id-min entries must look like F=104,G=161")
+        result[prefix] = int(number)
+    return result
+
+
+def filter_sample_dirs(dirs: list[Path], id_mins: dict[str, int]) -> list[Path]:
+    if not id_mins:
+        return dirs
+    selected: list[Path] = []
+    for path in dirs:
+        prefix, separator, number = path.name.partition("_")
+        if separator != "_" or not number.isdigit():
+            continue
+        if prefix in id_mins and int(number) >= id_mins[prefix]:
+            selected.append(path)
+    return selected
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description="Validate media readability and duration agreement.")
     parser.add_argument("--dataset-root", type=Path, default=repo_path("dataset"))
     parser.add_argument("--max-delta", type=float, default=0.25)
+    parser.add_argument("--id-min", default="", help="Only check IDs at or above thresholds, e.g. F=104,G=161.")
     args = parser.parse_args()
 
     require_tool("ffprobe")
     failures = 0
-    dirs = sample_dirs(args.dataset_root)
+    dirs = filter_sample_dirs(sample_dirs(args.dataset_root), parse_id_mins(args.id_min))
     for path in dirs:
         video = path / "video.mp4"
         audio = path / "audio.wav"

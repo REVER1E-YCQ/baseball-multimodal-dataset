@@ -1,0 +1,7 @@
+video_title: Jonny DeLuca's RBI groundout Jonny DeLuca's RBI groundout Jonny DeLuca's RBI groundout
+video_url: https://bdata-producedclips.mlb.com/8d79379a-a6ad-48d0-98ae-309470f61ab4.mp4
+source_id: MLB_745101_jonny-deluca-grounds-out-third-baseman-brett-baty-to-first-baseman-pe
+clip_id: MLB_745101_jonny-deluca-grounds-out-third-baseman-brett-baty-to-first-baseman-pe_auto1_1p540_7p540
+source_path: raw_sources\MLB_745101_jonny-deluca-grounds-out-third-baseman-brett-baty-to-first-baseman-pe_Jonny_DeLuca_s_RBI_groundout_Jonny_DeLuca_s_RBI_groundout_Jonny_DeLuca_s_RBI_gro.mp4
+clip_start_time: 1.540
+clip_end_time: 7.540

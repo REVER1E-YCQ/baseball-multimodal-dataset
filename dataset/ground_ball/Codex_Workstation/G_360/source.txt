@@ -1,0 +1,7 @@
+video_title: Kyle Finnegan secures the win Kyle Finnegan secures the win Kyle Finnegan secures the win Kyle Finnegan locks down the victory in the top of the 9th inning after Isiah Kiner-Falefa grounds out to CJ Abrams
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/05/1b55cfde-d58634b6-6a782b12-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_744861_isiah-kiner-falefa-grounds-out-shortstop-cj-abrams-to-first-baseman-j
+clip_id: MLB_744861_isiah-kiner-falefa-grounds-out-shortstop-cj-abrams-to-first-baseman-j_auto1_2p960_8p960
+source_path: raw_sources\MLB_744861_isiah-kiner-falefa-grounds-out-shortstop-cj-abrams-to-first-baseman-j_Kyle_Finnegan_secures_the_win_Kyle_Finnegan_secures_the_win_Kyle_Finnegan_secure.mp4
+clip_start_time: 2.960
+clip_end_time: 8.960

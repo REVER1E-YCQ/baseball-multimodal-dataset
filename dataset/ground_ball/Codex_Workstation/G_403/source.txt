@@ -1,0 +1,7 @@
+video_title: José Caballero's slick play José Caballero's slick play José Caballero gets runner at second with nice play José Caballero dives to his left to field a hard-hit grounder, flips to second to get the runner for the second out of the bottom of the 4th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/16/a63a706a-d619ca05-23b43ea2-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746959_zack-littell-in-play-out-s-to-vaughn-grissom
+clip_id: MLB_746959_zack-littell-in-play-out-s-to-vaughn-grissom_auto1_0p000_6p000
+source_path: raw_sources\MLB_746959_zack-littell-in-play-out-s-to-vaughn-grissom_Jos_Caballero_s_slick_play_Jos_Caballero_s_slick_play_Jos_Caballero_gets_runner_.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

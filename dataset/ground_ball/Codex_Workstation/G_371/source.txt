@@ -1,0 +1,7 @@
+video_title: Manuel Margot's RBI groundout Manuel Margot's RBI groundout Manuel Margot's RBI groundout
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/10/228d854b-ecf26d39-b556ccee-csvm-diamondx64-asset-4000K.mp4
+source_id: MLB_745910_eduard-bazardo-in-play-run-s-to-manuel-margot
+clip_id: MLB_745910_eduard-bazardo-in-play-run-s-to-manuel-margot_auto1_1p500_7p500
+source_path: raw_sources\MLB_745910_eduard-bazardo-in-play-run-s-to-manuel-margot_Manuel_Margot_s_RBI_groundout_Manuel_Margot_s_RBI_groundout_Manuel_Margot_s_RBI_.mp4
+clip_start_time: 1.500
+clip_end_time: 7.500

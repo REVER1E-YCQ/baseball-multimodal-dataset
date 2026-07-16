@@ -1,0 +1,7 @@
+video_title: Andy Ibáñez's leadoff home run (1) Andy Ibáñez's leadoff home run (1) Andy Ibáñez's leadoff home run (1) Andy Ibáñez yanks a fly ball to left field for a leadoff home run, his first homer of the 2024 season
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/07/f67bd552-d13c5283-d6867fe1-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746638_andy-ibanez-homers-1-on-a-fly-ball-to-left-field-x7c4d0
+clip_id: MLB_746638_andy-ibanez-homers-1-on-a-fly-ball-to-left-field-x7c4d0_auto1_6p540_13p540
+source_path: raw_sources\MLB_746638_andy-ibanez-homers-1-on-a-fly-ball-to-left-field-x7c4d0_Andy_Ib_ez_s_leadoff_home_run_1_Andy_Ib_ez_s_leadoff_home_run_1_Andy_Ib_ez_s_lea.mp4
+clip_start_time: 6.540
+clip_end_time: 13.540

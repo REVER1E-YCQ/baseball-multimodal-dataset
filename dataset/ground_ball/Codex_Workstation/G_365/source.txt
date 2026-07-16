@@ -1,0 +1,7 @@
+video_title: Ke'Bryan Hayes' RBI groundout Ke'Bryan Hayes' RBI groundout Ke'Bryan Hayes' RBI groundout
+video_url: https://bdata-producedclips.mlb.com/dff2e52a-09d2-4114-858c-0decdd137da3.mp4
+source_id: MLB_745504_ryan-feltner-in-play-run-s-to-ke-bryan-hayes-qtfmpx
+clip_id: MLB_745504_ryan-feltner-in-play-run-s-to-ke-bryan-hayes-qtfmpx_auto1_1p440_7p440
+source_path: raw_sources\MLB_745504_ryan-feltner-in-play-run-s-to-ke-bryan-hayes-qtfmpx_Ke_Bryan_Hayes_RBI_groundout_Ke_Bryan_Hayes_RBI_groundout_Ke_Bryan_Hayes_RBI_gro.mp4
+clip_start_time: 1.440
+clip_end_time: 7.440

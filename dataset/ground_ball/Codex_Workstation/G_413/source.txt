@@ -1,0 +1,7 @@
+video_title: Thairo Estrada's RBI groundout  Thairo Estrada's RBI groundout  Thairo Estrada drives in a run with an RBI groundout
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/21/c90af059-0f3df9d2-a0c11684-csvm-diamondx64-asset-4000K.mp4
+source_id: MLB_745503_kyle-nicolas-in-play-run-s-to-thairo-estrada
+clip_id: MLB_745503_kyle-nicolas-in-play-run-s-to-thairo-estrada_auto1_2p460_8p460
+source_path: raw_sources\MLB_745503_kyle-nicolas-in-play-run-s-to-thairo-estrada_Thairo_Estrada_s_RBI_groundout_Thairo_Estrada_s_RBI_groundout_Thairo_Estrada_dri.mp4
+clip_start_time: 2.460
+clip_end_time: 8.460

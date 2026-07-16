@@ -1,0 +1,7 @@
+video_title: Dominic Smith's RBI groundout Dominic Smith's RBI groundout Dominic Smith's RBI groundout
+video_url: https://bdata-producedclips.mlb.com/d5beb562-c7b6-4c82-8ca3-7ffd639e58cf.mp4
+source_id: MLB_745179_dominic-smith-s-rbi-groundout
+clip_id: MLB_745179_dominic-smith-s-rbi-groundout_auto1_1p500_7p500
+source_path: raw_sources\MLB_745179_dominic-smith-s-rbi-groundout_Dominic_Smith_s_RBI_groundout_Dominic_Smith_s_RBI_groundout_Dominic_Smith_s_RBI_.mp4
+clip_start_time: 1.500
+clip_end_time: 7.500

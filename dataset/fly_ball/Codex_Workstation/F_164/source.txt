@@ -1,0 +1,7 @@
+video_title: Sal Frelick's diving grab Sal Frelick's diving grab Sal Frelick's diving grab Sal Frelick races into shallow center field and lays out to grab a line drive hit by Jared Triolo to end the top of the 2nd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/14/939f5d71-1d594dc9-3a8edd4b-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745989_jared-triolo-lines-out-sharply-to-center-fielder-sal-frelick
+clip_id: MLB_745989_jared-triolo-lines-out-sharply-to-center-fielder-sal-frelick_auto1_1p400_8p400
+source_path: raw_sources\MLB_745989_jared-triolo-lines-out-sharply-to-center-fielder-sal-frelick_Sal_Frelick_s_diving_grab_Sal_Frelick_s_diving_grab_Sal_Frelick_s_diving_grab_Sa.mp4
+clip_start_time: 1.400
+clip_end_time: 8.400

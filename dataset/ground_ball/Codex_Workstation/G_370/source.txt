@@ -1,0 +1,7 @@
+video_title: Trey Cabbage's two-run single Trey Cabbage's two-run single Trey Cabbage's two-run single Trey Cabbage grounds a single to right field, plating two runs to cut the deficit to 10-3 in the top of the 9th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/07/e680f2bd-cf2e3503-dc12d796-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745752_trey-cabbage-singles-on-a-ground-ball-to-right-fielder-jahmai-jones-j
+clip_id: MLB_745752_trey-cabbage-singles-on-a-ground-ball-to-right-fielder-jahmai-jones-j_auto1_0p000_6p000
+source_path: raw_sources\MLB_745752_trey-cabbage-singles-on-a-ground-ball-to-right-fielder-jahmai-jones-j_Trey_Cabbage_s_two-run_single_Trey_Cabbage_s_two-run_single_Trey_Cabbage_s_two-r.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

@@ -1,0 +1,7 @@
+video_title: Gavin Lux's RBI groundout Gavin Lux's RBI groundout Gavin Lux's RBI groundout Gavin Lux makes the score 2-0 with an RBI groundout in the bottom of the 4th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/18/f07be1cc-4ca202af-d0ee9da9-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746142_gavin-lux-rbi-groundout
+clip_id: MLB_746142_gavin-lux-rbi-groundout_auto1_4p620_10p620
+source_path: raw_sources\MLB_746142_gavin-lux-rbi-groundout_Gavin_Lux_s_RBI_groundout_Gavin_Lux_s_RBI_groundout_Gavin_Lux_s_RBI_groundout_Ga.mp4
+clip_start_time: 4.620
+clip_end_time: 10.620

@@ -1,0 +1,7 @@
+video_title: Starling Marte's RBI groundout Starling Marte's RBI groundout Starling Marte's RBI groundout
+video_url: https://bdata-producedclips.mlb.com/8b8ff6cd-cf30-4d88-87f4-993424030a6e.mp4
+source_id: MLB_745182_kyle-gibson-in-play-out-s-to-starling-marte-gffsjm
+clip_id: MLB_745182_kyle-gibson-in-play-out-s-to-starling-marte-gffsjm_auto1_1p600_7p600
+source_path: raw_sources\MLB_745182_kyle-gibson-in-play-out-s-to-starling-marte-gffsjm_Starling_Marte_s_RBI_groundout_Starling_Marte_s_RBI_groundout_Starling_Marte_s_R.mp4
+clip_start_time: 1.600
+clip_end_time: 7.600

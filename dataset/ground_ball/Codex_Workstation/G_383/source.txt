@@ -1,0 +1,7 @@
+video_title: Rob Refsnyder's RBI groundout Rob Refsnyder's RBI groundout Rob Refsnyder's RBI groundout
+video_url: https://bdata-producedclips.mlb.com/f4d3468c-1918-4a35-86eb-3093a4c0e46f.mp4
+source_id: MLB_746966_daulton-jefferies-in-play-run-s-to-rob-refsnyder
+clip_id: MLB_746966_daulton-jefferies-in-play-run-s-to-rob-refsnyder_auto1_5p120_11p120
+source_path: raw_sources\MLB_746966_daulton-jefferies-in-play-run-s-to-rob-refsnyder_Rob_Refsnyder_s_RBI_groundout_Rob_Refsnyder_s_RBI_groundout_Rob_Refsnyder_s_RBI_.mp4
+clip_start_time: 5.120
+clip_end_time: 11.120

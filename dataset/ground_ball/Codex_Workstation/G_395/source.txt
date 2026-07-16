@@ -1,0 +1,7 @@
+video_title: Anthony Rizzo plates run with groundout Anthony Rizzo plates run with groundout Anthony Rizzo plates run with groundout
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/16/d6a28d8d-58524f78-7ff98d34-csvm-diamondx64-asset-4000K.mp4
+source_id: MLB_745907_joe-ryan-in-play-run-s-to-anthony-rizzo
+clip_id: MLB_745907_joe-ryan-in-play-run-s-to-anthony-rizzo_auto1_5p860_11p860
+source_path: raw_sources\MLB_745907_joe-ryan-in-play-run-s-to-anthony-rizzo_Anthony_Rizzo_plates_run_with_groundout_Anthony_Rizzo_plates_run_with_groundout_.mp4
+clip_start_time: 5.860
+clip_end_time: 11.860

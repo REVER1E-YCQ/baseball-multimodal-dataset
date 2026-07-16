@@ -1,0 +1,7 @@
+video_title: Fernando Tatis Jr. hits an RBI single Fernando Tatis Jr. hits an RBI single Fernando Tatis Jr. hits an RBI single Fernando Tatis Jr. singles on a ground ball to left field, driving in Tyler Wade to put the Padres ahead 5-0 in the top of the 5th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/03/5a0eb8ce-85e01e7e-82a48f95-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_747208_fernando-tatis-jr-singles-on-a-ground-ball-to-left-fielder-lourdes-gu
+clip_id: MLB_747208_fernando-tatis-jr-singles-on-a-ground-ball-to-left-fielder-lourdes-gu_auto1_1p200_7p200
+source_path: raw_sources\MLB_747208_fernando-tatis-jr-singles-on-a-ground-ball-to-left-fielder-lourdes-gu_Fernando_Tatis_Jr._hits_an_RBI_single_Fernando_Tatis_Jr._hits_an_RBI_single_Fern.mp4
+clip_start_time: 1.200
+clip_end_time: 7.200
