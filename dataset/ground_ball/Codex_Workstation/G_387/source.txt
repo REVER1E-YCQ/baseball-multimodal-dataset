@@ -1,0 +1,7 @@
+video_title: Austin Riley's great defensive play Austin Riley's great defensive play Austin Riley's defensive stop Austin Riley makes a great play on a grounder by Vaughn Grissom and throws a rope to first base for the out, saving a run to keep the game scoreless
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/07/8f72b089-457fa154-7b604d95-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_747126_vaughn-grissom-grounds-out-third-baseman-austin-riley-to-first-basema
+clip_id: MLB_747126_vaughn-grissom-grounds-out-third-baseman-austin-riley-to-first-basema_auto1_0p000_6p000
+source_path: raw_sources\MLB_747126_vaughn-grissom-grounds-out-third-baseman-austin-riley-to-first-basema_Austin_Riley_s_great_defensive_play_Austin_Riley_s_great_defensive_play_Austin_R.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

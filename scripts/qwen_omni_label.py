@@ -9,7 +9,9 @@ import re
 import time
 import urllib.error
 import urllib.request
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
+from threading import Lock
 from typing import Any
 
 from common import append_jsonl, get_env_first, load_jsonl, read_csv, repo_path, write_csv
@@ -255,6 +257,7 @@ def main() -> int:
     parser.add_argument("--prompt", type=Path, default=repo_path("prompts", "baseball_hit_labeling_prompt.md"))
     parser.add_argument("--output", type=Path, default=repo_path("reports", "qwen_labels.jsonl"))
     parser.add_argument("--limit", type=int, default=0)
+    parser.add_argument("--workers", type=int, default=1, help="Concurrent Qwen calls; manifest writes stay serialized.")
     parser.add_argument(
         "--statuses",
         default="pending",
@@ -303,16 +306,17 @@ def main() -> int:
     if not models:
         raise SystemExit("No Qwen models are below QWEN_MODEL_TOKEN_CAP; set QWEN_MODEL_TOKEN_CAP=0 to override.")
 
-    row_by_clip = {row["clip_id"]: row for row in rows}
-    for row in pending:
-        models = [
-            model
-            for model in filter_models_by_usage(all_models, usage_totals, cap, reserve, announced_skips)
-            if model not in quota_blocked
-        ]
-        if not models:
-            print("No Qwen models are below QWEN_MODEL_TOKEN_CAP; stopping before the next clip.")
-            break
+    state_lock = Lock()
+
+    def label_one(row: dict[str, str]) -> tuple[dict[str, str], dict[str, Any] | None]:
+        with state_lock:
+            available_models = [
+                model
+                for model in filter_models_by_usage(all_models, usage_totals, cap, reserve, announced_skips)
+                if model not in quota_blocked
+            ]
+        if not available_models:
+            return row, None
         clip_path = Path(row["clip_path"])
         if not clip_path.is_absolute():
             clip_path = repo_path(str(clip_path))
@@ -322,26 +326,28 @@ def main() -> int:
         usage = None
         started = time.time()
 
-        for model in models:
+        for model in available_models:
+            with state_lock:
+                if model in quota_blocked:
+                    continue
             try:
                 text, usage = call_qwen(model, clip_path, prompt, base_url, api_key)
                 result = normalize_label(extract_json(text))
                 used_model = model
                 break
             except AuthError as exc:
-                last_error = str(exc)
-                print(last_error)
-                return 2
+                raise AuthError(str(exc)) from exc
             except ModelQuotaError as exc:
                 last_error = str(exc)
-                quota_blocked.add(model)
+                with state_lock:
+                    quota_blocked.add(model)
                 print(last_error)
                 continue
             except Exception as exc:
                 last_error = f"{type(exc).__name__}: {exc}"
                 continue
 
-        record: dict[str, Any] = {
+        return row, {
             "clip_id": row["clip_id"],
             "source_id": row.get("source_id", ""),
             "clip_path": row.get("clip_path", ""),
@@ -351,14 +357,24 @@ def main() -> int:
             "label": result,
             "error": last_error if result is None else "",
         }
+
+    row_by_clip = {row["clip_id"]: row for row in rows}
+
+    def apply_result(row: dict[str, str], record: dict[str, Any] | None) -> None:
+        if record is None:
+            return
         append_jsonl(args.output, record)
+        used_model = str(record.get("model") or "")
+        usage = record.get("usage")
+        result = record.get("label")
         if used_model and usage:
-            usage_totals[used_model] = usage_totals.get(used_model, 0) + usage_total_tokens(usage)
+            with state_lock:
+                usage_totals[used_model] = usage_totals.get(used_model, 0) + usage_total_tokens(usage)
 
         mutable = row_by_clip[row["clip_id"]]
         if result is None:
             mutable["status"] = "label_failed"
-            mutable["notes"] = last_error[-300:]
+            mutable["notes"] = str(record.get("error") or "")[-300:]
         elif result["label"] in {"ground_ball", "fly_ball"} and result["confidence"] >= 0.70:
             mutable["status"] = "labeled"
             mutable["notes"] = f"{used_model}; confidence={result['confidence']:.2f}"
@@ -368,6 +384,30 @@ def main() -> int:
 
         write_csv(args.clips_manifest, rows, CLIP_FIELDS)
         print(f"{row['clip_id']}: {mutable['status']}")
+
+    try:
+        if args.workers <= 1:
+            for row in pending:
+                labeled_row, record = label_one(row)
+                if record is None:
+                    print("No Qwen models are below QWEN_MODEL_TOKEN_CAP; stopping before the next clip.")
+                    break
+                apply_result(labeled_row, record)
+        else:
+            with ThreadPoolExecutor(max_workers=args.workers) as executor:
+                futures = [executor.submit(label_one, row) for row in pending]
+                no_models_announced = False
+                for future in as_completed(futures):
+                    labeled_row, record = future.result()
+                    if record is None:
+                        if not no_models_announced:
+                            print("No Qwen models are below QWEN_MODEL_TOKEN_CAP; remaining clips stay pending.")
+                            no_models_announced = True
+                        continue
+                    apply_result(labeled_row, record)
+    except AuthError as exc:
+        print(str(exc))
+        return 2
 
     return 0
 

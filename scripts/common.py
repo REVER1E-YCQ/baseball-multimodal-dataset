@@ -31,15 +31,20 @@ def write_csv(path: Path, rows: list[dict[str, Any]], fieldnames: list[str]) -> 
     path.parent.mkdir(parents=True, exist_ok=True)
     last_error: OSError | None = None
     for attempt in range(5):
+        temp_path = path.with_name(f".{path.name}.{os.getpid()}.tmp")
         try:
-            with path.open("w", newline="", encoding="utf-8") as fh:
+            with temp_path.open("w", newline="", encoding="utf-8") as fh:
                 writer = csv.DictWriter(fh, fieldnames=fieldnames)
                 writer.writeheader()
                 for row in rows:
                     writer.writerow({name: row.get(name, "") for name in fieldnames})
+                fh.flush()
+                os.fsync(fh.fileno())
+            os.replace(temp_path, path)
             return
         except OSError as exc:
             last_error = exc
+            temp_path.unlink(missing_ok=True)
             if attempt == 4:
                 break
             time.sleep(0.25 * (attempt + 1))

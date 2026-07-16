@@ -1,0 +1,7 @@
+video_title: Lars Nootbaar's RBI groundout Lars Nootbaar's RBI groundout Lars Nootbaar's RBI groundout Lars Nootbaar hits an RBI groundout, giving the Cardinals a 2-1 lead in the bottom of the 7th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/18/bffafe90-5dc9a4bb-500fcd9a-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745177_brennan-bernardino-in-play-run-s-to-lars-nootbaar
+clip_id: MLB_745177_brennan-bernardino-in-play-run-s-to-lars-nootbaar_auto1_4p220_10p220
+source_path: raw_sources\MLB_745177_brennan-bernardino-in-play-run-s-to-lars-nootbaar_Lars_Nootbaar_s_RBI_groundout_Lars_Nootbaar_s_RBI_groundout_Lars_Nootbaar_s_RBI_.mp4
+clip_start_time: 4.220
+clip_end_time: 10.220

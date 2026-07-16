@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import argparse
 import datetime as dt
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
 from collect_mlb_sources import FIELDS, collect_for_game, schedule_game_pks
@@ -26,6 +27,7 @@ def main() -> int:
     parser.add_argument("--keywords", default="ground ball,grounder,grounds,groundout,fly ball,flies,line drive,liner,pop fly,pops")
     parser.add_argument("--target-new", type=int, default=0, help="Stop after this many new rows; 0 means no cap.")
     parser.add_argument("--per-day-limit", type=int, default=0, help="Stop each day after this many new rows; 0 means no cap.")
+    parser.add_argument("--workers", type=int, default=1, help="Concurrent MLB game-content requests per day.")
     args = parser.parse_args()
 
     keywords = [item.strip() for item in args.keywords.split(",") if item.strip()]
@@ -37,9 +39,17 @@ def main() -> int:
     for day in date_range(args.start_date, args.end_date):
         day_new = 0
         print(f"DATE {day}")
-        for game in schedule_game_pks(day, day):
+        games = schedule_game_pks(day, day)
+        if args.workers <= 1:
+            game_results = ((game, collect_for_game(game, keywords)) for game in games)
+        else:
+            with ThreadPoolExecutor(max_workers=args.workers) as executor:
+                rows_by_game = executor.map(lambda game: collect_for_game(game, keywords), games)
+                game_results = zip(games, rows_by_game)
+                game_results = list(game_results)
+        for game, game_rows in game_results:
             game_new = 0
-            for row in collect_for_game(game, keywords):
+            for row in game_rows:
                 if row["source_id"] in seen_ids or row.get("source_url") in seen_urls:
                     continue
                 existing.append(row)

@@ -1,0 +1,7 @@
+video_title: Jonny DeLuca's two-run single Jonny DeLuca's two-run single Jonny DeLuca's two-run single Jonny DeLuca singles on a ground ball to right field and two runs score, giving the Rays a 2-0 lead in the 2nd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/06/9c6714a1-1ef84f71-9c9a42e0-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745098_mike-clevinger-in-play-run-s-to-jonny-deluca
+clip_id: MLB_745098_mike-clevinger-in-play-run-s-to-jonny-deluca_auto1_0p000_6p000
+source_path: raw_sources\MLB_745098_mike-clevinger-in-play-run-s-to-jonny-deluca_Jonny_DeLuca_s_two-run_single_Jonny_DeLuca_s_two-run_single_Jonny_DeLuca_s_two-r.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

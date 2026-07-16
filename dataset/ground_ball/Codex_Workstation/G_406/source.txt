@@ -1,0 +1,7 @@
+video_title: Orlando Arcia's sliding stop Orlando Arcia's sliding stop Orlando Arcia's sliding stop Orlando Arcia makes a nice sliding stop on a grounder deflected by Jesse Chavez and throws to first in time for the out in the 7th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/15/5329827c-e5434e1e-f9213bcc-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_747123_michael-busch-grounds-out-pitcher-jesse-chavez-to-shortstop-orlando-a
+clip_id: MLB_747123_michael-busch-grounds-out-pitcher-jesse-chavez-to-shortstop-orlando-a_auto1_13p780_19p780
+source_path: raw_sources\MLB_747123_michael-busch-grounds-out-pitcher-jesse-chavez-to-shortstop-orlando-a_Orlando_Arcia_s_sliding_stop_Orlando_Arcia_s_sliding_stop_Orlando_Arcia_s_slidin.mp4
+clip_start_time: 13.780
+clip_end_time: 19.780

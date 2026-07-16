@@ -1,0 +1,7 @@
+video_title: Ha-Seong Kim's RBI groundout Ha-Seong Kim's RBI groundout Ha-Seong Kim drives in a run with an RBI groundout
+video_url: https://bdata-producedclips.mlb.com/aefb767a-8ab3-4938-810f-989c2654abe8.mp4
+source_id: MLB_747209_scott-mcgough-in-play-out-s-to-ha-seong-kim
+clip_id: MLB_747209_scott-mcgough-in-play-out-s-to-ha-seong-kim_auto1_2p500_8p500
+source_path: raw_sources\MLB_747209_scott-mcgough-in-play-out-s-to-ha-seong-kim_Ha-Seong_Kim_s_RBI_groundout_Ha-Seong_Kim_s_RBI_groundout_Ha-Seong_Kim_drives_in.mp4
+clip_start_time: 2.500
+clip_end_time: 8.500

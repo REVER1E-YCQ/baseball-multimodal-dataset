@@ -1,0 +1,7 @@
+video_title: Rob Refsnyder's game-tying groundout Rob Refsnyder's game-tying groundout Rob Refsnyder's game-tying groundout Rob Refsnyder grounds out, allowing David Hamilton to score and tying the game at 4 in the bottom of the 11th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/14/c591a204-19d90201-041ab314-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746962_rob-refsnyder-grounds-out-pitcher-manuel-rodriguez-to-first-baseman-y
+clip_id: MLB_746962_rob-refsnyder-grounds-out-pitcher-manuel-rodriguez-to-first-baseman-y_auto1_0p000_6p000
+source_path: raw_sources\MLB_746962_rob-refsnyder-grounds-out-pitcher-manuel-rodriguez-to-first-baseman-y_Rob_Refsnyder_s_game-tying_groundout_Rob_Refsnyder_s_game-tying_groundout_Rob_Re.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

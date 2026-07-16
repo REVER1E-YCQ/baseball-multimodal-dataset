@@ -1,0 +1,7 @@
+video_title: Jackson Merrill's RBI groundout Jackson Merrill's RBI groundout Jackson Merrill's RBI groundout
+video_url: https://bdata-producedclips.mlb.com/4c217dde-6281-4046-b91d-8971017335a2.mp4
+source_id: MLB_747119_reynaldo-lopez-in-play-run-s-to-jackson-merrill-x8509
+clip_id: MLB_747119_reynaldo-lopez-in-play-run-s-to-jackson-merrill-x8509_auto1_5p629_11p629
+source_path: raw_sources\MLB_747119_reynaldo-lopez-in-play-run-s-to-jackson-merrill-x8509_Jackson_Merrill_s_RBI_groundout_Jackson_Merrill_s_RBI_groundout_Jackson_Merrill_.mp4
+clip_start_time: 5.629
+clip_end_time: 11.629

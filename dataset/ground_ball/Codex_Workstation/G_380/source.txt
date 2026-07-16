@@ -1,0 +1,7 @@
+video_title: Christian Vázquez's RBI groundout  Christian Vázquez's RBI groundout  Christian Vázquez's RBI groundout 
+video_url: https://bdata-producedclips.mlb.com/b69c945e-d792-452a-8725-883e07954c45.mp4
+source_id: MLB_746800_chris-flexen-in-play-run-s-to-christian-vazquez
+clip_id: MLB_746800_chris-flexen-in-play-run-s-to-christian-vazquez_auto1_1p580_7p580
+source_path: raw_sources\MLB_746800_chris-flexen-in-play-run-s-to-christian-vazquez_Christian_V_zquez_s_RBI_groundout_Christian_V_zquez_s_RBI_groundout_Christian_V_.mp4
+clip_start_time: 1.580
+clip_end_time: 7.580

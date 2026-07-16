@@ -1,0 +1,7 @@
+video_title: Cedric Mullins' RBI groundout Cedric Mullins' RBI groundout Cedric Mullins' RBI groundout Cedric Mullins grounds out to second base and plates Anthony Santander to extend the Orioles' lead to 2-0 in the 2nd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/10/8d1cc1c1-065a9031-d8ea1002-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_747043_cedric-mullins-rbi-groundout
+clip_id: MLB_747043_cedric-mullins-rbi-groundout_auto1_0p680_6p680
+source_path: raw_sources\MLB_747043_cedric-mullins-rbi-groundout_Cedric_Mullins_RBI_groundout_Cedric_Mullins_RBI_groundout_Cedric_Mullins_RBI_gro.mp4
+clip_start_time: 0.680
+clip_end_time: 6.680

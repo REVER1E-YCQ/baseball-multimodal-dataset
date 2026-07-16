@@ -1,0 +1,7 @@
+video_title: David Hamilton's diving stop and throw David Hamilton's diving stop and throw David Hamilton's diving stop and throw David Hamilton dives to his left to field a ground ball, then gets up and throws to first to rob Josh Lowe of a base hit
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/14/11f99bbe-d2cab471-b95918fe-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746960_david-hamilton-s-diving-stop-and-throw
+clip_id: MLB_746960_david-hamilton-s-diving-stop-and-throw_auto1_0p000_6p000
+source_path: raw_sources\MLB_746960_david-hamilton-s-diving-stop-and-throw_David_Hamilton_s_diving_stop_and_throw_David_Hamilton_s_diving_stop_and_throw_Da.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

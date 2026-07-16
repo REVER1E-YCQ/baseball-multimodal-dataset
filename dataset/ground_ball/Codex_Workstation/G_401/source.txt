@@ -1,0 +1,7 @@
+video_title: Erasmo Ramírez earns the save Erasmo Ramírez earns the save Erasmo Ramírez fields a grounder for the final out Erasmo Ramírez fields a soft grounder and then tosses to first for the final out of the game as the Rays win 7-5 over the Red Sox
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/16/f89d57c7-5c163ad2-4fc65f46-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746959_erasmo-ramirez-in-play-out-s-to-romy-gonzalez
+clip_id: MLB_746959_erasmo-ramirez-in-play-out-s-to-romy-gonzalez_auto1_0p000_6p000
+source_path: raw_sources\MLB_746959_erasmo-ramirez-in-play-out-s-to-romy-gonzalez_Erasmo_Ram_rez_earns_the_save_Erasmo_Ram_rez_earns_the_save_Erasmo_Ram_rez_field.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

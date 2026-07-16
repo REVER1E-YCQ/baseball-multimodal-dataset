@@ -41,9 +41,9 @@ def run_ffmpeg(source: Path, start: float, end: float, clip_path: Path, audio_pa
             "-c:v",
             "libx264",
             "-preset",
-            "veryfast",
+            "ultrafast",
             "-crf",
-            "23",
+            "28",
             "-c:a",
             "aac",
             "-movflags",
@@ -51,6 +51,7 @@ def run_ffmpeg(source: Path, start: float, end: float, clip_path: Path, audio_pa
             str(clip_path),
         ],
         check=True,
+        timeout=180,
     )
     subprocess.run(
         [
@@ -71,6 +72,7 @@ def run_ffmpeg(source: Path, start: float, end: float, clip_path: Path, audio_pa
             str(audio_path),
         ],
         check=True,
+        timeout=180,
     )
 
 

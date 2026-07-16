@@ -1,0 +1,7 @@
+video_title: Max Kepler extends hitting streak to 13 games Max Kepler extends hitting streak to 13 games Max Kepler extends hitting streak to 13 games Max Kepler singles on a slow grounder to extend his hitting streak to 13 games
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/11/87ebccc8-33286797-318c62c7-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_744943_kevin-gausman-in-play-no-out-to-max-kepler
+clip_id: MLB_744943_kevin-gausman-in-play-no-out-to-max-kepler_auto1_2p720_8p720
+source_path: raw_sources\MLB_744943_kevin-gausman-in-play-no-out-to-max-kepler_Max_Kepler_extends_hitting_streak_to_13_games_Max_Kepler_extends_hitting_streak_.mp4
+clip_start_time: 2.720
+clip_end_time: 8.720

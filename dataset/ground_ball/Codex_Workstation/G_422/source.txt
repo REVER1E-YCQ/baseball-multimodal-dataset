@@ -1,0 +1,7 @@
+video_title: Nasim Nuñez goes first to third on a groundout Nasim Nuñez goes first to third on a groundout Nasim Nuñez goes first to third on a groundout Nasim Nuñez flashes his speed and aggressiveness, going from first base to third base on a groundout
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/14/0e9d9983-9d3670d1-12ffc522-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746796_nasim-nunez-goes-first-to-third-on-a-groundout
+clip_id: MLB_746796_nasim-nunez-goes-first-to-third-on-a-groundout_auto1_4p920_10p920
+source_path: raw_sources\MLB_746796_nasim-nunez-goes-first-to-third-on-a-groundout_Nasim_Nu_ez_goes_first_to_third_on_a_groundout_Nasim_Nu_ez_goes_first_to_third_o.mp4
+clip_start_time: 4.920
+clip_end_time: 10.920

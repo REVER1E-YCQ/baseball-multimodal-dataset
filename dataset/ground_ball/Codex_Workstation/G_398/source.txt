@@ -1,0 +1,7 @@
+video_title: Joey Ortiz's spinning throw  Joey Ortiz's spinning throw  Joey Ortiz's spinning throw  Joey Ortiz spins and makes a accurate throw to throw out Michael A. Taylor on a ground ball, in the top of the 5th inning against the Pirates
+video_url: https://bdata-producedclips.mlb.com/08ab3538-59c1-4a9f-9524-7529bba6bf64.mp4
+source_id: MLB_745989_michael-a-taylor-grounds-out-third-baseman-joey-ortiz-to-first-basema
+clip_id: MLB_745989_michael-a-taylor-grounds-out-third-baseman-joey-ortiz-to-first-basema_auto1_1p480_7p480
+source_path: raw_sources\MLB_745989_michael-a-taylor-grounds-out-third-baseman-joey-ortiz-to-first-basema_Joey_Ortiz_s_spinning_throw_Joey_Ortiz_s_spinning_throw_Joey_Ortiz_s_spinning_th.mp4
+clip_start_time: 1.480
+clip_end_time: 7.480

@@ -1,0 +1,7 @@
+video_title: Jarren Duran's RBI groundout Jarren Duran's RBI groundout Jarren Duran's RBI groundout
+video_url: https://bdata-producedclips.mlb.com/fba6b253-f61f-4c82-b2cb-6fe7ce61d56e.mp4
+source_id: MLB_745178_jojo-romero-in-play-run-s-to-jarren-duran
+clip_id: MLB_745178_jojo-romero-in-play-run-s-to-jarren-duran_auto1_9p614_15p614
+source_path: raw_sources\MLB_745178_jojo-romero-in-play-run-s-to-jarren-duran_Jarren_Duran_s_RBI_groundout_Jarren_Duran_s_RBI_groundout_Jarren_Duran_s_RBI_gro.mp4
+clip_start_time: 9.614
+clip_end_time: 15.614

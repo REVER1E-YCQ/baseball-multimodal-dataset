@@ -1,0 +1,7 @@
+video_title: Johan Rojas drives in a run with an RBI groundout Johan Rojas drives in a run with an RBI groundout Johan Rojas drives in a run with an RBI groundout
+video_url: https://bdata-producedclips.mlb.com/970bc04b-6987-4cf8-9ec2-744329f98618.mp4
+source_id: MLB_745826_jorge-lopez-in-play-run-s-to-johan-rojas
+clip_id: MLB_745826_jorge-lopez-in-play-run-s-to-johan-rojas_auto1_1p400_7p400
+source_path: raw_sources\MLB_745826_jorge-lopez-in-play-run-s-to-johan-rojas_Johan_Rojas_drives_in_a_run_with_an_RBI_groundout_Johan_Rojas_drives_in_a_run_wi.mp4
+clip_start_time: 1.400
+clip_end_time: 7.400

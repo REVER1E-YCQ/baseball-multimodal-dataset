@@ -7,6 +7,7 @@ import subprocess
 import urllib.parse
 import urllib.error
 import urllib.request
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
 from common import read_csv, repo_path, safe_slug, sha256_file, write_csv
@@ -146,6 +147,7 @@ def main() -> int:
     parser.add_argument("--manifest", type=Path, default=repo_path("manifests", "sources_manifest.csv"))
     parser.add_argument("--output-dir", type=Path, default=repo_path("raw_sources"))
     parser.add_argument("--limit", type=int, default=0)
+    parser.add_argument("--workers", type=int, default=1, help="Concurrent downloads; manifest writes remain serialized.")
     parser.add_argument(
         "--source-ids",
         default="",
@@ -165,7 +167,7 @@ def main() -> int:
         print(f"Dry run checked {len(rows)} rows; manifest not modified")
         return 0
 
-    processed = 0
+    queued: list[dict[str, str]] = []
     for row in rows:
         if selected_ids and row.get("source_id") not in selected_ids:
             continue
@@ -176,11 +178,35 @@ def main() -> int:
             row["notes"] = "Known unstable or oversized source; skipped during batch download."
             write_csv(args.manifest, rows, FIELDS)
             continue
-        download_one(row, args.output_dir, args.dry_run)
-        processed += 1
-        write_csv(args.manifest, rows, FIELDS)
-        if args.limit and processed >= args.limit:
+        queued.append(row)
+        if args.limit and len(queued) >= args.limit:
             break
+
+    processed = 0
+    if args.workers <= 1:
+        for row in queued:
+            download_one(row, args.output_dir, args.dry_run)
+            processed += 1
+            write_csv(args.manifest, rows, FIELDS)
+    else:
+        row_by_source = {row["source_id"]: row for row in queued}
+        with ThreadPoolExecutor(max_workers=args.workers) as executor:
+            futures = {
+                executor.submit(download_one, dict(row), args.output_dir, args.dry_run): row["source_id"]
+                for row in queued
+            }
+            for future in as_completed(futures):
+                source_id = futures[future]
+                try:
+                    updated = future.result()
+                except Exception as exc:
+                    updated = dict(row_by_source[source_id])
+                    updated["status"] = "download_failed"
+                    updated["notes"] = f"{type(exc).__name__}: {str(exc)[:450]}"
+                row_by_source[source_id].update(updated)
+                processed += 1
+                write_csv(args.manifest, rows, FIELDS)
+                print(f"{source_id}: {updated.get('status', '')} ({processed}/{len(queued)})")
 
     print(f"Updated {args.manifest} ({len(rows)} rows; processed={processed})")
     return 0

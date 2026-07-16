@@ -1,0 +1,7 @@
+video_title: Jarren Duran scores on a groundout Jarren Duran scores on a groundout Jarren Duran slides to score on a groundout
+video_url: https://bdata-producedclips.mlb.com/e803ee47-562b-4632-9f0f-fa3bae904592.mp4
+source_id: MLB_746959_zack-littell-in-play-run-s-to-dominic-smith
+clip_id: MLB_746959_zack-littell-in-play-run-s-to-dominic-smith_auto1_9p040_15p040
+source_path: raw_sources\MLB_746959_zack-littell-in-play-run-s-to-dominic-smith_Jarren_Duran_scores_on_a_groundout_Jarren_Duran_scores_on_a_groundout_Jarren_Dur.mp4
+clip_start_time: 9.040
+clip_end_time: 15.040

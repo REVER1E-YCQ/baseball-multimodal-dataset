@@ -4,6 +4,7 @@ import argparse
 import subprocess
 import tempfile
 import wave
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
 from common import ffprobe_duration, read_csv, repo_path, safe_slug, tool_path, write_csv
@@ -122,6 +123,7 @@ def main() -> int:
     parser.add_argument("--sources-manifest", type=Path, default=repo_path("manifests", "sources_manifest.csv"))
     parser.add_argument("--clips-manifest", type=Path, default=repo_path("manifests", "clips_manifest.csv"))
     parser.add_argument("--limit", type=int, default=0)
+    parser.add_argument("--workers", type=int, default=1, help="Concurrent source analysis and clip extraction.")
     parser.add_argument("--candidates-per-source", type=int, default=1)
     parser.add_argument("--pre-roll", type=float, default=2.0)
     parser.add_argument("--ground-duration", type=float, default=6.0)
@@ -150,12 +152,13 @@ def main() -> int:
         sources = sources[: args.limit]
 
     created = 0
-    for row in sources:
+
+    def process_source(row: dict[str, str]) -> list[dict[str, str]]:
         source = repo_path(row["local_path"])
         duration = ffprobe_duration(source)
         if duration is None:
             print(f"SKIP {row['source_id']}: cannot read duration")
-            continue
+            return []
         try:
             with tempfile.TemporaryDirectory() as temp:
                 wav = extract_temp_wav(source, Path(temp))
@@ -164,10 +167,11 @@ def main() -> int:
                 peaks = choose_peaks(windows, args.candidates_per_source, args.min_peak_gap)
         except Exception as exc:
             print(f"SKIP {row['source_id']}: audio peak detection failed: {exc}")
-            continue
+            return []
 
         label = row["expected_label"]
         clip_duration = args.fly_duration if label == "fly_ball" else args.ground_duration
+        records: list[dict[str, str]] = []
         for index, peak in enumerate(peaks, start=1):
             start, end = clamp_window(peak, duration, clip_duration, args.pre_roll)
             clip_id = f"{safe_slug(row['source_id'])}_auto{index}_{start:.3f}_{end:.3f}".replace(".", "p")
@@ -177,8 +181,12 @@ def main() -> int:
             clip_path = clip_dir / "video.mp4"
             audio_path = clip_dir / "audio.wav"
             if not args.dry_run:
-                run_ffmpeg(source, start, end, clip_path, audio_path)
-            clip_rows.append(
+                try:
+                    run_ffmpeg(source, start, end, clip_path, audio_path)
+                except Exception as exc:
+                    print(f"SKIP {row['source_id']}: clip extraction failed: {exc}")
+                    continue
+            records.append(
                 {
                     "clip_id": clip_id,
                     "source_id": row["source_id"],
@@ -192,12 +200,29 @@ def main() -> int:
                     "notes": f"auto_peak={peak:.3f}",
                 }
             )
-            existing_ids.add(clip_id)
-            created += 1
             print(f"{'Would create' if args.dry_run else 'Created'} {clip_id}")
+        return records
 
-    if not args.dry_run:
-        write_csv(args.clips_manifest, clip_rows, CLIP_FIELDS)
+    def commit_records(records: list[dict[str, str]]) -> None:
+        nonlocal created
+        if not records:
+            return
+        clip_rows.extend(records)
+        for record in records:
+            existing_ids.add(record["clip_id"])
+        created += len(records)
+        if not args.dry_run:
+            write_csv(args.clips_manifest, clip_rows, CLIP_FIELDS)
+
+    if args.workers <= 1:
+        for row in sources:
+            commit_records(process_source(row))
+    else:
+        with ThreadPoolExecutor(max_workers=args.workers) as executor:
+            futures = [executor.submit(process_source, row) for row in sources]
+            for future in as_completed(futures):
+                commit_records(future.result())
+
     print(f"Auto-extracted {created} candidate clips")
     return 0
 

@@ -1,0 +1,7 @@
+video_title: Josh Lowe singles in his first at-bat of 2024 Josh Lowe singles in his first at-bat of 2024 Josh Lowe singles in his first at-bat of 2024 Josh Lowe singles on a line drive to right field in his first at-bat of the 2024 season
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/06/f93232c3-08b349f3-52faf3b8-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745098_mike-clevinger-in-play-no-out-to-josh-lowe
+clip_id: MLB_745098_mike-clevinger-in-play-no-out-to-josh-lowe_auto1_0p000_7p000
+source_path: raw_sources\MLB_745098_mike-clevinger-in-play-no-out-to-josh-lowe_Josh_Lowe_singles_in_his_first_at-bat_of_2024_Josh_Lowe_singles_in_his_first_at-.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

@@ -1,0 +1,7 @@
+video_title: Yoshinobu Yamamoto fields a comebacker Yoshinobu Yamamoto fields a comebacker Yoshinobu Yamamota fields a grounder for the out
+video_url: https://bdata-producedclips.mlb.com/ec5b8f48-65a0-430e-acf5-b0aae2d311ac.mp4
+source_id: MLB_747207_jake-mccarthy-grounds-out-softly-pitcher-yoshinobu-yamamoto-to-first-
+clip_id: MLB_747207_jake-mccarthy-grounds-out-softly-pitcher-yoshinobu-yamamoto-to-first-_auto1_2p360_8p360
+source_path: raw_sources\MLB_747207_jake-mccarthy-grounds-out-softly-pitcher-yoshinobu-yamamoto-to-first-_Yoshinobu_Yamamoto_fields_a_comebacker_Yoshinobu_Yamamoto_fields_a_comebacker_Yo.mp4
+clip_start_time: 2.360
+clip_end_time: 8.360

@@ -1,0 +1,7 @@
+video_title: Joey Estes completes an out after being hit Joey Estes completes an out after being hit Joey Estes completes an out after being hit Joey Estes fields a ground ball and fires to first base to complete the out after being hit with a line drive during the 1st inning
+video_url: https://bdata-producedclips.mlb.com/0b45f5db-024b-4a7e-9633-b2e1bcaf662d.mp4
+source_id: MLB_745262_joey-estes-in-play-out-s-to-julio-rodriguez-x9nnnp
+clip_id: MLB_745262_joey-estes-in-play-out-s-to-julio-rodriguez-x9nnnp_auto1_2p680_8p680
+source_path: raw_sources\MLB_745262_joey-estes-in-play-out-s-to-julio-rodriguez-x9nnnp_Joey_Estes_completes_an_out_after_being_hit_Joey_Estes_completes_an_out_after_be.mp4
+clip_start_time: 2.680
+clip_end_time: 8.680

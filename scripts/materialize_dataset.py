@@ -22,7 +22,12 @@ def next_sample_id(label: str, collector_dir: Path) -> str:
     return f"{prefix}_{max_seen + 1:03d}"
 
 
-def write_sample_csv(path: Path, sample_id: str, label_payload: dict[str, Any]) -> None:
+def write_sample_csv(
+    path: Path,
+    sample_id: str,
+    label_payload: dict[str, Any],
+    defer_position: bool = False,
+) -> None:
     label = label_payload["label"]
     if label == "ground_ball":
         fields = ["sample_id", "label", "region", "strength", "bounce", "event_start", "event_end"]
@@ -30,7 +35,7 @@ def write_sample_csv(path: Path, sample_id: str, label_payload: dict[str, Any]) 
         row = {
             "sample_id": sample_id,
             "label": label,
-            "region": gb.get("region", ""),
+            "region": "pending" if defer_position else gb.get("region", ""),
             "strength": gb.get("strength", ""),
             "bounce": gb.get("bounce", ""),
             "event_start": f"{float(label_payload['event_start']):.3f}",
@@ -42,7 +47,7 @@ def write_sample_csv(path: Path, sample_id: str, label_payload: dict[str, Any]) 
         row = {
             "sample_id": sample_id,
             "label": label,
-            "landing_zone": fb.get("landing_zone", ""),
+            "landing_zone": "pending" if defer_position else fb.get("landing_zone", ""),
             "strength": fb.get("strength", ""),
             "trajectory_type": fb.get("trajectory_type", ""),
             "event_start": f"{float(label_payload['event_start']):.3f}",
@@ -140,6 +145,11 @@ def main() -> int:
     parser.add_argument("--visual-audit", type=Path, default=repo_path("reports", "qwen_candidate_review_summary.csv"))
     parser.add_argument("--require-visual-audit-pass", action="store_true")
     parser.add_argument("--accepted-clip-statuses", default="labeled")
+    parser.add_argument(
+        "--defer-position",
+        action="store_true",
+        help="Write region/landing_zone as pending for later position-only backfill.",
+    )
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args()
 
@@ -197,7 +207,7 @@ def main() -> int:
         shutil.copy2(clip_path, out_dir / "video.mp4")
         shutil.copy2(audio_path, out_dir / "audio.wav")
         (out_dir / "label.txt").write_text(label + "\n", encoding="utf-8")
-        write_sample_csv(out_dir / "sample.csv", sample_id, label_payload)
+        write_sample_csv(out_dir / "sample.csv", sample_id, label_payload, args.defer_position)
         (out_dir / "source.txt").write_text(source_text(clip_row, source_rows), encoding="utf-8")
         created += 1
         already_materialized_clips.add(record.get("clip_id", ""))
