@@ -1,0 +1,7 @@
+video_title: Andrew McCutchen's RBI groundout  Andrew McCutchen's RBI groundout  Andrew McCutchen's RBI groundout 
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/08/d03303a3-b736e130-81065e0e-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_778408_jojo-romero-in-play-run-s-to-andrew-mccutchen-whyd1n
+clip_id: MLB_778408_jojo-romero-in-play-run-s-to-andrew-mccutchen-whyd1n_auto1_4p240_10p240
+source_path: raw_sources\MLB_778408_jojo-romero-in-play-run-s-to-andrew-mccutchen-whyd1n_Andrew_McCutchen_s_RBI_groundout_Andrew_McCutchen_s_RBI_groundout_Andrew_McCutch.mp4
+clip_start_time: 4.240
+clip_end_time: 10.240

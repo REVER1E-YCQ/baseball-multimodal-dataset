@@ -1,0 +1,7 @@
+video_title: Cedric Mullins' RBI groundout  Cedric Mullins' RBI groundout  Cedric Mullins' RBI groundout  Cedric Mullins grounds out but plates Gunnar Henderson, making it a 3-1 game in the top of the 5th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/07/cbe62573-ee4bfbfc-5e79c29c-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_778413_cedric-mullins-grounds-out-second-baseman-tim-tawa-to-first-baseman-j
+clip_id: MLB_778413_cedric-mullins-grounds-out-second-baseman-tim-tawa-to-first-baseman-j_auto1_5p340_11p340
+source_path: raw_sources\MLB_778413_cedric-mullins-grounds-out-second-baseman-tim-tawa-to-first-baseman-j_Cedric_Mullins_RBI_groundout_Cedric_Mullins_RBI_groundout_Cedric_Mullins_RBI_gro.mp4
+clip_start_time: 5.340
+clip_end_time: 11.340

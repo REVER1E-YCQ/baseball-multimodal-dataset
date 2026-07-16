@@ -1,0 +1,7 @@
+video_title: Alec Bohm's smooth play at third Alec Bohm's smooth play at third Alec Bohm's smooth play at third Alec Bohm fields Enrique Hernández's sharp grounder, then makes a strong throw to first from the edge of the outfield grass in time for the out
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/05/d614f8f0-036cd260-e5ac4d38-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_778448_aaron-nola-in-play-out-s-to-enrique-hernandez-zvms8d
+clip_id: MLB_778448_aaron-nola-in-play-out-s-to-enrique-hernandez-zvms8d_auto1_6p140_12p140
+source_path: raw_sources\MLB_778448_aaron-nola-in-play-out-s-to-enrique-hernandez-zvms8d_Alec_Bohm_s_smooth_play_at_third_Alec_Bohm_s_smooth_play_at_third_Alec_Bohm_s_sm.mp4
+clip_start_time: 6.140
+clip_end_time: 12.140

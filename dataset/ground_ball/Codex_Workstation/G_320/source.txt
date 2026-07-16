@@ -1,0 +1,7 @@
+video_title: Elly De La Cruz's single  Elly De La Cruz's single  Elly De La Cruz's single  Elly De La Cruz grounds a single to right field in the top of the 1st inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/06/5f49221a-93b93ddb-af303ce0-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_778421_elly-de-la-cruz-singles-on-a-ground-ball-to-right-fielder-sal-frelick
+clip_id: MLB_778421_elly-de-la-cruz-singles-on-a-ground-ball-to-right-fielder-sal-frelick_auto1_4p080_10p080
+source_path: raw_sources\MLB_778421_elly-de-la-cruz-singles-on-a-ground-ball-to-right-fielder-sal-frelick_Elly_De_La_Cruz_s_single_Elly_De_La_Cruz_s_single_Elly_De_La_Cruz_s_single_Elly_.mp4
+clip_start_time: 4.080
+clip_end_time: 10.080

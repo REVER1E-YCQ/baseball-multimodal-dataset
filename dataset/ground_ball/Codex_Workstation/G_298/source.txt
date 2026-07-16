@@ -1,0 +1,7 @@
+video_title: J.T. Realmuto's RBI groundout J.T. Realmuto's RBI groundout J.T. Realmuto's RBI groundout J.T. Realmuto plates a run on groundout, pushing the score to 2-0 in the bottom of the 4th inning
+video_url: https://bdata-producedclips.mlb.com/c535b82d-eee3-4d18-b83b-8719c55143b7.mp4
+source_id: MLB_778482_kyle-freeland-in-play-run-s-to-j-t-realmuto-jpjvfw
+clip_id: MLB_778482_kyle-freeland-in-play-run-s-to-j-t-realmuto-jpjvfw_auto1_14p980_20p980
+source_path: raw_sources\MLB_778482_kyle-freeland-in-play-run-s-to-j-t-realmuto-jpjvfw_J.T._Realmuto_s_RBI_groundout_J.T._Realmuto_s_RBI_groundout_J.T._Realmuto_s_RBI_.mp4
+clip_start_time: 14.980
+clip_end_time: 20.980

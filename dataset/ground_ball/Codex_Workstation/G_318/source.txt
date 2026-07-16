@@ -1,0 +1,7 @@
+video_title: Lowe makes great toss for forceout, call stands Lowe makes great toss for forceout, call stands Lowe makes great toss for forceout, call stands Brandon Lowe makes a sliding stop on Marcus Semien's grounder, then flips it to Taylor Walls for a forceout at second and the call stands after review
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/06/714cf9f9-c1f85cab-f4803ad7-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_778420_drew-rasmussen-in-play-run-s-to-marcus-semien-x5947
+clip_id: MLB_778420_drew-rasmussen-in-play-run-s-to-marcus-semien-x5947_auto1_19p120_25p120
+source_path: raw_sources\MLB_778420_drew-rasmussen-in-play-run-s-to-marcus-semien-x5947_Lowe_makes_great_toss_for_forceout_call_stands_Lowe_makes_great_toss_for_forceou.mp4
+clip_start_time: 19.120
+clip_end_time: 25.120

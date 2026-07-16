@@ -1,0 +1,7 @@
+video_title: Lane Thomas' RBI groundout Lane Thomas' RBI groundout Lane Thomas' RBI groundout Lane Thomas grounds out to shortstop, scoring Carlos Santana from third base to cut the Guardians' deficit to 4-1 in the 7th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/02/c5e3c894-14da205a-e7c3d390-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_778476_dylan-cease-in-play-run-s-to-lane-thomas
+clip_id: MLB_778476_dylan-cease-in-play-run-s-to-lane-thomas_auto1_10p019_16p019
+source_path: raw_sources\MLB_778476_dylan-cease-in-play-run-s-to-lane-thomas_Lane_Thomas_RBI_groundout_Lane_Thomas_RBI_groundout_Lane_Thomas_RBI_groundout_La.mp4
+clip_start_time: 10.019
+clip_end_time: 16.019

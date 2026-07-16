@@ -1,0 +1,7 @@
+video_title: Andy Ibáñez's RBI single Andy Ibáñez's RBI single Andy Ibáñez's RBI single Andy Ibáñez beats out a ground ball to third for an RBI infield single to put the Tigers ahead 2-1 in the 1st
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/05/c272cc6e-239c73f7-8198947b-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_778445_davis-martin-in-play-run-s-to-andy-ibanez
+clip_id: MLB_778445_davis-martin-in-play-run-s-to-andy-ibanez_auto1_6p400_12p400
+source_path: raw_sources\MLB_778445_davis-martin-in-play-run-s-to-andy-ibanez_Andy_Ib_ez_s_RBI_single_Andy_Ib_ez_s_RBI_single_Andy_Ib_ez_s_RBI_single_Andy_Ib_.mp4
+clip_start_time: 6.400
+clip_end_time: 12.400

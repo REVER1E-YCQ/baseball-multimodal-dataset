@@ -1,0 +1,7 @@
+video_title: Pedro Pagés' RBI groundout  Pedro Pagés' RBI groundout  Pedro Pagés' RBI groundout 
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/08/c3e68127-f7db78c8-96bb38ba-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_778408_paul-skenes-in-play-run-s-to-pedro-pages
+clip_id: MLB_778408_paul-skenes-in-play-run-s-to-pedro-pages_auto1_5p800_11p800
+source_path: raw_sources\MLB_778408_paul-skenes-in-play-run-s-to-pedro-pages_Pedro_Pag_s_RBI_groundout_Pedro_Pag_s_RBI_groundout_Pedro_Pag_s_RBI_groundout.mp4
+clip_start_time: 5.800
+clip_end_time: 11.800

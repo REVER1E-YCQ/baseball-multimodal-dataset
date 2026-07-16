@@ -1,0 +1,7 @@
+video_title: Carlos Correa's RBI groundout Carlos Correa's RBI groundout Carlos Correa's RBI groundout Carlos Correa drives in the game's first run with an RBI groundout in the bottom of the 1st inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/03/a07c1bfa-2d875d4b-ef56396e-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_778462_hunter-brown-in-play-run-s-to-carlos-correa
+clip_id: MLB_778462_hunter-brown-in-play-run-s-to-carlos-correa_auto1_1p400_7p400
+source_path: raw_sources\MLB_778462_hunter-brown-in-play-run-s-to-carlos-correa_Carlos_Correa_s_RBI_groundout_Carlos_Correa_s_RBI_groundout_Carlos_Correa_s_RBI_.mp4
+clip_start_time: 1.400
+clip_end_time: 7.400

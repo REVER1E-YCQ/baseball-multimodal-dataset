@@ -1,0 +1,7 @@
+video_title: Kristian Campbell's RBI groundout Kristian Campbell's RBI groundout Kristian Campbell's RBI groundout
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-03/31/216aa159-2fbfca71-8e50f0eb-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_778512_cade-povich-in-play-run-s-to-kristian-campbell
+clip_id: MLB_778512_cade-povich-in-play-run-s-to-kristian-campbell_auto1_3p980_9p980
+source_path: raw_sources\MLB_778512_cade-povich-in-play-run-s-to-kristian-campbell_Kristian_Campbell_s_RBI_groundout_Kristian_Campbell_s_RBI_groundout_Kristian_Cam.mp4
+clip_start_time: 3.980
+clip_end_time: 9.980
