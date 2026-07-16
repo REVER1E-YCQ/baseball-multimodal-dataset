@@ -62,11 +62,13 @@ def main() -> int:
         errors = validate_sample(path)
         if errors:
             failures += 1
-            print(f"FAIL {path.relative_to(repo_path())}: {'; '.join(errors)}")
+            # A caller may validate an integration worktree outside this repo.
+            # Report paths relative to that dataset's parent rather than assuming
+            # every dataset root lives beneath repo_path().
+            print(f"FAIL {path.relative_to(args.dataset_root.parent)}: {'; '.join(errors)}")
     print(f"Checked {len(dirs)} samples; failures={failures}")
     return 1 if failures else 0
 
 
 if __name__ == "__main__":
     raise SystemExit(main())
-

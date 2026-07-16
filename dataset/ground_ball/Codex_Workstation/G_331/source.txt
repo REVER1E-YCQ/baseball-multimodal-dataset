@@ -1,0 +1,7 @@
+video_title: Bryce Harper's wicked single Bryce Harper's wicked single Bryce Harper's wicked single Bryce Harper leads off the bottom of the 9th inning with a grounder that evades Max Muncy with a wicked spin for a single
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/05/f1c8412b-023258ab-e88efbef-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_778448_tanner-scott-in-play-no-out-to-bryce-harper
+clip_id: MLB_778448_tanner-scott-in-play-no-out-to-bryce-harper_auto1_17p315_23p315
+source_path: raw_sources\MLB_778448_tanner-scott-in-play-no-out-to-bryce-harper_Bryce_Harper_s_wicked_single_Bryce_Harper_s_wicked_single_Bryce_Harper_s_wicked_.mp4
+clip_start_time: 17.315
+clip_end_time: 23.315

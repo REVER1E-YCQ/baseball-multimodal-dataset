@@ -1,0 +1,7 @@
+video_title: Carlos Santana's RBI groundout Carlos Santana's RBI groundout Carlos Santana's RBI groundout Carlos Santana plates Steven Kwan with a groundout to tie the game at 3 in the top of the 3rd
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/05/1d9e905a-64e16112-17ef095f-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_778437_jack-kochanowicz-in-play-run-s-to-carlos-santana-xzuik1
+clip_id: MLB_778437_jack-kochanowicz-in-play-run-s-to-carlos-santana-xzuik1_auto1_1p320_7p320
+source_path: raw_sources\MLB_778437_jack-kochanowicz-in-play-run-s-to-carlos-santana-xzuik1_Carlos_Santana_s_RBI_groundout_Carlos_Santana_s_RBI_groundout_Carlos_Santana_s_R.mp4
+clip_start_time: 1.320
+clip_end_time: 7.320

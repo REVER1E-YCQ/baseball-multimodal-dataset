@@ -21,13 +21,18 @@ Task:
    - event_start: seconds from clip start
    - event_end: seconds from clip start
 
+Priority order for this production pass:
+1. Clear audible bat-ball contact and its tight audio time interval.
+2. Correct primary class: ground_ball versus fly_ball.
+3. Secondary region, landing zone, strength, bounce, and trajectory fields are best-effort only. Do not spend extra analysis rounds on them and do not reject an otherwise valid sample solely because a secondary field is approximate.
+
 Rules:
 - Use reject if the contact sound is missing, heavily masked, replay-only, or the clip does not show the batted-ball event.
 - Use uncertain if evidence exists but the hit type or timing cannot be determined with confidence.
 - The event interval should bracket the bat-ball collision itself, not the whole play.
 - The event interval is audio-first: tightly bracket the bat-contact sound, normally 0.05-0.20 seconds. If video and audio are offset, preserve the audio-centred time rather than moving it to match the picture. Report the offset in `audio_evidence`; do not reject a usable clip solely because of offset.
 - For ground-ball region, use video only. Mentally transform the fair infield to a top-down fan from the third-base foul line to the first-base foul line, split into four equal left-to-right sectors: 1=leftmost, 2=left-middle, 3=right-middle, 4=rightmost.
-- First use the BALL'S absolute location at the first fielding/control moment. If no defender controls it in the clip, use the ball's last clear locatable location while it remains in the fair infield. Never infer the region from a fielder's nominal position, player identity, ball path, later throw, or screen left/right orientation. If neither evidence point can be located, use uncertain rather than guessing a region.
+- First use the BALL'S absolute location at the first fielding/control moment. If no defender controls it in the clip, use the ball's last clear locatable location while it remains in the fair infield. Never infer the region from a fielder's nominal position, player identity, ball path, later throw, or screen left/right orientation. If the exact boundary is unclear, provide the best coarse sector estimate without changing a clear primary class to uncertain.
 - Do not infer bounce=yes only because the hit is a ground_ball. For ground_ball, mark bounce=yes only when the ball is at or below the receiving fielder's knee height when fielded. Mark bounce=no when the receiving height is above the fielder's knee. If the receiving fielder or receiving height cannot be judged, lower confidence or use uncertain.
 - Prefer conservative labels. A bad sample is worse than a rejected sample.
 - Do not invent source metadata.

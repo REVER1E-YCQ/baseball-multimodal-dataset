@@ -25,12 +25,12 @@ def main() -> int:
         v_duration = ffprobe_duration(video)
         a_duration = ffprobe_duration(audio)
         if v_duration is None or a_duration is None:
-            print(f"FAIL {path.relative_to(repo_path())}: unreadable media")
+            print(f"FAIL {path.relative_to(args.dataset_root.parent)}: unreadable media")
             failures += 1
             continue
         if abs(v_duration - a_duration) > args.max_delta:
             print(
-                f"FAIL {path.relative_to(repo_path())}: duration mismatch "
+                f"FAIL {path.relative_to(args.dataset_root.parent)}: duration mismatch "
                 f"video={v_duration:.3f}s audio={a_duration:.3f}s"
             )
             failures += 1
@@ -40,4 +40,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-

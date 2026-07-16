@@ -128,7 +128,7 @@ def main() -> int:
             event_start, event_end = read_event_interval(path)
             energies, diff_energies = window_energies_from_wav(path / "audio.wav", args.window_ms)
         except Exception as exc:
-            print(f"FAIL {path.relative_to(repo_path())}: {exc}")
+            print(f"FAIL {path.relative_to(args.dataset_root.parent)}: {exc}")
             failures += 1
             continue
 
@@ -136,7 +136,7 @@ def main() -> int:
             item for item in energies if event_start - args.tolerance <= item[0] <= event_end + args.tolerance
         ]
         if not event_windows:
-            print(f"FAIL {path.relative_to(repo_path())}: no audio windows near event")
+            print(f"FAIL {path.relative_to(args.dataset_root.parent)}: no audio windows near event")
             failures += 1
             continue
         event_peak_time, event_peak_energy = max(event_windows, key=lambda item: item[1])
@@ -153,7 +153,7 @@ def main() -> int:
 
         if ratio < args.min_ratio:
             print(
-                f"FAIL {path.relative_to(repo_path())}: event_peak_time={event_peak_time:.3f}s "
+                f"FAIL {path.relative_to(args.dataset_root.parent)}: event_peak_time={event_peak_time:.3f}s "
                 f"event={event_start:.3f}-{event_end:.3f}s "
                 f"rms_ratio={rms_ratio:.2f} diff_ratio={diff_ratio:.2f}"
             )

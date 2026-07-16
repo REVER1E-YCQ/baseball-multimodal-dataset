@@ -1,0 +1,7 @@
+video_title: Fernando Tatis Jr.'s RBI single Fernando Tatis Jr.'s RBI single Fernando Tatis Jr.'s RBI single Fernando Tatis Jr. grounds a single into right field, scoring Brandon Lockridge to cut the Padres' deficit to 7-1 in the 7th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/05/7ce14cdb-1aee9aa1-c58049bb-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_778450_fernando-tatis-jr-singles-on-a-ground-ball-to-right-fielder-kyle-tuck
+clip_id: MLB_778450_fernando-tatis-jr-singles-on-a-ground-ball-to-right-fielder-kyle-tuck_auto1_2p780_8p780
+source_path: raw_sources\MLB_778450_fernando-tatis-jr-singles-on-a-ground-ball-to-right-fielder-kyle-tuck_Fernando_Tatis_Jr._s_RBI_single_Fernando_Tatis_Jr._s_RBI_single_Fernando_Tatis_J.mp4
+clip_start_time: 2.780
+clip_end_time: 8.780

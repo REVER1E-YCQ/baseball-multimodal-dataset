@@ -1,0 +1,7 @@
+video_title: Matt Chapman starts a double play to end the 6th Matt Chapman starts a double play to end the 6th Matt Chapman starts a double play to end the 6th Matt Chapman fields Jose Altuve's grounder and makes a quick throw to second to start an inning-ending double play in the bottom of the 6th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/01/1c554c5b-95337a83-f8233be5-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_778489_logan-webb-in-play-out-s-to-jose-altuve-0jdpqk
+clip_id: MLB_778489_logan-webb-in-play-out-s-to-jose-altuve-0jdpqk_auto1_6p060_12p060
+source_path: raw_sources\MLB_778489_logan-webb-in-play-out-s-to-jose-altuve-0jdpqk_Matt_Chapman_starts_a_double_play_to_end_the_6th_Matt_Chapman_starts_a_double_pl.mp4
+clip_start_time: 6.060
+clip_end_time: 12.060

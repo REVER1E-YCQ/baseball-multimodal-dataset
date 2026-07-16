@@ -1,0 +1,7 @@
+video_title: Alek Thomas plates run on a groundout Alek Thomas plates run on a groundout Alek Thomas plates run on a groundout Alek Thomas grounds out to second baseman Jazz Chisholm Jr. in the top of the 4th inning as Josh Naylor scores, narrowing the deficit to 6-3
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/03/37db20ab-d26b64b4-89ee53fe-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_778466_alek-thomas-grounds-out-second-baseman-jazz-chisholm-jr-to-first-base
+clip_id: MLB_778466_alek-thomas-grounds-out-second-baseman-jazz-chisholm-jr-to-first-base_auto1_8p464_14p464
+source_path: raw_sources\MLB_778466_alek-thomas-grounds-out-second-baseman-jazz-chisholm-jr-to-first-base_Alek_Thomas_plates_run_on_a_groundout_Alek_Thomas_plates_run_on_a_groundout_Alek.mp4
+clip_start_time: 8.464
+clip_end_time: 14.464
