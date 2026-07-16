@@ -1,0 +1,7 @@
+video_title: Colton Cowser's RBI double Colton Cowser's RBI double Colton Cowser's RBI double Colton Cowser grounds an RBI double to left field, putting the Orioles on the board in the bottom of the 3rd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-04/02/d9adf0a2-575055b6-d213c409-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_747057_alec-marsh-in-play-run-s-to-colton-cowser
+clip_id: MLB_747057_alec-marsh-in-play-run-s-to-colton-cowser_auto1_5p580_11p580
+source_path: raw_sources\MLB_747057_alec-marsh-in-play-run-s-to-colton-cowser_Colton_Cowser_s_RBI_double_Colton_Cowser_s_RBI_double_Colton_Cowser_s_RBI_double.mp4
+clip_start_time: 5.580
+clip_end_time: 11.580

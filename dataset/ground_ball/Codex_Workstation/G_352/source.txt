@@ -1,0 +1,7 @@
+video_title: Julio Rodríguez's game-tying groundout Julio Rodríguez's game-tying groundout Julio Rodríguez's game-tying groundout Julio Rodríguez hits an RBI groundout to shortstop to tie the game at 5 in the top of the 9th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-04/05/22bb33e9-7e67fcb2-4605706d-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746007_abner-uribe-in-play-out-s-to-julio-rodriguez
+clip_id: MLB_746007_abner-uribe-in-play-out-s-to-julio-rodriguez_auto1_0p000_6p000
+source_path: raw_sources\MLB_746007_abner-uribe-in-play-out-s-to-julio-rodriguez_Julio_Rodr_guez_s_game-tying_groundout_Julio_Rodr_guez_s_game-tying_groundout_Ju.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

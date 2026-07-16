@@ -1,0 +1,7 @@
+video_title: Marcell Ozuna's RBI single  Marcell Ozuna's RBI single  Marcell Ozuna grounds an RBI single to center field 
+video_url: https://bdata-producedclips.mlb.com/c16a28c6-d07b-42b3-8aea-2171d98e3a74.mp4
+source_id: MLB_747143_tommy-henry-in-play-run-s-to-marcell-ozuna
+clip_id: MLB_747143_tommy-henry-in-play-run-s-to-marcell-ozuna_auto1_1p800_7p800
+source_path: raw_sources\MLB_747143_tommy-henry-in-play-run-s-to-marcell-ozuna_Marcell_Ozuna_s_RBI_single_Marcell_Ozuna_s_RBI_single_Marcell_Ozuna_grounds_an_R.mp4
+clip_start_time: 1.800
+clip_end_time: 7.800

@@ -1,0 +1,7 @@
+video_title: Jared Walsh makes a great diving stop Jared Walsh makes a great diving stop Jared Walsh makes a great diving stop Jared Walsh makes a great diving stop on Jon Singleton's grounder up the first-base line, then flips it to Dane Dunning in time for the out
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-04/07/d35288b7-a869dce1-44100d87-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745032_jon-singleton-grounds-out-first-baseman-jared-walsh-to-pitcher-dane-d
+clip_id: MLB_745032_jon-singleton-grounds-out-first-baseman-jared-walsh-to-pitcher-dane-d_auto1_2p040_8p040
+source_path: raw_sources\MLB_745032_jon-singleton-grounds-out-first-baseman-jared-walsh-to-pitcher-dane-d_Jared_Walsh_makes_a_great_diving_stop_Jared_Walsh_makes_a_great_diving_stop_Jare.mp4
+clip_start_time: 2.040
+clip_end_time: 8.040

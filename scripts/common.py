@@ -117,7 +117,7 @@ def ffprobe_duration(path: Path) -> float | None:
         str(path),
     ]
     try:
-        proc = subprocess.run(cmd, text=True, capture_output=True, check=True)
+        proc = subprocess.run(cmd, text=True, capture_output=True, check=True, timeout=30)
         return float(proc.stdout.strip())
     except Exception:
         return None

@@ -1,0 +1,7 @@
+video_title: Austin Hays' RBI groundout Austin Hays' RBI groundout Austin Hays hits an RBI groundout in the 7th
+video_url: https://bdata-producedclips.mlb.com/bc623d70-c1c8-4626-bec6-5f11937326c5.mp4
+source_id: MLB_745522_austin-hays-grounds-out-softly-third-baseman-jared-triolo-to-first-ba
+clip_id: MLB_745522_austin-hays-grounds-out-softly-third-baseman-jared-triolo-to-first-ba_auto1_4p160_10p160
+source_path: raw_sources\MLB_745522_austin-hays-grounds-out-softly-third-baseman-jared-triolo-to-first-ba_Austin_Hays_RBI_groundout_Austin_Hays_RBI_groundout_Austin_Hays_hits_an_RBI_grou.mp4
+clip_start_time: 4.160
+clip_end_time: 10.160

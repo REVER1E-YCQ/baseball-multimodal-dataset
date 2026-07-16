@@ -1,0 +1,7 @@
+video_title: David Hamilton's first Major League home run David Hamilton's first Major League home run David Hamilton's first Major League home run David Hamilton hits a fly ball to right-center field for a solo home run, giving him his first big league home run in the top of the 3rd
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-04/07/a9db7464-42c79bd8-c8da5f92-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746251_chase-silseth-in-play-run-s-to-david-hamilton
+clip_id: MLB_746251_chase-silseth-in-play-run-s-to-david-hamilton_auto1_0p440_7p440
+source_path: raw_sources\MLB_746251_chase-silseth-in-play-run-s-to-david-hamilton_David_Hamilton_s_first_Major_League_home_run_David_Hamilton_s_first_Major_League.mp4
+clip_start_time: 0.440
+clip_end_time: 7.440

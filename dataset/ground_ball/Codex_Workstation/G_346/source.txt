@@ -1,0 +1,7 @@
+video_title: Matt Chapman's RBI groundout Matt Chapman's RBI groundout Matt Chapman's RBI groundout
+video_url: https://bdata-producedclips.mlb.com/a32550ac-ec37-4cc0-848f-1afdb7c22986.mp4
+source_id: MLB_745362_stephen-kolek-in-play-run-s-to-matt-chapman-jjarns
+clip_id: MLB_745362_stephen-kolek-in-play-run-s-to-matt-chapman-jjarns_auto1_2p460_8p460
+source_path: raw_sources\MLB_745362_stephen-kolek-in-play-run-s-to-matt-chapman-jjarns_Matt_Chapman_s_RBI_groundout_Matt_Chapman_s_RBI_groundout_Matt_Chapman_s_RBI_gro.mp4
+clip_start_time: 2.460
+clip_end_time: 8.460
