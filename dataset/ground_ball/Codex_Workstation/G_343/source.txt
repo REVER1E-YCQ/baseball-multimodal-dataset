@@ -1,0 +1,7 @@
+video_title: Andrés Giménez scores on a groundout Andrés Giménez scores on a groundout Andrés Giménez scores on a groundout
+video_url: https://bdata-producedclips.mlb.com/315b5a6c-db27-4e47-aa80-06b61edb3e39.mp4
+source_id: MLB_745275_george-kirby-in-play-run-s-to-josh-naylor-hcbt88
+clip_id: MLB_745275_george-kirby-in-play-run-s-to-josh-naylor-hcbt88_auto1_1p480_7p480
+source_path: raw_sources\MLB_745275_george-kirby-in-play-run-s-to-josh-naylor-hcbt88_Andr_s_Gim_nez_scores_on_a_groundout_Andr_s_Gim_nez_scores_on_a_groundout_Andr_s.mp4
+clip_start_time: 1.480
+clip_end_time: 7.480

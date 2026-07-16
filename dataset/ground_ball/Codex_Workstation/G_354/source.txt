@@ -1,0 +1,7 @@
+video_title: Abraham Toro's RBI single Abraham Toro's RBI single Ryan Noda scores on an RBI single Abraham Toro grounds a soft RBI single to third base, bringing home Ryan Noda
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-04/07/712cf049-978dbd04-4c198c50-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746493_abraham-toro-reaches-on-a-fielder-s-choice-fielded-by-third-baseman-g
+clip_id: MLB_746493_abraham-toro-reaches-on-a-fielder-s-choice-fielded-by-third-baseman-g_auto1_4p320_10p320
+source_path: raw_sources\MLB_746493_abraham-toro-reaches-on-a-fielder-s-choice-fielded-by-third-baseman-g_Abraham_Toro_s_RBI_single_Abraham_Toro_s_RBI_single_Ryan_Noda_scores_on_an_RBI_s.mp4
+clip_start_time: 4.320
+clip_end_time: 10.320

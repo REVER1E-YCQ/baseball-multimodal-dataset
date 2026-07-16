@@ -1,0 +1,7 @@
+video_title: Rafael Devers' solo home run (2) Rafael Devers' solo home run (2) Rafael Devers clobbers a solo homer to center field Rafael Devers mashes a fly ball to center field for a solo home run, giving the Red Sox their second homer of the inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-04/07/986d8cb7-9f1f37b6-7c5c54ad-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746251_chase-silseth-in-play-run-s-to-rafael-devers
+clip_id: MLB_746251_chase-silseth-in-play-run-s-to-rafael-devers_auto1_7p800_14p800
+source_path: raw_sources\MLB_746251_chase-silseth-in-play-run-s-to-rafael-devers_Rafael_Devers_solo_home_run_2_Rafael_Devers_solo_home_run_2_Rafael_Devers_clobbe.mp4
+clip_start_time: 7.800
+clip_end_time: 14.800

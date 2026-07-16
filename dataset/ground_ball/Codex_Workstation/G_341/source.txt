@@ -1,0 +1,7 @@
+video_title: J.P. Crawford drives in a run on a groundout J.P. Crawford drives in a run on a groundout J.P. Crawford drives in a run on a groundout
+video_url: https://bdata-producedclips.mlb.com/04d584dd-07db-4d64-aef6-63a619dddf94.mp4
+source_id: MLB_745273_scott-barlow-in-play-run-s-to-j-p-crawford
+clip_id: MLB_745273_scott-barlow-in-play-run-s-to-j-p-crawford_auto1_0p520_6p520
+source_path: raw_sources\MLB_745273_scott-barlow-in-play-run-s-to-j-p-crawford_J.P._Crawford_drives_in_a_run_on_a_groundout_J.P._Crawford_drives_in_a_run_on_a_.mp4
+clip_start_time: 0.520
+clip_end_time: 6.520

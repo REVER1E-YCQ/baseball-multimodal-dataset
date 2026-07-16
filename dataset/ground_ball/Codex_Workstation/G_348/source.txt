@@ -1,0 +1,7 @@
+video_title: Spencer Steer's RBI single Spencer Steer's RBI single Spencer Steer's RBI single Spencer Steer singles on a ground ball in the top of the 9th inning to score Jake Fraley to make it 9-3
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-04/02/e1ab206e-578935d8-5de7428e-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745598_ricardo-pinto-in-play-run-s-to-spencer-steer
+clip_id: MLB_745598_ricardo-pinto-in-play-run-s-to-spencer-steer_auto1_6p460_12p460
+source_path: raw_sources\MLB_745598_ricardo-pinto-in-play-run-s-to-spencer-steer_Spencer_Steer_s_RBI_single_Spencer_Steer_s_RBI_single_Spencer_Steer_s_RBI_single.mp4
+clip_start_time: 6.460
+clip_end_time: 12.460

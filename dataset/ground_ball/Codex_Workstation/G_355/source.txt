@@ -1,0 +1,7 @@
+video_title: Jeimer Candelario scores on an error Jeimer Candelario scores on an error Elly De La Cruz drives in a run on an error Elly De La Cruz hits a ground ball that is mishandled by Jeff McNeil, allowing Jeimer Candelario to score the Reds' first run of the game
+video_url: https://bdata-producedclips.mlb.com/c2a967b2-abf8-445d-ac2e-a5efb73d51ad.mp4
+source_id: MLB_746731_elly-de-la-cruz-reaches-on-a-fielding-error-by-second-baseman-jeff-mc
+clip_id: MLB_746731_elly-de-la-cruz-reaches-on-a-fielding-error-by-second-baseman-jeff-mc_auto1_3p100_9p100
+source_path: raw_sources\MLB_746731_elly-de-la-cruz-reaches-on-a-fielding-error-by-second-baseman-jeff-mc_Jeimer_Candelario_scores_on_an_error_Jeimer_Candelario_scores_on_an_error_Elly_D.mp4
+clip_start_time: 3.100
+clip_end_time: 9.100

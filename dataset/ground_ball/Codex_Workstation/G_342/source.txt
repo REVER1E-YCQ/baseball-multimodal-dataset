@@ -1,0 +1,7 @@
+video_title: JP Crawford and Jorge Polanco collide at second base JP Crawford and Jorge Polanco collide at second base JP Crawford and Jorge Polanco collide at second base J.P. Crawford and Jorge Polanco collide at second base on a ground ball hit by Andrés Giménez during the top of the 4th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-04/03/3e342a00-c25432e8-9bf884a2-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745275_george-kirby-in-play-no-out-to-andres-gimenez
+clip_id: MLB_745275_george-kirby-in-play-no-out-to-andres-gimenez_auto1_0p000_6p000
+source_path: raw_sources\MLB_745275_george-kirby-in-play-no-out-to-andres-gimenez_JP_Crawford_and_Jorge_Polanco_collide_at_second_base_JP_Crawford_and_Jorge_Polan.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

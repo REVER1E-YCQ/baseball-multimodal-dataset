@@ -1,0 +1,7 @@
+video_title: Matt Chapman's game-tying groundout Matt Chapman's game-tying groundout Matt Chapman's game-tying groundout Matt Chapman ties the game at 2 in the bottom of the 6th, plating LaMonte Wade Jr. on an RBI groundout
+video_url: https://bdata-producedclips.mlb.com/27abc1a7-15d0-4d6e-9769-1bf01d2239c9.mp4
+source_id: MLB_745361_dylan-cease-in-play-run-s-to-matt-chapman
+clip_id: MLB_745361_dylan-cease-in-play-run-s-to-matt-chapman_auto1_2p580_8p580
+source_path: raw_sources\MLB_745361_dylan-cease-in-play-run-s-to-matt-chapman_Matt_Chapman_s_game-tying_groundout_Matt_Chapman_s_game-tying_groundout_Matt_Cha.mp4
+clip_start_time: 2.580
+clip_end_time: 8.580

@@ -1,0 +1,7 @@
+video_title: Reese McGuire drives home Ceddanne Rafaela in the 8th Reese McGuire drives home Ceddanne Rafaela in the 8th Reese McGuire drives home Ceddanne Rafaela in the 8th Reese McGuire hits a grounder to first base, scoring Ceddanne Rafaela to give the Red Sox their eighth run of the ballgame
+video_url: https://bdata-producedclips.mlb.com/9f081978-203c-4873-885e-d22806e52f00.mp4
+source_id: MLB_746251_jose-suarez-in-play-run-s-to-reese-mcguire-vnmjv4
+clip_id: MLB_746251_jose-suarez-in-play-run-s-to-reese-mcguire-vnmjv4_auto1_1p480_7p480
+source_path: raw_sources\MLB_746251_jose-suarez-in-play-run-s-to-reese-mcguire-vnmjv4_Reese_McGuire_drives_home_Ceddanne_Rafaela_in_the_8th_Reese_McGuire_drives_home_.mp4
+clip_start_time: 1.480
+clip_end_time: 7.480
