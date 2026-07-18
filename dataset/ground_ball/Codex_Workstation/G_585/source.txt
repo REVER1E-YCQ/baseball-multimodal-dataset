@@ -1,0 +1,7 @@
+video_title: Armando Alvarez's strong throw Armando Alvarez's strong throw Armando Alvarez's strong throw Armando Alvarez fields a ground ball on the edge of the outfield grass and makes a strong throw to first for the out
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/28/96261f1c-bac840c7-531ef81a-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_747183_christian-walker-grounds-out-third-baseman-armando-alvarez-to-first-b
+clip_id: MLB_747183_christian-walker-grounds-out-third-baseman-armando-alvarez-to-first-b_auto1_3p520_9p520
+source_path: raw_sources\MLB_747183_christian-walker-grounds-out-third-baseman-armando-alvarez-to-first-b_Armando_Alvarez_s_strong_throw_Armando_Alvarez_s_strong_throw_Armando_Alvarez_s_strong_th.mp4
+clip_start_time: 3.520
+clip_end_time: 9.520

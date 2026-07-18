@@ -1,0 +1,7 @@
+video_title: Jazz Chisholm Jr.'s RBI groundout Jazz Chisholm Jr.'s RBI groundout Jazz Chisholm Jr.'s RBI groundout Jazz Chisholm grounds into a forceout at second base and Alex Verdugo scores, giving the Yankees a 1-0 lead over the Phillies in the 1st
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/30/36cfc696-708690d5-e58168cc-csvm-diamondx64-asset-4000K.mp4
+source_id: MLB_745546_aaron-nola-in-play-run-s-to-jazz-chisholm-jr
+clip_id: MLB_745546_aaron-nola-in-play-run-s-to-jazz-chisholm-jr_auto1_1p460_7p460
+source_path: raw_sources\MLB_745546_aaron-nola-in-play-run-s-to-jazz-chisholm-jr_Jazz_Chisholm_Jr._s_RBI_groundout_Jazz_Chisholm_Jr._s_RBI_groundout_Jazz_Chisholm_Jr._s_RBI_groundout_Jazz_Chishol.mp4
+clip_start_time: 1.460
+clip_end_time: 7.460

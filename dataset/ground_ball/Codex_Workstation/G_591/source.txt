@@ -1,0 +1,7 @@
+video_title: CJ Abrams' RBI groundout  CJ Abrams' RBI groundout  CJ Abrams' RBI groundout 
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/28/a7c7d357-015dac5b-b1f2860f-csvm-diamondx64-asset-4000K.mp4
+source_id: MLB_745145_miles-mikolas-in-play-run-s-to-cj-abrams
+clip_id: MLB_745145_miles-mikolas-in-play-run-s-to-cj-abrams_auto1_8p280_14p280
+source_path: raw_sources\MLB_745145_miles-mikolas-in-play-run-s-to-cj-abrams_CJ_Abrams_RBI_groundout_CJ_Abrams_RBI_groundout_CJ_Abrams_RBI_groundout.mp4
+clip_start_time: 8.280
+clip_end_time: 14.280

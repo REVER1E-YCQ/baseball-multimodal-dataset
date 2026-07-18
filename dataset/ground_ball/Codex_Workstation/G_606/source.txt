@@ -1,0 +1,7 @@
+video_title: Carlos Santana's diving stop Carlos Santana's diving stop Carlos Santana's diving stop Carlos Santana makes a great diving stop on a grounder up the first-base line, then tags the bag for the out in the top of the 8th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/20/ce1b739c-7c330982-5252418d-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745880_brice-turang-grounds-out-to-first-baseman-carlos-santana-jackson-chou
+clip_id: MLB_745880_brice-turang-grounds-out-to-first-baseman-carlos-santana-jackson-chou_auto1_0p000_6p000
+source_path: raw_sources\MLB_745880_brice-turang-grounds-out-to-first-baseman-carlos-santana-jackson-chou_Carlos_Santana_s_diving_stop_Carlos_Santana_s_diving_stop_Carlos_Santana_s_diving_stop_Ca.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

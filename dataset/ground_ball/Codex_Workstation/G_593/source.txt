@@ -1,0 +1,7 @@
+video_title: Leody Taveras' RBI groundout Leody Taveras' RBI groundout Leody Taveras' RBI groundout
+video_url: https://bdata-producedclips.mlb.com/4ad02c97-f076-480f-a4c5-37924c8312ef.mp4
+source_id: MLB_745147_leody-taveras-grounds-out-to-first-baseman-paul-goldschmidt-nathaniel
+clip_id: MLB_745147_leody-taveras-grounds-out-to-first-baseman-paul-goldschmidt-nathaniel_auto1_6p980_12p980
+source_path: raw_sources\MLB_745147_leody-taveras-grounds-out-to-first-baseman-paul-goldschmidt-nathaniel_Leody_Taveras_RBI_groundout_Leody_Taveras_RBI_groundout_Leody_Taveras_RBI_groundout.mp4
+clip_start_time: 6.980
+clip_end_time: 12.980

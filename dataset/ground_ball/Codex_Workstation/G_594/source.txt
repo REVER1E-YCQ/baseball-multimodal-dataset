@@ -1,0 +1,7 @@
+video_title: Jorge López ends the game with a groundout Jorge López ends the game with a groundout Jorge López ends the game with a groundout
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/15/a23b7724-29f31cb3-28dc4f89-csvm-diamondx64-asset-4000K.mp4
+source_id: MLB_745151_willson-contreras-grounds-out-second-baseman-nico-hoerner-to-first-ba
+clip_id: MLB_745151_willson-contreras-grounds-out-second-baseman-nico-hoerner-to-first-ba_auto1_4p686_10p686
+source_path: raw_sources\MLB_745151_willson-contreras-grounds-out-second-baseman-nico-hoerner-to-first-ba_Jorge_L_pez_ends_the_game_with_a_groundout_Jorge_L_pez_ends_the_game_with_a_groundout_Jor.mp4
+clip_start_time: 4.686
+clip_end_time: 10.686

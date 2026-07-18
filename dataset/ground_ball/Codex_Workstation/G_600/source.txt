@@ -1,0 +1,7 @@
+video_title: Kyle Schwarber scores on Bryce Harper's groundout Kyle Schwarber scores on Bryce Harper's groundout Kyle Schwarber scores on Bryce Harper's groundout
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/21/32098d22-54202df9-a2f68d8a-csvm-diamondx64-asset-4000K.mp4
+source_id: MLB_745470_kyle-nicolas-in-play-run-s-to-bryce-harper
+clip_id: MLB_745470_kyle-nicolas-in-play-run-s-to-bryce-harper_auto1_10p180_16p180
+source_path: raw_sources\MLB_745470_kyle-nicolas-in-play-run-s-to-bryce-harper_Kyle_Schwarber_scores_on_Bryce_Harper_s_groundout_Kyle_Schwarber_scores_on_Bryce_Harper_s_groundout_Kyle_Schwarber_s.mp4
+clip_start_time: 10.180
+clip_end_time: 16.180
