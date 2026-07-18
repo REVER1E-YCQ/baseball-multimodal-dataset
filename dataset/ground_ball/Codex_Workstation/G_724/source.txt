@@ -1,0 +1,7 @@
+video_title: Luis Rengifo's diving play  Luis Rengifo's diving play  Luis Rengifo's diving play  Luis Rengifo dives and fields a ground ball and throws to first, retiring Gunnar Henderson
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/09/09e09ac9-ecd8085f-3db65800-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777986_gunnar-henderson-grounds-out-second-baseman-luis-rengifo-to-first-bas
+clip_id: MLB_777986_gunnar-henderson-grounds-out-second-baseman-luis-rengifo-to-first-bas_auto1_0p000_6p000
+source_path: raw_sources\MLB_777986_gunnar-henderson-grounds-out-second-baseman-luis-rengifo-to-first-bas_Luis_Rengifo_s_diving_play_Luis_Rengifo_s_diving_play_Luis_Rengifo_s_diving_play_Luis_Ren.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

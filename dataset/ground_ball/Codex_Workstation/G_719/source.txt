@@ -1,0 +1,7 @@
+video_title: Fernando Cruz induces double play to escape the 8th Fernando Cruz induces double play to escape the 8th Fernando Cruz induces double play to escape the 8th Fernando Cruz induces a 6-4-3 ground ball double play to escape trouble in the bottom of the 8th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/14/91e54612-63e8a6d8-82882ba9-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777915_fernando-cruz-in-play-out-s-to-dylan-moore
+clip_id: MLB_777915_fernando-cruz-in-play-out-s-to-dylan-moore_auto1_6p740_12p740
+source_path: raw_sources\MLB_777915_fernando-cruz-in-play-out-s-to-dylan-moore_Fernando_Cruz_induces_double_play_to_escape_the_8th_Fernando_Cruz_induces_double_play_to_escape_the_8th_Fernando_Cru.mp4
+clip_start_time: 6.740
+clip_end_time: 12.740

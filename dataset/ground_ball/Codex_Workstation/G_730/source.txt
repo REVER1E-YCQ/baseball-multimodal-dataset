@@ -1,0 +1,7 @@
+video_title: Otto Lopez RBI fielder's choice Otto Lopez RBI fielder's choice Otto Lopez RBI fielder's choice Otto Lopez hits a ground ball that allows Xavier Edwards to score from third to make the score 1-0
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/03/3ebd17cc-69394a46-af34a64a-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777263_david-festa-in-play-run-s-to-otto-lopez
+clip_id: MLB_777263_david-festa-in-play-run-s-to-otto-lopez_auto1_4p320_10p320
+source_path: raw_sources\MLB_777263_david-festa-in-play-run-s-to-otto-lopez_Otto_Lopez_RBI_fielder_s_choice_Otto_Lopez_RBI_fielder_s_choice_Otto_Lopez_RBI_fielder_s_choice_Otto_Lopez_hits_a_groun.mp4
+clip_start_time: 4.320
+clip_end_time: 10.320

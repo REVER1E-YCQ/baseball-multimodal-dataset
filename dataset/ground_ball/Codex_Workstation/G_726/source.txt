@@ -1,0 +1,7 @@
+video_title: José Ramírez's long throw José Ramírez's long throw José Ramírez's long throw José Ramírez backhands a grounder in foul territory and makes a long throw to first to retire Miguel Vargas in the 6th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/13/64b7434c-032ca121-e3fe6510-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777120_matt-festa-in-play-out-s-to-miguel-vargas-hcajdd
+clip_id: MLB_777120_matt-festa-in-play-out-s-to-miguel-vargas-hcajdd_auto1_0p000_6p000
+source_path: raw_sources\MLB_777120_matt-festa-in-play-out-s-to-miguel-vargas-hcajdd_Jos_Ram_rez_s_long_throw_Jos_Ram_rez_s_long_throw_Jos_Ram_rez_s_long_throw_Jos_Ram_rez_backhands_a_grounder_in.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

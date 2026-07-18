@@ -1,0 +1,7 @@
+video_title: Taveras reaches after Yankees have miscue at first Taveras reaches after Yankees have miscue at first Taveras reaches after Yankees have miscue at first DJ LeMahieu ranges towards first to field the grounder as Ben Rice and Will Warren go to cover first, leading to the ball being thrown away
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/14/a38aa128-3f1f4375-7c59c48c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777915_taveras-reaches-after-yankees-have-miscue-at-first
+clip_id: MLB_777915_taveras-reaches-after-yankees-have-miscue-at-first_auto1_0p000_6p000
+source_path: raw_sources\MLB_777915_taveras-reaches-after-yankees-have-miscue-at-first_Taveras_reaches_after_Yankees_have_miscue_at_first_Taveras_reaches_after_Yankees_have_miscue_at_first_Tavera.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000
