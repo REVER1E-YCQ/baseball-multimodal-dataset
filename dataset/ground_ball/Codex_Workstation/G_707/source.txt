@@ -1,0 +1,7 @@
+video_title: Luis Urías' sliding stop Luis Urías' sliding stop Luis Urías' sliding stop Luis Urías makes a nice sliding stop on Bryce Harper's grounder, then throws to first from one knee in time for the out in the top of the 3rd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/23/7c79574b-bdd379bb-06635efb-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_777804_jacob-lopez-in-play-out-s-to-bryce-harper-tztwgo
+clip_id: MLB_777804_jacob-lopez-in-play-out-s-to-bryce-harper-tztwgo_auto1_1p420_7p420
+source_path: raw_sources\MLB_777804_jacob-lopez-in-play-out-s-to-bryce-harper-tztwgo_Luis_Ur_as_sliding_stop_Luis_Ur_as_sliding_stop_Luis_Ur_as_sliding_stop_Luis_Ur_as_makes_a_nice_sliding_stop_o.mp4
+clip_start_time: 1.420
+clip_end_time: 7.420

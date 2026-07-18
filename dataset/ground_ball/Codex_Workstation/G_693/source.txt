@@ -1,0 +1,7 @@
+video_title: Abraham Toro's nice throw across his body  Abraham Toro's nice throw across his body  Abraham Toro's nice throw across his body  Abraham Toro fields a ground ball near the third base line and makes a great throw across his body to nab Zach Neto at first
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/02/50b16385-d627aad6-5e5e15e4-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777670_zach-neto-grounds-out-third-baseman-abraham-toro-to-first-baseman-rom
+clip_id: MLB_777670_zach-neto-grounds-out-third-baseman-abraham-toro-to-first-baseman-rom_auto1_1p900_7p900
+source_path: raw_sources\MLB_777670_zach-neto-grounds-out-third-baseman-abraham-toro-to-first-baseman-rom_Abraham_Toro_s_nice_throw_across_his_body_Abraham_Toro_s_nice_throw_across_his_body_Abrah.mp4
+clip_start_time: 1.900
+clip_end_time: 7.900

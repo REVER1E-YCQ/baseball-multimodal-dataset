@@ -1,0 +1,7 @@
+video_title: Brandon Lowe's unbelievable diving stop Brandon Lowe's unbelievable diving stop Brandon Lowe's unbelievable diving stop Brandon Lowe makes a tremendous diving play to nab a ground ball from Ali Sánchez for the first out of the 3rd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/25/7ad39410-bdb228e8-b9e295a6-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777775_ali-sanchez-grounds-out-second-baseman-brandon-lowe-to-first-baseman-
+clip_id: MLB_777775_ali-sanchez-grounds-out-second-baseman-brandon-lowe-to-first-baseman-_auto1_0p140_6p140
+source_path: raw_sources\MLB_777775_ali-sanchez-grounds-out-second-baseman-brandon-lowe-to-first-baseman-_Brandon_Lowe_s_unbelievable_diving_stop_Brandon_Lowe_s_unbelievable_diving_stop_Brandon_L.mp4
+clip_start_time: 0.140
+clip_end_time: 6.140

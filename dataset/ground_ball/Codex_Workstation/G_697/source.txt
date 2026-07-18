@@ -1,0 +1,7 @@
+video_title: Ryan Helsley earns 11th save Ryan Helsley earns 11th save Ryan Helsley earns 11th save Ryan Helsley induces a ground ball out to first base for the final out of the game as the Cardinals defeat the Orioles, 7-4
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/27/fd5ad1f3-43f30ce6-90f8fc58-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777754_ryan-helsley-in-play-out-s-to-gunnar-henderson
+clip_id: MLB_777754_ryan-helsley-in-play-out-s-to-gunnar-henderson_auto1_0p500_6p500
+source_path: raw_sources\MLB_777754_ryan-helsley-in-play-out-s-to-gunnar-henderson_Ryan_Helsley_earns_11th_save_Ryan_Helsley_earns_11th_save_Ryan_Helsley_earns_11th_save_Ryan_Helsley_induces_a_gr.mp4
+clip_start_time: 0.500
+clip_end_time: 6.500

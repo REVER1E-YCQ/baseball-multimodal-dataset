@@ -1,0 +1,7 @@
+video_title: Nick Loftin fields deflection for out Nick Loftin fields deflection for out Nick Loftin fields deflection for out Nick Loftin fields Colt Keith's grounder that deflects off of Kris Bubic's leg and throws to first in time for the out in the top of the 7th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/01/9050c04a-c1b1b003-a5dc4477-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_777677_colt-keith-grounds-out-pitcher-kris-bubic-to-third-baseman-nick-lofti
+clip_id: MLB_777677_colt-keith-grounds-out-pitcher-kris-bubic-to-third-baseman-nick-lofti_auto1_5p580_11p580
+source_path: raw_sources\MLB_777677_colt-keith-grounds-out-pitcher-kris-bubic-to-third-baseman-nick-lofti_Nick_Loftin_fields_deflection_for_out_Nick_Loftin_fields_deflection_for_out_Nick_Loftin_f.mp4
+clip_start_time: 5.580
+clip_end_time: 11.580

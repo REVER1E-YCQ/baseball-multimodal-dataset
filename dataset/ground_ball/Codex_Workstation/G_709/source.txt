@@ -1,0 +1,7 @@
+video_title: TJ Friedl hits ground-rule double after interference TJ Friedl hits ground-rule double after interference TJ Friedl hits ground-rule double after interference TJ Friedl hits a fair ground ball down the right-field line, but the ball boy mistakenly picks it up, giving Friedl a ground-rule double
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/23/bb2b2fd3-1c5f3236-32c6e410-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777811_matthew-boyd-in-play-no-out-to-tj-friedl-dakfn6
+clip_id: MLB_777811_matthew-boyd-in-play-no-out-to-tj-friedl-dakfn6_auto1_1p580_7p580
+source_path: raw_sources\MLB_777811_matthew-boyd-in-play-no-out-to-tj-friedl-dakfn6_TJ_Friedl_hits_ground-rule_double_after_interference_TJ_Friedl_hits_ground-rule_double_after_interference_TJ_Fr.mp4
+clip_start_time: 1.580
+clip_end_time: 7.580

@@ -1,0 +1,7 @@
+video_title: Bryce Harper dives to apply tag for nifty play Bryce Harper dives to apply tag for nifty play Bryce Harper dives to apply tag for nifty play Bryce Harper field a slow-rolling ground ball from Tyler Soderstrom, diving and extending to apply the tag for the out at first base
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/24/b9bdc1dc-975fa184-12f219fb-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777784_cristopher-sanchez-in-play-out-s-to-tyler-soderstrom
+clip_id: MLB_777784_cristopher-sanchez-in-play-out-s-to-tyler-soderstrom_auto1_13p300_19p300
+source_path: raw_sources\MLB_777784_cristopher-sanchez-in-play-out-s-to-tyler-soderstrom_Bryce_Harper_dives_to_apply_tag_for_nifty_play_Bryce_Harper_dives_to_apply_tag_for_nifty_play_Bryce_Harper.mp4
+clip_start_time: 13.300
+clip_end_time: 19.300

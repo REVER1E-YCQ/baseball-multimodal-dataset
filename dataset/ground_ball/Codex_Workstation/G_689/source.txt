@@ -1,0 +1,7 @@
+video_title: Romy Gonzalez nabs Steven Kwan at the plate Romy Gonzalez nabs Steven Kwan at the plate Romy Gonzalez nabs Steven Kwan at the plate Romy Gonzalez fields a sharp ground ball then fires a strike to the plate to nab Steven Kwan attempting to score during the 1st inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/27/0e75d14c-fd072fdb-412c2a4d-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_778157_brayan-bello-in-play-out-s-to-jose-ramirez
+clip_id: MLB_778157_brayan-bello-in-play-out-s-to-jose-ramirez_auto1_11p820_17p820
+source_path: raw_sources\MLB_778157_brayan-bello-in-play-out-s-to-jose-ramirez_Romy_Gonzalez_nabs_Steven_Kwan_at_the_plate_Romy_Gonzalez_nabs_Steven_Kwan_at_the_plate_Romy_Gonzalez_nabs_Steven_Kw.mp4
+clip_start_time: 11.820
+clip_end_time: 17.820

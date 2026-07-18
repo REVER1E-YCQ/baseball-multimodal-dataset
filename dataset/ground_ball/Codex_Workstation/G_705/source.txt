@@ -1,0 +1,7 @@
+video_title: Ozzie Albies' RBI infield single  Ozzie Albies' RBI infield single  Ozzie Albies' RBI infield single  Ozzie Albies hits a soft ground ball to drive in a run, making it a 3-1 game in the bottom of the 3rd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/24/ea9f451d-f7536a58-6992ac48-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_777803_ozzie-albies-singles-on-a-soft-ground-ball-to-third-baseman-manny-mac
+clip_id: MLB_777803_ozzie-albies-singles-on-a-soft-ground-ball-to-third-baseman-manny-mac_auto1_4p420_10p420
+source_path: raw_sources\MLB_777803_ozzie-albies-singles-on-a-soft-ground-ball-to-third-baseman-manny-mac_Ozzie_Albies_RBI_infield_single_Ozzie_Albies_RBI_infield_single_Ozzie_Albies_RBI_infield_.mp4
+clip_start_time: 4.420
+clip_end_time: 10.420

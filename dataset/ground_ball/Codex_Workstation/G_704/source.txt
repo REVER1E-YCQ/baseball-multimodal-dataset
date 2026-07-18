@@ -1,0 +1,7 @@
+video_title: David Bednar gets the save David Bednar gets the save David Bednar gets the save Isiah Kiner-Falefa and Spencer Horwitz turn a double play on Brice Turang's grounder to end the game, securing a 2-1 victory for the Pirates
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/24/53d82346-76fa02f3-8d521a6c-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_777794_brice-turang-grounds-into-a-double-play-shortstop-isiah-kiner-falefa-
+clip_id: MLB_777794_brice-turang-grounds-into-a-double-play-shortstop-isiah-kiner-falefa-_auto1_5p800_11p800
+source_path: raw_sources\MLB_777794_brice-turang-grounds-into-a-double-play-shortstop-isiah-kiner-falefa-_David_Bednar_gets_the_save_David_Bednar_gets_the_save_David_Bednar_gets_the_save_Isiah_Ki.mp4
+clip_start_time: 5.800
+clip_end_time: 11.800
