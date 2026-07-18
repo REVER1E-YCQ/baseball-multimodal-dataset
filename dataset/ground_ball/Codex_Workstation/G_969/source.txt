@@ -1,0 +1,7 @@
+video_title: Casey Schmitt's smooth play Casey Schmitt's smooth play Casey Schmitt's smooth play Casey Schmitt fields a slow grounder and makes a strong throw to first on the run in time for the out in the top of the 3rd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/08/a869a14e-c8bdc2c3-5ae31946-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_776822_kai-wei-teng-in-play-out-s-to-jose-tena
+clip_id: MLB_776822_kai-wei-teng-in-play-out-s-to-jose-tena_auto1_1p420_7p420
+source_path: raw_sources\MLB_776822_kai-wei-teng-in-play-out-s-to-jose-tena_Casey_Schmitt_s_smooth_play_Casey_Schmitt_s_smooth_play_Casey_Schmitt_s_smooth_play_Casey_Schmitt_fields_a_slow_grounde.mp4
+clip_start_time: 1.420
+clip_end_time: 7.420

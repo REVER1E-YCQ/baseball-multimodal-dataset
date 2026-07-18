@@ -1,0 +1,7 @@
+video_title: Colt Keith singles after review Colt Keith singles after review Colt Keith singles after review Colt Keith singles on a ground ball to second base after a Twins challenge confirms the call on the field
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/04/85e62f28-dc3c3d63-92faf012-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776874_colt-keith-singles-after-review
+clip_id: MLB_776874_colt-keith-singles-after-review_auto1_29p660_35p660
+source_path: raw_sources\MLB_776874_colt-keith-singles-after-review_Colt_Keith_singles_after_review_Colt_Keith_singles_after_review_Colt_Keith_singles_after_review_Colt_Keith_singles_on_a_ground_.mp4
+clip_start_time: 29.660
+clip_end_time: 35.660

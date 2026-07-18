@@ -1,0 +1,7 @@
+video_title: Vladimir Guerrero Jr.'s diving play Vladimir Guerrero Jr.'s diving play Vladimir Guerrero Jr.'s diving play Vladimir Guerrero Jr. reacts quickly to a grounder and dives to his right to make a great stop, then gets the runner at first for the final out of the top of the 3rd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/13/6ea70793-0b7668d2-f886eb81-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776757_kevin-gausman-in-play-out-s-to-kyle-tucker-eeozg2
+clip_id: MLB_776757_kevin-gausman-in-play-out-s-to-kyle-tucker-eeozg2_auto1_0p920_6p920
+source_path: raw_sources\MLB_776757_kevin-gausman-in-play-out-s-to-kyle-tucker-eeozg2_Vladimir_Guerrero_Jr._s_diving_play_Vladimir_Guerrero_Jr._s_diving_play_Vladimir_Guerrero_Jr._s_diving_play_V.mp4
+clip_start_time: 0.920
+clip_end_time: 6.920

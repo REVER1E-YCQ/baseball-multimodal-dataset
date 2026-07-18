@@ -1,0 +1,7 @@
+video_title: J.P. Crawford's incredible glove flip J.P. Crawford's incredible glove flip J.P. Crawford's incredible glove flip J.P. Crawford's secures a grounder with a dive and makes a sensational glove flip to second for the final out of the inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/06/cd8cc03d-87444a64-35b3b04f-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776841_george-kirby-in-play-out-s-to-michael-a-taylor
+clip_id: MLB_776841_george-kirby-in-play-out-s-to-michael-a-taylor_auto1_7p060_13p060
+source_path: raw_sources\MLB_776841_george-kirby-in-play-out-s-to-michael-a-taylor_J.P._Crawford_s_incredible_glove_flip_J.P._Crawford_s_incredible_glove_flip_J.P._Crawford_s_incredible_glove_fli.mp4
+clip_start_time: 7.060
+clip_end_time: 13.060

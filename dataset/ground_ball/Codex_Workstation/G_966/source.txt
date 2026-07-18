@@ -1,0 +1,7 @@
+video_title: J.P. Crawford's smooth backhanded grab J.P. Crawford's smooth backhanded grab J.P. Crawford's smooth backhanded grab J.P. Crawford makes a terrific pick on his backhand on a sharp ground ball from Chandler Simpson and throws to first for the out in the 7th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/10/ef3ee142-d2557b30-a28d1b78-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776791_caleb-ferguson-in-play-out-s-to-chandler-simpson
+clip_id: MLB_776791_caleb-ferguson-in-play-out-s-to-chandler-simpson_auto1_0p340_6p340
+source_path: raw_sources\MLB_776791_caleb-ferguson-in-play-out-s-to-chandler-simpson_J.P._Crawford_s_smooth_backhanded_grab_J.P._Crawford_s_smooth_backhanded_grab_J.P._Crawford_s_smooth_backhande.mp4
+clip_start_time: 0.340
+clip_end_time: 6.340

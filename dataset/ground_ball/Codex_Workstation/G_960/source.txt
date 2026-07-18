@@ -1,0 +1,7 @@
+video_title: Daniel Palencia earns the save Daniel Palencia earns the save Daniel Palencia earns the save Daniel Palencia induces a grounder which is fielded by Nico Hoerner who gets the final out of the game as the Cubs defeat the Blue Jays, 4-1
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/13/e0c9b922-08686ee0-c8983712-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776757_addison-barger-grounds-out-second-baseman-nico-hoerner-to-first-basem
+clip_id: MLB_776757_addison-barger-grounds-out-second-baseman-nico-hoerner-to-first-basem_auto1_9p020_15p020
+source_path: raw_sources\MLB_776757_addison-barger-grounds-out-second-baseman-nico-hoerner-to-first-basem_Daniel_Palencia_earns_the_save_Daniel_Palencia_earns_the_save_Daniel_Palencia_earns_the_s.mp4
+clip_start_time: 9.020
+clip_end_time: 15.020
