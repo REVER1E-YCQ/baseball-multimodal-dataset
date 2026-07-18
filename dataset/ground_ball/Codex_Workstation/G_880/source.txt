@@ -1,0 +1,7 @@
+video_title: Bobby Witt Jr.'s jump throw Bobby Witt Jr.'s jump throw Bobby Witt Jr.'s jump throw Bobby Witt Jr. fields a grounder and makes a terrific throw to first base for the second out of the inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/11/4a8370d8-239fc5d9-391f60cd-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776784_luis-garcia-jr-grounds-out-shortstop-bobby-witt-jr-to-first-baseman-v
+clip_id: MLB_776784_luis-garcia-jr-grounds-out-shortstop-bobby-witt-jr-to-first-baseman-v_auto1_0p000_6p000
+source_path: raw_sources\MLB_776784_luis-garcia-jr-grounds-out-shortstop-bobby-witt-jr-to-first-baseman-v_Bobby_Witt_Jr._s_jump_throw_Bobby_Witt_Jr._s_jump_throw_Bobby_Witt_Jr._s_jump_throw_Bobby.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

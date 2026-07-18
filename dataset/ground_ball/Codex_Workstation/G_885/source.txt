@@ -1,0 +1,7 @@
+video_title: Jared Triolo's smooth running toss for the out Jared Triolo's smooth running toss for the out Jared Triolo's smooth running toss for the out Jared Triolo charges in to field the ground ball before making a nice running throw to retire Tyler Stephenson for the last out in the top of the 6th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/09/7c35fb3a-85690641-87a54ab6-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776812_carmen-mlodzinski-in-play-out-s-to-tyler-stephenson-j0jwm1
+clip_id: MLB_776812_carmen-mlodzinski-in-play-out-s-to-tyler-stephenson-j0jwm1_auto1_4p480_10p480
+source_path: raw_sources\MLB_776812_carmen-mlodzinski-in-play-out-s-to-tyler-stephenson-j0jwm1_Jared_Triolo_s_smooth_running_toss_for_the_out_Jared_Triolo_s_smooth_running_toss_for_the_out_Jared_.mp4
+clip_start_time: 4.480
+clip_end_time: 10.480

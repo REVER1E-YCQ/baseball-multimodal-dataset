@@ -1,0 +1,7 @@
+video_title: Rowdy Tellez fields his own deflection for out Rowdy Tellez fields his own deflection for out Rowdy Tellez fields his own deflection for out Rowdy Tellez deflects Paul Goldschmidt's grounder up and in front of him but grabs it and flips it to Nathan Evoaldi at first in time for the out
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/05/6e5813ea-eca3f0bb-96c16d89-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776855_nathan-eovaldi-in-play-out-s-to-paul-goldschmidt
+clip_id: MLB_776855_nathan-eovaldi-in-play-out-s-to-paul-goldschmidt_auto1_18p100_24p100
+source_path: raw_sources\MLB_776855_nathan-eovaldi-in-play-out-s-to-paul-goldschmidt_Rowdy_Tellez_fields_his_own_deflection_for_out_Rowdy_Tellez_fields_his_own_deflection_for_out_Rowdy_Tellez_fie.mp4
+clip_start_time: 18.100
+clip_end_time: 24.100

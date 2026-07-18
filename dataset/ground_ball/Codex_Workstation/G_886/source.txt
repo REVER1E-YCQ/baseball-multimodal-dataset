@@ -1,0 +1,7 @@
+video_title: Spencer Steer, Tony Santillan combine for the out Spencer Steer, Tony Santillan combine for the out Spencer Steer, Tony Santillan combine for the out Spencer Steer smothers the ground ball before making the flip to Tony Santillan to retire Bryan Reynolds to end the bottom of the 8th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/09/6f6ced56-ed873c3e-df166e71-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776812_tony-santillan-in-play-out-s-to-bryan-reynolds
+clip_id: MLB_776812_tony-santillan-in-play-out-s-to-bryan-reynolds_auto1_3p309_9p309
+source_path: raw_sources\MLB_776812_tony-santillan-in-play-out-s-to-bryan-reynolds_Spencer_Steer_Tony_Santillan_combine_for_the_out_Spencer_Steer_Tony_Santillan_combine_for_the_out_Spencer_Steer_.mp4
+clip_start_time: 3.309
+clip_end_time: 9.309

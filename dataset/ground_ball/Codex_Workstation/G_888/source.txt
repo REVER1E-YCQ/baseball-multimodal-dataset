@@ -1,0 +1,7 @@
+video_title: Jung Hoo Lee hustles to score on a grounder Jung Hoo Lee hustles to score on a grounder Jung Hoo Lee hustles to score on a grounder Patrick Bailey singles on a slow grounder down the third-base line and Jung Hoo Lee alertly hustles home to score on the throw to first
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/08/bf217923-7e5c36e1-e1bd061a-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776822_shinnosuke-ogasawara-in-play-run-s-to-patrick-bailey
+clip_id: MLB_776822_shinnosuke-ogasawara-in-play-run-s-to-patrick-bailey_auto1_16p520_22p520
+source_path: raw_sources\MLB_776822_shinnosuke-ogasawara-in-play-run-s-to-patrick-bailey_Jung_Hoo_Lee_hustles_to_score_on_a_grounder_Jung_Hoo_Lee_hustles_to_score_on_a_grounder_Jung_Hoo_Lee_hustl.mp4
+clip_start_time: 16.520
+clip_end_time: 22.520

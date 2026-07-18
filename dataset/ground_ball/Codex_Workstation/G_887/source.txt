@@ -1,0 +1,7 @@
+video_title: Michael A. Taylor singles in the 6th Michael A. Taylor singles in the 6th Michael A. Taylor singles in the 6th Michael A. Taylor singles on a ground ball deflected by Carlos Santana in the bottom of the 6th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/09/f1607155-65b04d3a-5fb0d4e3-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_776814_michael-a-taylor-singles-on-a-ground-ball-to-shortstop-gabriel-arias-
+clip_id: MLB_776814_michael-a-taylor-singles-on-a-ground-ball-to-shortstop-gabriel-arias-_auto1_1p580_7p580
+source_path: raw_sources\MLB_776814_michael-a-taylor-singles-on-a-ground-ball-to-shortstop-gabriel-arias-_Michael_A._Taylor_singles_in_the_6th_Michael_A._Taylor_singles_in_the_6th_Michael_A._Tayl.mp4
+clip_start_time: 1.580
+clip_end_time: 7.580
