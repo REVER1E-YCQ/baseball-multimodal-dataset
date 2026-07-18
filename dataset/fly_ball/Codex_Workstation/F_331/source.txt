@@ -1,0 +1,7 @@
+video_title: Elly De La Cruz's diving catch Elly De La Cruz's diving catch Elly De La Cruz's diving catch Elly De La Cruz makes a slick diving catch on Jerar Encarnacion's line drive in the 8th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-08/02/6d02ce6c-0dd67781-7921136d-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746679_jerar-encarnacion-lines-out-sharply-to-shortstop-elly-de-la-cruz
+clip_id: MLB_746679_jerar-encarnacion-lines-out-sharply-to-shortstop-elly-de-la-cruz_auto1_3p300_10p300
+source_path: raw_sources\MLB_746679_jerar-encarnacion-lines-out-sharply-to-shortstop-elly-de-la-cruz_Elly_De_La_Cruz_s_diving_catch_Elly_De_La_Cruz_s_diving_catch_Elly_De_La_Cruz_s_diving_catch_E.mp4
+clip_start_time: 3.300
+clip_end_time: 10.300

@@ -1,0 +1,7 @@
+video_title: Jake Meyers' RBI double Jake Meyers' RBI double Jake Meyers' RBI double Jake Meyers doubles on a sharp fly ball to left field, driving in Jon Singleton to extend the Astros' lead to 2-0 in the 2nd
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/10/0cd6c2b5-885355df-e86201a4-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746366_bryan-hoeing-in-play-run-s-to-jake-meyers
+clip_id: MLB_746366_bryan-hoeing-in-play-run-s-to-jake-meyers_auto1_11p940_18p940
+source_path: raw_sources\MLB_746366_bryan-hoeing-in-play-run-s-to-jake-meyers_Jake_Meyers_RBI_double_Jake_Meyers_RBI_double_Jake_Meyers_RBI_double_Jake_Meyers_doubles_on_a_sharp_fly_ball_to_left_.mp4
+clip_start_time: 11.940
+clip_end_time: 18.940

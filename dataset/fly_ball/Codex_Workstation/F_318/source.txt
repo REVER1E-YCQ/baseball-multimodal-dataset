@@ -1,0 +1,7 @@
+video_title: Willy Adames hits a foul after review Willy Adames hits a foul after review Willy Adames hits a foul after review Willy Adames fly ball to left field is ruled foul after the original call is confirmed following a review in the top of the 2nd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/07/8410f853-506e1486-8967cfc9-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746122_willy-adames-hits-a-foul-after-review
+clip_id: MLB_746122_willy-adames-hits-a-foul-after-review_auto1_0p000_7p000
+source_path: raw_sources\MLB_746122_willy-adames-hits-a-foul-after-review_Willy_Adames_hits_a_foul_after_review_Willy_Adames_hits_a_foul_after_review_Willy_Adames_hits_a_foul_after_review_Willy_A.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

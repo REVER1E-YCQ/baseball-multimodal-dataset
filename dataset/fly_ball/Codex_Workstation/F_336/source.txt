@@ -1,0 +1,7 @@
+video_title: Ryan Helsley seals the save and Cardinals' victory Ryan Helsley seals the save and Cardinals' victory Ryan Helsley seals the save and Cardinals' victory Ryan Helsley induces a fly ball to center field, sealing the save in the Cardinals' 5-4 victory over the Cubs
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-08/03/053ffef9-0454256c-e5e4aa6c-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746846_ryan-helsley-in-play-out-s-to-nico-hoerner-du17t6
+clip_id: MLB_746846_ryan-helsley-in-play-out-s-to-nico-hoerner-du17t6_auto1_0p560_7p560
+source_path: raw_sources\MLB_746846_ryan-helsley-in-play-out-s-to-nico-hoerner-du17t6_Ryan_Helsley_seals_the_save_and_Cardinals_victory_Ryan_Helsley_seals_the_save_and_Cardinals_victory_Ryan_Hels.mp4
+clip_start_time: 0.560
+clip_end_time: 7.560
