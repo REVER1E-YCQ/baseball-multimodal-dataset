@@ -1,0 +1,7 @@
+video_title: Luis Rengifo's three-run home run (8) Luis Rengifo's three-run home run (8) Luis Rengifo's three-run home run (8) Luis Rengifo lifts a three-run home run to left field to give the Angels a 3-0 in the top of the 1st inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/04/e298aa17-08899618-25977c97-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776463_luis-rengifo-homers-8-on-a-fly-ball-to-left-field-taylor-ward-scores-
+clip_id: MLB_776463_luis-rengifo-homers-8-on-a-fly-ball-to-left-field-taylor-ward-scores-_auto1_5p800_12p800
+source_path: raw_sources\MLB_776463_luis-rengifo-homers-8-on-a-fly-ball-to-left-field-taylor-ward-scores-_Luis_Rengifo_s_three-run_home_run_8_Luis_Rengifo_s_three-run_home_run_8_Luis_Rengifo_s_th.mp4
+clip_start_time: 5.800
+clip_end_time: 12.800

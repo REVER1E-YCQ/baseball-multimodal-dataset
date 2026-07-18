@@ -1,0 +1,7 @@
+video_title: Colson Montgomery's two-run home run (17) Colson Montgomery's two-run home run (17) Colson Montgomery's two-run home run (17) Colson Montgomery hits a 454-foot two-run home run to right-center field at 111.6 mph, extending the White Sox lead to 11-7 in the top of the 9th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/04/a4a97915-70544b85-08c4dfe8-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776462_colson-montgomery-homers-17-on-a-fly-ball-to-right-center-field-lenyn
+clip_id: MLB_776462_colson-montgomery-homers-17-on-a-fly-ball-to-right-center-field-lenyn_auto1_0p000_7p000
+source_path: raw_sources\MLB_776462_colson-montgomery-homers-17-on-a-fly-ball-to-right-center-field-lenyn_Colson_Montgomery_s_two-run_home_run_17_Colson_Montgomery_s_two-run_home_run_17_Colson_Mo.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

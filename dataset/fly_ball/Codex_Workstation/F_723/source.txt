@@ -1,0 +1,7 @@
+video_title: Kyle Teel's 413-foot home run Kyle Teel's 413-foot home run Kyle Teel's 413-foot home run Statcast measures Kyle Teel's game-tying home run at 413 feet with a 113.7 mph exit velocity
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/04/7c303320-7a6cf4cf-1b99f2aa-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776462_kyle-teel-s-413-foot-home-run
+clip_id: MLB_776462_kyle-teel-s-413-foot-home-run_auto1_5p800_12p800
+source_path: raw_sources\MLB_776462_kyle-teel-s-413-foot-home-run_Kyle_Teel_s_413-foot_home_run_Kyle_Teel_s_413-foot_home_run_Kyle_Teel_s_413-foot_home_run_Statcast_measures_Kyle_Teel_s_game-tyin.mp4
+clip_start_time: 5.800
+clip_end_time: 12.800

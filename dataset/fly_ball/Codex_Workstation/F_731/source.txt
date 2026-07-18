@@ -1,0 +1,7 @@
+video_title: Cowser, Mayo, Jackson slug back-to-back-to-back HRs Cowser, Mayo, Jackson slug back-to-back-to-back HRs Cowser, Mayo, Jackson slug back-to-back-to-back HRs Colton Cowser, Coby Mayo and Alex Jackson hit back-to-back-to-back home runs in the top of the 3rd to give the Orioles a 6-0 lead
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/03/97a7f86e-acca57f5-ecd97136-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776465_cowser-mayo-jackson-slug-back-to-back-to-back-hrs
+clip_id: MLB_776465_cowser-mayo-jackson-slug-back-to-back-to-back-hrs_auto1_0p000_7p000
+source_path: raw_sources\MLB_776465_cowser-mayo-jackson-slug-back-to-back-to-back-hrs_Cowser_Mayo_Jackson_slug_back-to-back-to-back_HRs_Cowser_Mayo_Jackson_slug_back-to-back-to-back_HRs_Cowser_Ma.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

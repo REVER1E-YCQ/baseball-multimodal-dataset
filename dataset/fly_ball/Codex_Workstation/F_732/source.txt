@@ -1,0 +1,7 @@
+video_title: Fernando Tatis Jr.'s solo home run (19) Fernando Tatis Jr.'s solo home run (19) Fernando Tatis Jr.'s solo home run (19) Fernando Tatis Jr. hits a solo home run to center field to trim the Padres' deficit to 7-5 in the bottom of the 7th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/03/503aceca-4ea95509-7e05d77b-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776465_fernando-tatis-jr-homers-19-on-a-fly-ball-to-center-field
+clip_id: MLB_776465_fernando-tatis-jr-homers-19-on-a-fly-ball-to-center-field_auto1_15p480_22p480
+source_path: raw_sources\MLB_776465_fernando-tatis-jr-homers-19-on-a-fly-ball-to-center-field_Fernando_Tatis_Jr._s_solo_home_run_19_Fernando_Tatis_Jr._s_solo_home_run_19_Fernando_Tatis_Jr._s_solo.mp4
+clip_start_time: 15.480
+clip_end_time: 22.480

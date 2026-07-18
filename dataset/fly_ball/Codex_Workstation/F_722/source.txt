@@ -1,0 +1,7 @@
+video_title: Kyle Teel's game-tying homer (6) Kyle Teel's game-tying homer (6) Kyle Teel's game-tying homer (6) Kyle Teel's 113.7 mph, 413-foot home run to right field ties the game at 7 in the top of the 7th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/04/8a31c14e-b2053a83-18addefa-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776462_kyle-teel-homers-6-on-a-fly-ball-to-right-field-michael-a-taylor-scor
+clip_id: MLB_776462_kyle-teel-homers-6-on-a-fly-ball-to-right-field-michael-a-taylor-scor_auto1_6p020_13p020
+source_path: raw_sources\MLB_776462_kyle-teel-homers-6-on-a-fly-ball-to-right-field-michael-a-taylor-scor_Kyle_Teel_s_game-tying_homer_6_Kyle_Teel_s_game-tying_homer_6_Kyle_Teel_s_game-tying_home.mp4
+clip_start_time: 6.020
+clip_end_time: 13.020

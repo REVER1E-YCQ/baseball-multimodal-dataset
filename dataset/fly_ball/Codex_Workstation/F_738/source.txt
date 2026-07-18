@@ -1,0 +1,7 @@
+video_title: Nasim Nuñez hits first two career homers vs. Marlins Nasim Nuñez hits first two career homers vs. Marlins Nasim Nuñez hits first two career homers vs. Marlins Nasim Nuñez hits the first two home runs of his Major League career against the Marlins to help propel the Nationals to a 10-5 win
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/03/e07c26b4-5157012c-eb339381-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776477_nasim-nunez-hits-first-two-career-homers-vs-marlins
+clip_id: MLB_776477_nasim-nunez-hits-first-two-career-homers-vs-marlins_auto1_0p000_7p000
+source_path: raw_sources\MLB_776477_nasim-nunez-hits-first-two-career-homers-vs-marlins_Nasim_Nu_ez_hits_first_two_career_homers_vs._Marlins_Nasim_Nu_ez_hits_first_two_career_homers_vs._Marlins_N.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000
