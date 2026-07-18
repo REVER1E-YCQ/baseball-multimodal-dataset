@@ -1,0 +1,7 @@
+video_title: Max Muncy's sac fly Max Muncy's sac fly Max Muncy's sac fly Max Muncy hits a fly ball deep enough for Brent Rooker to score from third base
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/22/2516db96-601c5cc3-db6e28b7-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_777411_hunter-gaddis-in-play-run-s-to-max-muncy
+clip_id: MLB_777411_hunter-gaddis-in-play-run-s-to-max-muncy_auto1_1p680_8p680
+source_path: raw_sources\MLB_777411_hunter-gaddis-in-play-run-s-to-max-muncy_Max_Muncy_s_sac_fly_Max_Muncy_s_sac_fly_Max_Muncy_s_sac_fly_Max_Muncy_hits_a_fly_ball_deep_enough_for_Brent_Rooker_to_.mp4
+clip_start_time: 1.680
+clip_end_time: 8.680

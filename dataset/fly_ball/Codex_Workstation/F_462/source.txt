@@ -1,0 +1,7 @@
+video_title: José Castillo secures the Mets' win, 8-1 José Castillo secures the Mets' win, 8-1 José Castillo secures the Mets' win, 8-1 Juan Soto catches Tyler Freeman's fly ball for the final out, securing the Mets' 8-1 victory over the Rockies
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/07/8ef7d4aa-a6eae167-78a9fdd8-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777604_tyler-freeman-flies-out-to-right-fielder-juan-soto
+clip_id: MLB_777604_tyler-freeman-flies-out-to-right-fielder-juan-soto_auto1_6p720_13p720
+source_path: raw_sources\MLB_777604_tyler-freeman-flies-out-to-right-fielder-juan-soto_Jos_Castillo_secures_the_Mets_win_8-1_Jos_Castillo_secures_the_Mets_win_8-1_Jos_Castillo_secures_the_Mets_wi.mp4
+clip_start_time: 6.720
+clip_end_time: 13.720

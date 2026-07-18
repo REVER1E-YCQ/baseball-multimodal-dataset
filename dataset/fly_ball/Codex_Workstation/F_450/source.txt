@@ -1,0 +1,7 @@
+video_title: Juan Soto's 1,000th career hit Juan Soto's 1,000th career hit Juan Soto's 1,000th career hit Juan Soto pulls a line drive to right field in the top of the 1st inning for his 1,000th career hit
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/19/37b2b8ca-b0b2e5d9-3163e5f8-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777455_juan-soto-singles-on-a-line-drive-to-right-fielder-ronald-acuna-jr
+clip_id: MLB_777455_juan-soto-singles-on-a-line-drive-to-right-fielder-ronald-acuna-jr_auto1_5p460_12p460
+source_path: raw_sources\MLB_777455_juan-soto-singles-on-a-line-drive-to-right-fielder-ronald-acuna-jr_Juan_Soto_s_1_000th_career_hit_Juan_Soto_s_1_000th_career_hit_Juan_Soto_s_1_000th_career_hit.mp4
+clip_start_time: 5.460
+clip_end_time: 12.460

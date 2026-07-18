@@ -1,0 +1,7 @@
+video_title: Colin Rea catches a comebacker to start a double play Colin Rea catches a comebacker to start a double play Colin Rea catches a comebacker to start a double play Colin Rea makes a stellar catch on a line drive, then throws to first base to complete the double play and end the top of the 4th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/22/3693e896-2803757d-90715cd8-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777403_colin-rea-in-play-out-s-to-j-p-crawford-abpu6g
+clip_id: MLB_777403_colin-rea-in-play-out-s-to-j-p-crawford-abpu6g_auto1_3p180_10p180
+source_path: raw_sources\MLB_777403_colin-rea-in-play-out-s-to-j-p-crawford-abpu6g_Colin_Rea_catches_a_comebacker_to_start_a_double_play_Colin_Rea_catches_a_comebacker_to_start_a_double_play_Coli.mp4
+clip_start_time: 3.180
+clip_end_time: 10.180

@@ -1,0 +1,7 @@
+video_title: Otto Kemp's diving catch Otto Kemp's diving catch Otto Kemp's diving catch Otto Kemp lays out to make a slick diving play and take away a hit on a line drive from Dansby Swanson in the 4th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/09/28f662d6-e536e061-1813be4b-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777578_zack-wheeler-in-play-out-s-to-dansby-swanson-syiswn
+clip_id: MLB_777578_zack-wheeler-in-play-out-s-to-dansby-swanson-syiswn_auto1_14p640_21p640
+source_path: raw_sources\MLB_777578_zack-wheeler-in-play-out-s-to-dansby-swanson-syiswn_Otto_Kemp_s_diving_catch_Otto_Kemp_s_diving_catch_Otto_Kemp_s_diving_catch_Otto_Kemp_lays_out_to_make_a_sli.mp4
+clip_start_time: 14.640
+clip_end_time: 21.640

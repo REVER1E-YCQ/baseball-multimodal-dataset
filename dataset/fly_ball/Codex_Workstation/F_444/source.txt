@@ -1,0 +1,7 @@
+video_title: Jazz Chisholm Jr. lifts Yankees with go-ahead double Jazz Chisholm Jr. lifts Yankees with go-ahead double Jazz Chisholm Jr. lifts Yankees with go-ahead double Jazz Chisholm Jr. belts a line drive off the right-center field wall to drive in two runs and put the Yankees ahead for good #CurtainCall
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/22/180c83d8-bb207b74-f77bd196-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777406_jazz-chisholm-jr-lifts-yankees-with-go-ahead-double
+clip_id: MLB_777406_jazz-chisholm-jr-lifts-yankees-with-go-ahead-double_auto1_9p920_16p920
+source_path: raw_sources\MLB_777406_jazz-chisholm-jr-lifts-yankees-with-go-ahead-double_Jazz_Chisholm_Jr._lifts_Yankees_with_go-ahead_double_Jazz_Chisholm_Jr._lifts_Yankees_with_go-ahead_double_J.mp4
+clip_start_time: 9.920
+clip_end_time: 16.920
