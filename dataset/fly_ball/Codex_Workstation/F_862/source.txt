@@ -1,0 +1,7 @@
+video_title: Kerry Carpenter's three-run homer (23) Kerry Carpenter's three-run homer (23) Kerry Carpenter's three-run homer (23) Kerry Carpenter lines a three-run home run to right field, extending the Tigers' lead to 6-2 in the 7th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/03/cd5e8ec4-580c9386-c13116cf-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776478_kerry-carpenter-homers-23-on-a-fly-ball-to-right-field-colt-keith-sco
+clip_id: MLB_776478_kerry-carpenter-homers-23-on-a-fly-ball-to-right-field-colt-keith-sco_auto1_10p700_17p700
+source_path: raw_sources\MLB_776478_kerry-carpenter-homers-23-on-a-fly-ball-to-right-field-colt-keith-sco_Kerry_Carpenter_s_three-run_homer_23_Kerry_Carpenter_s_three-run_homer_23_Kerry_Carpenter.mp4
+clip_start_time: 10.700
+clip_end_time: 17.700
