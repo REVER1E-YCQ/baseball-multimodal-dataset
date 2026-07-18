@@ -1,0 +1,7 @@
+video_title: Steven Kwan throws out Ramón Urías at second Steven Kwan throws out Ramón Urías at second Steven Kwan throws out Ramón Urías at second Steven Kwan fields Ramón Urías line drive to deep left field, then fires a perfect throw to second to cut him down in the top of the 7th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/22/80d253a1-a995ef48-5fbbc157-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777056_erik-sabrowski-in-play-out-s-to-ramon-urias
+clip_id: MLB_777056_erik-sabrowski-in-play-out-s-to-ramon-urias_auto1_8p880_15p880
+source_path: raw_sources\MLB_777056_erik-sabrowski-in-play-out-s-to-ramon-urias_Steven_Kwan_throws_out_Ram_n_Ur_as_at_second_Steven_Kwan_throws_out_Ram_n_Ur_as_at_second_Steven_Kwan_throws_out_Ra.mp4
+clip_start_time: 8.880
+clip_end_time: 15.880

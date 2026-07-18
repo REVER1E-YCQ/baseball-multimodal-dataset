@@ -1,0 +1,7 @@
+video_title: Pete Crow-Armstrong doubles up Abraham Toro  Pete Crow-Armstrong doubles up Abraham Toro  Pete Crow-Armstrong doubles up Abraham Toro  Pete Crow-Armstrong catches a line drive off the bat of Alex Bregman and fires it to second to double up Abraham Toro in the top of the 5th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/18/279e778e-7a50f3cc-a93dfe1c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777101_colin-rea-in-play-out-s-to-alex-bregman-8iqslk
+clip_id: MLB_777101_colin-rea-in-play-out-s-to-alex-bregman-8iqslk_auto1_0p000_7p000
+source_path: raw_sources\MLB_777101_colin-rea-in-play-out-s-to-alex-bregman-8iqslk_Pete_Crow-Armstrong_doubles_up_Abraham_Toro_Pete_Crow-Armstrong_doubles_up_Abraham_Toro_Pete_Crow-Armstrong_doub.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

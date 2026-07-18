@@ -1,0 +1,7 @@
+video_title: Manny Machado snares liner, doubles up Sánchez Manny Machado snares liner, doubles up Sánchez Manny Machado snares liner, doubles up Sánchez Manny Machado snares a line drive and fires to second to double up Jesús Sánchez in the bottom of the 3rd
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/21/69519b5e-029c4e5f-6415f46d-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777062_randy-vasquez-in-play-out-s-to-agustin-ramirez-u0f7py
+clip_id: MLB_777062_randy-vasquez-in-play-out-s-to-agustin-ramirez-u0f7py_auto1_4p980_11p980
+source_path: raw_sources\MLB_777062_randy-vasquez-in-play-out-s-to-agustin-ramirez-u0f7py_Manny_Machado_snares_liner_doubles_up_S_nchez_Manny_Machado_snares_liner_doubles_up_S_nchez_Manny_Machado.mp4
+clip_start_time: 4.980
+clip_end_time: 11.980

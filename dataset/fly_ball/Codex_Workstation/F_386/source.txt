@@ -1,0 +1,7 @@
+video_title: Brady Singer's nice snag Brady Singer's nice snag Brady Singer's nice snag Brady Singer makes a nice snag on a liner back to him on the mound in the 2nd
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/21/8bbcb571-e8684da4-e06d2106-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777064_jacob-young-lines-out-to-pitcher-brady-singer
+clip_id: MLB_777064_jacob-young-lines-out-to-pitcher-brady-singer_auto1_0p800_7p800
+source_path: raw_sources\MLB_777064_jacob-young-lines-out-to-pitcher-brady-singer_Brady_Singer_s_nice_snag_Brady_Singer_s_nice_snag_Brady_Singer_s_nice_snag_Brady_Singer_makes_a_nice_snag_on_a_li.mp4
+clip_start_time: 0.800
+clip_end_time: 7.800

@@ -1,0 +1,7 @@
+video_title: Abner Uribe secures the Brewers' 6-5 win Abner Uribe secures the Brewers' 6-5 win Abner Uribe secures the Brewers' 6-5 win Blake Perkins makes a sharp catch on Mookie Betts' line drive to strand the bases-loaded and seal the Brewers' 6-5 victory
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/20/adf6895d-fa5f8d66-577a4e8e-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777070_mookie-betts-lines-out-sharply-to-center-fielder-blake-perkins
+clip_id: MLB_777070_mookie-betts-lines-out-sharply-to-center-fielder-blake-perkins_auto1_0p000_7p000
+source_path: raw_sources\MLB_777070_mookie-betts-lines-out-sharply-to-center-fielder-blake-perkins_Abner_Uribe_secures_the_Brewers_6-5_win_Abner_Uribe_secures_the_Brewers_6-5_win_Abner_Uribe_secu.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

@@ -1,0 +1,7 @@
+video_title: Mike Trout's sac fly Mike Trout's sac fly Mike Trout's sac fly Mike Trout hits a fly ball deep enough for Zach Neto to score from third base
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/20/6fd96375-e188581e-ef67e121-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_777078_ranger-suarez-in-play-run-s-to-mike-trout
+clip_id: MLB_777078_ranger-suarez-in-play-run-s-to-mike-trout_auto1_10p040_17p040
+source_path: raw_sources\MLB_777078_ranger-suarez-in-play-run-s-to-mike-trout_Mike_Trout_s_sac_fly_Mike_Trout_s_sac_fly_Mike_Trout_s_sac_fly_Mike_Trout_hits_a_fly_ball_deep_enough_for_Zach_Neto_t.mp4
+clip_start_time: 10.040
+clip_end_time: 17.040

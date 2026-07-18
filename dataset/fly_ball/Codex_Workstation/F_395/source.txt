@@ -1,0 +1,7 @@
+video_title: Jacob Webb secures the win Jacob Webb secures the win Jacob Webb secures the win Jacob Webb secures the win after Kyle Higashioka catches a pop fly hit by Matt Vierling in foul territory to end the game
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/19/d0330f7b-cb57885f-2247caa8-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_777088_matt-vierling-pops-out-to-catcher-kyle-higashioka-in-foul-territory-u
+clip_id: MLB_777088_matt-vierling-pops-out-to-catcher-kyle-higashioka-in-foul-territory-u_auto1_4p966_11p966
+source_path: raw_sources\MLB_777088_matt-vierling-pops-out-to-catcher-kyle-higashioka-in-foul-territory-u_Jacob_Webb_secures_the_win_Jacob_Webb_secures_the_win_Jacob_Webb_secures_the_win_Jacob_We.mp4
+clip_start_time: 4.966
+clip_end_time: 11.966
