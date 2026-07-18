@@ -1,0 +1,7 @@
+video_title: Field View: Witt Jr's solo home run Field View: Witt Jr's solo home run Field View: Witt Jr's solo home run Don't miss this unique look at Bobby Witt Jr's solo home run against the Phillies in the top of the ninth inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/14/520f0213-8596b804-a28965e3-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776334_field-view-witt-jr-s-solo-home-run
+clip_id: MLB_776334_field-view-witt-jr-s-solo-home-run_auto1_1p700_8p700
+source_path: raw_sources\MLB_776334_field-view-witt-jr-s-solo-home-run_Field_View_Witt_Jr_s_solo_home_run_Field_View_Witt_Jr_s_solo_home_run_Field_View_Witt_Jr_s_solo_home_run_Don_t_miss_this_uni.mp4
+clip_start_time: 1.700
+clip_end_time: 8.700

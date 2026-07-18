@@ -1,0 +1,7 @@
+video_title: Angel Martínez's solo home run (11) Angel Martínez's solo home run (11) Angel Martínez's solo home run (11) Angel Martínez extends the Guardians' lead to 4-0 with a solo home run in the bottom of the 8th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/12/c61b0bb3-e1cab2aa-a80a0ea5-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776361_angel-martinez-homers-11-on-a-fly-ball-to-right-field
+clip_id: MLB_776361_angel-martinez-homers-11-on-a-fly-ball-to-right-field_auto1_4p480_11p480
+source_path: raw_sources\MLB_776361_angel-martinez-homers-11-on-a-fly-ball-to-right-field_Angel_Mart_nez_s_solo_home_run_11_Angel_Mart_nez_s_solo_home_run_11_Angel_Mart_nez_s_solo_home_run_11_Ang.mp4
+clip_start_time: 4.480
+clip_end_time: 11.480

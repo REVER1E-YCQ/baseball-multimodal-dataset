@@ -1,0 +1,7 @@
+video_title: Pete Alonso's walk-off home run (34) Pete Alonso's walk-off home run (34) Pete Alonso's walk-off home run (34) Pete Alonso wins it for the Mets with a walk-off home run to right field in the bottom of the 10th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/14/f6cb44e6-7ebc0bb5-3c003cc7-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776335_luis-curvelo-in-play-run-s-to-pete-alonso
+clip_id: MLB_776335_luis-curvelo-in-play-run-s-to-pete-alonso_auto1_6p000_13p000
+source_path: raw_sources\MLB_776335_luis-curvelo-in-play-run-s-to-pete-alonso_Pete_Alonso_s_walk-off_home_run_34_Pete_Alonso_s_walk-off_home_run_34_Pete_Alonso_s_walk-off_home_run_34_Pete_Alonso_.mp4
+clip_start_time: 6.000
+clip_end_time: 13.000

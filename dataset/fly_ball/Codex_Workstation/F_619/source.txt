@@ -1,0 +1,7 @@
+video_title: Jarren Duran's pinch-hit home run (15)  Jarren Duran's pinch-hit home run (15)  Jarren Duran's pinch-hit home run (15)  Jarren Duran lines a pinch-hit solo home run to right-center field, bringing the Red Sox within a run in the bottom of the 8th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/13/2f2f9c35-a79a1f87-c53c1906-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776344_fernando-cruz-in-play-run-s-to-jarren-duran
+clip_id: MLB_776344_fernando-cruz-in-play-run-s-to-jarren-duran_auto1_9p880_16p880
+source_path: raw_sources\MLB_776344_fernando-cruz-in-play-run-s-to-jarren-duran_Jarren_Duran_s_pinch-hit_home_run_15_Jarren_Duran_s_pinch-hit_home_run_15_Jarren_Duran_s_pinch-hit_home_run_15_Jarr.mp4
+clip_start_time: 9.880
+clip_end_time: 16.880

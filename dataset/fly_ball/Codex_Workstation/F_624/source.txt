@@ -1,0 +1,7 @@
+video_title: Ian Happ's solo home run (21) Ian Happ's solo home run (21) Ian Happ's solo home run (21) Ian Happ drills a solo home run to right field, pushing the Cubs' lead to 6-4 in the 4th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/12/58049d8d-27f96a34-bac62eb6-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776352_ian-happ-homers-21-on-a-fly-ball-to-right-field
+clip_id: MLB_776352_ian-happ-homers-21-on-a-fly-ball-to-right-field_auto1_0p000_7p000
+source_path: raw_sources\MLB_776352_ian-happ-homers-21-on-a-fly-ball-to-right-field_Ian_Happ_s_solo_home_run_21_Ian_Happ_s_solo_home_run_21_Ian_Happ_s_solo_home_run_21_Ian_Happ_drills_a_solo_home.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

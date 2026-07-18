@@ -1,0 +1,7 @@
+video_title: Dylan Crews' two-run homer (9) Dylan Crews' two-run homer (9) Dylan Crews' two-run homer (9) Dylan Crews hits a go-ahead two-run home run to center field to give the Nationals a 4-3 lead in the bottom of the 7th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/12/9e727906-3ec3aaac-5baf88cc-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776351_dylan-crews-homers-9-on-a-fly-ball-to-center-field-jacob-young-scores
+clip_id: MLB_776351_dylan-crews-homers-9-on-a-fly-ball-to-center-field-jacob-young-scores_auto1_0p000_7p000
+source_path: raw_sources\MLB_776351_dylan-crews-homers-9-on-a-fly-ball-to-center-field-jacob-young-scores_Dylan_Crews_two-run_homer_9_Dylan_Crews_two-run_homer_9_Dylan_Crews_two-run_homer_9_Dylan.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

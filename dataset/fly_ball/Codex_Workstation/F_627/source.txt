@@ -1,0 +1,7 @@
+video_title: Juan Soto's sacrifice fly Juan Soto's sacrifice fly Juan Soto's sacrifice fly Juan Soto lifts a sacrifice fly to center field, scoring Cedric Mullins to reduce the Mets' deficit to 6-2 in the bottom of the 3rd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/12/e97b754c-8e3bc312-75e6564f-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776359_jacob-degrom-in-play-out-s-to-juan-soto-tzfihb
+clip_id: MLB_776359_jacob-degrom-in-play-out-s-to-juan-soto-tzfihb_auto1_0p100_7p100
+source_path: raw_sources\MLB_776359_jacob-degrom-in-play-out-s-to-juan-soto-tzfihb_Juan_Soto_s_sacrifice_fly_Juan_Soto_s_sacrifice_fly_Juan_Soto_s_sacrifice_fly_Juan_Soto_lifts_a_sacrifice_fly_to.mp4
+clip_start_time: 0.100
+clip_end_time: 7.100
