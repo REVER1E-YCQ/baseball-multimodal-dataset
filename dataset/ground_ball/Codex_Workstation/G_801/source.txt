@@ -1,0 +1,7 @@
+video_title: Christian Walker turns an odd unassisted double play Christian Walker turns an odd unassisted double play Christian Walker turns an odd unassisted double play Christian Walker fields a ground ball hit by Drake Baldwin, tags Ronald Acuña Jr. and steps on first for the double play
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/13/f3a0b4bb-8b5220c0-992bdf4f-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776346_hunter-brown-in-play-out-s-to-drake-baldwin
+clip_id: MLB_776346_hunter-brown-in-play-out-s-to-drake-baldwin_auto1_13p700_19p700
+source_path: raw_sources\MLB_776346_hunter-brown-in-play-out-s-to-drake-baldwin_Christian_Walker_turns_an_odd_unassisted_double_play_Christian_Walker_turns_an_odd_unassisted_double_play_Christian.mp4
+clip_start_time: 13.700
+clip_end_time: 19.700

@@ -1,0 +1,7 @@
+video_title: Gabriel Moreno's throw across his body Gabriel Moreno's throw across his body Gabriel Moreno's throw across his body Gabriel Moreno fields a softly hit grounder and completes a miraculous throw across his body for the out
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/08/1af262f7-f5f8ffa6-b12e933d-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776399_brandyn-garcia-in-play-out-s-to-heliot-ramos
+clip_id: MLB_776399_brandyn-garcia-in-play-out-s-to-heliot-ramos_auto1_4p280_10p280
+source_path: raw_sources\MLB_776399_brandyn-garcia-in-play-out-s-to-heliot-ramos_Gabriel_Moreno_s_throw_across_his_body_Gabriel_Moreno_s_throw_across_his_body_Gabriel_Moreno_s_throw_across_his_bo.mp4
+clip_start_time: 4.280
+clip_end_time: 10.280

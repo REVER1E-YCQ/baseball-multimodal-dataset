@@ -1,0 +1,7 @@
+video_title: Jose A. Ferrer secures the Nationals' 7-5 win Jose A. Ferrer secures the Nationals' 7-5 win Jose A. Ferrer secures the Nationals' 7-5 win Jose A. Ferrer induces a grounder to shortstop to end the Marlins' threat and secure the Nationals' 7-5 victory
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/09/92b9a594-2c7eb353-592a91b4-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776397_jose-a-ferrer-in-play-out-s-to-agustin-ramirez
+clip_id: MLB_776397_jose-a-ferrer-in-play-out-s-to-agustin-ramirez_auto1_3p060_9p060
+source_path: raw_sources\MLB_776397_jose-a-ferrer-in-play-out-s-to-agustin-ramirez_Jose_A._Ferrer_secures_the_Nationals_7-5_win_Jose_A._Ferrer_secures_the_Nationals_7-5_win_Jose_A._Ferrer_secures.mp4
+clip_start_time: 3.060
+clip_end_time: 9.060

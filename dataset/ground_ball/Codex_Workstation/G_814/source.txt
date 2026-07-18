@@ -1,0 +1,7 @@
+video_title: Carter Jensen's RBI groundout Carter Jensen's RBI groundout Carter Jensen's RBI groundout Carter Jensen is thrown out on a ground ball to Luke Keaschall and drives in Jac Caglianone, extending the Royals' lead to 11-2 in the bottom of the 6th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/06/4a6d4b0e-eef26d9b-91409159-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_776434_carter-jensen-s-rbi-groundout
+clip_id: MLB_776434_carter-jensen-s-rbi-groundout_auto1_1p520_7p520
+source_path: raw_sources\MLB_776434_carter-jensen-s-rbi-groundout_Carter_Jensen_s_RBI_groundout_Carter_Jensen_s_RBI_groundout_Carter_Jensen_s_RBI_groundout_Carter_Jensen_is_thrown_out_on_a_ground.mp4
+clip_start_time: 1.520
+clip_end_time: 7.520

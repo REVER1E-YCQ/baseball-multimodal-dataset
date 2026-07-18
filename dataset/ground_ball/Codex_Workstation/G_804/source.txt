@@ -1,0 +1,7 @@
+video_title: Miguel Vargas makes a strong throw to nab Ramírez Miguel Vargas makes a strong throw to nab Ramírez Miguel Vargas makes a strong throw to nab Ramírez Miguel Vargas fields a hard-hit grounder and makes a strong throw to sit down José Ramírez
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/12/75dc49f8-38fe52e6-07a7c198-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776361_martin-perez-in-play-out-s-to-jose-ramirez-3svra3
+clip_id: MLB_776361_martin-perez-in-play-out-s-to-jose-ramirez-3svra3_auto1_2p980_8p980
+source_path: raw_sources\MLB_776361_martin-perez-in-play-out-s-to-jose-ramirez-3svra3_Miguel_Vargas_makes_a_strong_throw_to_nab_Ram_rez_Miguel_Vargas_makes_a_strong_throw_to_nab_Ram_rez_Miguel_Va.mp4
+clip_start_time: 2.980
+clip_end_time: 8.980

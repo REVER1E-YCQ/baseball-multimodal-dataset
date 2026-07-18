@@ -1,0 +1,7 @@
+video_title: Caleb Durbin's dazzling spinning play Caleb Durbin's dazzling spinning play Caleb Durbin's dazzling spinning play Caleb Durbin ranges to corral a ground ball from Pedro Pagés and twirls on the run to rip a strong throw to first for the out in the top of the 2nd
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/13/0771fdfa-cceaa592-d1d5d9de-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776339_pedro-pages-grounds-out-third-baseman-caleb-durbin-to-first-baseman-j
+clip_id: MLB_776339_pedro-pages-grounds-out-third-baseman-caleb-durbin-to-first-baseman-j_auto1_0p000_6p000
+source_path: raw_sources\MLB_776339_pedro-pages-grounds-out-third-baseman-caleb-durbin-to-first-baseman-j_Caleb_Durbin_s_dazzling_spinning_play_Caleb_Durbin_s_dazzling_spinning_play_Caleb_Durbin_.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

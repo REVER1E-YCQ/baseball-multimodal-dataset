@@ -1,0 +1,7 @@
+video_title: Trevor Larnach's RBI single after review Trevor Larnach's RBI single after review Trevor Larnach's RBI single after review Trevor Larnach singles on a ground ball to second, scoring Ryan Fitzgerald to tie the game at 3 after review in the 4th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/04/1e2428b6-eb765844-441f7f8d-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776462_jonathan-cannon-in-play-out-s-to-trevor-larnach-fe43ld
+clip_id: MLB_776462_jonathan-cannon-in-play-out-s-to-trevor-larnach-fe43ld_auto1_0p000_6p000
+source_path: raw_sources\MLB_776462_jonathan-cannon-in-play-out-s-to-trevor-larnach-fe43ld_Trevor_Larnach_s_RBI_single_after_review_Trevor_Larnach_s_RBI_single_after_review_Trevor_Larnach_s_RBI_s.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

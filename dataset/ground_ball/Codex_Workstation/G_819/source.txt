@@ -1,0 +1,7 @@
+video_title: Junior Caminero's RBI single Junior Caminero's RBI single Junior Caminero's RBI single Junior Caminero singles on a ground ball to left field, plating Yandy Díaz to put the Rays on the board in the 1st
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/02/c8eb7f45-73e03bff-d89115f8-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776485_junior-caminero-singles-on-a-ground-ball-to-left-fielder-randy-arozar
+clip_id: MLB_776485_junior-caminero-singles-on-a-ground-ball-to-left-fielder-randy-arozar_auto1_0p000_6p000
+source_path: raw_sources\MLB_776485_junior-caminero-singles-on-a-ground-ball-to-left-fielder-randy-arozar_Junior_Caminero_s_RBI_single_Junior_Caminero_s_RBI_single_Junior_Caminero_s_RBI_single_Ju.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

@@ -1,0 +1,7 @@
+video_title: Brice Turang's RBI fielder's choice Brice Turang's RBI fielder's choice Brice Turang's RBI fielder's choice Brice Turang hits a grounder to first to plate Sal Frelick, extending the Brewers' lead to 4-0 in the bottom of the 3rd
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/12/b7eaebb1-d0420369-29c4bd03-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_776356_andre-pallante-in-play-no-out-to-brice-turang-urfyvm
+clip_id: MLB_776356_andre-pallante-in-play-no-out-to-brice-turang-urfyvm_auto1_5p240_11p240
+source_path: raw_sources\MLB_776356_andre-pallante-in-play-no-out-to-brice-turang-urfyvm_Brice_Turang_s_RBI_fielder_s_choice_Brice_Turang_s_RBI_fielder_s_choice_Brice_Turang_s_RBI_fielder_s_choic.mp4
+clip_start_time: 5.240
+clip_end_time: 11.240
