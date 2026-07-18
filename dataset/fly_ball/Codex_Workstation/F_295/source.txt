@@ -1,0 +1,7 @@
+video_title: Lou Trivino induces a fly ball to end the game Lou Trivino induces a fly ball to end the game Lou Trivino induces a fly ball to end the game Lou Trivino induces a fly ball to end the game
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/10/f2a35800-33d69ab6-af9158fa-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_776384_lou-trivino-in-play-out-s-to-juan-soto-mzi2jv
+clip_id: MLB_776384_lou-trivino-in-play-out-s-to-juan-soto-mzi2jv_auto1_5p372_12p372
+source_path: raw_sources\MLB_776384_lou-trivino-in-play-out-s-to-juan-soto-mzi2jv_Lou_Trivino_induces_a_fly_ball_to_end_the_game_Lou_Trivino_induces_a_fly_ball_to_end_the_game_Lou_Trivino_induces.mp4
+clip_start_time: 5.372
+clip_end_time: 12.372

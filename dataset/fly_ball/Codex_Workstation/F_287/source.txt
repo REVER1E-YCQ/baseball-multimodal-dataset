@@ -1,0 +1,7 @@
+video_title: Ramon Laureano assists in double play Ramon Laureano assists in double play Ramon Laureano assists in double play Ramón Laureano catches the fly ball and throws to Jose Iglesias, who tags out James McCann at third for the double play
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/06/83c1bac7-1dbe05bc-84a3e98b-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776838_adrian-morejon-in-play-out-s-to-jorge-barrosa-rllgjp-x1625
+clip_id: MLB_776838_adrian-morejon-in-play-out-s-to-jorge-barrosa-rllgjp-x1625_auto1_2p660_9p660
+source_path: raw_sources\MLB_776838_adrian-morejon-in-play-out-s-to-jorge-barrosa-rllgjp-x1625_Ramon_Laureano_assists_in_double_play_Ramon_Laureano_assists_in_double_play_Ramon_Laureano_assists_i.mp4
+clip_start_time: 2.660
+clip_end_time: 9.660
