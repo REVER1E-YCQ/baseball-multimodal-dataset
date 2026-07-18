@@ -1,0 +1,7 @@
+video_title: Brenton Doyle's solo home run (15) Brenton Doyle's solo home run (15) Brenton Doyle's solo home run (15) Brenton Doyle drills a solo home run to left field, pushing the Rockies' lead to 2-0 in the 2nd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/27/7f8b08ba-12b46279-ec948dbd-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776146_brenton-doyle-homers-15-on-a-fly-ball-to-left-center-field
+clip_id: MLB_776146_brenton-doyle-homers-15-on-a-fly-ball-to-left-center-field_auto1_0p000_7p000
+source_path: raw_sources\MLB_776146_brenton-doyle-homers-15-on-a-fly-ball-to-left-center-field_Brenton_Doyle_s_solo_home_run_15_Brenton_Doyle_s_solo_home_run_15_Brenton_Doyle_s_solo_home_run_15_B.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

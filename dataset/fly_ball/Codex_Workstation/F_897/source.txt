@@ -1,0 +1,7 @@
+video_title: James Wood's go-ahead homer (31) James Wood's go-ahead homer (31) James Wood's go-ahead homer (31) James Wood goes back-to-back with Jacob Young, giving the Nationals a 5-4 lead in the 7th inning with a solo home run
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/27/4c59ad04-6fabb053-5ef84b9f-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776160_james-wood-homers-31-on-a-fly-ball-to-center-field
+clip_id: MLB_776160_james-wood-homers-31-on-a-fly-ball-to-center-field_auto1_0p000_7p000
+source_path: raw_sources\MLB_776160_james-wood-homers-31-on-a-fly-ball-to-center-field_James_Wood_s_go-ahead_homer_31_James_Wood_s_go-ahead_homer_31_James_Wood_s_go-ahead_homer_31_James_Wood_goes.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000
