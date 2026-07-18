@@ -1,0 +1,7 @@
+video_title: José Ramírez's sliding stop José Ramírez's sliding stop José Ramírez's sliding stop José Ramírez makes a great sliding stop on Andy Ibáñez's hard grounder up the third-base line and throw to second to retire the lead runner
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/24/43fa7868-583cb825-f59dca95-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776204_tim-herrin-in-play-out-s-to-andy-ibanez-yojrbi
+clip_id: MLB_776204_tim-herrin-in-play-out-s-to-andy-ibanez-yojrbi_auto1_3p240_9p240
+source_path: raw_sources\MLB_776204_tim-herrin-in-play-out-s-to-andy-ibanez-yojrbi_Jos_Ram_rez_s_sliding_stop_Jos_Ram_rez_s_sliding_stop_Jos_Ram_rez_s_sliding_stop_Jos_Ram_rez_makes_a_great_slidi.mp4
+clip_start_time: 3.240
+clip_end_time: 9.240

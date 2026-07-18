@@ -1,0 +1,7 @@
+video_title: Francisco Lindor's sharp defense Francisco Lindor's sharp defense Francisco Lindor's sharp defense Francisco Lindor charges in to make a slick stop on this bouncing grounder and delivers the throw in time to end the 6th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/26/d0a14286-2857f0aa-cddd1b9a-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776173_gregory-soto-in-play-out-s-to-graham-pauley
+clip_id: MLB_776173_gregory-soto-in-play-out-s-to-graham-pauley_auto1_4p480_10p480
+source_path: raw_sources\MLB_776173_gregory-soto-in-play-out-s-to-graham-pauley_Francisco_Lindor_s_sharp_defense_Francisco_Lindor_s_sharp_defense_Francisco_Lindor_s_sharp_defense_Francisco_Lindor.mp4
+clip_start_time: 4.480
+clip_end_time: 10.480

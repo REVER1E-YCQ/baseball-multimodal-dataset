@@ -1,0 +1,7 @@
+video_title: Ha-Seong Kim's diving stop Ha-Seong Kim's diving stop Ha-Seong Kim's diving stop Ha-Seong Kim makes a terrific diving effort to collect a sharp ground ball and tosses to second for the force out in the top of the 9th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/27/744f346a-87635ac7-206e9178-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_776156_raisel-iglesias-in-play-out-s-to-jared-triolo
+clip_id: MLB_776156_raisel-iglesias-in-play-out-s-to-jared-triolo_auto1_1p400_7p400
+source_path: raw_sources\MLB_776156_raisel-iglesias-in-play-out-s-to-jared-triolo_Ha-Seong_Kim_s_diving_stop_Ha-Seong_Kim_s_diving_stop_Ha-Seong_Kim_s_diving_stop_Ha-Seong_Kim_makes_a_terrific_di.mp4
+clip_start_time: 1.400
+clip_end_time: 7.400
