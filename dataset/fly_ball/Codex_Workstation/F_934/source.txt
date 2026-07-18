@@ -1,0 +1,7 @@
+video_title: James Wood's solo home run (29) James Wood's solo home run (29) James Wood's solo home run (29) James Wood gives the Nationals a 3-0 lead in the top of the 6th inning with a towering solo home run to center
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/24/e4f8d7c8-3b5cc8de-74daa1c3-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776200_james-wood-homers-29-on-a-fly-ball-to-center-field
+clip_id: MLB_776200_james-wood-homers-29-on-a-fly-ball-to-center-field_auto1_0p000_7p000
+source_path: raw_sources\MLB_776200_james-wood-homers-29-on-a-fly-ball-to-center-field_James_Wood_s_solo_home_run_29_James_Wood_s_solo_home_run_29_James_Wood_s_solo_home_run_29_James_Wood_gives_t.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

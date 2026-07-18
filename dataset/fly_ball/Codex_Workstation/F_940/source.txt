@@ -1,0 +1,7 @@
+video_title: James Wood's second homer of the game (30) James Wood's second homer of the game (30) James Wood's second homer of the game (30) James Wood hits a deep home run to center, his second homer of the game and his 30th of the season to give the Nationals a 4-2 lead in the 8th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/24/f9686ffb-3e310939-d124f306-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776200_tyler-kinley-in-play-run-s-to-james-wood
+clip_id: MLB_776200_tyler-kinley-in-play-run-s-to-james-wood_auto1_0p000_7p000
+source_path: raw_sources\MLB_776200_tyler-kinley-in-play-run-s-to-james-wood_James_Wood_s_second_homer_of_the_game_30_James_Wood_s_second_homer_of_the_game_30_James_Wood_s_second_homer_of_the_gam.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

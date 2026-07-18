@@ -1,0 +1,7 @@
+video_title: Drake Baldwin's solo home run (19) Drake Baldwin's solo home run (19) Drake Baldwin's solo home run (19) Drake Baldwin puts the Braves on the board in the bottom of the 6th with a solo home run
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/24/5d0b5f15-90fa9ccd-6bce4015-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776200_julian-fernandez-in-play-run-s-to-drake-baldwin
+clip_id: MLB_776200_julian-fernandez-in-play-run-s-to-drake-baldwin_auto1_3p920_10p920
+source_path: raw_sources\MLB_776200_julian-fernandez-in-play-run-s-to-drake-baldwin_Drake_Baldwin_s_solo_home_run_19_Drake_Baldwin_s_solo_home_run_19_Drake_Baldwin_s_solo_home_run_19_Drake_Baldwi.mp4
+clip_start_time: 3.920
+clip_end_time: 10.920

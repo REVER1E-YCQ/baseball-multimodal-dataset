@@ -1,0 +1,7 @@
+video_title: Field View: Riley Greene's solo home run Field View: Riley Greene's solo home run Field View: Riley Greene's solo home run Check out this unique angle of Riley Greene's solo home run in the top of the 4th inning against the Guardians
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/25/c6b8a9a7-c98b5858-b806163a-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776189_field-view-riley-greene-s-solo-home-run-x4558
+clip_id: MLB_776189_field-view-riley-greene-s-solo-home-run-x4558_auto1_0p180_7p180
+source_path: raw_sources\MLB_776189_field-view-riley-greene-s-solo-home-run-x4558_Field_View_Riley_Greene_s_solo_home_run_Field_View_Riley_Greene_s_solo_home_run_Field_View_Riley_Greene_s_solo_ho.mp4
+clip_start_time: 0.180
+clip_end_time: 7.180

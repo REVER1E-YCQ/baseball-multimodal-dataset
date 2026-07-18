@@ -1,0 +1,7 @@
+video_title: Freddie Freeman's two-homer outing Freddie Freeman's two-homer outing Freddie Freeman's two-homer outing Freddie Freeman hits two home runs to bring home three runs in an outstanding offensive outing vs. the D-backs
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/25/f3f34dc2-f15af924-8294fb39-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776185_freddie-freeman-s-two-homer-outing
+clip_id: MLB_776185_freddie-freeman-s-two-homer-outing_auto1_0p000_7p000
+source_path: raw_sources\MLB_776185_freddie-freeman-s-two-homer-outing_Freddie_Freeman_s_two-homer_outing_Freddie_Freeman_s_two-homer_outing_Freddie_Freeman_s_two-homer_outing_Freddie_Freeman_hit.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

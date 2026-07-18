@@ -1,0 +1,7 @@
+video_title: Freddie Freeman's second homer of the game (23)  Freddie Freeman's second homer of the game (23)  Freddie Freeman's second homer of the game (23) Freddie Freeman hits a two-run home run to right-center field in the top of the 4th inning to score Teoscar Hernández and make it 8-0 Dodgers
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/25/7e88f1d1-c85013f1-503e01b8-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776185_freddie-freeman-homers-23-on-a-fly-ball-to-right-center-field-teoscar
+clip_id: MLB_776185_freddie-freeman-homers-23-on-a-fly-ball-to-right-center-field-teoscar_auto1_1p180_8p180
+source_path: raw_sources\MLB_776185_freddie-freeman-homers-23-on-a-fly-ball-to-right-center-field-teoscar_Freddie_Freeman_s_second_homer_of_the_game_23_Freddie_Freeman_s_second_homer_of_the_game_.mp4
+clip_start_time: 1.180
+clip_end_time: 8.180
