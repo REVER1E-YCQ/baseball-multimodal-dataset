@@ -1,0 +1,7 @@
+video_title: Bryan Reynolds makes a diving grab Bryan Reynolds makes a diving grab Bryan Reynolds makes a diving grab Bryan Reynolds charges a soft liner and makes a diving grab to rob Ezequiel Tovar of a base hit
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/16/88e7f7ec-b8e61b2b-4c37c470-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746546_ezequiel-tovar-lines-out-to-left-fielder-bryan-reynolds
+clip_id: MLB_746546_ezequiel-tovar-lines-out-to-left-fielder-bryan-reynolds_auto1_2p260_9p260
+source_path: raw_sources\MLB_746546_ezequiel-tovar-lines-out-to-left-fielder-bryan-reynolds_Bryan_Reynolds_makes_a_diving_grab_Bryan_Reynolds_makes_a_diving_grab_Bryan_Reyn.mp4
+clip_start_time: 2.260
+clip_end_time: 9.260

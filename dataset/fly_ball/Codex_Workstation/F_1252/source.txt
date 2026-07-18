@@ -1,0 +1,7 @@
+video_title: Lane Thomas' first Guardians hit Lane Thomas' first Guardians hit Lane Thomas' first Guardians hit Lane Thomas singles on a sharp line drive to center to mark his first hit with the Guardians
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/30/1e17dbbc-4c310944-b7400117-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746441_lane-thomas-singles-on-a-sharp-line-drive-to-center-fielder-matt-vier
+clip_id: MLB_746441_lane-thomas-singles-on-a-sharp-line-drive-to-center-fielder-matt-vier_auto1_15p155_22p155
+source_path: raw_sources\MLB_746441_lane-thomas-singles-on-a-sharp-line-drive-to-center-fielder-matt-vier_Lane_Thomas_first_Guardians_hit_Lane_Thomas_first_Guardians_hit_Lane_Thomas_first_Guardia.mp4
+clip_start_time: 15.155
+clip_end_time: 22.155

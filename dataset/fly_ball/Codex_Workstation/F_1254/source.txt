@@ -1,0 +1,7 @@
+video_title: Bryce Harper's double  Bryce Harper's double  Bryce Harper's double  Bryce Harper sends a line drive to left field, marking his 19th double of the season in the top of the 3rd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/25/e17b726c-4fb57391-5057158c-csvm-diamondx64-asset-4000K.mp4
+source_id: MLB_746454_bryce-harper-doubles-19-on-a-line-drive-to-left-fielder-riley-greene-
+clip_id: MLB_746454_bryce-harper-doubles-19-on-a-line-drive-to-left-fielder-riley-greene-_auto1_5p680_12p680
+source_path: raw_sources\MLB_746454_bryce-harper-doubles-19-on-a-line-drive-to-left-fielder-riley-greene-_Bryce_Harper_s_double_Bryce_Harper_s_double_Bryce_Harper_s_double_Bryce_Harper_sends_a_li.mp4
+clip_start_time: 5.680
+clip_end_time: 12.680

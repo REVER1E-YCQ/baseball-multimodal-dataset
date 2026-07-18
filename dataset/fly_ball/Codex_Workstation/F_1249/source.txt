@@ -1,0 +1,7 @@
+video_title: Ronel Blanco snags sharp line drive Ronel Blanco snags sharp line drive Ronel Blanco snags sharp line drive Ronel Blanco snags a sharp line drive to end the top of the 4th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/14/053a831a-a801ed45-a84d3379-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746370_jonah-heim-lines-out-to-pitcher-ronel-blanco
+clip_id: MLB_746370_jonah-heim-lines-out-to-pitcher-ronel-blanco_auto1_11p869_18p869
+source_path: raw_sources\MLB_746370_jonah-heim-lines-out-to-pitcher-ronel-blanco_Ronel_Blanco_snags_sharp_line_drive_Ronel_Blanco_snags_sharp_line_drive_Ronel_Blanco_snags_sharp_line_drive_Ronel_.mp4
+clip_start_time: 11.869
+clip_end_time: 18.869
