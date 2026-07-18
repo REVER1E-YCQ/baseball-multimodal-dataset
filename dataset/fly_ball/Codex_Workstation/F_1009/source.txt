@@ -1,0 +1,7 @@
+video_title: Rob Refsnyder's solo home run (9) Rob Refsnyder's solo home run (9) Rob Refsnyder's solo home run (9) Rob Refsnyder belts a solo home run off the foul pole in left field to give the Red Sox a 2-1 lead in the 2nd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/17/1973249f-40eff8c5-791906b4-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776299_rob-refsnyder-homers-9-on-a-fly-ball-to-left-field
+clip_id: MLB_776299_rob-refsnyder-homers-9-on-a-fly-ball-to-left-field_auto1_5p300_12p300
+source_path: raw_sources\MLB_776299_rob-refsnyder-homers-9-on-a-fly-ball-to-left-field_Rob_Refsnyder_s_solo_home_run_9_Rob_Refsnyder_s_solo_home_run_9_Rob_Refsnyder_s_solo_home_run_9_Rob_Refsnyde.mp4
+clip_start_time: 5.300
+clip_end_time: 12.300

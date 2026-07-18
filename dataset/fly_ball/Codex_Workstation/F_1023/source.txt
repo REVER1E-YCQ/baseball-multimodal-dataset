@@ -1,0 +1,7 @@
+video_title: Matt Olson homers in fourth straight game (27) Matt Olson homers in fourth straight game (27) Matt Olson homers in fourth straight game (27) Matt Olson crushes a home run to right-center field for his fourth straight game with a homer, extending the Braves' lead to 5-2 in the 4th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/16/7d3725cb-f283ed5a-9dc0d009-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777825_matt-olson-homers-27-on-a-fly-ball-to-center-field
+clip_id: MLB_777825_matt-olson-homers-27-on-a-fly-ball-to-center-field_auto1_3p360_10p360
+source_path: raw_sources\MLB_777825_matt-olson-homers-27-on-a-fly-ball-to-center-field_Matt_Olson_homers_in_fourth_straight_game_27_Matt_Olson_homers_in_fourth_straight_game_27_Matt_Olson_homers_.mp4
+clip_start_time: 3.360
+clip_end_time: 10.360

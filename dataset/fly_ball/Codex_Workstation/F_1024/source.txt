@@ -1,0 +1,7 @@
+video_title: Daniel Schneemann's solo home run (12) Daniel Schneemann's solo home run (12) Daniel Schneemann's solo home run (12) Daniel Schneemann crushes a solo home run to right field, the Guardians' fourth solo homer of the game to take a 4-0 lead
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/20/feda59ac-f627efb9-f00340ae-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777839_daniel-schneemann-homers-12-on-a-fly-ball-to-right-field
+clip_id: MLB_777839_daniel-schneemann-homers-12-on-a-fly-ball-to-right-field_auto1_3p580_10p580
+source_path: raw_sources\MLB_777839_daniel-schneemann-homers-12-on-a-fly-ball-to-right-field_Daniel_Schneemann_s_solo_home_run_12_Daniel_Schneemann_s_solo_home_run_12_Daniel_Schneemann_s_solo_hom.mp4
+clip_start_time: 3.580
+clip_end_time: 10.580

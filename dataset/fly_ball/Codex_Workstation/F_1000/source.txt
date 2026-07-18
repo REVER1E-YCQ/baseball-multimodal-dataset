@@ -1,0 +1,7 @@
+video_title: David Hamilton's solo home run (5) David Hamilton's solo home run (5) David Hamilton's solo home run (5) David Hamilton hits a solo home run to right-center field, cutting the Red Sox deficit to 3-2 in the 2nd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/18/5c8877b0-5763f07a-d9b1416b-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776281_david-hamilton-homers-5-on-a-line-drive-to-right-center-field
+clip_id: MLB_776281_david-hamilton-homers-5-on-a-line-drive-to-right-center-field_auto1_6p980_13p980
+source_path: raw_sources\MLB_776281_david-hamilton-homers-5-on-a-line-drive-to-right-center-field_David_Hamilton_s_solo_home_run_5_David_Hamilton_s_solo_home_run_5_David_Hamilton_s_solo_home_run_.mp4
+clip_start_time: 6.980
+clip_end_time: 13.980

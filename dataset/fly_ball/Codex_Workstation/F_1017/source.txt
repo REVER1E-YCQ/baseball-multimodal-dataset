@@ -1,0 +1,7 @@
+video_title: Jackson Merrill's solo home run (14) Jackson Merrill's solo home run (14) Jackson Merrill's solo home run (14) Jackson Merrill hits a solo home run to center field, cutting the Padres' deficit to 5-1 in the top of the 2nd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/16/ecd28108-48a88918-a5a0124f-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776304_jackson-merrill-homers-14-on-a-fly-ball-to-center-field-xhp7f2
+clip_id: MLB_776304_jackson-merrill-homers-14-on-a-fly-ball-to-center-field-xhp7f2_auto1_15p100_22p100
+source_path: raw_sources\MLB_776304_jackson-merrill-homers-14-on-a-fly-ball-to-center-field-xhp7f2_Jackson_Merrill_s_solo_home_run_14_Jackson_Merrill_s_solo_home_run_14_Jackson_Merrill_s_solo_hom.mp4
+clip_start_time: 15.100
+clip_end_time: 22.100

@@ -1,0 +1,7 @@
+video_title: Juan Soto's solo home run (41) Juan Soto's solo home run (41) Juan Soto's solo home run (41) Juan Soto crushes a solo home run to right field for his 41st home run of the season, bringing the Mets to within three runs in the 5th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/17/624067b5-830ce5fb-f7b23a7c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776288_juan-soto-homers-41-on-a-line-drive-to-right-field
+clip_id: MLB_776288_juan-soto-homers-41-on-a-line-drive-to-right-field_auto1_0p340_7p340
+source_path: raw_sources\MLB_776288_juan-soto-homers-41-on-a-line-drive-to-right-field_Juan_Soto_s_solo_home_run_41_Juan_Soto_s_solo_home_run_41_Juan_Soto_s_solo_home_run_41_Juan_Soto_crushes_a_s.mp4
+clip_start_time: 0.340
+clip_end_time: 7.340
