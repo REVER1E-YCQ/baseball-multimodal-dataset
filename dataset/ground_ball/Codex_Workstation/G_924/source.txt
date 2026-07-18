@@ -1,0 +1,7 @@
+video_title: Kyle Schwarber's RBI single  Kyle Schwarber's RBI single  Kyle Schwarber's RBI single  Kyle Schwarber rips a ground ball to right field and scores Donovan Walton to make it a 7-4 game in the bottom of the 6th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/13/78069e13-62c730a4-a55264d1-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776342_jonathan-bowlan-in-play-run-s-to-kyle-schwarber
+clip_id: MLB_776342_jonathan-bowlan-in-play-run-s-to-kyle-schwarber_auto1_20p000_26p000
+source_path: raw_sources\MLB_776342_jonathan-bowlan-in-play-run-s-to-kyle-schwarber_Kyle_Schwarber_s_RBI_single_Kyle_Schwarber_s_RBI_single_Kyle_Schwarber_s_RBI_single_Kyle_Schwarber_rips_a_groun.mp4
+clip_start_time: 20.000
+clip_end_time: 26.000

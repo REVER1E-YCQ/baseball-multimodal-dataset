@@ -1,0 +1,7 @@
+video_title: Blaze Alexander's tenacious play Blaze Alexander's tenacious play Blaze Alexander's tenacious play Blaze Alexander fields a grounder and tags out Freddie Freeman on the way to third for the second out of the bottom of the 4th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/31/7b40ec28-54826cc6-03c85059-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_776523_blaze-alexander-s-tenacious-play
+clip_id: MLB_776523_blaze-alexander-s-tenacious-play_auto1_6p900_12p900
+source_path: raw_sources\MLB_776523_blaze-alexander-s-tenacious-play_Blaze_Alexander_s_tenacious_play_Blaze_Alexander_s_tenacious_play_Blaze_Alexander_s_tenacious_play_Blaze_Alexander_fields_a_gr.mp4
+clip_start_time: 6.900
+clip_end_time: 12.900

@@ -1,0 +1,7 @@
+video_title: Emmanuel Rivera's smooth barehanded play Emmanuel Rivera's smooth barehanded play Emmanuel Rivera's smooth barehanded play Emmanuel Rivera charges in, barehands a grounder, and makes a great throw to first to retire Alex Call in the top of the 5th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/07/82439cd6-f9610536-461d2fc9-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776427_alex-call-grounds-out-third-baseman-emmanuel-rivera-to-first-baseman-
+clip_id: MLB_776427_alex-call-grounds-out-third-baseman-emmanuel-rivera-to-first-baseman-_auto1_0p000_6p000
+source_path: raw_sources\MLB_776427_alex-call-grounds-out-third-baseman-emmanuel-rivera-to-first-baseman-_Emmanuel_Rivera_s_smooth_barehanded_play_Emmanuel_Rivera_s_smooth_barehanded_play_Emmanue.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000
