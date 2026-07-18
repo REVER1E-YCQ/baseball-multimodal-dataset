@@ -1,0 +1,7 @@
+video_title: Christian Walker hits an RBI single Christian Walker hits an RBI single Christian Walker hits an RBI single Christian Walkers grounds an RBI single to left field, tying the game at 1 in the bottom of the 1st inning
+video_url: https://bdata-producedclips.mlb.com/a2bce90e-e11a-4100-bc8e-54c3d5d39e40.mp4
+source_id: MLB_747171_christian-walker-singles-on-a-ground-ball-to-left-fielder-joshua-pala
+clip_id: MLB_747171_christian-walker-singles-on-a-ground-ball-to-left-fielder-joshua-pala_auto1_7p800_13p800
+source_path: raw_sources\MLB_747171_christian-walker-singles-on-a-ground-ball-to-left-fielder-joshua-pala_Christian_Walker_hits_an_RBI_single_Christian_Walker_hits_an_RBI_single_Christian_Walker_.mp4
+clip_start_time: 7.800
+clip_end_time: 13.800

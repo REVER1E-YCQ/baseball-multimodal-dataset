@@ -1,0 +1,7 @@
+video_title: Joc Pederson's first RBI of the season Joc Pederson's first RBI of the season Joc Pederson's first RBI of the season Joc Pederson singles on a ground ball to right field to drive in the Rangers' second run, his first RBI of the season
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/25/dccd6478-bdbde212-7a7d5da8-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_778171_joc-pederson-s-first-rbi-of-the-season
+clip_id: MLB_778171_joc-pederson-s-first-rbi-of-the-season_auto1_0p060_6p060
+source_path: raw_sources\MLB_778171_joc-pederson-s-first-rbi-of-the-season_Joc_Pederson_s_first_RBI_of_the_season_Joc_Pederson_s_first_RBI_of_the_season_Joc_Pederson_s_first_RBI_of_the_season_Joc.mp4
+clip_start_time: 0.060
+clip_end_time: 6.060

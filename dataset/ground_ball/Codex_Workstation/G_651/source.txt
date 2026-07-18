@@ -1,0 +1,7 @@
+video_title: Soto walks, Judge grounds out vs. Paul Skenes Soto walks, Judge grounds out vs. Paul Skenes Soto walks, Judge grounds out vs. Paul Skenes Juan Soto works a seven-pitch walk then Aaron Judge grounds out against Paul Skenes to end the bottom of the 1st
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/16/e83a3cd7-2e26e41c-dff42117-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_747298_soto-walks-judge-grounds-out-vs-paul-skenes
+clip_id: MLB_747298_soto-walks-judge-grounds-out-vs-paul-skenes_auto1_38p160_44p160
+source_path: raw_sources\MLB_747298_soto-walks-judge-grounds-out-vs-paul-skenes_Soto_walks_Judge_grounds_out_vs._Paul_Skenes_Soto_walks_Judge_grounds_out_vs._Paul_Skenes_Soto_walks_Judge_grounds_.mp4
+clip_start_time: 38.160
+clip_end_time: 44.160
