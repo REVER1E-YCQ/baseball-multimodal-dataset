@@ -1,0 +1,7 @@
+video_title: Richie Palacios scores on a groundout Richie Palacios scores on a groundout Richie Palacios scores on a ground out Richie Palacios comes in to score after Isaac Paredes rips an RBI groundout to third base, tying the game at 2
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/25/a93ad762-837a6b53-03bea5af-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745086_brady-singer-in-play-run-s-to-isaac-paredes
+clip_id: MLB_745086_brady-singer-in-play-run-s-to-isaac-paredes_auto1_0p000_6p000
+source_path: raw_sources\MLB_745086_brady-singer-in-play-run-s-to-isaac-paredes_Richie_Palacios_scores_on_a_groundout_Richie_Palacios_scores_on_a_groundout_Rich.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

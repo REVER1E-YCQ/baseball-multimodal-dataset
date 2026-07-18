@@ -1,0 +1,7 @@
+video_title: Joey Meneses' RBI groundout Joey Meneses' RBI groundout Joey Meneses' RBI groundout
+video_url: https://bdata-producedclips.mlb.com/a00b14e6-1ef2-41e6-b760-6966554f6b72.mp4
+source_id: MLB_746629_ben-lively-in-play-run-s-to-joey-meneses
+clip_id: MLB_746629_ben-lively-in-play-run-s-to-joey-meneses_auto1_3p360_9p360
+source_path: raw_sources\MLB_746629_ben-lively-in-play-run-s-to-joey-meneses_Joey_Meneses_RBI_groundout_Joey_Meneses_RBI_groundout_Joey_Meneses_RBI_groundout.mp4
+clip_start_time: 3.360
+clip_end_time: 9.360

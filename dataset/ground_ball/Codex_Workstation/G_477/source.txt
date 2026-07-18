@@ -1,0 +1,7 @@
+video_title: Cardinals score a run on a fielder's choice Cardinals score a run on a fielder's choice Cardinals score a run on a fielder's choice Masyn Winn grounds into a fielder's choice with the bases loaded to drive in the Cardinals' third run of the game
+video_url: https://bdata-producedclips.mlb.com/c7b190ac-cb73-43af-8c84-9d17f769c633.mp4
+source_id: MLB_745171_bailey-falter-in-play-run-s-to-masyn-winn
+clip_id: MLB_745171_bailey-falter-in-play-run-s-to-masyn-winn_auto1_1p440_7p440
+source_path: raw_sources\MLB_745171_bailey-falter-in-play-run-s-to-masyn-winn_Cardinals_score_a_run_on_a_fielder_s_choice_Cardinals_score_a_run_on_a_fielder_s.mp4
+clip_start_time: 1.440
+clip_end_time: 7.440

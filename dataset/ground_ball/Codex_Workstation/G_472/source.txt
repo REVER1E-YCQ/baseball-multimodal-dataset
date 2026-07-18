@@ -1,0 +1,7 @@
+video_title: Taylor Walls' nice play Taylor Walls' nice play Taylor Walls' nice play Taylor Walls makes a slick stop off Dansby Swanson's grounder and makes the throw to first for the final out of the top of the 6th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/12/3426de2f-39144166-0707fa6d-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745079_dansby-swanson-grounds-out-sharply-shortstop-taylor-walls-to-first-ba
+clip_id: MLB_745079_dansby-swanson-grounds-out-sharply-shortstop-taylor-walls-to-first-ba_auto1_0p000_6p000
+source_path: raw_sources\MLB_745079_dansby-swanson-grounds-out-sharply-shortstop-taylor-walls-to-first-ba_Taylor_Walls_nice_play_Taylor_Walls_nice_play_Taylor_Walls_nice_play_Taylor_Wall.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000
