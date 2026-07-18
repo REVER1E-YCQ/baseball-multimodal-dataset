@@ -1,0 +1,7 @@
+video_title: Dillon Dingler's solo home run (13) Dillon Dingler's solo home run (13) Dillon Dingler's solo home run (13) Dillon Dingler drills a solo home run to left field, trimming the Yankees' lead to 9-2 in the top of the 7th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/11/70f89bcd-8025073b-74a246a3-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776368_dillon-dingler-homers-13-on-a-fly-ball-to-left-field
+clip_id: MLB_776368_dillon-dingler-homers-13-on-a-fly-ball-to-left-field_auto1_3p860_10p860
+source_path: raw_sources\MLB_776368_dillon-dingler-homers-13-on-a-fly-ball-to-left-field_Dillon_Dingler_s_solo_home_run_13_Dillon_Dingler_s_solo_home_run_13_Dillon_Dingler_s_solo_home_run_13_Dill.mp4
+clip_start_time: 3.860
+clip_end_time: 10.860

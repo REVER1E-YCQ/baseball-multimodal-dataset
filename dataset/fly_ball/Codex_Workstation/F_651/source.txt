@@ -1,0 +1,7 @@
+video_title: Nick Kurtz's 30th home run of the season Nick Kurtz's 30th home run of the season Nick Kurtz's 30th home run of the season Nick Kurtz cranks an opposite-field solo home run for his 30th homer of the season, giving the Athletics a 2-1 lead in the 2nd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/10/458ea403-5b1b28a6-ff71fb08-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776379_payton-tolle-in-play-run-s-to-nick-kurtz
+clip_id: MLB_776379_payton-tolle-in-play-run-s-to-nick-kurtz_auto1_20p494_27p494
+source_path: raw_sources\MLB_776379_payton-tolle-in-play-run-s-to-nick-kurtz_Nick_Kurtz_s_30th_home_run_of_the_season_Nick_Kurtz_s_30th_home_run_of_the_season_Nick_Kurtz_s_30th_home_run_of_the_se.mp4
+clip_start_time: 20.494
+clip_end_time: 27.494

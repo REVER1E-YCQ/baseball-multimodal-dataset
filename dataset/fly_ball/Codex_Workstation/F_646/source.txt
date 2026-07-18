@@ -1,0 +1,7 @@
+video_title: Turang, Chourio lead off with back-to-back home runs Turang, Chourio lead off with back-to-back home runs Turang, Chourio lead off with back-to-back home runs Brice Turang and Jackson Chourio open the game with back-to-back home runs to give the Brewers an early 2-0 lead
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/10/033061bb-c882e1d0-3f3f1ec4-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776375_turang-chourio-lead-off-with-back-to-back-home-runs
+clip_id: MLB_776375_turang-chourio-lead-off-with-back-to-back-home-runs_auto1_5p020_12p020
+source_path: raw_sources\MLB_776375_turang-chourio-lead-off-with-back-to-back-home-runs_Turang_Chourio_lead_off_with_back-to-back_home_runs_Turang_Chourio_lead_off_with_back-to-back_home_runs_Tur.mp4
+clip_start_time: 5.020
+clip_end_time: 12.020

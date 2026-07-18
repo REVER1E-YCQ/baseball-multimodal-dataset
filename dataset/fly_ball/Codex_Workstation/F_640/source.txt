@@ -1,0 +1,7 @@
+video_title: Otto Kemp's two-run home run (6) Otto Kemp's two-run home run (6) Otto Kemp's two-run home run (6) Otto Kemp puts the Phillies on the board with a two-run homer to center field, narrowing the Mets' lead to just two runs
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/11/4dc569b7-45031445-e74b5d4f-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776371_otto-kemp-s-two-run-home-run-6
+clip_id: MLB_776371_otto-kemp-s-two-run-home-run-6_auto1_6p840_13p840
+source_path: raw_sources\MLB_776371_otto-kemp-s-two-run-home-run-6_Otto_Kemp_s_two-run_home_run_6_Otto_Kemp_s_two-run_home_run_6_Otto_Kemp_s_two-run_home_run_6_Otto_Kemp_puts_the_Phillies_on_the_.mp4
+clip_start_time: 6.840
+clip_end_time: 13.840

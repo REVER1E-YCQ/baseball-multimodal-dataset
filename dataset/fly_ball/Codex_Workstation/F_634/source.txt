@@ -1,0 +1,7 @@
+video_title: Aaron Judge ties Joe DiMaggio with 361 homers (46) Aaron Judge ties Joe DiMaggio with 361 homers (46) Aaron Judge ties Joe DiMaggio with 361 homers (46) Aaron Judge's second home run of the game ties him with Joe DiMaggio with 361 career homers for fourth place in the Yankees' franchise history
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/11/12d719e6-9edb5f0d-c5524eee-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776368_aaron-judge-homers-46-on-a-fly-ball-to-center-field
+clip_id: MLB_776368_aaron-judge-homers-46-on-a-fly-ball-to-center-field_auto1_0p260_7p260
+source_path: raw_sources\MLB_776368_aaron-judge-homers-46-on-a-fly-ball-to-center-field_Aaron_Judge_ties_Joe_DiMaggio_with_361_homers_46_Aaron_Judge_ties_Joe_DiMaggio_with_361_homers_46_Aaron_Jud.mp4
+clip_start_time: 0.260
+clip_end_time: 7.260

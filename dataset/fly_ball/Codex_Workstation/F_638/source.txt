@@ -1,0 +1,7 @@
+video_title: Giancarlo Stanton's solo home run (20) Giancarlo Stanton's solo home run (20) Giancarlo Stanton's solo home run (20) Giancarlo Stanton belts a 429-foot home run to left field, increasing the Yankees' lead to 5-1 in the 3rd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/11/7e6d1f83-84f74fc6-7efe0c92-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776368_giancarlo-stanton-homers-20-on-a-fly-ball-to-left-field
+clip_id: MLB_776368_giancarlo-stanton-homers-20-on-a-fly-ball-to-left-field_auto1_0p000_7p000
+source_path: raw_sources\MLB_776368_giancarlo-stanton-homers-20-on-a-fly-ball-to-left-field_Giancarlo_Stanton_s_solo_home_run_20_Giancarlo_Stanton_s_solo_home_run_20_Giancarlo_Stanton_s_solo_home.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

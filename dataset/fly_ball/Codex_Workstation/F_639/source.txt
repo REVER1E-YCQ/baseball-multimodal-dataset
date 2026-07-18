@@ -1,0 +1,7 @@
+video_title: C.J. Kayfus' go-ahead two-run homer (3) C.J. Kayfus' go-ahead two-run homer (3) C.J. Kayfus' go-ahead two-run homer (3) C.J. Kayfus crushes a go-ahead two-run home run to center field to give the Guardians a 3-2 lead in the bottom of the 8th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/11/d3cad454-52e0aeba-c7e5a007-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776370_c-j-kayfus-go-ahead-two-run-homer-3
+clip_id: MLB_776370_c-j-kayfus-go-ahead-two-run-homer-3_auto1_8p540_15p540
+source_path: raw_sources\MLB_776370_c-j-kayfus-go-ahead-two-run-homer-3_C.J._Kayfus_go-ahead_two-run_homer_3_C.J._Kayfus_go-ahead_two-run_homer_3_C.J._Kayfus_go-ahead_two-run_homer_3_C.J._Kayfus_.mp4
+clip_start_time: 8.540
+clip_end_time: 15.540

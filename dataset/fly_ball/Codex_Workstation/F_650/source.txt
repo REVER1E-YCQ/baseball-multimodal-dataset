@@ -1,0 +1,7 @@
+video_title: Zach Neto's two-run home run (26) Zach Neto's two-run home run (26) Zach Neto's two-run home run (26) Zach Neto hits a two-run home run to left field to put the Angels ahead 3-1 in the bottom of the 3rd
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/10/0e1c4938-d8a17fd6-97d0b222-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776376_zach-neto-homers-26-on-a-fly-ball-to-left-field-mike-trout-scores
+clip_id: MLB_776376_zach-neto-homers-26-on-a-fly-ball-to-left-field-mike-trout-scores_auto1_1p640_8p640
+source_path: raw_sources\MLB_776376_zach-neto-homers-26-on-a-fly-ball-to-left-field-mike-trout-scores_Zach_Neto_s_two-run_home_run_26_Zach_Neto_s_two-run_home_run_26_Zach_Neto_s_two-run_home_run_.mp4
+clip_start_time: 1.640
+clip_end_time: 8.640

@@ -1,0 +1,7 @@
+video_title: Jake Burger's second home run of the game (16) Jake Burger's second home run of the game (16) Jake Burger's second home run of the game (16) Jake Burger belts a two-run home run to center field, his second homer of the game, extending the Rangers' lead to 5-2 in the bottom of the 5th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/10/5300a081-d2fcd5ee-05417980-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776375_jake-burger-homers-16-on-a-fly-ball-to-center-field-josh-smith-scores
+clip_id: MLB_776375_jake-burger-homers-16-on-a-fly-ball-to-center-field-josh-smith-scores_auto1_2p420_9p420
+source_path: raw_sources\MLB_776375_jake-burger-homers-16-on-a-fly-ball-to-center-field-josh-smith-scores_Jake_Burger_s_second_home_run_of_the_game_16_Jake_Burger_s_second_home_run_of_the_game_16.mp4
+clip_start_time: 2.420
+clip_end_time: 9.420
