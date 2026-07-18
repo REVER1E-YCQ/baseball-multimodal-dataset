@@ -1,0 +1,7 @@
+video_title: Jarred Kelenic's solo home run (12) Jarred Kelenic's solo home run (12) Jarred Kelenic's solo home run (12) Jarred Kelenic homers on a fly ball to left field, putting the Braves ahead, 5-0, in the 4th frame
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/30/7b4bc536-19c049bb-8cd759eb-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745958_jarred-kelenic-homers-12-on-a-fly-ball-to-left-field
+clip_id: MLB_745958_jarred-kelenic-homers-12-on-a-fly-ball-to-left-field_auto1_0p000_7p000
+source_path: raw_sources\MLB_745958_jarred-kelenic-homers-12-on-a-fly-ball-to-left-field_Jarred_Kelenic_s_solo_home_run_12_Jarred_Kelenic_s_solo_home_run_12_Jarred_Kelenic_s_solo_home_run_12_Jarr.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

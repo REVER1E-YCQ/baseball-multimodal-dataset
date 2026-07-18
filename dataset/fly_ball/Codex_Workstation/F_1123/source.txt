@@ -1,0 +1,7 @@
+video_title: Kevin Kiermaier robs Alex Verdugo of a home run Kevin Kiermaier robs Alex Verdugo of a home run Kevin Kiermaier robs Alex Verdugo of a home run Kevin Kiermaier tracks a fly ball and leaps to make a great catch to rob Alex Verdugo of a home run
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/30/e2e78130-b0d3a2d4-ba8547da-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_744916_aaron-judge-singles-on-a-line-drive-to-center-fielder-kevin-kiermaier
+clip_id: MLB_744916_aaron-judge-singles-on-a-line-drive-to-center-fielder-kevin-kiermaier_auto1_11p340_18p340
+source_path: raw_sources\MLB_744916_aaron-judge-singles-on-a-line-drive-to-center-fielder-kevin-kiermaier_Kevin_Kiermaier_robs_Alex_Verdugo_of_a_home_run_Kevin_Kiermaier_robs_Alex_Verdugo_of_a_ho.mp4
+clip_start_time: 11.340
+clip_end_time: 18.340

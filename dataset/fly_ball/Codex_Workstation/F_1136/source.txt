@@ -1,0 +1,7 @@
+video_title: Hunter Renfroe's solo home run (7) Hunter Renfroe's solo home run (7) Hunter Renfroe's solo home run (7) Hunter Renfroe homers on a fly ball to left field, extending the Royals' lead to 4-1 in the 6th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/24/dd64a3b5-bb5ed9a5-f54fcb24-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746298_hunter-renfroe-homers-7-on-a-fly-ball-to-left-field
+clip_id: MLB_746298_hunter-renfroe-homers-7-on-a-fly-ball-to-left-field_auto1_0p000_7p000
+source_path: raw_sources\MLB_746298_hunter-renfroe-homers-7-on-a-fly-ball-to-left-field_Hunter_Renfroe_s_solo_home_run_7_Hunter_Renfroe_s_solo_home_run_7_Hunter_Renfroe_s_solo_home_run_7_Hunter_R.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

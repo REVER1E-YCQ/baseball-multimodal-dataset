@@ -1,0 +1,7 @@
+video_title: Corey Seager's solo home run (19) Corey Seager's solo home run (19) Corey Seager's solo home run (19) Corey Seager homers on a line drive to right field, giving the Rangers an early 1-0 lead in the 1st
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/24/e655e755-5d899199-076e5157-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_744989_corey-seager-homers-19-on-a-line-drive-to-right-field
+clip_id: MLB_744989_corey-seager-homers-19-on-a-line-drive-to-right-field_auto1_15p360_22p360
+source_path: raw_sources\MLB_744989_corey-seager-homers-19-on-a-line-drive-to-right-field_Corey_Seager_s_solo_home_run_19_Corey_Seager_s_solo_home_run_19_Corey_Seager_s_solo_home_run_19_Corey_Sea.mp4
+clip_start_time: 15.360
+clip_end_time: 22.360
