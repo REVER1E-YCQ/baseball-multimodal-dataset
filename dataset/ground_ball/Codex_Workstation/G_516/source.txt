@@ -1,0 +1,7 @@
+video_title: Bo Bichette fields the final out Bo Bichette fields the final out Bo Bichette tosses to first for the last out Bo Bichette fields a grounder and tosses to Vladimir Guerrero Jr. for the final out as the Blue Jays defeat the White Sox, 7-2
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/28/67ba35b7-8274c1d8-c181dd5a-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746791_tim-mayza-in-play-out-s-to-corey-julks
+clip_id: MLB_746791_tim-mayza-in-play-out-s-to-corey-julks_auto1_0p000_6p000
+source_path: raw_sources\MLB_746791_tim-mayza-in-play-out-s-to-corey-julks_Bo_Bichette_fields_the_final_out_Bo_Bichette_fields_the_final_out_Bo_Bichette_to.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

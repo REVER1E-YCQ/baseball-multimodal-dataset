@@ -1,0 +1,7 @@
+video_title: Nick Gonzales' RBI groundout  Nick Gonzales' RBI groundout  Nick Gonzales' RBI groundout 
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/15/b30e5329-236e2557-3a16bf07-csvm-diamondx64-asset-4000K.mp4
+source_id: MLB_746547_geoff-hartlieb-in-play-run-s-to-nick-gonzales
+clip_id: MLB_746547_geoff-hartlieb-in-play-run-s-to-nick-gonzales_auto1_1p460_7p460
+source_path: raw_sources\MLB_746547_geoff-hartlieb-in-play-run-s-to-nick-gonzales_Nick_Gonzales_RBI_groundout_Nick_Gonzales_RBI_groundout_Nick_Gonzales_RBI_ground.mp4
+clip_start_time: 1.460
+clip_end_time: 7.460

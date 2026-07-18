@@ -1,0 +1,7 @@
+video_title: Michael Stefanic's game-tying groundout Michael Stefanic's game-tying groundout Michael Stefanic's game-tying groundout Michael Stefanic ties the game at 7 in the bottom of the 8th with an RBI groundout
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/09/ab7bdc90-68853592-cb1a9cce-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746216_ryan-pressly-in-play-run-s-to-michael-stefanic
+clip_id: MLB_746216_ryan-pressly-in-play-run-s-to-michael-stefanic_auto1_0p000_6p000
+source_path: raw_sources\MLB_746216_ryan-pressly-in-play-run-s-to-michael-stefanic_Michael_Stefanic_s_game-tying_groundout_Michael_Stefanic_s_game-tying_groundout_.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

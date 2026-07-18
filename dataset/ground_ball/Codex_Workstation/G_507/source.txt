@@ -1,0 +1,7 @@
+video_title: Blue Jays turn inning-ending double play Blue Jays turn inning-ending double play Blue Jays turn inning-ending double play The Blue Jays turn a double play off Javier Báez's grounder to end the bottom of the 5th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/26/bd1744fd-f9855f01-58660852-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746469_javier-baez-grounds-into-a-double-play-third-baseman-ernie-clement-to
+clip_id: MLB_746469_javier-baez-grounds-into-a-double-play-third-baseman-ernie-clement-to_auto1_0p000_6p000
+source_path: raw_sources\MLB_746469_javier-baez-grounds-into-a-double-play-third-baseman-ernie-clement-to_Blue_Jays_turn_inning-ending_double_play_Blue_Jays_turn_inning-ending_double_pla.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

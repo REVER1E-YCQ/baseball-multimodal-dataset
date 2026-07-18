@@ -1,0 +1,7 @@
+video_title: Rafael Devers makes sweet diving stop  Rafael Devers makes sweet diving stop  Rafael Devers makes sweet diving stop  Rafael Devers makes a diving stop on a sharp grounder off the bat of Aaron Judge, throwing to second base for the out
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/15/29cd309d-c45060f5-255a5739-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746946_cooper-criswell-in-play-out-s-to-aaron-judge
+clip_id: MLB_746946_cooper-criswell-in-play-out-s-to-aaron-judge_auto1_0p000_6p000
+source_path: raw_sources\MLB_746946_cooper-criswell-in-play-out-s-to-aaron-judge_Rafael_Devers_makes_sweet_diving_stop_Rafael_Devers_makes_sweet_diving_stop_Rafa.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

@@ -1,0 +1,7 @@
+video_title: Michael Siani's RBI groundout  Michael Siani's RBI groundout  Michael Siani's RBI groundout 
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/06/aae8bdfc-712718ea-6fbe8bd0-csvm-diamondx64-asset-4000K.mp4
+source_id: MLB_744835_jordan-weems-in-play-run-s-to-michael-siani
+clip_id: MLB_744835_jordan-weems-in-play-run-s-to-michael-siani_auto1_10p979_16p979
+source_path: raw_sources\MLB_744835_jordan-weems-in-play-run-s-to-michael-siani_Michael_Siani_s_RBI_groundout_Michael_Siani_s_RBI_groundout_Michael_Siani_s_RBI_groundout.mp4
+clip_start_time: 10.979
+clip_end_time: 16.979

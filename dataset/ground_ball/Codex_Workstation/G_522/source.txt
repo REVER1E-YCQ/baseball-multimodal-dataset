@@ -1,0 +1,7 @@
+video_title: Ramón Urías' slick barehand play Ramón Urías' slick barehand play Ramón Urías' slick barehand play Ramón Urías makes a slick barehand play on a softly hit ground ball for the first out of the 4th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/15/ea4a70eb-1892bb2a-0c307e35-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_747024_grayson-rodriguez-in-play-out-s-to-alec-bohm
+clip_id: MLB_747024_grayson-rodriguez-in-play-out-s-to-alec-bohm_auto1_0p000_6p000
+source_path: raw_sources\MLB_747024_grayson-rodriguez-in-play-out-s-to-alec-bohm_Ram_n_Ur_as_slick_barehand_play_Ram_n_Ur_as_slick_barehand_play_Ram_n_Ur_as_slic.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

@@ -1,0 +1,7 @@
+video_title: Jose Altuve's run-scoring knock Jose Altuve's run-scoring knock Jose Altuve's run-scoring knock Jose Altuve singles on a ground ball to left field and Jeremy Peña scores, narrowing the Astros' deficit to 7-2 in the 5th frame
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/02/fa83671b-6c370256-3653fe9c-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_744913_jose-berrios-in-play-run-s-to-jose-altuve
+clip_id: MLB_744913_jose-berrios-in-play-run-s-to-jose-altuve_auto1_0p000_6p000
+source_path: raw_sources\MLB_744913_jose-berrios-in-play-run-s-to-jose-altuve_Jose_Altuve_s_run-scoring_knock_Jose_Altuve_s_run-scoring_knock_Jose_Altuve_s_run-scoring_knock_Jose_Altuve_singles_o.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000
