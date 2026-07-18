@@ -1,0 +1,7 @@
+video_title: Giancarlo Stanton's two-homer, five-RBI game Giancarlo Stanton's two-homer, five-RBI game Giancarlo Stanton's two-homer, five-RBI game Giancarlo Stanton has a huge day at the plate against Baltimore, crushing two-run homers in the 1st and 3rd innings, and plating an insurance run in the 7th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/26/d46b2667-6395b732-ba0b4c55-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776174_giancarlo-stanton-s-two-homer-five-rbi-game
+clip_id: MLB_776174_giancarlo-stanton-s-two-homer-five-rbi-game_auto1_2p600_9p600
+source_path: raw_sources\MLB_776174_giancarlo-stanton-s-two-homer-five-rbi-game_Giancarlo_Stanton_s_two-homer_five-RBI_game_Giancarlo_Stanton_s_two-homer_five-RBI_game_Giancarlo_Stanton_s_two-hom.mp4
+clip_start_time: 2.600
+clip_end_time: 9.600

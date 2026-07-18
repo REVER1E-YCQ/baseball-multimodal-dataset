@@ -1,0 +1,7 @@
+video_title: CJ Abrams' solo home run (19) CJ Abrams' solo home run (19) CJ Abrams' solo home run (19) CJ Abrams delivers a solo home run in the bottom of the 6th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/26/2210dfe4-1e672446-57ae1a40-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776165_cj-abrams-homers-19-on-a-fly-ball-to-right-field
+clip_id: MLB_776165_cj-abrams-homers-19-on-a-fly-ball-to-right-field_auto1_0p000_7p000
+source_path: raw_sources\MLB_776165_cj-abrams-homers-19-on-a-fly-ball-to-right-field_CJ_Abrams_solo_home_run_19_CJ_Abrams_solo_home_run_19_CJ_Abrams_solo_home_run_19_CJ_Abrams_delivers_a_solo_hom.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

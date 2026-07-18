@@ -1,0 +1,7 @@
+video_title: Colson Montgomery's go-ahead two-run homer (20) Colson Montgomery's go-ahead two-run homer (20) Colson Montgomery's go-ahead two-run homer (20) Colson Montgomery revives the White Sox lead with a two-run home run in the top of the 9th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/26/e4abe50c-611b5933-17d6ba68-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776165_jose-a-ferrer-in-play-run-s-to-colson-montgomery
+clip_id: MLB_776165_jose-a-ferrer-in-play-run-s-to-colson-montgomery_auto1_3p480_10p480
+source_path: raw_sources\MLB_776165_jose-a-ferrer-in-play-run-s-to-colson-montgomery_Colson_Montgomery_s_go-ahead_two-run_homer_20_Colson_Montgomery_s_go-ahead_two-run_homer_20_Colson_Montgomery_.mp4
+clip_start_time: 3.480
+clip_end_time: 10.480

@@ -1,0 +1,7 @@
+video_title: Michael Busch's leadoff home run (33) Michael Busch's leadoff home run (33) Michael Busch's leadoff home run (33) Michael Busch clobbers a leadoff home run to give the Cubs an early 1-0 lead
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/27/1458ebe7-e3b7b769-374aa36b-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776164_michael-busch-homers-33-on-a-fly-ball-to-right-center-field
+clip_id: MLB_776164_michael-busch-homers-33-on-a-fly-ball-to-right-center-field_auto1_0p000_7p000
+source_path: raw_sources\MLB_776164_michael-busch-homers-33-on-a-fly-ball-to-right-center-field_Michael_Busch_s_leadoff_home_run_33_Michael_Busch_s_leadoff_home_run_33_Michael_Busch_s_leadoff_hom.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

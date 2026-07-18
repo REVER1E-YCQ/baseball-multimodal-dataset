@@ -1,0 +1,7 @@
+video_title: Pete Crow-Armstrong's two-run homer (30) Pete Crow-Armstrong's two-run homer (30) Pete Crow-Armstrong's two-run homer (30) Pete Crow-Armstrong clubs a two-run home run to right-center field and becomes the 2nd player in franchise history to reach the 30-30 club
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/26/a2167bbd-ef68b5d7-84c86ff7-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776167_pete-crow-armstrong-homers-30-on-a-fly-ball-to-right-center-field-kyl
+clip_id: MLB_776167_pete-crow-armstrong-homers-30-on-a-fly-ball-to-right-center-field-kyl_auto1_5p740_12p740
+source_path: raw_sources\MLB_776167_pete-crow-armstrong-homers-30-on-a-fly-ball-to-right-center-field-kyl_Pete_Crow-Armstrong_s_two-run_homer_30_Pete_Crow-Armstrong_s_two-run_homer_30_Pete_Crow-A.mp4
+clip_start_time: 5.740
+clip_end_time: 12.740

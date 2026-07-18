@@ -1,0 +1,7 @@
+video_title: Ryan McMahon's solo homer (20) Ryan McMahon's solo homer (20) Ryan McMahon's solo homer (20) Ryan McMahon belts a 401-foot solo home run to right-center field in the 2nd inning to extend the Yankees' lead to 3-0
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/27/5be106e9-dbfe49c3-195426cc-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776162_ryan-mcmahon-homers-20-on-a-fly-ball-to-center-field
+clip_id: MLB_776162_ryan-mcmahon-homers-20-on-a-fly-ball-to-center-field_auto1_1p400_8p400
+source_path: raw_sources\MLB_776162_ryan-mcmahon-homers-20-on-a-fly-ball-to-center-field_Ryan_McMahon_s_solo_homer_20_Ryan_McMahon_s_solo_homer_20_Ryan_McMahon_s_solo_homer_20_Ryan_McMahon_belts_.mp4
+clip_start_time: 1.400
+clip_end_time: 8.400

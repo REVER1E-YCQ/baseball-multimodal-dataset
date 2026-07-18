@@ -1,0 +1,7 @@
+video_title: Josh Bell's solo home run (22) Josh Bell's solo home run (22) Josh Bell's solo home run (22) Josh Bell crushes a solo home run to right field to put the Nationals on the board in the bottom of the 1st
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/26/e241aa2c-08f3a459-7db6c3a3-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776165_yoendrys-gomez-in-play-run-s-to-josh-bell
+clip_id: MLB_776165_yoendrys-gomez-in-play-run-s-to-josh-bell_auto1_0p000_7p000
+source_path: raw_sources\MLB_776165_yoendrys-gomez-in-play-run-s-to-josh-bell_Josh_Bell_s_solo_home_run_22_Josh_Bell_s_solo_home_run_22_Josh_Bell_s_solo_home_run_22_Josh_Bell_crushes_a_solo_home_.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000
