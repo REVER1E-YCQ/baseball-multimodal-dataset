@@ -1,0 +1,7 @@
+video_title: Brenton Doyle's RBI infield single Brenton Doyle's RBI infield single Brenton Doyle's RBI infield single Brenton Doyle chops a soft ground ball to third for an infield hit, bringing home Mickey Moniak and extending the Rockies' lead to 3-0 in the 2nd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/07/c5e9f386-547fde11-875602be-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_778013_brenton-doyle-singles-on-a-soft-ground-ball-to-third-baseman-zach-mck
+clip_id: MLB_778013_brenton-doyle-singles-on-a-soft-ground-ball-to-third-baseman-zach-mck_auto1_6p160_12p160
+source_path: raw_sources\MLB_778013_brenton-doyle-singles-on-a-soft-ground-ball-to-third-baseman-zach-mck_Brenton_Doyle_s_RBI_infield_single_Brenton_Doyle_s_RBI_infield_single_Brenton_Doyle_s_RBI.mp4
+clip_start_time: 6.160
+clip_end_time: 12.160

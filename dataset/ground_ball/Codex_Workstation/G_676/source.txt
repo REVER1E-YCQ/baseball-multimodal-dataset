@@ -1,0 +1,7 @@
+video_title: Orioles turn two in the 4th Orioles turn two in the 4th Orioles turn two in the 4th Gunnar Henderson fields Royce Lewis' grounder and flips it to Jackson Holliday at second to start a double play in the bottom of the 4th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/07/6b00c910-b9e47f5f-d07329e5-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_778011_charlie-morton-in-play-out-s-to-royce-lewis-skj56n
+clip_id: MLB_778011_charlie-morton-in-play-out-s-to-royce-lewis-skj56n_auto1_1p400_7p400
+source_path: raw_sources\MLB_778011_charlie-morton-in-play-out-s-to-royce-lewis-skj56n_Orioles_turn_two_in_the_4th_Orioles_turn_two_in_the_4th_Orioles_turn_two_in_the_4th_Gunnar_Henderson_fields_.mp4
+clip_start_time: 1.400
+clip_end_time: 7.400

@@ -1,0 +1,7 @@
+video_title: Gabriel Arias' running backhanded stop Gabriel Arias' running backhanded stop Gabriel Arias' running backhanded stop Gabriel Arias ranges to his right to corral a ground ball from Freddy Fermin, then hurls a perfect throw to first on the run for the second out of the 7th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/11/55f5510f-e790c5e9-1e753860-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_778375_freddy-fermin-grounds-out-second-baseman-gabriel-arias-to-first-basem
+clip_id: MLB_778375_freddy-fermin-grounds-out-second-baseman-gabriel-arias-to-first-basem_auto1_3p300_9p300
+source_path: raw_sources\MLB_778375_freddy-fermin-grounds-out-second-baseman-gabriel-arias-to-first-basem_Gabriel_Arias_running_backhanded_stop_Gabriel_Arias_running_backhanded_stop_Gabriel_Arias.mp4
+clip_start_time: 3.300
+clip_end_time: 9.300

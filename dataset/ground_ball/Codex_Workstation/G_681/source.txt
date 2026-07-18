@@ -1,0 +1,7 @@
+video_title: Fernando Tatis Jr. singles in the 3rd Fernando Tatis Jr. singles in the 3rd Fernando Tatis Jr. singles in the 3rd Fernando Tatis Jr. singles on a ground ball deflected by Anthony Volpe in the top of the 3rd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/06/8a614bfb-06ff845b-95209f8c-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_778041_clarke-schmidt-in-play-no-out-to-fernando-tatis-jr
+clip_id: MLB_778041_clarke-schmidt-in-play-no-out-to-fernando-tatis-jr_auto1_7p386_13p386
+source_path: raw_sources\MLB_778041_clarke-schmidt-in-play-no-out-to-fernando-tatis-jr_Fernando_Tatis_Jr._singles_in_the_3rd_Fernando_Tatis_Jr._singles_in_the_3rd_Fernando_Tatis_Jr._singles_in_th.mp4
+clip_start_time: 7.386
+clip_end_time: 13.386

@@ -1,0 +1,7 @@
+video_title: Chase Meidroth fields deflection for out Chase Meidroth fields deflection for out Chase Meidroth fields deflection for out Chase Meidroth fields Lawrence Butler's grounder that was deflected by Bryse Wilson and throws to first to end the top of the 8th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/15/3a2c4aaf-e3ff1c81-4b737d34-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_778309_bryse-wilson-in-play-out-s-to-lawrence-butler
+clip_id: MLB_778309_bryse-wilson-in-play-out-s-to-lawrence-butler_auto1_1p560_7p560
+source_path: raw_sources\MLB_778309_bryse-wilson-in-play-out-s-to-lawrence-butler_Chase_Meidroth_fields_deflection_for_out_Chase_Meidroth_fields_deflection_for_out_Chase_Meidroth_fields_deflectio.mp4
+clip_start_time: 1.560
+clip_end_time: 7.560
