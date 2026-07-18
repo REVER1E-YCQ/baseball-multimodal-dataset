@@ -1,0 +1,7 @@
+video_title: A fan negotiates over Victor Mesa's HR ball A fan negotiates over Victor Mesa's HR ball A fan negotiates over Victor Mesa's HR ball The fan who caught Victor Mesa's first career home run ball negotiates with the club
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/08/f6e10cd1-f3616763-ed06f1d8-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776409_a-fan-negotiates-over-victor-mesa-s-hr-ball
+clip_id: MLB_776409_a-fan-negotiates-over-victor-mesa-s-hr-ball_auto1_8p280_15p280
+source_path: raw_sources\MLB_776409_a-fan-negotiates-over-victor-mesa-s-hr-ball_A_fan_negotiates_over_Victor_Mesa_s_HR_ball_A_fan_negotiates_over_Victor_Mesa_s_HR_ball_A_fan_negotiates_over_Victo.mp4
+clip_start_time: 8.280
+clip_end_time: 15.280

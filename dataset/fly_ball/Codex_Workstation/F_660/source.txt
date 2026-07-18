@@ -1,0 +1,7 @@
+video_title: José Ramírez's solo home run (28) José Ramírez's solo home run (28) José Ramírez's solo home run (28) José Ramírez launches a solo home run to left field, giving the Guardians a 1-0 lead over the Royals in the 1st inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/09/9c3c4c71-c8bb4b86-3c951c47-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776403_jose-ramirez-homers-28-on-a-fly-ball-to-left-center-field-x7368
+clip_id: MLB_776403_jose-ramirez-homers-28-on-a-fly-ball-to-left-center-field-x7368_auto1_6p100_13p100
+source_path: raw_sources\MLB_776403_jose-ramirez-homers-28-on-a-fly-ball-to-left-center-field-x7368_Jos_Ram_rez_s_solo_home_run_28_Jos_Ram_rez_s_solo_home_run_28_Jos_Ram_rez_s_solo_home_run_28_Jo.mp4
+clip_start_time: 6.100
+clip_end_time: 13.100

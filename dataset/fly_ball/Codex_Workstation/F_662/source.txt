@@ -1,0 +1,7 @@
+video_title: Kemp and Bader hit back-to-back homers Kemp and Bader hit back-to-back homers Kemp and Bader hit back-to-back homers Otto Kemp and Harrison Bader trade back-to-back home runs in the bottom of the 2nd inning to double the Phillies' lead
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/09/8d3273f6-232d412c-183c052e-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776404_kemp-and-bader-hit-back-to-back-homers
+clip_id: MLB_776404_kemp-and-bader-hit-back-to-back-homers_auto1_0p120_7p120
+source_path: raw_sources\MLB_776404_kemp-and-bader-hit-back-to-back-homers_Kemp_and_Bader_hit_back-to-back_homers_Kemp_and_Bader_hit_back-to-back_homers_Kemp_and_Bader_hit_back-to-back_homers_Ott.mp4
+clip_start_time: 0.120
+clip_end_time: 7.120

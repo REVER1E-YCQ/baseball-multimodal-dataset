@@ -1,0 +1,7 @@
+video_title: Aaron Judge passes Yogi Berra on home run list (44) Aaron Judge passes Yogi Berra on home run list (44) Aaron Judge passes Yogi Berra on home run list (44) Aaron Judge hits his 359th career home run, passing Yogi Berra for 5th in Yankees history and giving the Yankees a 1-0 lead in the 1st
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/09/7751c854-aed6e3a9-df860e3c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776398_aaron-judge-homers-44-on-a-line-drive-to-right-center-field
+clip_id: MLB_776398_aaron-judge-homers-44-on-a-line-drive-to-right-center-field_auto1_0p220_7p220
+source_path: raw_sources\MLB_776398_aaron-judge-homers-44-on-a-line-drive-to-right-center-field_Aaron_Judge_passes_Yogi_Berra_on_home_run_list_44_Aaron_Judge_passes_Yogi_Berra_on_home_run_list_44.mp4
+clip_start_time: 0.220
+clip_end_time: 7.220

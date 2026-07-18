@@ -1,0 +1,7 @@
+video_title: Victor Mesa Jr. hits first career HR on birthday! Victor Mesa Jr. hits first career HR on birthday! Victor Mesa Jr. hits first career HR on birthday! Victor Mesa Jr. crushes his first career homer, a three-run home run to right field in the bottom of the 8th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/08/9555b422-048a2308-b4a68fc4-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776409_victor-mesa-jr-homers-1-on-a-fly-ball-to-right-field-heriberto-hernan
+clip_id: MLB_776409_victor-mesa-jr-homers-1-on-a-fly-ball-to-right-field-heriberto-hernan_auto1_7p920_14p920
+source_path: raw_sources\MLB_776409_victor-mesa-jr-homers-1-on-a-fly-ball-to-right-field-heriberto-hernan_Victor_Mesa_Jr._hits_first_career_HR_on_birthday_Victor_Mesa_Jr._hits_first_career_HR_on_.mp4
+clip_start_time: 7.920
+clip_end_time: 14.920
