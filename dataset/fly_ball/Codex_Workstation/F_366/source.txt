@@ -1,0 +1,7 @@
+video_title: Edmundo Sosa leaves the game after collision Edmundo Sosa leaves the game after collision Edmundo Sosa leaves the game after collision Edmundo Sosa leaves the game with a back injury after colliding in the outfield with Brandon Marsh trying to catch a fly ball
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/26/baba6408-c7ba01d9-7fda830a-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777001_edmundo-sosa-leaves-the-game-after-collision
+clip_id: MLB_777001_edmundo-sosa-leaves-the-game-after-collision_auto1_0p000_7p000
+source_path: raw_sources\MLB_777001_edmundo-sosa-leaves-the-game-after-collision_Edmundo_Sosa_leaves_the_game_after_collision_Edmundo_Sosa_leaves_the_game_after_collision_Edmundo_Sosa_leaves_the_.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

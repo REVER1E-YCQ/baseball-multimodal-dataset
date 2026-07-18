@@ -1,0 +1,7 @@
+video_title: Ernie Clement's first triple of the season  Ernie Clement's first triple of the season  Ernie Clement's first triple of the season  Enrie Clement skies a fly ball to right field and legs out a triple in the bottom of the 6th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/23/e45d1e2f-da63a509-f797c517-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_777027_max-fried-in-play-no-out-to-ernie-clement-hdk1jx
+clip_id: MLB_777027_max-fried-in-play-no-out-to-ernie-clement-hdk1jx_auto1_7p260_14p260
+source_path: raw_sources\MLB_777027_max-fried-in-play-no-out-to-ernie-clement-hdk1jx_Ernie_Clement_s_first_triple_of_the_season_Ernie_Clement_s_first_triple_of_the_season_Ernie_Clement_s_first_tr.mp4
+clip_start_time: 7.260
+clip_end_time: 14.260

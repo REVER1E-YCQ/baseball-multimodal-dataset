@@ -1,0 +1,7 @@
+video_title: Heliot Ramos' diving play  Heliot Ramos' diving play  Heliot Ramos' diving play  Heliot Ramos makes a terrific diving catch on Nacho Alvarez Jr.'s line drive to end the bottom of the 4th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/23/50abab7c-fd5f4ab3-0121ab10-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777041_nacho-alvarez-jr-lines-out-to-left-fielder-heliot-ramos
+clip_id: MLB_777041_nacho-alvarez-jr-lines-out-to-left-fielder-heliot-ramos_auto1_3p020_10p020
+source_path: raw_sources\MLB_777041_nacho-alvarez-jr-lines-out-to-left-fielder-heliot-ramos_Heliot_Ramos_diving_play_Heliot_Ramos_diving_play_Heliot_Ramos_diving_play_Heliot_Ramos_makes_a_terrifi.mp4
+clip_start_time: 3.020
+clip_end_time: 10.020

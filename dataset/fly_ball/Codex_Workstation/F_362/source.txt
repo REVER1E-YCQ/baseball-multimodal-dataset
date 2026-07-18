@@ -1,0 +1,7 @@
+video_title: Brendan Donovan's amazing leaping catch Brendan Donovan's amazing leaping catch Brendan Donovan's amazing leaping catch Brendan Donovan reaches his apex to make a stunning run-saving grab off of a line drive from Fernando Tatis Jr. in the 4th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/26/a0a5e9ba-e7442905-51600b3c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776992_matthew-liberatore-in-play-out-s-to-fernando-tatis-jr
+clip_id: MLB_776992_matthew-liberatore-in-play-out-s-to-fernando-tatis-jr_auto1_0p000_7p000
+source_path: raw_sources\MLB_776992_matthew-liberatore-in-play-out-s-to-fernando-tatis-jr_Brendan_Donovan_s_amazing_leaping_catch_Brendan_Donovan_s_amazing_leaping_catch_Brendan_Donovan_s_amazing.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

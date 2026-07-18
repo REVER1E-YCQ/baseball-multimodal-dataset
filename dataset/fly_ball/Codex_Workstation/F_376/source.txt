@@ -1,0 +1,7 @@
+video_title: Josh Bell's solo home run (13) Josh Bell's solo home run (13) Josh Bell's solo home run (13) Josh Bell hits a solo home run on a fly ball to right field, tying the game at 1 in the bottom of the 4th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/22/f1f72860-cdc8a587-44345105-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777042_josh-bell-homers-13-on-a-fly-ball-to-right-field
+clip_id: MLB_777042_josh-bell-homers-13-on-a-fly-ball-to-right-field_auto1_0p000_7p000
+source_path: raw_sources\MLB_777042_josh-bell-homers-13-on-a-fly-ball-to-right-field_Josh_Bell_s_solo_home_run_13_Josh_Bell_s_solo_home_run_13_Josh_Bell_s_solo_home_run_13_Josh_Bell_hits_a_solo_h.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

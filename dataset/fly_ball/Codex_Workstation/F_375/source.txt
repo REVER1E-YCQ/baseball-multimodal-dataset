@@ -1,0 +1,7 @@
+video_title: James Wood secures Nationals' 6-1 win James Wood secures Nationals' 6-1 win James Wood secures Nationals' 6-1 win James Wood secures Nationals' 6-1 win, by catching Tyler Stephenson's fly ball
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/22/8d83b426-bba62a6f-7b3bceb0-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777042_andry-lara-in-play-out-s-to-tyler-stephenson
+clip_id: MLB_777042_andry-lara-in-play-out-s-to-tyler-stephenson_auto1_0p000_7p000
+source_path: raw_sources\MLB_777042_andry-lara-in-play-out-s-to-tyler-stephenson_James_Wood_secures_Nationals_6-1_win_James_Wood_secures_Nationals_6-1_win_James_Wood_secures_Nationals_6-1_win_Jam.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000
