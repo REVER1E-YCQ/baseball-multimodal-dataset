@@ -1,0 +1,7 @@
+video_title: George Springer's RBI single George Springer's RBI single George Springer's RBI single George Springer singles on a ground ball to right field, bringing in the opening run for the Blue Jays in the 3rd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/23/cb2c8f5e-49cef534-32975f27-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_776630_janson-junk-in-play-run-s-to-george-springer
+clip_id: MLB_776630_janson-junk-in-play-run-s-to-george-springer_auto1_3p500_9p500
+source_path: raw_sources\MLB_776630_janson-junk-in-play-run-s-to-george-springer_George_Springer_s_RBI_single_George_Springer_s_RBI_single_George_Springer_s_RBI_single_George_Springer_singles_on_.mp4
+clip_start_time: 3.500
+clip_end_time: 9.500

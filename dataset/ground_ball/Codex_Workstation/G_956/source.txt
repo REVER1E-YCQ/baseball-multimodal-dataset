@@ -1,0 +1,7 @@
+video_title: Lars Nootbaar's nice throw nabs Heriberto Hernández Lars Nootbaar's nice throw nabs Heriberto Hernández Lars Nootbaar's nice throw nabs Heriberto Hernández Lars Nootbaar fields a ground ball and makes a strong throw to third base to nab Heriberto Hernández in the bottom of the 5th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/20/78d91e9f-efec1a43-207424f0-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776670_andre-pallante-in-play-run-s-to-troy-johnston-x9621
+clip_id: MLB_776670_andre-pallante-in-play-run-s-to-troy-johnston-x9621_auto1_6p540_12p540
+source_path: raw_sources\MLB_776670_andre-pallante-in-play-run-s-to-troy-johnston-x9621_Lars_Nootbaar_s_nice_throw_nabs_Heriberto_Hern_ndez_Lars_Nootbaar_s_nice_throw_nabs_Heriberto_Hern_ndez_Lar.mp4
+clip_start_time: 6.540
+clip_end_time: 12.540

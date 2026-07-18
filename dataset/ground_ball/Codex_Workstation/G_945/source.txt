@@ -1,0 +1,7 @@
+video_title: Tyrone Taylor's two-run double Tyrone Taylor's two-run double Tyrone Taylor's two-run double Tyrone Taylor rips a grounder off the third-base bag for a double and two runs score, increasing the Mets' lead to 10-0 in the 2nd
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/29/d9057880-55bfda37-6c7e128e-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776548_tyler-zuber-in-play-run-s-to-tyrone-taylor
+clip_id: MLB_776548_tyler-zuber-in-play-run-s-to-tyrone-taylor_auto1_4p520_10p520
+source_path: raw_sources\MLB_776548_tyler-zuber-in-play-run-s-to-tyrone-taylor_Tyrone_Taylor_s_two-run_double_Tyrone_Taylor_s_two-run_double_Tyrone_Taylor_s_two-run_double_Tyrone_Taylor_rips_a_gr.mp4
+clip_start_time: 4.520
+clip_end_time: 10.520

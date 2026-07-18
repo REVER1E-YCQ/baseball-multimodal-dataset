@@ -1,0 +1,7 @@
+video_title: Bob Seymour's RBI single Bob Seymour's RBI single Bob Seymour's RBI single Bob Seymour singles on a ground ball to right, bringing in another run to extend the Rays' lead once again to 5-1 in the 3rd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/22/e64159ce-5a56b9a3-1576f9e8-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_776633_bob-seymour-singles-on-a-ground-ball-to-right-fielder-jordan-walker-j
+clip_id: MLB_776633_bob-seymour-singles-on-a-ground-ball-to-right-fielder-jordan-walker-j_auto1_3p740_9p740
+source_path: raw_sources\MLB_776633_bob-seymour-singles-on-a-ground-ball-to-right-fielder-jordan-walker-j_Bob_Seymour_s_RBI_single_Bob_Seymour_s_RBI_single_Bob_Seymour_s_RBI_single_Bob_Seymour_si.mp4
+clip_start_time: 3.740
+clip_end_time: 9.740

@@ -1,0 +1,7 @@
+video_title: Adrian Morejon seals the save, Padres' 5-1 victory  Adrian Morejon seals the save, Padres' 5-1 victory  Adrian Morejon seals the save, Padres' 5-1 victory  Adrian Morejon induces a ground ball to second base, sealing the save in the Padres' 5-1 victory over the Dodgers
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/23/2952532f-6892b931-355d60e0-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776617_adrian-morejon-in-play-out-s-to-mookie-betts-mrfi8w
+clip_id: MLB_776617_adrian-morejon-in-play-out-s-to-mookie-betts-mrfi8w_auto1_3p480_9p480
+source_path: raw_sources\MLB_776617_adrian-morejon-in-play-out-s-to-mookie-betts-mrfi8w_Adrian_Morejon_seals_the_save_Padres_5-1_victory_Adrian_Morejon_seals_the_save_Padres_5-1_victory_Adrian_Mo.mp4
+clip_start_time: 3.480
+clip_end_time: 9.480
