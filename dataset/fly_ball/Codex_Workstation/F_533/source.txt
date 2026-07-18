@@ -1,0 +1,7 @@
+video_title: Brendan Donovan's RBI double Brendan Donovan's RBI double Brendan Donovan's RBI double Brendan Donovan doubles on a fly ball to left-center field and Lars Nootbaar scores, increasing the Cardinals' lead to 3-0 in the 3rd
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/26/b1b6952c-bf02226b-66da133c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_778164_quinn-priester-in-play-run-s-to-brendan-donovan
+clip_id: MLB_778164_quinn-priester-in-play-run-s-to-brendan-donovan_auto1_0p000_7p000
+source_path: raw_sources\MLB_778164_quinn-priester-in-play-run-s-to-brendan-donovan_Brendan_Donovan_s_RBI_double_Brendan_Donovan_s_RBI_double_Brendan_Donovan_s_RBI_double_Brendan_Donovan_doubles_.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

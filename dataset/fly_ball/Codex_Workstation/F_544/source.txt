@@ -1,0 +1,7 @@
+video_title: Jake Fraley's tumbling catch Jake Fraley's tumbling catch Jake Fraley's tumbling catch Jake Fraley sprints forward and tumbles to make a great catch on Otto Lopez's line drive in the bottom of the 3rd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/21/64d163de-fe92e8d1-2426c3a0-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_778230_otto-lopez-lines-out-to-right-fielder-jake-fraley
+clip_id: MLB_778230_otto-lopez-lines-out-to-right-fielder-jake-fraley_auto1_3p240_10p240
+source_path: raw_sources\MLB_778230_otto-lopez-lines-out-to-right-fielder-jake-fraley_Jake_Fraley_s_tumbling_catch_Jake_Fraley_s_tumbling_catch_Jake_Fraley_s_tumbling_catch_Jake_Fraley_sprints_fo.mp4
+clip_start_time: 3.240
+clip_end_time: 10.240

@@ -1,0 +1,7 @@
+video_title: Kyle Tucker's leaping catch in front of the wall Kyle Tucker's leaping catch in front of the wall Kyle Tucker's leaping catch in front of the wall Kyle Tucker's leaps into the right-field wall to catch Max Muncy's fly ball in the top of the 6th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/22/e3ab217e-ffb4f1a0-357368cf-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_778220_max-muncy-flies-out-to-right-fielder-kyle-tucker
+clip_id: MLB_778220_max-muncy-flies-out-to-right-fielder-kyle-tucker_auto1_4p840_11p840
+source_path: raw_sources\MLB_778220_max-muncy-flies-out-to-right-fielder-kyle-tucker_Kyle_Tucker_s_leaping_catch_in_front_of_the_wall_Kyle_Tucker_s_leaping_catch_in_front_of_the_wall_Kyle_Tucker_.mp4
+clip_start_time: 4.840
+clip_end_time: 11.840

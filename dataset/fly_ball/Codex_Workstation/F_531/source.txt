@@ -1,0 +1,7 @@
+video_title: Brenton Doyle's brilliant sliding catch Brenton Doyle's brilliant sliding catch Brenton Doyle's brilliant sliding catch Brenton Doyle chases a deep fly ball to the warning track in right-center and makes a gorgeous sliding catch to rob Austin Hays in the 3rd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/27/e38ca1e9-16b36ccb-8ebff2d1-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_778148_bradley-blalock-in-play-out-s-to-austin-hays
+clip_id: MLB_778148_bradley-blalock-in-play-out-s-to-austin-hays_auto1_4p300_11p300
+source_path: raw_sources\MLB_778148_bradley-blalock-in-play-out-s-to-austin-hays_Brenton_Doyle_s_brilliant_sliding_catch_Brenton_Doyle_s_brilliant_sliding_catch_Brenton_Doyle_s_brilliant_sliding_.mp4
+clip_start_time: 4.300
+clip_end_time: 11.300

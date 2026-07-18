@@ -1,0 +1,7 @@
+video_title: Hunter Greene on 12-strikeout outing in 6-1 win Hunter Greene on 12-strikeout outing in 6-1 win Hunter Greene on 12-strikeout outing in 6-1 win Hunter Greene discusses working his pitches throughout, recovering from having a line drive hit his back and more in the Reds 6-1 win
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/02/2263204c-f176f3b9-1e4bcf54-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_778087_hunter-greene-on-12-strikeout-outing-in-6-1-win
+clip_id: MLB_778087_hunter-greene-on-12-strikeout-outing-in-6-1-win_auto1_40p940_47p940
+source_path: raw_sources\MLB_778087_hunter-greene-on-12-strikeout-outing-in-6-1-win_Hunter_Greene_on_12-strikeout_outing_in_6-1_win_Hunter_Greene_on_12-strikeout_outing_in_6-1_win_Hunter_Greene_o.mp4
+clip_start_time: 40.940
+clip_end_time: 47.940
