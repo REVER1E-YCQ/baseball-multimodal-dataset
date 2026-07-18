@@ -1,0 +1,7 @@
+video_title: Orlando Arcia's outstanding diving catch Orlando Arcia's outstanding diving catch Orlando Arcia's outstanding diving catch Orlando Arcia lays out to catch a softly hit pop fly on the infield, snagging the ball just before it hits the dirt at second base for the second out in the 5th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/03/0e9aad5e-da89123b-37f9a167-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777666_jesus-sanchez-lines-out-to-shortstop-orlando-arcia
+clip_id: MLB_777666_jesus-sanchez-lines-out-to-shortstop-orlando-arcia_auto1_2p360_9p360
+source_path: raw_sources\MLB_777666_jesus-sanchez-lines-out-to-shortstop-orlando-arcia_Orlando_Arcia_s_outstanding_diving_catch_Orlando_Arcia_s_outstanding_diving_catch_Orlando_Arcia_s_outstandin.mp4
+clip_start_time: 2.360
+clip_end_time: 9.360
