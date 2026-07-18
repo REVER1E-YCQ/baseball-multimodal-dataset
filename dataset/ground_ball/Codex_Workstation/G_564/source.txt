@@ -1,0 +1,7 @@
+video_title: Ryan McMahon's smooth stop Ryan McMahon's smooth stop Ryan McMahon's smooth stop Ryan McMahon makes a smooth stop on Brice Turang's grounder, then spins and throws to first in time for the out
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/05/247c36b3-b7f30bd3-2311db8c-csvm-diamondx64-asset-4000K.mp4
+source_id: MLB_746532_cal-quantrill-in-play-out-s-to-brice-turang
+clip_id: MLB_746532_cal-quantrill-in-play-out-s-to-brice-turang_auto1_5p280_11p280
+source_path: raw_sources\MLB_746532_cal-quantrill-in-play-out-s-to-brice-turang_Ryan_McMahon_s_smooth_stop_Ryan_McMahon_s_smooth_stop_Ryan_McMahon_s_smooth_stop_Ryan_McMahon_makes_a_smooth_stop_o.mp4
+clip_start_time: 5.280
+clip_end_time: 11.280

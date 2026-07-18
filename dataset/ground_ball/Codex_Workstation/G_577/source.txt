@@ -1,0 +1,7 @@
+video_title: Cubs score on a double play Cubs score on a double play Cubs score a run on a double play Christopher Morel grounds into a double play, putting the Cubs on the board in the bottom of the first
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/21/a0aa6bdb-11a08e9c-444983d3-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746861_jose-quintana-in-play-out-s-to-christopher-morel-p0cpxd
+clip_id: MLB_746861_jose-quintana-in-play-out-s-to-christopher-morel-p0cpxd_auto1_0p000_6p000
+source_path: raw_sources\MLB_746861_jose-quintana-in-play-out-s-to-christopher-morel-p0cpxd_Cubs_score_on_a_double_play_Cubs_score_on_a_double_play_Cubs_score_a_run_on_a_double_play_Christopher_M.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

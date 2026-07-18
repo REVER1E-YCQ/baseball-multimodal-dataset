@@ -1,0 +1,7 @@
+video_title: Tyler Freeman's RBI groundout Tyler Freeman's RBI groundout Tyler Freeman's RBI groundout
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/28/3e8e4ad4-5d1d2995-cfbf8183-csvm-diamondx64-asset-4000K.mp4
+source_id: MLB_746292_chris-stratton-in-play-run-s-to-tyler-freeman
+clip_id: MLB_746292_chris-stratton-in-play-run-s-to-tyler-freeman_auto1_0p000_6p000
+source_path: raw_sources\MLB_746292_chris-stratton-in-play-run-s-to-tyler-freeman_Tyler_Freeman_s_RBI_groundout_Tyler_Freeman_s_RBI_groundout_Tyler_Freeman_s_RBI_groundout.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

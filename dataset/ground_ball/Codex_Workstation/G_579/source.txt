@@ -1,0 +1,7 @@
+video_title: Ian Happ's RBI groundout Ian Happ's RBI groundout Ian Happ's RBI groundout
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/22/7aeb9635-e2683378-2c503295-csvm-diamondx64-asset-4000K.mp4
+source_id: MLB_746863_tylor-megill-in-play-run-s-to-ian-happ
+clip_id: MLB_746863_tylor-megill-in-play-run-s-to-ian-happ_auto1_2p460_8p460
+source_path: raw_sources\MLB_746863_tylor-megill-in-play-run-s-to-ian-happ_Ian_Happ_s_RBI_groundout_Ian_Happ_s_RBI_groundout_Ian_Happ_s_RBI_groundout.mp4
+clip_start_time: 2.460
+clip_end_time: 8.460

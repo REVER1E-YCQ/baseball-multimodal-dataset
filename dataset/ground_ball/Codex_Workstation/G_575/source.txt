@@ -1,0 +1,7 @@
+video_title: Victor Caratini thrown out at the plate Victor Caratini thrown out at the plate Victor Caratini thrown out at the plate Victor Caratini is thrown out at the plate trying to score on a soft grounder to third base before exiting with leg discomfort
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/20/df8d3d6d-d0e2e90c-798475e9-csvm-diamondx64-asset-4000K.mp4
+source_id: MLB_746781_cooper-hummel-reaches-on-a-fielder-s-choice-out-third-baseman-lenyn-s
+clip_id: MLB_746781_cooper-hummel-reaches-on-a-fielder-s-choice-out-third-baseman-lenyn-s_auto1_1p480_7p480
+source_path: raw_sources\MLB_746781_cooper-hummel-reaches-on-a-fielder-s-choice-out-third-baseman-lenyn-s_Victor_Caratini_thrown_out_at_the_plate_Victor_Caratini_thrown_out_at_the_plate_Victor_Ca.mp4
+clip_start_time: 1.480
+clip_end_time: 7.480
