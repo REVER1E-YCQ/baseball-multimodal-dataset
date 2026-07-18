@@ -1,0 +1,7 @@
+video_title: Agustín Ramírez talks hitting 20th home run of 2025 Agustín Ramírez talks hitting 20th home run of 2025 Agustín Ramírez talks hitting 20th home run of 2025 Agustín Ramírez discusses reaching the 20-home run plateau during his rookie season and how his confidence has grown throughout the year
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/12/5a65dbba-64c06bb5-0f436a49-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776366_agustin-ramirez-talks-hitting-20th-home-run-of-2025
+clip_id: MLB_776366_agustin-ramirez-talks-hitting-20th-home-run-of-2025_auto1_18p860_25p860
+source_path: raw_sources\MLB_776366_agustin-ramirez-talks-hitting-20th-home-run-of-2025_Agust_n_Ram_rez_talks_hitting_20th_home_run_of_2025_Agust_n_Ram_rez_talks_hitting_20th_home_run_of_2025_Agu.mp4
+clip_start_time: 18.860
+clip_end_time: 25.860

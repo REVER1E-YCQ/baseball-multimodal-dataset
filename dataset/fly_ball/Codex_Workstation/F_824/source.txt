@@ -1,0 +1,7 @@
+video_title: Juan Soto joins 30-30 club with stolen base Juan Soto joins 30-30 club with stolen base Juan Soto joins 30-30 club with stolen base Juan Soto reaches the 30 home run, 30 stolen base club for the first time in his career with a swipe in the top of the 8th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/09/d11985c0-2d64874b-c5bc3042-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776404_juan-soto-joins-30-30-club
+clip_id: MLB_776404_juan-soto-joins-30-30-club_auto1_6p860_13p860
+source_path: raw_sources\MLB_776404_juan-soto-joins-30-30-club_Juan_Soto_joins_30-30_club_with_stolen_base_Juan_Soto_joins_30-30_club_with_stolen_base_Juan_Soto_joins_30-30_club_with_stolen_base_.mp4
+clip_start_time: 6.860
+clip_end_time: 13.860

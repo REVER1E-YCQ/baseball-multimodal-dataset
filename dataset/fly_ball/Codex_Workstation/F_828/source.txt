@@ -1,0 +1,7 @@
+video_title: Victor Mesa Jr. on hitting first HR on his birthday Victor Mesa Jr. on hitting first HR on his birthday Victor Mesa Jr. on hitting first HR on his birthday Victor Mesa Jr. on hitting first career home run on his 24th birthday, feeling a mix of emotions, wanting to help the team however he can
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/08/3fe6d2d8-f9696c00-4b5d01c8-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776409_victor-mesa-jr-on-hitting-first-hr-on-his-birthday
+clip_id: MLB_776409_victor-mesa-jr-on-hitting-first-hr-on-his-birthday_auto1_5p580_12p580
+source_path: raw_sources\MLB_776409_victor-mesa-jr-on-hitting-first-hr-on-his-birthday_Victor_Mesa_Jr._on_hitting_first_HR_on_his_birthday_Victor_Mesa_Jr._on_hitting_first_HR_on_his_birthday_Vict.mp4
+clip_start_time: 5.580
+clip_end_time: 12.580
