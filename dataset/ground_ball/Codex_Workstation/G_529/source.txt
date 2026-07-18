@@ -1,0 +1,7 @@
+video_title: J.P. Crawford's amazing diving stop J.P. Crawford's amazing diving stop J.P. Crawford's amazing diving stop J.P. Crawford dives to field a hard ground ball, then gets up and throws to first base to retire Danny Mendick
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/13/05fc1947-b6d2058d-a1d1c7ef-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745245_emerson-hancock-in-play-out-s-to-danny-mendick
+clip_id: MLB_745245_emerson-hancock-in-play-out-s-to-danny-mendick_auto1_0p000_6p000
+source_path: sources\MLB_745245_emerson-hancock-in-play-out-s-to-danny-mendick_J.P._Crawford_s_amazing_diving_stop_J.P._Crawford_s_amazing_diving_stop_J.P._Cra.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

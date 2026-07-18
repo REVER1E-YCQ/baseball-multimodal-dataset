@@ -1,0 +1,7 @@
+video_title: Luke Raley scores to tie the game in the 8th Luke Raley scores to tie the game in the 8th Luke Raley scores to tie the game in the 8th Julio Rodríguez hits a grounder to third, and Jose Miranda makes a throwing error to allow Luke Raley to score the tying run in the 8th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/28/1e56731f-bc492acd-0f44ada3-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745238_griffin-jax-in-play-run-s-to-julio-rodriguez
+clip_id: MLB_745238_griffin-jax-in-play-run-s-to-julio-rodriguez_auto1_14p687_20p687
+source_path: raw_sources\MLB_745238_griffin-jax-in-play-run-s-to-julio-rodriguez_Luke_Raley_scores_to_tie_the_game_in_the_8th_Luke_Raley_scores_to_tie_the_game_in_the_8th_Luke_Raley_scores_to_tie.mp4
+clip_start_time: 14.687
+clip_end_time: 20.687

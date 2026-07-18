@@ -1,0 +1,7 @@
+video_title: Spencer Steer secures the Reds' 2-1 victory Spencer Steer secures the Reds' 2-1 victory Spencer Steer secures the Reds' 2-1 victory Spencer Steer fields a grounder from Ke'Bryan Hayes to secure the Reds' 2-1 win over the Pirates
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/18/c4a5c2a1-0318689b-aa69b55b-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745488_alexis-diaz-in-play-out-s-to-ke-bryan-hayes-b4rol2
+clip_id: MLB_745488_alexis-diaz-in-play-out-s-to-ke-bryan-hayes-b4rol2_auto1_0p980_6p980
+source_path: sources\MLB_745488_alexis-diaz-in-play-out-s-to-ke-bryan-hayes-b4rol2_Spencer_Steer_secures_the_Reds_2-1_victory_Spencer_Steer_secures_the_Reds_2-1_vi.mp4
+clip_start_time: 0.980
+clip_end_time: 6.980

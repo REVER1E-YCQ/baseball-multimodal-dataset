@@ -1,0 +1,7 @@
+video_title: Trea Turner's spinning grab Trea Turner's spinning grab Trea Turner's spinning grab Trea Turner spins to collect a hard-hit ground ball and throws to first base to retire Ketel Marte in the top of the 1st inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/23/61600551-13f4e65b-283ea37d-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745566_ketel-marte-grounds-out-shortstop-trea-turner-to-first-baseman-bryce-
+clip_id: MLB_745566_ketel-marte-grounds-out-shortstop-trea-turner-to-first-baseman-bryce-_auto1_6p380_12p380
+source_path: raw_sources\MLB_745566_ketel-marte-grounds-out-shortstop-trea-turner-to-first-baseman-bryce-_Trea_Turner_s_spinning_grab_Trea_Turner_s_spinning_grab_Trea_Turner_s_spinning_grab_Trea_.mp4
+clip_start_time: 6.380
+clip_end_time: 12.380

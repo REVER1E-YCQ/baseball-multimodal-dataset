@@ -1,0 +1,7 @@
+video_title: Luis Robert Jr.'s RBI groundout Luis Robert Jr.'s RBI groundout Luis Robert Jr.'s RBI groundout
+video_url: https://bdata-producedclips.mlb.com/0dd89cc4-8cdb-4260-8755-1b0e93ab6f10.mp4
+source_id: MLB_746044_yonny-chirinos-in-play-run-s-to-luis-robert-jr
+clip_id: MLB_746044_yonny-chirinos-in-play-run-s-to-luis-robert-jr_auto1_8p420_14p420
+source_path: raw_sources\MLB_746044_yonny-chirinos-in-play-run-s-to-luis-robert-jr_Luis_Robert_Jr._s_RBI_groundout_Luis_Robert_Jr._s_RBI_groundout_Luis_Robert_Jr._s_RBI_groundout.mp4
+clip_start_time: 8.420
+clip_end_time: 14.420
