@@ -1,0 +1,7 @@
+video_title: Nacho Alvarez Jr.'s smooth off-balance throw Nacho Alvarez Jr.'s smooth off-balance throw Nacho Alvarez Jr.'s smooth off-balance throw Nacho Alvarez Jr. flashes his leather at the hot corner, fielding a hard-hit ground ball and making an off-balance throw to first in time for the out
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/29/1b318eec-f409860b-9be5e054-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776552_nick-castellanos-grounds-out-third-baseman-nacho-alvarez-jr-to-first-
+clip_id: MLB_776552_nick-castellanos-grounds-out-third-baseman-nacho-alvarez-jr-to-first-_auto1_0p660_6p660
+source_path: raw_sources\MLB_776552_nick-castellanos-grounds-out-third-baseman-nacho-alvarez-jr-to-first-_Nacho_Alvarez_Jr._s_smooth_off-balance_throw_Nacho_Alvarez_Jr._s_smooth_off-balance_throw.mp4
+clip_start_time: 0.660
+clip_end_time: 6.660

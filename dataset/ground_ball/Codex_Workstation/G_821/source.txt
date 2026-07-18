@@ -1,0 +1,7 @@
+video_title: Shawn Armstrong earns the save in extras Shawn Armstrong earns the save in extras Shawn Armstrong earns the save in extras Shawn Armstrong induces a ground ball to Ezequiel Duran, who gets the final out of the game as the Rangers defeat the D-backs, 7-5
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/01/f2a28441-fb9714d6-64fe8b23-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776495_shawn-armstrong-in-play-out-s-to-ketel-marte
+clip_id: MLB_776495_shawn-armstrong-in-play-out-s-to-ketel-marte_auto1_4p620_10p620
+source_path: raw_sources\MLB_776495_shawn-armstrong-in-play-out-s-to-ketel-marte_Shawn_Armstrong_earns_the_save_in_extras_Shawn_Armstrong_earns_the_save_in_extras_Shawn_Armstrong_earns_the_save_i.mp4
+clip_start_time: 4.620
+clip_end_time: 10.620

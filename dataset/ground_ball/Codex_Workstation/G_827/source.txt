@@ -1,0 +1,7 @@
+video_title: Colby Thomas grounds out after review Colby Thomas grounds out after review Colby Thomas grounds out after review Colby Thomas is initally called out on the field while trying to beat out a ground ball and the call is upheld after an A's challenge
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/31/667c35a3-9bfa4f8e-3fde9099-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776508_colby-thomas-grounds-out-third-baseman-josh-jung-to-first-baseman-row
+clip_id: MLB_776508_colby-thomas-grounds-out-third-baseman-josh-jung-to-first-baseman-row_auto1_0p000_6p000
+source_path: raw_sources\MLB_776508_colby-thomas-grounds-out-third-baseman-josh-jung-to-first-baseman-row_Colby_Thomas_grounds_out_after_review_Colby_Thomas_grounds_out_after_review_Colby_Thomas_.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

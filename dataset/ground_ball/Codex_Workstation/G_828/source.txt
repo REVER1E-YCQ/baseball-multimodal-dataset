@@ -1,0 +1,7 @@
+video_title: Luis Rengifo's incredible diving stop, throw Luis Rengifo's incredible diving stop, throw Luis Rengifo's incredible diving stop, throw Luis Rengifo makes a great diving stop on a ground ball from Carlos Correa, making the throw to first base from his knees for the first out of the 4th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/31/c16deafa-00870abe-bcffb1fc-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776510_jose-soriano-in-play-out-s-to-carlos-correa
+clip_id: MLB_776510_jose-soriano-in-play-out-s-to-carlos-correa_auto1_0p000_6p000
+source_path: raw_sources\MLB_776510_jose-soriano-in-play-out-s-to-carlos-correa_Luis_Rengifo_s_incredible_diving_stop_throw_Luis_Rengifo_s_incredible_diving_stop_throw_Luis_Rengifo_s_incredible_d.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

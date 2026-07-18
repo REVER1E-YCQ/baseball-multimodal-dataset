@@ -1,0 +1,7 @@
+video_title: Heriberto Hernández's 112.8 mph RBI single Heriberto Hernández's 112.8 mph RBI single Heriberto Hernández's 112.8 mph RBI single Heriberto Hernández hits a 112.8 mph ground ball single to right field, scoring Liam Hicks and extending the Marlins' lead to 4-0 in the 4th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/31/e861a523-fa49abde-e741dd48-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_776519_heriberto-hernandez-singles-on-a-ground-ball-to-right-fielder-juan-so
+clip_id: MLB_776519_heriberto-hernandez-singles-on-a-ground-ball-to-right-fielder-juan-so_auto1_1p460_7p460
+source_path: raw_sources\MLB_776519_heriberto-hernandez-singles-on-a-ground-ball-to-right-fielder-juan-so_Heriberto_Hern_ndez_s_112.8_mph_RBI_single_Heriberto_Hern_ndez_s_112.8_mph_RBI_single_Her.mp4
+clip_start_time: 1.460
+clip_end_time: 7.460
