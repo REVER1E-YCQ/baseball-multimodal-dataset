@@ -1,0 +1,7 @@
+video_title: Alex Bregman's sliding play Alex Bregman's sliding play Alex Bregman's sliding play Alex Bregman reacts quickly to a hard-hit grounder, makes a great snag, then starts off a double-play for the first two outs of the top of the 7th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/02/25bbd8ae-05de518b-c0b277da-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776909_garrett-whitlock-in-play-out-s-to-christian-walker
+clip_id: MLB_776909_garrett-whitlock-in-play-out-s-to-christian-walker_auto1_4p120_10p120
+source_path: raw_sources\MLB_776909_garrett-whitlock-in-play-out-s-to-christian-walker_Alex_Bregman_s_sliding_play_Alex_Bregman_s_sliding_play_Alex_Bregman_s_sliding_play_Alex_Bregman_reacts_quic.mp4
+clip_start_time: 4.120
+clip_end_time: 10.120

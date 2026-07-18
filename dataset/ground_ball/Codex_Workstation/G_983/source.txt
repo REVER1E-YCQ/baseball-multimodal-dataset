@@ -1,0 +1,7 @@
+video_title: Luke Williams' incredible diving play Luke Williams' incredible diving play Luke Williams' incredible diving play Luke Williams reacts quickly to a hard-hit grounder, makes a phenomenal snag, and quickly gets the runner at second for the final out of the bottom of the 8th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/03/89bc7a05-0120cf26-66a97dab-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776907_tyler-kinley-in-play-out-s-to-ke-bryan-hayes-06iwmr
+clip_id: MLB_776907_tyler-kinley-in-play-out-s-to-ke-bryan-hayes-06iwmr_auto1_14p140_20p140
+source_path: raw_sources\MLB_776907_tyler-kinley-in-play-out-s-to-ke-bryan-hayes-06iwmr_Luke_Williams_incredible_diving_play_Luke_Williams_incredible_diving_play_Luke_Williams_incredible_diving_p.mp4
+clip_start_time: 14.140
+clip_end_time: 20.140
