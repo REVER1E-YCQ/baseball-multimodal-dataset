@@ -1,0 +1,7 @@
+video_title: Michael Busch's solo homer (28) Michael Busch's solo homer (28) Michael Busch's solo homer (28) Michael Busch belts a solo home run to center field to give the Cubs a 1-0 lead in the top of the 3rd
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/15/f7e1f55c-bd2176d9-fd8266f9-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776318_michael-busch-homers-28-on-a-line-drive-to-center-field
+clip_id: MLB_776318_michael-busch-homers-28-on-a-line-drive-to-center-field_auto1_5p560_12p560
+source_path: raw_sources\MLB_776318_michael-busch-homers-28-on-a-line-drive-to-center-field_Michael_Busch_s_solo_homer_28_Michael_Busch_s_solo_homer_28_Michael_Busch_s_solo_homer_28_Michael_Busch.mp4
+clip_start_time: 5.560
+clip_end_time: 12.560

@@ -1,0 +1,7 @@
+video_title: Umpire exits after being hit with liner Umpire exits after being hit with liner Umpire exits after being hit with liner First base umpire Hunter Wendelstedt exits the game after being hit in the head with a liner in the top of the 7th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/16/f8e4e1c1-b2c0282c-8b9060df-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_778299_umpire-exits-after-being-hit-with-liner
+clip_id: MLB_778299_umpire-exits-after-being-hit-with-liner_auto1_1p200_8p200
+source_path: raw_sources\MLB_778299_umpire-exits-after-being-hit-with-liner_Umpire_exits_after_being_hit_with_liner_Umpire_exits_after_being_hit_with_liner_Umpire_exits_after_being_hit_with_liner.mp4
+clip_start_time: 1.200
+clip_end_time: 8.200

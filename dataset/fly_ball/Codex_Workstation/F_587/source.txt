@@ -1,0 +1,7 @@
+video_title: Bryce Harper's unassisted double play Bryce Harper's unassisted double play Bryce Harper's unassisted double play Bryce Harper makes a nice grab on a liner, then tags Brandon Nimmo to turn an inning-ending double play in the bottom of the 6th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/21/8faa63ae-3f396458-ff5e3d93-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_778225_aaron-nola-in-play-out-s-to-jesse-winker-rnn0kh
+clip_id: MLB_778225_aaron-nola-in-play-out-s-to-jesse-winker-rnn0kh_auto1_0p000_7p000
+source_path: raw_sources\MLB_778225_aaron-nola-in-play-out-s-to-jesse-winker-rnn0kh_Bryce_Harper_s_unassisted_double_play_Bryce_Harper_s_unassisted_double_play_Bryce_Harper_s_unassisted_double_pl.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

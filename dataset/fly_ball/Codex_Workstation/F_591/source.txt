@@ -1,0 +1,7 @@
+video_title: James McCann's two-run homer (5) James McCann's two-run homer (5) James McCann's two-run homer (5) James McCann crushes a two-run home run over the left-field wall, putting the D-backs up 6-1 in the bottom of the 6th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/15/eea76df4-6f2f507d-93335935-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776309_james-mccann-homers-5-on-a-fly-ball-to-left-center-field-jordan-lawla
+clip_id: MLB_776309_james-mccann-homers-5-on-a-fly-ball-to-left-center-field-jordan-lawla_auto1_4p960_11p960
+source_path: raw_sources\MLB_776309_james-mccann-homers-5-on-a-fly-ball-to-left-center-field-jordan-lawla_James_McCann_s_two-run_homer_5_James_McCann_s_two-run_homer_5_James_McCann_s_two-run_home.mp4
+clip_start_time: 4.960
+clip_end_time: 11.960
