@@ -1,0 +1,7 @@
+video_title: Elly De La Cruz's sidearm throw on the run  Elly De La Cruz's sidearm throw on the run  Elly De La Cruz's sidearm throw on the run  Elly De La Cruz backhands a ground ball and throws across his body on the run to retire J.T Realmuto at first base in the top of the 7th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/13/7703c590-c2c0ec9b-5d844075-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776765_j-t-realmuto-grounds-out-shortstop-elly-de-la-cruz-to-first-baseman-s
+clip_id: MLB_776765_j-t-realmuto-grounds-out-shortstop-elly-de-la-cruz-to-first-baseman-s_auto1_0p000_6p000
+source_path: raw_sources\MLB_776765_j-t-realmuto-grounds-out-shortstop-elly-de-la-cruz-to-first-baseman-s_Elly_De_La_Cruz_s_sidearm_throw_on_the_run_Elly_De_La_Cruz_s_sidearm_throw_on_the_run_Ell.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

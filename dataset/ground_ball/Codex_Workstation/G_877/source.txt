@@ -1,0 +1,7 @@
+video_title: Coby Mayo starts an inning-ending double play Coby Mayo starts an inning-ending double play Coby Mayo starts an inning-ending double play Coby Mayo makes a slick pick on a grounder and starts an inning-ending double play in the 2nd
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/12/f86bd5f1-136a8629-72b2fc29-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776776_dean-kremer-in-play-out-s-to-j-p-crawford
+clip_id: MLB_776776_dean-kremer-in-play-out-s-to-j-p-crawford_auto1_5p260_11p260
+source_path: raw_sources\MLB_776776_dean-kremer-in-play-out-s-to-j-p-crawford_Coby_Mayo_starts_an_inning-ending_double_play_Coby_Mayo_starts_an_inning-ending_double_play_Coby_Mayo_starts_an_innin.mp4
+clip_start_time: 5.260
+clip_end_time: 11.260

@@ -1,0 +1,7 @@
+video_title: Curtis Mead gets the out after review Curtis Mead gets the out after review Curtis Mead gets the out after review Curtis Mead cleanly fields a soft-hit grounder and quickly nabs the runner at first following a challenge in the top of the 9th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/12/ab5acd58-fb5822d1-a9d117d4-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776773_jahmai-jones-grounds-out-third-baseman-curtis-mead-to-first-baseman-m
+clip_id: MLB_776773_jahmai-jones-grounds-out-third-baseman-curtis-mead-to-first-baseman-m_auto1_0p000_6p000
+source_path: raw_sources\MLB_776773_jahmai-jones-grounds-out-third-baseman-curtis-mead-to-first-baseman-m_Curtis_Mead_gets_the_out_after_review_Curtis_Mead_gets_the_out_after_review_Curtis_Mead_g.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

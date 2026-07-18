@@ -1,0 +1,7 @@
+video_title: Brandon Lowe's diving stop Brandon Lowe's diving stop Brandon Lowe's diving stop Brandon Lowe makes a great diving stop on Tyler Soderstrom's grounder, then pops up and throws to first in time for the out
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/12/802bde8d-03861df2-f049a638-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776762_shane-baz-in-play-out-s-to-tyler-soderstrom
+clip_id: MLB_776762_shane-baz-in-play-out-s-to-tyler-soderstrom_auto1_3p060_9p060
+source_path: raw_sources\MLB_776762_shane-baz-in-play-out-s-to-tyler-soderstrom_Brandon_Lowe_s_diving_stop_Brandon_Lowe_s_diving_stop_Brandon_Lowe_s_diving_stop_Brandon_Lowe_makes_a_great_diving_.mp4
+clip_start_time: 3.060
+clip_end_time: 9.060
