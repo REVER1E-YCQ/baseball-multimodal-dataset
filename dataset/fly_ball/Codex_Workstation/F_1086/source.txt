@@ -1,0 +1,7 @@
+video_title: Spencer Steer talks his two home runs, 7-4 victory Spencer Steer talks his two home runs, 7-4 victory Spencer Steer talks his two home runs, 7-4 victory Spencer Steer discusses hitting two home runs, Elly De La Cruz's impact on the team and more following the Reds' 7-4 victory
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/19/6bfdf20a-3d853695-0bf2bbf1-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776267_spencer-steer-talks-his-two-home-runs-7-4-victory
+clip_id: MLB_776267_spencer-steer-talks-his-two-home-runs-7-4-victory_auto1_0p600_7p600
+source_path: raw_sources\MLB_776267_spencer-steer-talks-his-two-home-runs-7-4-victory_Spencer_Steer_talks_his_two_home_runs_7-4_victory_Spencer_Steer_talks_his_two_home_runs_7-4_victory_Spencer_S.mp4
+clip_start_time: 0.600
+clip_end_time: 7.600

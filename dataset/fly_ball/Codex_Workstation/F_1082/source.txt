@@ -1,0 +1,7 @@
+video_title: Spencer Torkelson's two-run homer (31) Spencer Torkelson's two-run homer (31) Spencer Torkelson's two-run homer (31) Spencer Torkelson hits a two-run home run to left field to give the Tigers a 5-3 lead in the 7th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/20/c402c346-147049c6-e474b4db-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776258_spencer-torkelson-homers-31-on-a-fly-ball-to-left-field-jahmai-jones-
+clip_id: MLB_776258_spencer-torkelson-homers-31-on-a-fly-ball-to-left-field-jahmai-jones-_auto1_4p160_11p160
+source_path: raw_sources\MLB_776258_spencer-torkelson-homers-31-on-a-fly-ball-to-left-field-jahmai-jones-_Spencer_Torkelson_s_two-run_homer_31_Spencer_Torkelson_s_two-run_homer_31_Spencer_Torkels.mp4
+clip_start_time: 4.160
+clip_end_time: 11.160

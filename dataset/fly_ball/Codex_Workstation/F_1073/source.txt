@@ -1,0 +1,7 @@
+video_title: Royce Lewis' pinch-hit three-run home run (13) Royce Lewis' pinch-hit three-run home run (13) Royce Lewis' pinch-hit three-run home run (13) Royce Lewis comes off the bench to deliver a clutch pinch-hit, three-run home run in the 7th inning, increasing the Twins' lead to 6-2
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/21/e4d7818f-62c85392-b0fae7c4-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776225_royce-lewis-homers-13-on-a-fly-ball-to-left-center-field-kody-clemens
+clip_id: MLB_776225_royce-lewis-homers-13-on-a-fly-ball-to-left-center-field-kody-clemens_auto1_3p880_10p880
+source_path: raw_sources\MLB_776225_royce-lewis-homers-13-on-a-fly-ball-to-left-center-field-kody-clemens_Royce_Lewis_pinch-hit_three-run_home_run_13_Royce_Lewis_pinch-hit_three-run_home_run_13_R.mp4
+clip_start_time: 3.880
+clip_end_time: 10.880

@@ -1,0 +1,7 @@
+video_title: José Ramírez on the pitching staff in win José Ramírez on the pitching staff in win José Ramírez on the pitching staff in win José Ramírez discusses how happy he is with the pitching staff in the win over the Tigers, his go-ahead home run, sweeping the Tigers, more
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/18/297dec3b-8ee6733f-c8a3ec55-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776275_jose-ramirez-on-the-pitching-staff-in-win
+clip_id: MLB_776275_jose-ramirez-on-the-pitching-staff-in-win_auto1_1p360_8p360
+source_path: raw_sources\MLB_776275_jose-ramirez-on-the-pitching-staff-in-win_Jos_Ram_rez_on_the_pitching_staff_in_win_Jos_Ram_rez_on_the_pitching_staff_in_win_Jos_Ram_rez_on_the_pitching_staff_i.mp4
+clip_start_time: 1.360
+clip_end_time: 8.360

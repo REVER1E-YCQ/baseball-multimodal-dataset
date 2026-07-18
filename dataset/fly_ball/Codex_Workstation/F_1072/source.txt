@@ -1,0 +1,7 @@
+video_title: Bo Naylor's sacrifice fly Bo Naylor's sacrifice fly Bo Naylor's sacrifice fly Bo Naylor hits a sacrifice fly to center, scoring George Valera and extending the Guardians' lead to 2-0 in the 1st inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/21/d72bb995-5e536133-04c176f8-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776225_bo-naylor-out-on-a-sacrifice-fly-to-center-fielder-byron-buxton-georg
+clip_id: MLB_776225_bo-naylor-out-on-a-sacrifice-fly-to-center-fielder-byron-buxton-georg_auto1_7p060_14p060
+source_path: raw_sources\MLB_776225_bo-naylor-out-on-a-sacrifice-fly-to-center-fielder-byron-buxton-georg_Bo_Naylor_s_sacrifice_fly_Bo_Naylor_s_sacrifice_fly_Bo_Naylor_s_sacrifice_fly_Bo_Naylor_h.mp4
+clip_start_time: 7.060
+clip_end_time: 14.060
