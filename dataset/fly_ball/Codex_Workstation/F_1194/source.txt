@@ -1,0 +1,7 @@
+video_title: Jon Singleton's diving play Jon Singleton's diving play Jon Singleton's diving play Jon Singleton makes a smooth grab off a line drive from Brandon Nimmo before stepping on first for the out in the bottom of the 4th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/29/a305e90f-fea1f425-e9b66923-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745801_framber-valdez-in-play-out-s-to-brandon-nimmo-daeh5e
+clip_id: MLB_745801_framber-valdez-in-play-out-s-to-brandon-nimmo-daeh5e_auto1_2p340_9p340
+source_path: raw_sources\MLB_745801_framber-valdez-in-play-out-s-to-brandon-nimmo-daeh5e_Jon_Singleton_s_diving_play_Jon_Singleton_s_diving_play_Jon_Singleton_s_diving_play_Jon_Singleton_makes_a_.mp4
+clip_start_time: 2.340
+clip_end_time: 9.340
