@@ -1,0 +1,7 @@
+video_title: José Ramírez extends hitting streak to 19 games José Ramírez extends hitting streak to 19 games José Ramírez extends hitting streak to 19 games José Ramírez doubles on a fly ball to right field in the 6th, extending his hitting streak to a career-best 19 games
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/26/9230b37b-b01f04fb-1eb4650b-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777769_yoshinobu-yamamoto-in-play-no-out-to-jose-ramirez
+clip_id: MLB_777769_yoshinobu-yamamoto-in-play-no-out-to-jose-ramirez_auto1_0p000_7p000
+source_path: raw_sources\MLB_777769_yoshinobu-yamamoto-in-play-no-out-to-jose-ramirez_Jos_Ram_rez_extends_hitting_streak_to_19_games_Jos_Ram_rez_extends_hitting_streak_to_19_games_Jos_Ram_rez_ext.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

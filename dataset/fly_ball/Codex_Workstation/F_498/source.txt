@@ -1,0 +1,7 @@
+video_title: Tyler Stephenson's RBI double Tyler Stephenson's RBI double Tyler Stephenson's RBI double Tyler Stephenson doubles on a fly ball to left-center field and Spencer Steer scores, increasing the Reds' lead to 5-2 in the 5th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/23/8eaf19ed-37ba2040-acb6d41b-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777811_julian-merryweather-in-play-run-s-to-tyler-stephenson
+clip_id: MLB_777811_julian-merryweather-in-play-run-s-to-tyler-stephenson_auto1_0p740_7p740
+source_path: raw_sources\MLB_777811_julian-merryweather-in-play-run-s-to-tyler-stephenson_Tyler_Stephenson_s_RBI_double_Tyler_Stephenson_s_RBI_double_Tyler_Stephenson_s_RBI_double_Tyler_Stephenso.mp4
+clip_start_time: 0.740
+clip_end_time: 7.740

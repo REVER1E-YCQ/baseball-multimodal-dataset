@@ -1,0 +1,7 @@
+video_title: Nick Castellanos' sac fly  Nick Castellanos' sac fly  Nick Castellanos' sac fly  Nick Castellanos lifts a fly ball to center field, scoring Bryce Harper and extending the Phillies' lead to 3-0 in the 1st inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/20/d33e487e-7f4f0620-f7bd8abe-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_777842_nick-castellanos-flies-out-to-center-fielder-brenton-doyle-bryce-harp
+clip_id: MLB_777842_nick-castellanos-flies-out-to-center-fielder-brenton-doyle-bryce-harp_auto1_9p220_16p220
+source_path: raw_sources\MLB_777842_nick-castellanos-flies-out-to-center-fielder-brenton-doyle-bryce-harp_Nick_Castellanos_sac_fly_Nick_Castellanos_sac_fly_Nick_Castellanos_sac_fly_Nick_Castellan.mp4
+clip_start_time: 9.220
+clip_end_time: 16.220

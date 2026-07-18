@@ -1,0 +1,7 @@
+video_title: Marcelo Mayer's unbelievable diving catch Marcelo Mayer's unbelievable diving catch Marcelo Mayer's unbelievable diving catch Marcelo Mayer reacts sharply and lays out to catch a line drive from Sean Murphy for the final out of the 8th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/30/805efcb7-16e0cc72-86e4ef80-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777719_sean-murphy-lines-out-sharply-to-third-baseman-marcelo-mayer
+clip_id: MLB_777719_sean-murphy-lines-out-sharply-to-third-baseman-marcelo-mayer_auto1_0p000_7p000
+source_path: raw_sources\MLB_777719_sean-murphy-lines-out-sharply-to-third-baseman-marcelo-mayer_Marcelo_Mayer_s_unbelievable_diving_catch_Marcelo_Mayer_s_unbelievable_diving_catch_Marcelo_Mayer_.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

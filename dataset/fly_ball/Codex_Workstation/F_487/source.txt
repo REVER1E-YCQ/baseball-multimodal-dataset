@@ -1,0 +1,7 @@
+video_title: Jordan Beck's leaping catch Jordan Beck's leaping catch Jordan Beck's leaping catch Jordan Beck races back to the warning track and leaps to make a nice catch on Tyrone Taylor's fly ball to left field in the bottom of the 2nd
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/30/d699e269-6861216e-b37af69a-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777718_tyrone-taylor-flies-out-to-left-fielder-jordan-beck
+clip_id: MLB_777718_tyrone-taylor-flies-out-to-left-fielder-jordan-beck_auto1_3p500_10p500
+source_path: raw_sources\MLB_777718_tyrone-taylor-flies-out-to-left-fielder-jordan-beck_Jordan_Beck_s_leaping_catch_Jordan_Beck_s_leaping_catch_Jordan_Beck_s_leaping_catch_Jordan_Beck_races_back_.mp4
+clip_start_time: 3.500
+clip_end_time: 10.500

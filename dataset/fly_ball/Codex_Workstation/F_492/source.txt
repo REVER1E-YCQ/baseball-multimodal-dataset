@@ -1,0 +1,7 @@
+video_title: Ryan McMahon's RBI single Ryan McMahon's RBI single  Ryan McMahon's RBI single Ryan McMahon singles on a line drive to left field, to put the Rockies on the board in the top of the 4th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/27/e1707bb2-f479ab03-ff496929-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_777751_ryan-mcmahon-singles-on-a-line-drive-to-left-fielder-ian-happ-jordan-
+clip_id: MLB_777751_ryan-mcmahon-singles-on-a-line-drive-to-left-fielder-ian-happ-jordan-_auto1_2p360_9p360
+source_path: raw_sources\MLB_777751_ryan-mcmahon-singles-on-a-line-drive-to-left-fielder-ian-happ-jordan-_Ryan_McMahon_s_RBI_single_Ryan_McMahon_s_RBI_single_Ryan_McMahon_s_RBI_single_Ryan_McMaho.mp4
+clip_start_time: 2.360
+clip_end_time: 9.360

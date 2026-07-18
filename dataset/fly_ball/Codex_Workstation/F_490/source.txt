@@ -1,0 +1,7 @@
+video_title: Chris Taylor's outstanding diving catch Chris Taylor's outstanding diving catch Chris Taylor's outstanding diving catch Chris Taylor tracks a line drive and lays out to make a miraculous diving catch on Paul Goldschmidt for the first out of the game
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/27/76cdc0a7-ffff1efc-1a469de9-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777745_paul-goldschmidt-lines-out-to-left-fielder-chris-taylor
+clip_id: MLB_777745_paul-goldschmidt-lines-out-to-left-fielder-chris-taylor_auto1_0p260_7p260
+source_path: raw_sources\MLB_777745_paul-goldschmidt-lines-out-to-left-fielder-chris-taylor_Chris_Taylor_s_outstanding_diving_catch_Chris_Taylor_s_outstanding_diving_catch_Chris_Taylor_s_outstand.mp4
+clip_start_time: 0.260
+clip_end_time: 7.260
