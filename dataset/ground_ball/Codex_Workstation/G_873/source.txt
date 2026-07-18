@@ -1,0 +1,7 @@
+video_title: Bobby Witt Jr.'s infield single in 2nd Bobby Witt Jr.'s infield single in 2nd Bobby Witt Jr.'s infield single in 2nd Bobby Witt Jr. singles on a ground ball to second base, putting two runners on base in the bottom of the 2nd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/12/a22e47cd-91cf6859-f988da8d-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_776770_bobby-witt-jr-singles-on-a-ground-ball-to-second-baseman-luis-garcia-
+clip_id: MLB_776770_bobby-witt-jr-singles-on-a-ground-ball-to-second-baseman-luis-garcia-_auto1_5p120_11p120
+source_path: raw_sources\MLB_776770_bobby-witt-jr-singles-on-a-ground-ball-to-second-baseman-luis-garcia-_Bobby_Witt_Jr._s_infield_single_in_2nd_Bobby_Witt_Jr._s_infield_single_in_2nd_Bobby_Witt_.mp4
+clip_start_time: 5.120
+clip_end_time: 11.120

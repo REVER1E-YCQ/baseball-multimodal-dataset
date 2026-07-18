@@ -1,0 +1,7 @@
+video_title: Field View: Bo Bichette's go-ahead two-run homer Field View: Bo Bichette's go-ahead two-run homer Field View: Bo Bichette's go-ahead two-run homer Check out this unique angle of Bo Bichette's go-ahead two-run home run against the Reds, giving the Blue Jays a 3-2 lead in the 9th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/01/2a48f693-a6533291-76d5ea58-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776503_field-view-bo-bichette-s-go-ahead-two-run-homer
+clip_id: MLB_776503_field-view-bo-bichette-s-go-ahead-two-run-homer_auto1_6p220_13p220
+source_path: raw_sources\MLB_776503_field-view-bo-bichette-s-go-ahead-two-run-homer_Field_View_Bo_Bichette_s_go-ahead_two-run_homer_Field_View_Bo_Bichette_s_go-ahead_two-run_homer_Field_View_Bo_B.mp4
+clip_start_time: 6.220
+clip_end_time: 13.220

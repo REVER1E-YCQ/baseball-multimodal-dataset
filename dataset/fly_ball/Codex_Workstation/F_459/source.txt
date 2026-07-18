@@ -1,0 +1,7 @@
+video_title: Abraham Toro's diving catch Abraham Toro's diving catch Abraham Toro's diving catch Abraham Toro lays out to snare a sharp line drive off the bat of Ben Rice in the bottom of the 3rd
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/08/2fa9a2cd-71fdc6fb-735b78eb-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777593_hunter-dobbins-in-play-out-s-to-ben-rice
+clip_id: MLB_777593_hunter-dobbins-in-play-out-s-to-ben-rice_auto1_0p760_7p760
+source_path: raw_sources\MLB_777593_hunter-dobbins-in-play-out-s-to-ben-rice_Abraham_Toro_s_diving_catch_Abraham_Toro_s_diving_catch_Abraham_Toro_s_diving_catch_Abraham_Toro_lays_out_to_snare_a_s.mp4
+clip_start_time: 0.760
+clip_end_time: 7.760

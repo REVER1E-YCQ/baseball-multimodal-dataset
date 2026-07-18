@@ -1,0 +1,7 @@
+video_title: Juan Soto powers his 40th homer of the season Juan Soto powers his 40th homer of the season Juan Soto powers his 40th homer of the season Juan Soto belts a solo home run 411 feet to right field for his 40th home run of the season, giving the Mets a 2-0 lead #CurtainCall
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/13/393bf61d-55732661-6ab8a5d9-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776349_juan-soto-powers-his-40th-homer-of-the-season
+clip_id: MLB_776349_juan-soto-powers-his-40th-homer-of-the-season_auto1_0p000_7p000
+source_path: raw_sources\MLB_776349_juan-soto-powers-his-40th-homer-of-the-season_Juan_Soto_powers_his_40th_homer_of_the_season_Juan_Soto_powers_his_40th_homer_of_the_season_Juan_Soto_powers_his_.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

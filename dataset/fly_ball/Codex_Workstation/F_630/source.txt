@@ -1,0 +1,7 @@
+video_title: Aaron Judge passes Joe DiMaggio on home run list (47) Aaron Judge passes Joe DiMaggio on home run list (47) Aaron Judge passes Joe DiMaggio on home run list (47) Aaron Judge crushes a solo home run to left-center field in the top of the 1st to pass Joe DiMaggio for fourth on the Yankees all-time hom
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/12/5fc6808e-c0bc0bd7-918ce772-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776363_aaron-judge-s-solo-home-run-47
+clip_id: MLB_776363_aaron-judge-s-solo-home-run-47_auto1_10p680_17p680
+source_path: raw_sources\MLB_776363_aaron-judge-s-solo-home-run-47_Aaron_Judge_passes_Joe_DiMaggio_on_home_run_list_47_Aaron_Judge_passes_Joe_DiMaggio_on_home_run_list_47_Aaron_Judge_passes_Joe_D.mp4
+clip_start_time: 10.680
+clip_end_time: 17.680

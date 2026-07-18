@@ -1,0 +1,7 @@
+video_title: Fernando Tatis Jr. spins a double play from right Fernando Tatis Jr. spins a double play from right Fernando Tatis Jr. spins a double play from right Fernando Tatis Jr. catches a liner off the bat of Joey Ortiz and throws to first to double-up the Brewers
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/08/5d2c4a9a-5d946f1d-bc8b9f2a-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777586_ryan-bergert-in-play-out-s-to-joey-ortiz
+clip_id: MLB_777586_ryan-bergert-in-play-out-s-to-joey-ortiz_auto1_0p000_7p000
+source_path: raw_sources\MLB_777586_ryan-bergert-in-play-out-s-to-joey-ortiz_Fernando_Tatis_Jr._spins_a_double_play_from_right_Fernando_Tatis_Jr._spins_a_double_play_from_right_Fernando_Tatis_Jr..mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

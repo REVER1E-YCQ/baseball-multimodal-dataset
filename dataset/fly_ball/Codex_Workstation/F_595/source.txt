@@ -1,0 +1,7 @@
+video_title: Sal Stewart's solo homer (4) Sal Stewart's solo homer (4) Sal Stewart's solo homer (4) Sal Stewart hits a solo home run to left field in the top of the 2nd inning to give the Reds a 1-0 lead
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/15/88fb24f5-03942fae-cf8fd7fa-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776312_sal-stewart-homers-4-on-a-fly-ball-to-left-field
+clip_id: MLB_776312_sal-stewart-homers-4-on-a-fly-ball-to-left-field_auto1_16p300_23p300
+source_path: raw_sources\MLB_776312_sal-stewart-homers-4-on-a-fly-ball-to-left-field_Sal_Stewart_s_solo_homer_4_Sal_Stewart_s_solo_homer_4_Sal_Stewart_s_solo_homer_4_Sal_Stewart_hits_a_solo_home_.mp4
+clip_start_time: 16.300
+clip_end_time: 23.300

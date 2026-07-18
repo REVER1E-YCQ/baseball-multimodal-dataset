@@ -1,0 +1,7 @@
+video_title: Soto, Alonso crush back-to-back homers Soto, Alonso crush back-to-back homers Soto, Alonso crush back-to-back homers Juan Soto and Pete Alonso crush back-to-back home runs in the top of the 7th, extending the Mets' lead to 8-2
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/02/9d198c6a-08b835e5-d3eec3fc-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776490_soto-alonso-crush-back-to-back-homers
+clip_id: MLB_776490_soto-alonso-crush-back-to-back-homers_auto1_5p860_12p860
+source_path: raw_sources\MLB_776490_soto-alonso-crush-back-to-back-homers_Soto_Alonso_crush_back-to-back_homers_Soto_Alonso_crush_back-to-back_homers_Soto_Alonso_crush_back-to-back_homers_Juan_So.mp4
+clip_start_time: 5.860
+clip_end_time: 12.860

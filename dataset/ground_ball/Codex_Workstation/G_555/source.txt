@@ -1,0 +1,7 @@
+video_title: Jake Burger's barehanded play Jake Burger's barehanded play Jake Burger's barehanded play Jake Burger fields a softly hit grounder with his bare hand, then fires to first base for the final out in the top of the 3rd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/05/1b9a98e3-ccac92cd-7158695e-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746046_eloy-jimenez-grounds-out-third-baseman-jake-burger-to-first-baseman-j
+clip_id: MLB_746046_eloy-jimenez-grounds-out-third-baseman-jake-burger-to-first-baseman-j_auto1_3p600_9p600
+source_path: raw_sources\MLB_746046_eloy-jimenez-grounds-out-third-baseman-jake-burger-to-first-baseman-j_Jake_Burger_s_barehanded_play_Jake_Burger_s_barehanded_play_Jake_Burger_s_barehanded_play.mp4
+clip_start_time: 3.600
+clip_end_time: 9.600

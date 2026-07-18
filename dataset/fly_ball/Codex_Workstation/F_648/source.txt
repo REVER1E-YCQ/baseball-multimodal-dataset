@@ -1,0 +1,7 @@
+video_title: Mike Trout's go-ahead sac fly Mike Trout's go-ahead sac fly Mike Trout's go-ahead sac fly Mike Trout gives the Angels a 4-3 lead with a go-ahead sacrifice fly to plate Bryce Teodosio in the bottom of the 8th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/10/d587938f-711c6d63-5ce1138c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776376_cole-sands-in-play-run-s-to-mike-trout
+clip_id: MLB_776376_cole-sands-in-play-run-s-to-mike-trout_auto1_0p000_7p000
+source_path: raw_sources\MLB_776376_cole-sands-in-play-run-s-to-mike-trout_Mike_Trout_s_go-ahead_sac_fly_Mike_Trout_s_go-ahead_sac_fly_Mike_Trout_s_go-ahead_sac_fly_Mike_Trout_gives_the_Angels_a_.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

@@ -1,0 +1,7 @@
+video_title: Marcell Ozuna's sac fly Marcell Ozuna's sac fly Marcell Ozuna's sac fly Marcell Ozuna lifts a fly ball to center field, bringing in Austin Riley and making it 3-0 Braves in the bottom of the 1st inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/18/81b110e2-801ec5b5-37fcaf3c-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_777470_paul-blackburn-in-play-run-s-to-marcell-ozuna
+clip_id: MLB_777470_paul-blackburn-in-play-run-s-to-marcell-ozuna_auto1_1p580_8p580
+source_path: raw_sources\MLB_777470_paul-blackburn-in-play-run-s-to-marcell-ozuna_Marcell_Ozuna_s_sac_fly_Marcell_Ozuna_s_sac_fly_Marcell_Ozuna_s_sac_fly_Marcell_Ozuna_lifts_a_fly_ball_to_center_.mp4
+clip_start_time: 1.580
+clip_end_time: 8.580

@@ -1,0 +1,7 @@
+video_title: Jung Hoo Lee out at home after replay Jung Hoo Lee out at home after replay Jung Hoo Lee out at home after replay After trying to score from third on a fly ball to left field, Jung Hoo Lee is called out after an unsuccessful Giants challenge
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/11/e0b93ca4-8f47ac15-cda258a0-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777143_dustin-may-in-play-out-s-to-casey-schmitt-dlamrd
+clip_id: MLB_777143_dustin-may-in-play-out-s-to-casey-schmitt-dlamrd_auto1_13p140_20p140
+source_path: raw_sources\MLB_777143_dustin-may-in-play-out-s-to-casey-schmitt-dlamrd_Jung_Hoo_Lee_out_at_home_after_replay_Jung_Hoo_Lee_out_at_home_after_replay_Jung_Hoo_Lee_out_at_home_after_rep.mp4
+clip_start_time: 13.140
+clip_end_time: 20.140

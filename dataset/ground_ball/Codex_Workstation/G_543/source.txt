@@ -1,0 +1,7 @@
+video_title: DJ LeMahieu's RBI groundout  DJ LeMahieu's RBI groundout  DJ LeMahieu's RBI groundout  DJ LeMahieu drives in Jahmai Jones with an RBI groundout, putting the Yankees on the board in the 2nd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/21/ec0fa127-9be8f7d6-168983c9-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745729_dj-lemahieu-grounds-out-second-baseman-ozzie-albies-to-first-baseman-
+clip_id: MLB_745729_dj-lemahieu-grounds-out-second-baseman-ozzie-albies-to-first-baseman-_auto1_0p000_6p000
+source_path: raw_sources\MLB_745729_dj-lemahieu-grounds-out-second-baseman-ozzie-albies-to-first-baseman-_DJ_LeMahieu_s_RBI_groundout_DJ_LeMahieu_s_RBI_groundout_DJ_LeMahieu_s_RBI_groundout_DJ_Le.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

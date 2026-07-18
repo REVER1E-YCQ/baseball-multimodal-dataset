@@ -1,0 +1,7 @@
+video_title: Alejandro Kirk's walk-off single Alejandro Kirk's walk-off single Alejandro Kirk's walk-off single Alejandro Kirk belts a line drive off the right-center-field wall to score Vladimir Guerrero Jr. and give the Blue Jays a 2-1 win over the Phillies
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/04/222fecc8-8944fbef-42bc7677-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777651_jordan-romano-in-play-run-s-to-alejandro-kirk
+clip_id: MLB_777651_jordan-romano-in-play-run-s-to-alejandro-kirk_auto1_5p780_12p780
+source_path: raw_sources\MLB_777651_jordan-romano-in-play-run-s-to-alejandro-kirk_Alejandro_Kirk_s_walk-off_single_Alejandro_Kirk_s_walk-off_single_Alejandro_Kirk_s_walk-off_single_Alejandro_Kirk.mp4
+clip_start_time: 5.780
+clip_end_time: 12.780

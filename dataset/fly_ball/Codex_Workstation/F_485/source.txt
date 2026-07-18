@@ -1,0 +1,7 @@
+video_title: Juan Soto's running catch Juan Soto's running catch Juan Soto's running catch Juan Soto makes an adjustment on his route to Ezequiel Tovar's fly ball to record a nice running catch and end the top of the 7th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/30/a7884a6a-739ecefa-a74d63c5-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_777718_huascar-brazoban-in-play-out-s-to-ezequiel-tovar-2cly94
+clip_id: MLB_777718_huascar-brazoban-in-play-out-s-to-ezequiel-tovar-2cly94_auto1_4p240_11p240
+source_path: raw_sources\MLB_777718_huascar-brazoban-in-play-out-s-to-ezequiel-tovar-2cly94_Juan_Soto_s_running_catch_Juan_Soto_s_running_catch_Juan_Soto_s_running_catch_Juan_Soto_makes_an_adjust.mp4
+clip_start_time: 4.240
+clip_end_time: 11.240

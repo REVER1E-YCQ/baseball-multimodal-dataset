@@ -1,0 +1,7 @@
+video_title: Stephen Vogt on playoff race, Kayfus' homer Stephen Vogt on playoff race, Kayfus' homer Stephen Vogt on playoff race, Kayfus' homer Stephen Vogt discusses the tension around a playoff race, facing Stephen Kolek and C.J. Kayfus' go-ahead home run following the Guardians' 3-2 win
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/11/55b2166e-fd2d6ca3-9b306dc2-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776370_stephen-vogt-on-playoff-race-kolek-kayfus-homer
+clip_id: MLB_776370_stephen-vogt-on-playoff-race-kolek-kayfus-homer_auto1_1p040_8p040
+source_path: raw_sources\MLB_776370_stephen-vogt-on-playoff-race-kolek-kayfus-homer_Stephen_Vogt_on_playoff_race_Kayfus_homer_Stephen_Vogt_on_playoff_race_Kayfus_homer_Stephen_Vogt_on_playoff_rac.mp4
+clip_start_time: 1.040
+clip_end_time: 8.040

@@ -1,0 +1,7 @@
+video_title: Eugenio Suárez frustrated after 4th inning at-bat Eugenio Suárez frustrated after 4th inning at-bat Eugenio Suárez frustrated after 4th inning at-bat Eugenio Suárez expresses frustration after he hits a fly ball  in the top of the 4th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/28/ddc83172-082a232c-478898a8-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776973_troy-melton-in-play-out-s-to-eugenio-suarez
+clip_id: MLB_776973_troy-melton-in-play-out-s-to-eugenio-suarez_auto1_17p460_24p460
+source_path: raw_sources\MLB_776973_troy-melton-in-play-out-s-to-eugenio-suarez_Eugenio_Su_rez_frustrated_after_4th_inning_at-bat_Eugenio_Su_rez_frustrated_after_4th_inning_at-bat_Eugenio_Su_rez_.mp4
+clip_start_time: 17.460
+clip_end_time: 24.460

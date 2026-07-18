@@ -1,0 +1,7 @@
+video_title: Luis García Jr.'s two-run home run (12) Luis García Jr.'s two-run home run (12) Luis García Jr.'s two-run home run (12) Luis García Jr. puts the Nationals on the board against the Cubs in the 4th inning with a two-run home run
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/05/c41a7483-455401f9-9c4b8876-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776455_javier-assad-in-play-run-s-to-luis-garcia-jr
+clip_id: MLB_776455_javier-assad-in-play-run-s-to-luis-garcia-jr_auto1_0p000_7p000
+source_path: raw_sources\MLB_776455_javier-assad-in-play-run-s-to-luis-garcia-jr_Luis_Garc_a_Jr._s_two-run_home_run_12_Luis_Garc_a_Jr._s_two-run_home_run_12_Luis_Garc_a_Jr._s_two-run_home_run_12_.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

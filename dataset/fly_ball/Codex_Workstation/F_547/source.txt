@@ -1,0 +1,7 @@
+video_title: Dylan Moore's leadoff home run (5) Dylan Moore's leadoff home run (5) Dylan Moore's leadoff home run (5) Dylan Moore homers on a fly ball to left-center field to put the Mariners on the board in the top of the 1st inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/20/c4a771d7-d9dbc19e-4a9a9225-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_778241_dylan-moore-homers-5-on-a-fly-ball-to-left-center-field-0vxbqp
+clip_id: MLB_778241_dylan-moore-homers-5-on-a-fly-ball-to-left-center-field-0vxbqp_auto1_7p860_14p860
+source_path: raw_sources\MLB_778241_dylan-moore-homers-5-on-a-fly-ball-to-left-center-field-0vxbqp_Dylan_Moore_s_leadoff_home_run_5_Dylan_Moore_s_leadoff_home_run_5_Dylan_Moore_s_leadoff_home_run.mp4
+clip_start_time: 7.860
+clip_end_time: 14.860

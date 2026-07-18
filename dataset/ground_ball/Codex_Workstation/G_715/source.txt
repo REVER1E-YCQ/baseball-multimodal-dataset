@@ -1,0 +1,7 @@
+video_title: Masyn Winn's fantastic sliding stop and throw Masyn Winn's fantastic sliding stop and throw Masyn Winn's fantastic sliding stop and throw Masyn Winn makes a sliding stop on Vinnie Pasquantino's grounder, then pops up and throws to first as he falls backward to get the out
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/17/b7b107bd-c74049bc-3030212a-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777885_vinnie-pasquantino-grounds-out-shortstop-masyn-winn-to-first-baseman-
+clip_id: MLB_777885_vinnie-pasquantino-grounds-out-shortstop-masyn-winn-to-first-baseman-_auto1_5p020_11p020
+source_path: raw_sources\MLB_777885_vinnie-pasquantino-grounds-out-shortstop-masyn-winn-to-first-baseman-_Masyn_Winn_s_fantastic_sliding_stop_and_throw_Masyn_Winn_s_fantastic_sliding_stop_and_thr.mp4
+clip_start_time: 5.020
+clip_end_time: 11.020

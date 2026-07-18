@@ -1,0 +1,7 @@
+video_title: Field View: Alexander Canario's home run Field View: Alexander Canario's home run Field View: Alexander Canario's home run Watch this unique angle of Alexander Canario's solo home run in the 3rd inning against the Orioles
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/11/905edd8d-a35d13db-bd0b221b-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776372_field-view-alexander-canario-s-home-run
+clip_id: MLB_776372_field-view-alexander-canario-s-home-run_auto1_5p840_12p840
+source_path: raw_sources\MLB_776372_field-view-alexander-canario-s-home-run_Field_View_Alexander_Canario_s_home_run_Field_View_Alexander_Canario_s_home_run_Field_View_Alexander_Canario_s_home_run.mp4
+clip_start_time: 5.840
+clip_end_time: 12.840

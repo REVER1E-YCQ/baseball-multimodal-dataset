@@ -1,0 +1,7 @@
+video_title: Charlie Morton smoothly snags a comebacker Charlie Morton smoothly snags a comebacker Charlie Morton smoothly snags a comebacker Charlie Morton flashes his leather on the mound, quickly snagging a hard grounder up the middle and firing to first for the out
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/02/2216e787-1a4ccf29-3b6378ef-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_747110_abraham-toro-grounds-out-sharply-pitcher-charlie-morton-to-first-base
+clip_id: MLB_747110_abraham-toro-grounds-out-sharply-pitcher-charlie-morton-to-first-base_auto1_0p000_6p000
+source_path: raw_sources\MLB_747110_abraham-toro-grounds-out-sharply-pitcher-charlie-morton-to-first-base_Charlie_Morton_smoothly_snags_a_comebacker_Charlie_Morton_smoothly_snags_a_comeb.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

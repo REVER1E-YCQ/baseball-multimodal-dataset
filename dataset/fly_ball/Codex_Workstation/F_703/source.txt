@@ -1,0 +1,7 @@
+video_title: Ke'Bryan Hayes' sacrifice fly Ke'Bryan Hayes' sacrifice fly Ke'Bryan Hayes' sacrifice fly Ke'Bryan Hayes hits a sacrifice fly to left field, while Tyler Stephenson tags and scores with the Reds trailing 5-4 in the 4th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/05/e56897fa-21e04492-b21c1b8b-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_776450_david-peterson-in-play-run-s-to-ke-bryan-hayes
+clip_id: MLB_776450_david-peterson-in-play-run-s-to-ke-bryan-hayes_auto1_6p840_13p840
+source_path: raw_sources\MLB_776450_david-peterson-in-play-run-s-to-ke-bryan-hayes_Ke_Bryan_Hayes_sacrifice_fly_Ke_Bryan_Hayes_sacrifice_fly_Ke_Bryan_Hayes_sacrifice_fly_Ke_Bryan_Hayes_hits_a_sac.mp4
+clip_start_time: 6.840
+clip_end_time: 13.840

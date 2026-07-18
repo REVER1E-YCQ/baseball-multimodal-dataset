@@ -1,0 +1,7 @@
+video_title: Zach Agnos seals the Rockies' 10-6 victory Zach Agnos seals the Rockies' 10-6 victory Zach Agnos seals the Rockies' 10-6 victory Zach Agnos induces a fly ball to shallow center field, giving the Rockies a 10-6 victory over the Twins
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/19/8d222608-d4c23e33-a3356391-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_777080_willi-castro-flies-out-to-shortstop-ezequiel-tovar
+clip_id: MLB_777080_willi-castro-flies-out-to-shortstop-ezequiel-tovar_auto1_7p227_14p227
+source_path: raw_sources\MLB_777080_willi-castro-flies-out-to-shortstop-ezequiel-tovar_Zach_Agnos_seals_the_Rockies_10-6_victory_Zach_Agnos_seals_the_Rockies_10-6_victory_Zach_Agnos_seals_the_Roc.mp4
+clip_start_time: 7.227
+clip_end_time: 14.227

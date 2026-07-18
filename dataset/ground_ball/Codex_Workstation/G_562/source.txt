@@ -1,0 +1,7 @@
+video_title: Ali Sánchez's single Ali Sánchez's single Ali Sánchez's single Ali Sánchez singles on a ground ball to left field in the top of the 7th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/25/c468f9e0-59e5c655-bae83a08-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746293_ali-sanchez-singles-on-a-ground-ball-to-left-fielder-mj-melendez-nick
+clip_id: MLB_746293_ali-sanchez-singles-on-a-ground-ball-to-left-fielder-mj-melendez-nick_auto1_5p640_11p640
+source_path: raw_sources\MLB_746293_ali-sanchez-singles-on-a-ground-ball-to-left-fielder-mj-melendez-nick_Ali_S_nchez_s_single_Ali_S_nchez_s_single_Ali_S_nchez_s_single_Ali_S_nchez_singles_on_a_g.mp4
+clip_start_time: 5.640
+clip_end_time: 11.640

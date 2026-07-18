@@ -1,0 +1,7 @@
+video_title: Brent Rooker drives in Butler in the 1st Brent Rooker drives in Butler in the 1st Brent Rooker drives in Butler in the 1st Brent Rooker lifts a fly ball to right field, scoring Lawrence Butler to give the A's a 1-0 lead in the 1st inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/01/72739bac-e55357ed-40487cfa-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776914_brent-rooker-out-on-a-sacrifice-fly-to-right-fielder-corbin-carroll-l
+clip_id: MLB_776914_brent-rooker-out-on-a-sacrifice-fly-to-right-fielder-corbin-carroll-l_auto1_1p100_8p100
+source_path: raw_sources\MLB_776914_brent-rooker-out-on-a-sacrifice-fly-to-right-fielder-corbin-carroll-l_Brent_Rooker_drives_in_Butler_in_the_1st_Brent_Rooker_drives_in_Butler_in_the_1st_Brent_R.mp4
+clip_start_time: 1.100
+clip_end_time: 8.100

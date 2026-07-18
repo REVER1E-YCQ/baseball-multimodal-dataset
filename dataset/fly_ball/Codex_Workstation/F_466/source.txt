@@ -1,0 +1,7 @@
+video_title: Shohei Ohtani hits a single in the 3rd Shohei Ohtani hits a single in the 3rd Shohei Ohtani hits a single in the 3rd Shohei Ohtani hits a line drive to right field for a single in the bottom of the 3rd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/04/d021080a-6f02b98b-57def189-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_777638_griffin-canning-in-play-no-out-to-shohei-ohtani
+clip_id: MLB_777638_griffin-canning-in-play-no-out-to-shohei-ohtani_auto1_6p047_13p047
+source_path: raw_sources\MLB_777638_griffin-canning-in-play-no-out-to-shohei-ohtani_Shohei_Ohtani_hits_a_single_in_the_3rd_Shohei_Ohtani_hits_a_single_in_the_3rd_Shohei_Ohtani_hits_a_single_in_th.mp4
+clip_start_time: 6.047
+clip_end_time: 13.047

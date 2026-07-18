@@ -1,0 +1,7 @@
+video_title: Kyle Tucker's single Kyle Tucker's single Kyle Tucker's single Kyle Tucker singles on a ground ball to center fielder Dylan Carlson in the 7th inning
+video_url: https://bdata-producedclips.mlb.com/92137eaa-0e5b-4a24-9e38-d43c59857913.mp4
+source_id: MLB_776902_kyle-tucker-singles-on-a-ground-ball-to-center-fielder-dylan-carlson
+clip_id: MLB_776902_kyle-tucker-singles-on-a-ground-ball-to-center-fielder-dylan-carlson_auto1_4p040_10p040
+source_path: raw_sources\MLB_776902_kyle-tucker-singles-on-a-ground-ball-to-center-fielder-dylan-carlson_Kyle_Tucker_s_single_Kyle_Tucker_s_single_Kyle_Tucker_s_single_Kyle_Tucker_singles_on_a_gr.mp4
+clip_start_time: 4.040
+clip_end_time: 10.040

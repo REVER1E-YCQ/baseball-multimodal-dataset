@@ -1,0 +1,7 @@
+video_title: Wenceel Pérez's two-run homer (12) Wenceel Pérez's two-run homer (12) Wenceel Pérez's two-run homer (12) Wenceel Pérez lines a two-run home run to left field, scoring Gleyber Torres and giving the Tigers a 3-2 lead in the 3rd
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/01/fb25d984-7e1c02bf-07f779b0-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776501_sean-manaea-in-play-run-s-to-wenceel-perez
+clip_id: MLB_776501_sean-manaea-in-play-run-s-to-wenceel-perez_auto1_3p160_10p160
+source_path: raw_sources\MLB_776501_sean-manaea-in-play-run-s-to-wenceel-perez_Wenceel_P_rez_s_two-run_homer_12_Wenceel_P_rez_s_two-run_homer_12_Wenceel_P_rez_s_two-run_homer_12_Wenceel_P_rez_lin.mp4
+clip_start_time: 3.160
+clip_end_time: 10.160

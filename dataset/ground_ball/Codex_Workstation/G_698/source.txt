@@ -1,0 +1,7 @@
+video_title: Ryan Weathers' slick play Ryan Weathers' slick play Ryan Weathers' slick play Ryan Weathers reacts quickly to a soft grounder and pulls off a backhanded flip for the final out of the bottom of the 3rd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/26/21fa1a0a-c541eb97-985fb4c3-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777756_ryan-weathers-in-play-out-s-to-jackson-merrill
+clip_id: MLB_777756_ryan-weathers-in-play-out-s-to-jackson-merrill_auto1_3p776_9p776
+source_path: raw_sources\MLB_777756_ryan-weathers-in-play-out-s-to-jackson-merrill_Ryan_Weathers_slick_play_Ryan_Weathers_slick_play_Ryan_Weathers_slick_play_Ryan_Weathers_reacts_quickly_to_a_sof.mp4
+clip_start_time: 3.776
+clip_end_time: 9.776

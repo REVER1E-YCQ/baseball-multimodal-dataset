@@ -1,0 +1,7 @@
+video_title: Ramón Urías' solo home run (10) Ramón Urías' solo home run (10) Ramón Urías' solo home run (10) Ramón Urías lifts a solo home run to left field giving the Astros a 1-0 lead in the 2nd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/01/a332029c-75da2be3-225878e0-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776499_ramon-urias-homers-10-on-a-fly-ball-to-left-field
+clip_id: MLB_776499_ramon-urias-homers-10-on-a-fly-ball-to-left-field_auto1_5p360_12p360
+source_path: raw_sources\MLB_776499_ramon-urias-homers-10-on-a-fly-ball-to-left-field_Ram_n_Ur_as_solo_home_run_10_Ram_n_Ur_as_solo_home_run_10_Ram_n_Ur_as_solo_home_run_10_Ram_n_Ur_as_lifts_a_so.mp4
+clip_start_time: 5.360
+clip_end_time: 12.360

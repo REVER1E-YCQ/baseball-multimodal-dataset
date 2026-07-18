@@ -1,0 +1,7 @@
+video_title: Cody Bellinger's solo home run (11) Cody Bellinger's solo home run (11) Cody Bellinger's solo home run (11) Cody Bellinger homers on a fly ball to center field, cutting the Cubs' deficit to 4-3 in the bottom of the 9th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-08/01/428c3fc7-8984fe4d-9e50d36c-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746849_cody-bellinger-homers-11-on-a-fly-ball-to-center-field
+clip_id: MLB_746849_cody-bellinger-homers-11-on-a-fly-ball-to-center-field_auto1_0p000_7p000
+source_path: raw_sources\MLB_746849_cody-bellinger-homers-11-on-a-fly-ball-to-center-field_Cody_Bellinger_s_solo_home_run_11_Cody_Bellinger_s_solo_home_run_11_Cody_Bellinger_s_solo_home_run_11_Co.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

@@ -1,0 +1,7 @@
+video_title: D-backs plate two runs on an infield error  D-backs plate two runs on an infield error  D-backs plate two runs on an infield error  Ketel Marte chops a ground ball and the D-backs plate two runs after a fielding error by Ryan McMahon
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-04/08/c4da1d7d-d534bd53-996a69e4-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746569_kyle-freeland-in-play-run-s-to-ketel-marte-x1274
+clip_id: MLB_746569_kyle-freeland-in-play-run-s-to-ketel-marte-x1274_auto1_7p160_13p160
+source_path: raw_sources\MLB_746569_kyle-freeland-in-play-run-s-to-ketel-marte-x1274_D-backs_plate_two_runs_on_an_infield_error_D-backs_plate_two_runs_on_an_infield_.mp4
+clip_start_time: 7.160
+clip_end_time: 13.160

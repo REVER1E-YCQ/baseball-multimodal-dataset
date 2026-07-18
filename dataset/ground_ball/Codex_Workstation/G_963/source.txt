@@ -1,0 +1,7 @@
+video_title: Ketel Marte's tremendous diving stop Ketel Marte's tremendous diving stop Ketel Marte's tremendous diving stop Ketel Marte makes a fabulous diving grab up the middle to collect a sharp ground ball from Josh Jung and throws to first for the second out of the 9th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/12/b453f3da-e2c946f3-cf3963b2-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776764_josh-jung-grounds-out-second-baseman-ketel-marte-to-first-baseman-tyl
+clip_id: MLB_776764_josh-jung-grounds-out-second-baseman-ketel-marte-to-first-baseman-tyl_auto1_4p500_10p500
+source_path: raw_sources\MLB_776764_josh-jung-grounds-out-second-baseman-ketel-marte-to-first-baseman-tyl_Ketel_Marte_s_tremendous_diving_stop_Ketel_Marte_s_tremendous_diving_stop_Ketel_Marte_s_t.mp4
+clip_start_time: 4.500
+clip_end_time: 10.500

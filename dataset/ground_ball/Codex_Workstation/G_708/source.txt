@@ -1,0 +1,7 @@
+video_title: Junior Caminero starts the inning-ending double play  Junior Caminero starts the inning-ending double play  Junior Caminero starts the inning-ending double play  Junior Caminero fields a sharply hit ground ball and starts a double play to end the top of the 5th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/23/fe956fe7-9728ac2c-4561c89c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777810_drew-rasmussen-in-play-out-s-to-bo-bichette-cyfbn3
+clip_id: MLB_777810_drew-rasmussen-in-play-out-s-to-bo-bichette-cyfbn3_auto1_0p000_6p000
+source_path: raw_sources\MLB_777810_drew-rasmussen-in-play-out-s-to-bo-bichette-cyfbn3_Junior_Caminero_starts_the_inning-ending_double_play_Junior_Caminero_starts_the_inning-ending_double_play_Ju.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

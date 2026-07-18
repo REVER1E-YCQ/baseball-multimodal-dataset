@@ -1,0 +1,7 @@
+video_title: Vinnie Pasquantino's solo home run (29) Vinnie Pasquantino's solo home run (29) Vinnie Pasquantino's solo home run (29) Vinnie Pasquantino belts a solo home run to right field to cut the Angels' lead to one in the bottom of the 4th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/04/13b4a7be-33bfc8af-2a6ea58a-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776463_vinnie-pasquantino-homers-29-on-a-fly-ball-to-right-field
+clip_id: MLB_776463_vinnie-pasquantino-homers-29-on-a-fly-ball-to-right-field_auto1_15p280_22p280
+source_path: raw_sources\MLB_776463_vinnie-pasquantino-homers-29-on-a-fly-ball-to-right-field_Vinnie_Pasquantino_s_solo_home_run_29_Vinnie_Pasquantino_s_solo_home_run_29_Vinnie_Pasquantino_s_solo.mp4
+clip_start_time: 15.280
+clip_end_time: 22.280

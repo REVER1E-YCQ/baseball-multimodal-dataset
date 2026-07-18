@@ -1,0 +1,7 @@
+video_title: Zach Neto's nice backhanded stop and throw Zach Neto's nice backhanded stop and throw Zach Neto's nice backhanded stop and throw Zach Neto backhands a grounder and makes a fantastic throw to first to retire Ha-Seong Kim in the top of the 5th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/03/5d63aa61-650c3e6d-e54fe034-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746224_ha-seong-kim-grounds-out-shortstop-zach-neto-to-first-baseman-nolan-s
+clip_id: MLB_746224_ha-seong-kim-grounds-out-shortstop-zach-neto-to-first-baseman-nolan-s_auto1_0p020_6p020
+source_path: raw_sources\MLB_746224_ha-seong-kim-grounds-out-shortstop-zach-neto-to-first-baseman-nolan-s_Zach_Neto_s_nice_backhanded_stop_and_throw_Zach_Neto_s_nice_backhanded_stop_and_.mp4
+clip_start_time: 0.020
+clip_end_time: 6.020

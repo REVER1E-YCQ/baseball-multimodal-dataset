@@ -1,0 +1,7 @@
+video_title: Antonio Senzatela escapes trouble in the 2nd Antonio Senzatela escapes trouble in the 2nd Antonio Senzatela escapes trouble in the 2nd Antonio Senzatela gets Jacob Young to hit a grounder to Michael Toglia, then covers first himself to end the 2nd and strand runners at second and third
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/17/cc2992b5-c779d3ef-ef1f4c06-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_777480_jacob-young-grounds-out-pitcher-antonio-senzatela-to-first-baseman-mi
+clip_id: MLB_777480_jacob-young-grounds-out-pitcher-antonio-senzatela-to-first-baseman-mi_auto1_5p845_11p845
+source_path: raw_sources\MLB_777480_jacob-young-grounds-out-pitcher-antonio-senzatela-to-first-baseman-mi_Antonio_Senzatela_escapes_trouble_in_the_2nd_Antonio_Senzatela_escapes_trouble_in_the_2nd.mp4
+clip_start_time: 5.845
+clip_end_time: 11.845

@@ -1,0 +1,7 @@
+video_title: Jordan Lawlar's walk-off single Jordan Lawlar's walk-off single Jordan Lawlar's walk-off single Jordan Lawlar singles on a slow grounder and Corbin Carroll beats the throw home to give the D-backs a 6-5 walk-off win over the Giants
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/16/5898bbb9-e4f82977-833048e7-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776294_jordan-lawlar-singles-on-a-soft-ground-ball-to-first-baseman-wilmer-f
+clip_id: MLB_776294_jordan-lawlar-singles-on-a-soft-ground-ball-to-first-baseman-wilmer-f_auto1_3p340_9p340
+source_path: raw_sources\MLB_776294_jordan-lawlar-singles-on-a-soft-ground-ball-to-first-baseman-wilmer-f_Jordan_Lawlar_s_walk-off_single_Jordan_Lawlar_s_walk-off_single_Jordan_Lawlar_s_walk-off_.mp4
+clip_start_time: 3.340
+clip_end_time: 9.340

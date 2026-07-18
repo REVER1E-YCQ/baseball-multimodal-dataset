@@ -1,0 +1,7 @@
+video_title: Josh Naylor's solo home run (18) Josh Naylor's solo home run (18) Josh Naylor's solo home run (18) Josh Naylor goes back to back with Jorge Polanco, crushing a solo homer to right to extend the Mariners' lead to 7-0
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/07/0445becb-6c144de1-6ffc4f73-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776428_josh-naylor-s-solo-home-run-18
+clip_id: MLB_776428_josh-naylor-s-solo-home-run-18_auto1_0p000_7p000
+source_path: raw_sources\MLB_776428_josh-naylor-s-solo-home-run-18_Josh_Naylor_s_solo_home_run_18_Josh_Naylor_s_solo_home_run_18_Josh_Naylor_s_solo_home_run_18_Josh_Naylor_goes_back_to_back_with_.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

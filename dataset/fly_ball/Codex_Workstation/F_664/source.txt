@@ -1,0 +1,7 @@
+video_title: Mark Vientos' solo home run (17) Mark Vientos' solo home run (17) Mark Vientos' solo home run (17) Mark Vientos breaks a 15-inning scoreless streak for the Mets with a solo home run in the top of the 7th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/09/00793d22-cdb9ee69-8d6d50d4-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776404_mark-vientos-homers-17-on-a-fly-ball-to-left-center-field
+clip_id: MLB_776404_mark-vientos-homers-17-on-a-fly-ball-to-left-center-field_auto1_1p280_8p280
+source_path: raw_sources\MLB_776404_mark-vientos-homers-17-on-a-fly-ball-to-left-center-field_Mark_Vientos_solo_home_run_17_Mark_Vientos_solo_home_run_17_Mark_Vientos_solo_home_run_17_Mark_Viento.mp4
+clip_start_time: 1.280
+clip_end_time: 8.280

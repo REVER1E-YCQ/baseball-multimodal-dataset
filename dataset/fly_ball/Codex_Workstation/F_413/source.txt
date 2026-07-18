@@ -1,0 +1,7 @@
+video_title: Pete Crow-Armstrong's running catch Pete Crow-Armstrong's running catch Pete Crow-Armstrong's running catch Pete Crow-Armstrong runs down a deep fly ball from Willson Contreras for the second out of the top of the 3rd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/06/bf0cf930-08f0d3d9-a8dcef89-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777219_matthew-boyd-in-play-out-s-to-willson-contreras-e3awh3
+clip_id: MLB_777219_matthew-boyd-in-play-out-s-to-willson-contreras-e3awh3_auto1_17p374_24p374
+source_path: raw_sources\MLB_777219_matthew-boyd-in-play-out-s-to-willson-contreras-e3awh3_Pete_Crow-Armstrong_s_running_catch_Pete_Crow-Armstrong_s_running_catch_Pete_Crow-Armstrong_s_running_ca.mp4
+clip_start_time: 17.374
+clip_end_time: 24.374

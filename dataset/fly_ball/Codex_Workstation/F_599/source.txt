@@ -1,0 +1,7 @@
+video_title: Daylen Lile's solo homer (6) Daylen Lile's solo homer (6) Daylen Lile's solo homer (6) Daylen Lile lines a solo home run to right field, opening the scoring for the Nationals 1-0 in the bottom of the 2nd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/15/184488d1-ec67e36d-32a57473-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776315_daylen-lile-homers-6-on-a-fly-ball-to-right-field
+clip_id: MLB_776315_daylen-lile-homers-6-on-a-fly-ball-to-right-field_auto1_0p740_7p740
+source_path: raw_sources\MLB_776315_daylen-lile-homers-6-on-a-fly-ball-to-right-field_Daylen_Lile_s_solo_homer_6_Daylen_Lile_s_solo_homer_6_Daylen_Lile_s_solo_homer_6_Daylen_Lile_lines_a_solo_hom.mp4
+clip_start_time: 0.740
+clip_end_time: 7.740

@@ -1,0 +1,7 @@
+video_title: Matt Shaw's diving play Matt Shaw's diving play Matt Shaw's diving play Matt Shaw reacts quickly to a hard-hit grounder and makes a lovely diving stop, then gets the runner at first to end the top of the 4th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/25/c24a1df0-691cbd4d-72d12cee-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776187_shota-imanaga-in-play-out-s-to-luisangel-acuna
+clip_id: MLB_776187_shota-imanaga-in-play-out-s-to-luisangel-acuna_auto1_0p420_6p420
+source_path: raw_sources\MLB_776187_shota-imanaga-in-play-out-s-to-luisangel-acuna_Matt_Shaw_s_diving_play_Matt_Shaw_s_diving_play_Matt_Shaw_s_diving_play_Matt_Shaw_reacts_quickly_to_a_hard-hit_g.mp4
+clip_start_time: 0.420
+clip_end_time: 6.420

@@ -1,0 +1,7 @@
+video_title: Field View: Bryson Stott's solo home run Field View: Bryson Stott's solo home run Field View: Bryson Stott's solo home run Don't miss this unique look at Bryson Stott's solo home run in the bottom of the 8th inning against the Royals
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/14/b3b60f91-e63ecd18-0b9577db-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776334_field-view-bryson-stott-s-solo-home-run-x4161
+clip_id: MLB_776334_field-view-bryson-stott-s-solo-home-run-x4161_auto1_4p640_11p640
+source_path: raw_sources\MLB_776334_field-view-bryson-stott-s-solo-home-run-x4161_Field_View_Bryson_Stott_s_solo_home_run_Field_View_Bryson_Stott_s_solo_home_run_Field_View_Bryson_Stott_s_solo_ho.mp4
+clip_start_time: 4.640
+clip_end_time: 11.640

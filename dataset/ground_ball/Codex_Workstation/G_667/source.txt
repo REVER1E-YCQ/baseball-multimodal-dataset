@@ -1,0 +1,7 @@
+video_title: Francisco Lindor's single Francisco Lindor's single Francisco Lindor's single Francisco Lindor singles on a sharp ground ball to shortstop Willi Castro in the 6th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/15/7c073581-b6482db8-78ce9989-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_778307_bailey-ober-in-play-no-out-to-francisco-lindor
+clip_id: MLB_778307_bailey-ober-in-play-no-out-to-francisco-lindor_auto1_3p240_9p240
+source_path: raw_sources\MLB_778307_bailey-ober-in-play-no-out-to-francisco-lindor_Francisco_Lindor_s_single_Francisco_Lindor_s_single_Francisco_Lindor_s_single_Francisco_Lindor_singles_on_a_shar.mp4
+clip_start_time: 3.240
+clip_end_time: 9.240

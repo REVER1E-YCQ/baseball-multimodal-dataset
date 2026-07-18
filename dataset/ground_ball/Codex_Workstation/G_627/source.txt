@@ -1,0 +1,7 @@
+video_title: Josh Naylor's RBI groundout Josh Naylor's RBI groundout Josh Naylor's RBI groundout
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/21/a5f4d828-7cbc0d47-e7adfb9d-csvm-diamondx64-asset-4000K.mp4
+source_id: MLB_746610_michael-king-in-play-run-s-to-josh-naylor
+clip_id: MLB_746610_michael-king-in-play-run-s-to-josh-naylor_auto1_9p080_15p080
+source_path: raw_sources\MLB_746610_michael-king-in-play-run-s-to-josh-naylor_Josh_Naylor_s_RBI_groundout_Josh_Naylor_s_RBI_groundout_Josh_Naylor_s_RBI_groundout.mp4
+clip_start_time: 9.080
+clip_end_time: 15.080

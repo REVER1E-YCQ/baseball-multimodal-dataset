@@ -1,0 +1,7 @@
+video_title: Carlos Rodón's quick reflexes Carlos Rodón's quick reflexes Carlos Rodón's quick reflexes Carlos Rodón flashes the leather and snags this line drive off the bat of Adley Rutschman in the bottom of the 4th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/29/5e53eec6-7d909e23-5f6cd2a1-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_778133_carlos-rodon-in-play-out-s-to-adley-rutschman
+clip_id: MLB_778133_carlos-rodon-in-play-out-s-to-adley-rutschman_auto1_11p760_18p760
+source_path: raw_sources\MLB_778133_carlos-rodon-in-play-out-s-to-adley-rutschman_Carlos_Rod_n_s_quick_reflexes_Carlos_Rod_n_s_quick_reflexes_Carlos_Rod_n_s_quick_reflexes_Carlos_Rod_n_flashes_th.mp4
+clip_start_time: 11.760
+clip_end_time: 18.760

@@ -1,0 +1,7 @@
+video_title: Denzel Clarke's highlight-reel diving catch Denzel Clarke's highlight-reel diving catch Denzel Clarke's highlight-reel diving catch Denzel Clarke tracks a line drive to make a miraculous diving grab in center field to rob a hit from Carlos Santana in the 9th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/20/c9e7bc22-d11f95ae-dd6eea47-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777429_carlos-santana-lines-out-to-center-fielder-denzel-clarke-jcsdxm-x1899
+clip_id: MLB_777429_carlos-santana-lines-out-to-center-fielder-denzel-clarke-jcsdxm-x1899_auto1_0p780_7p780
+source_path: raw_sources\MLB_777429_carlos-santana-lines-out-to-center-fielder-denzel-clarke-jcsdxm-x1899_Denzel_Clarke_s_highlight-reel_diving_catch_Denzel_Clarke_s_highlight-reel_diving_catch_D.mp4
+clip_start_time: 0.780
+clip_end_time: 7.780

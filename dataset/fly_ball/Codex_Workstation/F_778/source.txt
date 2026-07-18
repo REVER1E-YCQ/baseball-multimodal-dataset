@@ -1,0 +1,7 @@
+video_title: Bo Naylor's go-ahead home run (12) Bo Naylor's go-ahead home run (12) Bo Naylor's go-ahead home run (12) Bo Naylor hits a home run to right-center field, giving the Guardians a 3-2 lead in the 7th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/14/0f0c98f0-91b49148-c68e1d7f-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776331_brandon-eisert-in-play-run-s-to-bo-naylor
+clip_id: MLB_776331_brandon-eisert-in-play-run-s-to-bo-naylor_auto1_7p380_14p380
+source_path: raw_sources\MLB_776331_brandon-eisert-in-play-run-s-to-bo-naylor_Bo_Naylor_s_go-ahead_home_run_12_Bo_Naylor_s_go-ahead_home_run_12_Bo_Naylor_s_go-ahead_home_run_12_Bo_Naylor_hits_a_h.mp4
+clip_start_time: 7.380
+clip_end_time: 14.380

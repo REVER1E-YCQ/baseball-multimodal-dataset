@@ -1,0 +1,7 @@
+video_title: Trent Grisham's RBI groundout Trent Grisham's RBI groundout Trent Grisham's RBI groundout Trent Grisham widens the Yankees' lead as he hits an RBI groundout to second base and drives home Oswaldo Cabrera
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/05/c433bb94-94e729ac-1665332f-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745725_trent-grisham-grounds-out-second-baseman-enmanuel-valdez-to-first-bas
+clip_id: MLB_745725_trent-grisham-grounds-out-second-baseman-enmanuel-valdez-to-first-bas_auto1_20p700_26p700
+source_path: raw_sources\MLB_745725_trent-grisham-grounds-out-second-baseman-enmanuel-valdez-to-first-bas_Trent_Grisham_s_RBI_groundout_Trent_Grisham_s_RBI_groundout_Trent_Grisham_s_RBI_groundout.mp4
+clip_start_time: 20.700
+clip_end_time: 26.700

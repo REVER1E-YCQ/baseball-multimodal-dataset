@@ -1,0 +1,7 @@
+video_title: Luis García Jr.'s solo homer (13) Luis García Jr.'s solo homer (13) Luis García Jr.'s solo homer (13) Luis García Jr. hits a solo home run to right field in top of the 1st inning to give the Nationals a 1-0 lead
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/08/dfba1a05-abb85f5c-c0367b63-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776409_luis-garcia-jr-homers-13-on-a-fly-ball-to-right-field
+clip_id: MLB_776409_luis-garcia-jr-homers-13-on-a-fly-ball-to-right-field_auto1_1p420_8p420
+source_path: raw_sources\MLB_776409_luis-garcia-jr-homers-13-on-a-fly-ball-to-right-field_Luis_Garc_a_Jr._s_solo_homer_13_Luis_Garc_a_Jr._s_solo_homer_13_Luis_Garc_a_Jr._s_solo_homer_13_Luis_Garc.mp4
+clip_start_time: 1.420
+clip_end_time: 8.420

@@ -1,0 +1,7 @@
+video_title: Cody Bellinger reaches third on an error Cody Bellinger reaches third on an error Cody Bellinger reaches third on an error Cody Bellinger reaches third base after Matthew Lugo misplays a fly ball in center field during the 6th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/27/18f41862-9a450a06-efbde581-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777745_tyler-anderson-in-play-no-out-to-cody-bellinger
+clip_id: MLB_777745_tyler-anderson-in-play-no-out-to-cody-bellinger_auto1_20p880_27p880
+source_path: raw_sources\MLB_777745_tyler-anderson-in-play-no-out-to-cody-bellinger_Cody_Bellinger_reaches_third_on_an_error_Cody_Bellinger_reaches_third_on_an_error_Cody_Bellinger_reaches_third_.mp4
+clip_start_time: 20.880
+clip_end_time: 27.880

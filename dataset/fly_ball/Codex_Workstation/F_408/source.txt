@@ -1,0 +1,7 @@
+video_title: Willi Castro's running catch in front of the wall Willi Castro's running catch in front of the wall Willi Castro's running catch in front of the wall Willi Castro sprints to the left-field foul line and reaches out to grab Ian Happ's fly ball in front of the wall to end the top of the 3rd
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/09/9f228bfd-ea0a3c67-6a9a0afd-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777173_ian-happ-flies-out-to-left-fielder-willi-castro-in-foul-territory
+clip_id: MLB_777173_ian-happ-flies-out-to-left-fielder-willi-castro-in-foul-territory_auto1_0p000_7p000
+source_path: raw_sources\MLB_777173_ian-happ-flies-out-to-left-fielder-willi-castro-in-foul-territory_Willi_Castro_s_running_catch_in_front_of_the_wall_Willi_Castro_s_running_catch_in_front_of_th.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

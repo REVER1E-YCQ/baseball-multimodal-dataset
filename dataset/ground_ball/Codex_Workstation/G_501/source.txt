@@ -1,0 +1,7 @@
+video_title: Dansby Swanson's RBI groundout  Dansby Swanson's RBI groundout  Dansby Swanson plates Ian Happ with an RBI groundout
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/29/67ecfe74-d87cc59f-02ecf93a-csvm-diamondx64-asset-4000K.mp4
+source_id: MLB_745988_bryse-wilson-in-play-run-s-to-dansby-swanson
+clip_id: MLB_745988_bryse-wilson-in-play-run-s-to-dansby-swanson_auto1_1p480_7p480
+source_path: raw_sources\MLB_745988_bryse-wilson-in-play-run-s-to-dansby-swanson_Dansby_Swanson_s_RBI_groundout_Dansby_Swanson_s_RBI_groundout_Dansby_Swanson_pla.mp4
+clip_start_time: 1.480
+clip_end_time: 7.480

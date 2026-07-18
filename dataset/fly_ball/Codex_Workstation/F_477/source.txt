@@ -1,0 +1,7 @@
+video_title: Tyler Alexander seals the Brewers' 17-7 victory Tyler Alexander seals the Brewers' 17-7 victory Tyler Alexander seals the Brewers' 17-7 victory Tyler Alexander induces a fly ball to right field, recording the last out and ending the Brewers' 17-7 win over the Phillies
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/31/40a25cf5-bf2ec154-e590c4cc-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_777702_bryson-stott-flies-out-to-right-fielder-daz-cameron
+clip_id: MLB_777702_bryson-stott-flies-out-to-right-fielder-daz-cameron_auto1_3p899_10p899
+source_path: raw_sources\MLB_777702_bryson-stott-flies-out-to-right-fielder-daz-cameron_Tyler_Alexander_seals_the_Brewers_17-7_victory_Tyler_Alexander_seals_the_Brewers_17-7_victory_Tyler_Alexand.mp4
+clip_start_time: 3.899
+clip_end_time: 10.899

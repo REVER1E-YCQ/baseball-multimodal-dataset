@@ -1,0 +1,7 @@
+video_title: Shohei Ohtani, Mookie Betts hit back-to-back homers Shohei Ohtani, Mookie Betts hit back-to-back homers Shohei Ohtani, Mookie Betts hit back-to-back homers Shohei Ohtani and Mookie Betts hit back-to-back solo home runs to lead off the top of the 3rd inning, increasing the Dodgers' lead to 3-0
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/07/2a5f92d5-2fd6c228-7333ef7f-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776427_shohei-ohtani-mookie-betts-hit-back-to-back-homers
+clip_id: MLB_776427_shohei-ohtani-mookie-betts-hit-back-to-back-homers_auto1_2p540_9p540
+source_path: raw_sources\MLB_776427_shohei-ohtani-mookie-betts-hit-back-to-back-homers_Shohei_Ohtani_Mookie_Betts_hit_back-to-back_homers_Shohei_Ohtani_Mookie_Betts_hit_back-to-back_homers_Shohei.mp4
+clip_start_time: 2.540
+clip_end_time: 9.540

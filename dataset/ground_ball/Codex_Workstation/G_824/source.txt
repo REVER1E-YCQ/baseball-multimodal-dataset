@@ -1,0 +1,7 @@
+video_title: Scott Barlow escapes trouble to preserve lead in 7th Scott Barlow escapes trouble to preserve lead in 7th Scott Barlow escapes trouble to preserve lead in 7th Scott Barlow induces a grounder to third from Ernie Clement to escape trouble and preserve the Reds' 2-1 lead in the bottom of the 7th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/01/03d2e56a-e25e8fc3-a9642773-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_776503_scott-barlow-escapes-trouble-in-7th-to-preserve-lead
+clip_id: MLB_776503_scott-barlow-escapes-trouble-in-7th-to-preserve-lead_auto1_1p340_7p340
+source_path: raw_sources\MLB_776503_scott-barlow-escapes-trouble-in-7th-to-preserve-lead_Scott_Barlow_escapes_trouble_to_preserve_lead_in_7th_Scott_Barlow_escapes_trouble_to_preserve_lead_in_7th_.mp4
+clip_start_time: 1.340
+clip_end_time: 7.340

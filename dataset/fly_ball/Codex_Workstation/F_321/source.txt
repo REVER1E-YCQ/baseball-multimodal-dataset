@@ -1,0 +1,7 @@
+video_title: Bryan De La Cruz's first hit as a Pirate Bryan De La Cruz's first hit as a Pirate Bryan De La Cruz's first hit as a Pirate Bryan De La Cruz singles on a line drive to center field for his first hit as a Pittsburgh Pirate in the top of the 2nd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/31/5eb4491d-5d5e18a3-195510d0-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746363_bryan-de-la-cruz-singles-on-a-sharp-line-drive-to-center-fielder-jake
+clip_id: MLB_746363_bryan-de-la-cruz-singles-on-a-sharp-line-drive-to-center-fielder-jake_auto1_18p325_25p325
+source_path: raw_sources\MLB_746363_bryan-de-la-cruz-singles-on-a-sharp-line-drive-to-center-fielder-jake_Bryan_De_La_Cruz_s_first_hit_as_a_Pirate_Bryan_De_La_Cruz_s_first_hit_as_a_Pirate_Bryan_D.mp4
+clip_start_time: 18.325
+clip_end_time: 25.325

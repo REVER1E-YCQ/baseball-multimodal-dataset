@@ -1,0 +1,7 @@
+video_title: Zach Neto achieves 25-HR, 25-SB season Zach Neto achieves 25-HR, 25-SB season Zach Neto achieves 25-HR, 25-SB season Zach Neto swipes his 25th bag of the season to become the 6th Angel in franchise history to hit 25 home runs and steal 25 bases in one year
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/08/3e2b49c7-f0c93b46-e6ca7861-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776411_zach-neto-steals-his-25th-base-of-the-season
+clip_id: MLB_776411_zach-neto-steals-his-25th-base-of-the-season_auto1_2p600_9p600
+source_path: raw_sources\MLB_776411_zach-neto-steals-his-25th-base-of-the-season_Zach_Neto_achieves_25-HR_25-SB_season_Zach_Neto_achieves_25-HR_25-SB_season_Zach_Neto_achieves_25-HR_25-SB_season_.mp4
+clip_start_time: 2.600
+clip_end_time: 9.600

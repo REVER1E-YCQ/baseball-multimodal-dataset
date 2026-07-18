@@ -1,0 +1,7 @@
+video_title: Brandon Lowe's sacrifice fly Brandon Lowe's sacrifice fly Brandon Lowe's sacrifice fly Brandon Lowe hits a pop fly to left field, deep enough for Jake Mangum to score to increase the Rays' lead to 7-4 in the top of the 8th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/12/205fcc9b-70fbdd4e-bc0f15c2-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_776787_hogan-harris-in-play-run-s-to-brandon-lowe
+clip_id: MLB_776787_hogan-harris-in-play-run-s-to-brandon-lowe_auto1_6p720_13p720
+source_path: raw_sources\MLB_776787_hogan-harris-in-play-run-s-to-brandon-lowe_Brandon_Lowe_s_sacrifice_fly_Brandon_Lowe_s_sacrifice_fly_Brandon_Lowe_s_sacrifice_fly_Brandon_Lowe_hits_a_pop_fly_t.mp4
+clip_start_time: 6.720
+clip_end_time: 13.720

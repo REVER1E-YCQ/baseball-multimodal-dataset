@@ -1,0 +1,7 @@
+video_title: Josh Rojas' RBI groundout Josh Rojas' RBI groundout Josh Rojas' RBI groundout
+video_url: https://bdata-producedclips.mlb.com/3d7b5136-9078-42fe-aff0-05575f656cd3.mp4
+source_id: MLB_745224_yunior-marte-in-play-run-s-to-josh-rojas
+clip_id: MLB_745224_yunior-marte-in-play-run-s-to-josh-rojas_auto1_2p660_8p660
+source_path: raw_sources\MLB_745224_yunior-marte-in-play-run-s-to-josh-rojas_Josh_Rojas_RBI_groundout_Josh_Rojas_RBI_groundout_Josh_Rojas_RBI_groundout.mp4
+clip_start_time: 2.660
+clip_end_time: 8.660

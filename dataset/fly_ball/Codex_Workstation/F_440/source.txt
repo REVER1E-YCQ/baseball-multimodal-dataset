@@ -1,0 +1,7 @@
+video_title: Alek Thomas' long-range sliding catch Alek Thomas' long-range sliding catch Alek Thomas' long-range sliding catch Alek Thomas races for a line drive in right-center and makes a smooth sliding grab to rob a hit from Edgar Quero in the 5th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/24/dcc9c0d7-5aaf1b49-6b5543b6-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777383_ryne-nelson-in-play-out-s-to-edgar-quero
+clip_id: MLB_777383_ryne-nelson-in-play-out-s-to-edgar-quero_auto1_0p240_7p240
+source_path: raw_sources\MLB_777383_ryne-nelson-in-play-out-s-to-edgar-quero_Alek_Thomas_long-range_sliding_catch_Alek_Thomas_long-range_sliding_catch_Alek_Thomas_long-range_sliding_catch_Alek_Th.mp4
+clip_start_time: 0.240
+clip_end_time: 7.240

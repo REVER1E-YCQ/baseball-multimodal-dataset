@@ -1,0 +1,7 @@
+video_title: Anthony Volpe's athletic play Anthony Volpe's athletic play Anthony Volpe's athletic play Anthony Volpe reacts quickly to a hard-hit grounder, makes a great backhanded snag, then gets the runner at first in the bottom of the 6th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/28/2c8c212a-ccc59657-99872516-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776556_fernando-cruz-in-play-out-s-to-chase-meidroth
+clip_id: MLB_776556_fernando-cruz-in-play-out-s-to-chase-meidroth_auto1_0p000_6p000
+source_path: raw_sources\MLB_776556_fernando-cruz-in-play-out-s-to-chase-meidroth_Anthony_Volpe_s_athletic_play_Anthony_Volpe_s_athletic_play_Anthony_Volpe_s_athletic_play_Anthony_Volpe_reacts_qu.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

@@ -1,0 +1,7 @@
+video_title: Corey Seager's sliding stop Corey Seager's sliding stop Corey Seager's sliding stop Corey Seager slides to field Ben Rice's grounder, then spins and pops up to throw to first in time for the out in the top of the 7th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/05/6da5208d-282d898b-7b561512-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776855_ben-rice-grounds-out-shortstop-corey-seager-to-first-baseman-rowdy-te
+clip_id: MLB_776855_ben-rice-grounds-out-shortstop-corey-seager-to-first-baseman-rowdy-te_auto1_18p280_24p280
+source_path: raw_sources\MLB_776855_ben-rice-grounds-out-shortstop-corey-seager-to-first-baseman-rowdy-te_Corey_Seager_s_sliding_stop_Corey_Seager_s_sliding_stop_Corey_Seager_s_sliding_stop_Corey.mp4
+clip_start_time: 18.280
+clip_end_time: 24.280

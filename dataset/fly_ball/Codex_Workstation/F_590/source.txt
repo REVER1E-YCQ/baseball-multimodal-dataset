@@ -1,0 +1,7 @@
+video_title: Wilson brings in the final out of the top of the 5th Wilson brings in the final out of the top of the 5th Wilson brings in the final out of the top of the 5th Jacob Wilson collects a liner that tipped off his glove to end the top of the 5th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/13/59578be0-be37c525-0837962a-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_778333_luis-severino-in-play-out-s-to-juan-soto-vhinlh
+clip_id: MLB_778333_luis-severino-in-play-out-s-to-juan-soto-vhinlh_auto1_2p720_9p720
+source_path: raw_sources\MLB_778333_luis-severino-in-play-out-s-to-juan-soto-vhinlh_Wilson_brings_in_the_final_out_of_the_top_of_the_5th_Wilson_brings_in_the_final_out_of_the_top_of_the_5th_Wilso.mp4
+clip_start_time: 2.720
+clip_end_time: 9.720

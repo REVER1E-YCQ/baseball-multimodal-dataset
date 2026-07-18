@@ -1,0 +1,7 @@
+video_title: Victor Caratini's great leaping catch Victor Caratini's great leaping catch Victor Caratini's great leaping catch Victor Caratini times his jump perfectly, leaping to snag a hard-hit line drive from Josh Naylor to end the bottom of the 6th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/23/dda1d35b-711d394c-69b3b969-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777032_josh-naylor-lines-out-to-first-baseman-victor-caratini
+clip_id: MLB_777032_josh-naylor-lines-out-to-first-baseman-victor-caratini_auto1_1p880_8p880
+source_path: raw_sources\MLB_777032_josh-naylor-lines-out-to-first-baseman-victor-caratini_Victor_Caratini_s_great_leaping_catch_Victor_Caratini_s_great_leaping_catch_Victor_Caratini_s_great_leap.mp4
+clip_start_time: 1.880
+clip_end_time: 8.880

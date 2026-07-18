@@ -1,0 +1,7 @@
+video_title: Ryan Mountcastle's RBI fielder's choice Ryan Mountcastle's RBI fielder's choice Ryan Mountcastle's RBI fielder's choice Ryan Mountcastle grounds into a fielder's choice, scoring Jordan Westburg and increasing the Orioles' lead to 2-0 in the bottom of the 4th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/26/da6bc23f-ce2b5680-ffd0d4bb-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_747010_logan-gillaspie-in-play-run-s-to-ryan-mountcastle
+clip_id: MLB_747010_logan-gillaspie-in-play-run-s-to-ryan-mountcastle_auto1_5p240_11p240
+source_path: raw_sources\MLB_747010_logan-gillaspie-in-play-run-s-to-ryan-mountcastle_Ryan_Mountcastle_s_RBI_fielder_s_choice_Ryan_Mountcastle_s_RBI_fielder_s_choice_Ryan_Mountcastle_s_RBI_fielde.mp4
+clip_start_time: 5.240
+clip_end_time: 11.240

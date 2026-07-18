@@ -1,0 +1,7 @@
+video_title: Rowdy Tellez snags a liner to end the 4th Rowdy Tellez snags a liner to end the 4th Rowdy Tellez snags a liner to end the 4th Rowdy Tellez ends the top of the 4th inning catching the line drive at first base off the bat of Luis Rengifo
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/29/ad5db731-415e366e-b49f304e-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_778121_luis-rengifo-lines-out-to-first-baseman-rowdy-tellez
+clip_id: MLB_778121_luis-rengifo-lines-out-to-first-baseman-rowdy-tellez_auto1_0p000_7p000
+source_path: raw_sources\MLB_778121_luis-rengifo-lines-out-to-first-baseman-rowdy-tellez_Rowdy_Tellez_snags_a_liner_to_end_the_4th_Rowdy_Tellez_snags_a_liner_to_end_the_4th_Rowdy_Tellez_snags_a_l.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

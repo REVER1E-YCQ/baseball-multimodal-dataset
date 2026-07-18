@@ -1,0 +1,7 @@
+video_title: Bryson Stott snares liner, doubles up Xander Bogaerts Bryson Stott snares liner, doubles up Xander Bogaerts Bryson Stott snares liner, doubles up Xander Bogaerts Bryson Stott snares a sharp liner and flips to second to double up Xander Bogaerts and help the Phillies escape trouble in the 5th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/30/560a29c8-c933031a-b18e971f-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777306_zack-wheeler-in-play-out-s-to-trenton-brooks
+clip_id: MLB_777306_zack-wheeler-in-play-out-s-to-trenton-brooks_auto1_3p480_10p480
+source_path: raw_sources\MLB_777306_zack-wheeler-in-play-out-s-to-trenton-brooks_Bryson_Stott_snares_liner_doubles_up_Xander_Bogaerts_Bryson_Stott_snares_liner_doubles_up_Xander_Bogaerts_Bryson_S.mp4
+clip_start_time: 3.480
+clip_end_time: 10.480

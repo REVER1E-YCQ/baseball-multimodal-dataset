@@ -1,0 +1,7 @@
+video_title: Julio Rodríguez's sliding grab Julio Rodríguez's sliding grab Julio Rodríguez's sliding grab Julio Rodríguez reads the liner perfectly to make the sliding grab to end the inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/28/9f59a21a-cca16a7b-7411f623-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777730_luis-garcia-jr-lines-out-to-center-fielder-julio-rodriguez
+clip_id: MLB_777730_luis-garcia-jr-lines-out-to-center-fielder-julio-rodriguez_auto1_0p000_7p000
+source_path: raw_sources\MLB_777730_luis-garcia-jr-lines-out-to-center-fielder-julio-rodriguez_Julio_Rodr_guez_s_sliding_grab_Julio_Rodr_guez_s_sliding_grab_Julio_Rodr_guez_s_sliding_grab_Julio_R.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

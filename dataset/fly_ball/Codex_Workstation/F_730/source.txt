@@ -1,0 +1,7 @@
+video_title: Coby Mayo's solo home run (7) Coby Mayo's solo home run (7) Coby Mayo's solo home run (7) Coby Mayo hits a solo home run to center field in the top of the 3rd to extend the Orioles' lead to 5-0
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/03/14987d76-f4a3896e-6ab273f5-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776465_coby-mayo-homers-7-on-a-fly-ball-to-center-field
+clip_id: MLB_776465_coby-mayo-homers-7-on-a-fly-ball-to-center-field_auto1_0p000_7p000
+source_path: raw_sources\MLB_776465_coby-mayo-homers-7-on-a-fly-ball-to-center-field_Coby_Mayo_s_solo_home_run_7_Coby_Mayo_s_solo_home_run_7_Coby_Mayo_s_solo_home_run_7_Coby_Mayo_hits_a_solo_home.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

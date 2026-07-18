@@ -1,0 +1,7 @@
+video_title: Mark Vientos' RBI infield single Mark Vientos' RBI infield single Mark Vientos' RBI infield single Mark Vientos chops an infield single on a ground ball to third, plating Francisco Lindor to give the Mets a 1-0 lead in the 1st
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/05/88666e18-fdd18b06-bdf6015b-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_776450_andrew-abbott-in-play-no-out-to-mark-vientos
+clip_id: MLB_776450_andrew-abbott-in-play-no-out-to-mark-vientos_auto1_3p500_9p500
+source_path: raw_sources\MLB_776450_andrew-abbott-in-play-no-out-to-mark-vientos_Mark_Vientos_RBI_infield_single_Mark_Vientos_RBI_infield_single_Mark_Vientos_RBI_infield_single_Mark_Vientos_chops.mp4
+clip_start_time: 3.500
+clip_end_time: 9.500

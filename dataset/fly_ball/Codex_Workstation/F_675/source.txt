@@ -1,0 +1,7 @@
+video_title: Royce Lewis tallies two homers in his return home Royce Lewis tallies two homers in his return home Royce Lewis tallies two homers in his return to home Royce Lewis clubs two home runs and collects four RBIs in his first career MLB game at Angel Stadium
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/08/c1a9fc94-aa504642-99219921-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776411_royce-lewis-tallies-two-homers-in-his-return-to-home
+clip_id: MLB_776411_royce-lewis-tallies-two-homers-in-his-return-to-home_auto1_15p860_22p860
+source_path: raw_sources\MLB_776411_royce-lewis-tallies-two-homers-in-his-return-to-home_Royce_Lewis_tallies_two_homers_in_his_return_home_Royce_Lewis_tallies_two_homers_in_his_return_home_Royce_.mp4
+clip_start_time: 15.860
+clip_end_time: 22.860

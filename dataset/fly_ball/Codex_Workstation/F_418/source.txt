@@ -1,0 +1,7 @@
+video_title: Freddie Freeman's diving catch Freddie Freeman's diving catch Freddie Freeman's diving catch Freddie Freeman reacts quickly to a hard-hit line drive and dives to make an amazing catch for the first out of the top of the 6th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/03/d05b6193-ea269977-1f704f52-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777253_dustin-may-in-play-out-s-to-josh-rojas-jtfhtu
+clip_id: MLB_777253_dustin-may-in-play-out-s-to-josh-rojas-jtfhtu_auto1_0p000_7p000
+source_path: raw_sources\MLB_777253_dustin-may-in-play-out-s-to-josh-rojas-jtfhtu_Freddie_Freeman_s_diving_catch_Freddie_Freeman_s_diving_catch_Freddie_Freeman_s_diving_catch_Freddie_Freeman_reac.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

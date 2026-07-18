@@ -1,0 +1,7 @@
+video_title: Polanco, Naylor crush back-to-back homers in 3rd Polanco, Naylor crush back-to-back homers in 3rd Polanco, Naylor crush back-to-back homers in 3rd Jorge Polanco lines a two-run homer to left with Josh Naylor going back to back with his own home run to right field during the Mariners' eight-run 3rd
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/07/bbcde358-68d51a0b-6b0a0e00-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776428_polanco-naylor-crush-back-to-back-homers-in-3rd
+clip_id: MLB_776428_polanco-naylor-crush-back-to-back-homers-in-3rd_auto1_0p300_7p300
+source_path: raw_sources\MLB_776428_polanco-naylor-crush-back-to-back-homers-in-3rd_Polanco_Naylor_crush_back-to-back_homers_in_3rd_Polanco_Naylor_crush_back-to-back_homers_in_3rd_Polanco_Naylor_.mp4
+clip_start_time: 0.300
+clip_end_time: 7.300

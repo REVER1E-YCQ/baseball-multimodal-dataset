@@ -1,0 +1,7 @@
+video_title: George Soriano finishes Marlins' 8-2 win George Soriano finishes Marlins' 8-2 win George Soriano finishes Marlins' 8-2 win George Soriano induces a ground ball to finish the Marlins' 8-2 win over the Tigers
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/12/b7ad7975-906346dc-f2d15cf1-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776366_george-soriano-in-play-out-s-to-trey-sweeney
+clip_id: MLB_776366_george-soriano-in-play-out-s-to-trey-sweeney_auto1_7p500_13p500
+source_path: raw_sources\MLB_776366_george-soriano-in-play-out-s-to-trey-sweeney_George_Soriano_finishes_Marlins_8-2_win_George_Soriano_finishes_Marlins_8-2_win_George_Soriano_finishes_Marlins_8-.mp4
+clip_start_time: 7.500
+clip_end_time: 13.500

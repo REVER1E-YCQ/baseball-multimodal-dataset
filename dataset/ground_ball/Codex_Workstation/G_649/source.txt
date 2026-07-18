@@ -1,0 +1,7 @@
+video_title: Yasmani Grandal secures the Pirates' win in extras Yasmani Grandal secures the Pirates' win in extras Yasmani Grandal secures the Pirates' win in extras Yasmani Grandal scoops up a hard-hit ground ball for the final out of the game, locking down a 6-5 win in extras
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/28/6e405146-f9895220-644b501d-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_747173_geraldo-perdomo-grounds-out-to-first-baseman-yasmani-grandal
+clip_id: MLB_747173_geraldo-perdomo-grounds-out-to-first-baseman-yasmani-grandal_auto1_11p860_17p860
+source_path: raw_sources\MLB_747173_geraldo-perdomo-grounds-out-to-first-baseman-yasmani-grandal_Yasmani_Grandal_secures_the_Pirates_win_in_extras_Yasmani_Grandal_secures_the_Pirates_win_in_extra.mp4
+clip_start_time: 11.860
+clip_end_time: 17.860

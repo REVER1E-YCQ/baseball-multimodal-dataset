@@ -1,0 +1,7 @@
+video_title: Brady House's two-run home run (3) Brady House's two-run home run (3) Brady House's two-run home run (3) Brady House hits a two-run home run to left field to extend the Nationals' lead to 7-0 in the 4th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/03/bd155ada-a97ffb57-ae5bc4cd-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776477_brady-house-homers-3-on-a-fly-ball-to-left-field-robert-hassell-iii-s
+clip_id: MLB_776477_brady-house-homers-3-on-a-fly-ball-to-left-field-robert-hassell-iii-s_auto1_5p400_12p400
+source_path: raw_sources\MLB_776477_brady-house-homers-3-on-a-fly-ball-to-left-field-robert-hassell-iii-s_Brady_House_s_two-run_home_run_3_Brady_House_s_two-run_home_run_3_Brady_House_s_two-run_h.mp4
+clip_start_time: 5.400
+clip_end_time: 12.400

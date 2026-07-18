@@ -1,0 +1,7 @@
+video_title: Ryan Helsley on his outing against the Tigers Ryan Helsley on his outing against the Tigers Ryan Helsley on his outing against the Tigers Ryan Helsley talks limiting walks, getting back to the basics and Kerry Carpenter's three-run home run following his outing against Detroit
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/03/2eb3cff7-77a87a13-3336d1ea-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776478_ryan-helsley-on-his-outing-against-the-tigers
+clip_id: MLB_776478_ryan-helsley-on-his-outing-against-the-tigers_auto1_10p640_17p640
+source_path: raw_sources\MLB_776478_ryan-helsley-on-his-outing-against-the-tigers_Ryan_Helsley_on_his_outing_against_the_Tigers_Ryan_Helsley_on_his_outing_against_the_Tigers_Ryan_Helsley_on_his_o.mp4
+clip_start_time: 10.640
+clip_end_time: 17.640

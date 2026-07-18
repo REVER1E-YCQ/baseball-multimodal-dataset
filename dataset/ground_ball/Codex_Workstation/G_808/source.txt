@@ -1,0 +1,7 @@
+video_title: Jake Burger starts a double play Jake Burger starts a double play Jake Burger starts a double play Jake Burger fields a ground ball and makes a quick throw to second base to complete a double play in the 2nd inning against the Brewers
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/09/0e2abd31-4a099092-ed76722c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776395_jack-leiter-in-play-out-s-to-isaac-collins
+clip_id: MLB_776395_jack-leiter-in-play-out-s-to-isaac-collins_auto1_2p780_8p780
+source_path: raw_sources\MLB_776395_jack-leiter-in-play-out-s-to-isaac-collins_Jake_Burger_starts_a_double_play_Jake_Burger_starts_a_double_play_Jake_Burger_starts_a_double_play_Jake_Burger_field.mp4
+clip_start_time: 2.780
+clip_end_time: 8.780

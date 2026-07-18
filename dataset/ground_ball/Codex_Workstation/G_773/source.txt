@@ -1,0 +1,7 @@
+video_title: Eugenio Suárez, Josh Naylor combine for smooth out Eugenio Suárez, Josh Naylor combine for smooth out Eugenio Suárez, Josh Naylor combine for smooth out Eugenio Suárez fields Kyle Karros' grounder and fires a long throw to first that's corralled by Josh Naylor in the top of the 8th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/24/79a56e0a-4b26297a-6bebf3f5-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776194_kyle-karros-grounds-out-third-baseman-eugenio-suarez-to-first-baseman
+clip_id: MLB_776194_kyle-karros-grounds-out-third-baseman-eugenio-suarez-to-first-baseman_auto1_0p000_6p000
+source_path: raw_sources\MLB_776194_kyle-karros-grounds-out-third-baseman-eugenio-suarez-to-first-baseman_Eugenio_Su_rez_Josh_Naylor_combine_for_smooth_out_Eugenio_Su_rez_Josh_Naylor_combine_for_.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

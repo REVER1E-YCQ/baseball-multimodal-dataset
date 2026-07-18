@@ -1,0 +1,7 @@
+video_title: D-backs score on a fielder’s choice D-backs score on a fielder’s choice Jake McCarthy's RBI groundout
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/06/2a3d3202-2fe27583-8ff47057-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745395_stephen-kolek-in-play-run-s-to-jake-mccarthy
+clip_id: MLB_745395_stephen-kolek-in-play-run-s-to-jake-mccarthy_auto1_18p775_24p775
+source_path: raw_sources\MLB_745395_stephen-kolek-in-play-run-s-to-jake-mccarthy_D-backs_score_on_a_fielder_s_choice_D-backs_score_on_a_fielder_s_choice_Jake_McCarthy_s_RBI_groundout.mp4
+clip_start_time: 18.775
+clip_end_time: 24.775

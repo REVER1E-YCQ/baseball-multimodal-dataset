@@ -1,0 +1,7 @@
+video_title: Germán Márquez knocks down ball to get the out Germán Márquez knocks down ball to get the out Germán Márquez knocks down ball to get the out Germán Márquez knocks down a line drive to get Trevor Larnach out at home to prevent scoring
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/20/8b74c59e-915e999d-96b5995f-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777072_german-marquez-in-play-out-s-to-ty-france-gu9tnh
+clip_id: MLB_777072_german-marquez-in-play-out-s-to-ty-france-gu9tnh_auto1_14p860_21p860
+source_path: raw_sources\MLB_777072_german-marquez-in-play-out-s-to-ty-france-gu9tnh_Germ_n_M_rquez_knocks_down_ball_to_get_the_out_Germ_n_M_rquez_knocks_down_ball_to_get_the_out_Germ_n_M_rquez_k.mp4
+clip_start_time: 14.860
+clip_end_time: 21.860

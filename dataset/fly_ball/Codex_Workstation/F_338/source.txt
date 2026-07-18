@@ -1,0 +1,7 @@
+video_title: Mike Tauchman's walk-off double Mike Tauchman's walk-off double Mike Tauchman's walk-off double Mike Tauchman doubles on a line drive to left field, sending home Dansby Swanson to secure a 5-4 walk-off win in the bottom of the 9th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-08/01/da823885-0812f26d-47322917-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746849_mike-tauchman-doubles-11-on-a-line-drive-to-left-fielder-tommy-pham-d
+clip_id: MLB_746849_mike-tauchman-doubles-11-on-a-line-drive-to-left-fielder-tommy-pham-d_auto1_3p360_10p360
+source_path: raw_sources\MLB_746849_mike-tauchman-doubles-11-on-a-line-drive-to-left-fielder-tommy-pham-d_Mike_Tauchman_s_walk-off_double_Mike_Tauchman_s_walk-off_double_Mike_Tauchman_s_walk-off_.mp4
+clip_start_time: 3.360
+clip_end_time: 10.360

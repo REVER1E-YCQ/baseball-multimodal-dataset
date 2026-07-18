@@ -1,0 +1,7 @@
+video_title: Yainer Diaz's run-scoring knock Yainer Diaz's run-scoring knock Yainer Diaz's run-scoring knock Yainer Diaz singles on a line drive to right field, sending home Jose Altuve to give the Astros an early 1-0 lead in the 1st
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/10/2b5e0190-53e5a3a5-91c15918-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746366_yainer-diaz-singles-on-a-line-drive-to-right-fielder-dane-myers-jose-
+clip_id: MLB_746366_yainer-diaz-singles-on-a-line-drive-to-right-fielder-dane-myers-jose-_auto1_5p300_12p300
+source_path: raw_sources\MLB_746366_yainer-diaz-singles-on-a-line-drive-to-right-fielder-dane-myers-jose-_Yainer_Diaz_s_run-scoring_knock_Yainer_Diaz_s_run-scoring_knock_Yainer_Diaz_s_run-scoring.mp4
+clip_start_time: 5.300
+clip_end_time: 12.300

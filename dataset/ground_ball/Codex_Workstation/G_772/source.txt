@@ -1,0 +1,7 @@
+video_title: Max Muncy's diving play Max Muncy's diving play Max Muncy's diving play Max Muncy reacts quickly to a hard-hit grounder, dives to make an incredible stop, and gets the runner at first for the first out of the bottom of the 5th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/24/c260598c-eb59e0e7-9dced31d-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776193_jorge-barrosa-grounds-out-third-baseman-max-muncy-to-first-baseman-fr
+clip_id: MLB_776193_jorge-barrosa-grounds-out-third-baseman-max-muncy-to-first-baseman-fr_auto1_3p860_9p860
+source_path: raw_sources\MLB_776193_jorge-barrosa-grounds-out-third-baseman-max-muncy-to-first-baseman-fr_Max_Muncy_s_diving_play_Max_Muncy_s_diving_play_Max_Muncy_s_diving_play_Max_Muncy_reacts_.mp4
+clip_start_time: 3.860
+clip_end_time: 9.860

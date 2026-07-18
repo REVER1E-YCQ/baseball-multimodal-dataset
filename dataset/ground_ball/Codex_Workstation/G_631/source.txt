@@ -1,0 +1,7 @@
+video_title: Andrew Vaughn's RBI groundout Andrew Vaughn's RBI groundout Andrew Vaughn's RBI groundout
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/30/081adb05-27b611a1-dd384ac1-csvm-diamondx64-asset-4000K.mp4
+source_id: MLB_746763_andrew-vaughn-grounds-out-second-baseman-adam-frazier-to-first-basema
+clip_id: MLB_746763_andrew-vaughn-grounds-out-second-baseman-adam-frazier-to-first-basema_auto1_1p380_7p380
+source_path: raw_sources\MLB_746763_andrew-vaughn-grounds-out-second-baseman-adam-frazier-to-first-basema_Andrew_Vaughn_s_RBI_groundout_Andrew_Vaughn_s_RBI_groundout_Andrew_Vaughn_s_RBI_groundout.mp4
+clip_start_time: 1.380
+clip_end_time: 7.380

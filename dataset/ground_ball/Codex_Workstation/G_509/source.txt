@@ -1,0 +1,7 @@
+video_title: Kris Bryant's RBI groundout  Kris Bryant's RBI groundout  Kris Bryant's RBI groundout  Kris Bryant grounds out in the bottom of the 3rd inning, scoring Ezequiel Tovar to extend the Rockies' lead to 3-1
+video_url: https://bdata-producedclips.mlb.com/cfb8e91b-d54a-4916-a9a0-b74be6957858.mp4
+source_id: MLB_746556_aaron-nola-in-play-out-s-to-kris-bryant-qmabhc
+clip_id: MLB_746556_aaron-nola-in-play-out-s-to-kris-bryant-qmabhc_auto1_3p360_9p360
+source_path: raw_sources\MLB_746556_aaron-nola-in-play-out-s-to-kris-bryant-qmabhc_Kris_Bryant_s_RBI_groundout_Kris_Bryant_s_RBI_groundout_Kris_Bryant_s_RBI_ground.mp4
+clip_start_time: 3.360
+clip_end_time: 9.360

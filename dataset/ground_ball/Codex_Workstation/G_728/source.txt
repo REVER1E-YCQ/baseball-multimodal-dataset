@@ -1,0 +1,7 @@
+video_title: Spencer Strider's between-the-legs snag Spencer Strider's between-the-legs snag Spencer Strider's between-the-legs snag Spencer Strider fields the grounder between his legs and gets the putout at first base to end the top of the 1st inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/04/624f65c7-a746d7ec-405df99b-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777252_spencer-strider-in-play-out-s-to-ramon-laureano
+clip_id: MLB_777252_spencer-strider-in-play-out-s-to-ramon-laureano_auto1_0p000_6p000
+source_path: raw_sources\MLB_777252_spencer-strider-in-play-out-s-to-ramon-laureano_Spencer_Strider_s_between-the-legs_snag_Spencer_Strider_s_between-the-legs_snag_Spencer_Strider_s_between-the-l.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

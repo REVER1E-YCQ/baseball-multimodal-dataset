@@ -1,0 +1,7 @@
+video_title: Brooks Lee's athletic play Brooks Lee's athletic play Brooks Lee's athletic play Brooks Lee reacts quickly to a hard-hit grounder, cleanly fields it, and spins to get the runner at first for the second out of the top of the 3rd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/21/9e59b99f-4af51077-6020e7b5-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776653_max-schuemann-grounds-out-shortstop-brooks-lee-to-first-baseman-kody-
+clip_id: MLB_776653_max-schuemann-grounds-out-shortstop-brooks-lee-to-first-baseman-kody-_auto1_15p080_21p080
+source_path: raw_sources\MLB_776653_max-schuemann-grounds-out-shortstop-brooks-lee-to-first-baseman-kody-_Brooks_Lee_s_athletic_play_Brooks_Lee_s_athletic_play_Brooks_Lee_s_athletic_play_Brooks_L.mp4
+clip_start_time: 15.080
+clip_end_time: 21.080

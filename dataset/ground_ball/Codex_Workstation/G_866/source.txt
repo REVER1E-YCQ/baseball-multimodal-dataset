@@ -1,0 +1,7 @@
+video_title: Xander Bogaerts fields the final out Xander Bogaerts fields the final out Xander Bogaerts fields the final out Xander Bogaerts fields a grounder and tosses to first for the final out of the game as the Padres defeat the Giants, 11-1
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/13/05f21571-2e3553c6-f0abbaed-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776749_yuki-matsui-in-play-out-s-to-grant-mccray
+clip_id: MLB_776749_yuki-matsui-in-play-out-s-to-grant-mccray_auto1_2p120_8p120
+source_path: raw_sources\MLB_776749_yuki-matsui-in-play-out-s-to-grant-mccray_Xander_Bogaerts_fields_the_final_out_Xander_Bogaerts_fields_the_final_out_Xander_Bogaerts_fields_the_final_out_Xander.mp4
+clip_start_time: 2.120
+clip_end_time: 8.120

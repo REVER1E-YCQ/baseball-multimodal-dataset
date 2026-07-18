@@ -1,0 +1,7 @@
+video_title: Eugenio Suárez's 45th homer of the season Eugenio Suárez's 45th homer of the season Eugenio Suárez's 45th homer of the season Eugenio Suárez crushes his 45th home run of the season to left field, extending the Mariners' lead to 18-1 in the 9th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/07/4e7e4a40-77419dea-0e649ce8-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776428_eugenio-suarez-homers-45-on-a-fly-ball-to-left-field-dominic-canzone-
+clip_id: MLB_776428_eugenio-suarez-homers-45-on-a-fly-ball-to-left-field-dominic-canzone-_auto1_0p400_7p400
+source_path: raw_sources\MLB_776428_eugenio-suarez-homers-45-on-a-fly-ball-to-left-field-dominic-canzone-_Eugenio_Su_rez_s_45th_homer_of_the_season_Eugenio_Su_rez_s_45th_homer_of_the_season_Eugen.mp4
+clip_start_time: 0.400
+clip_end_time: 7.400

@@ -1,0 +1,7 @@
+video_title: Ladybug takes a stroll on camera during home run Ladybug takes a stroll on camera during home run Ladybug takes a stroll on camera during home run The Mets broadcast takes notice of a ladybug wandering around on the camera lens during Wenceel Perez's home run
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/01/b98e73d1-4e2ccf02-0e24dc98-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776501_ladybug-takes-a-stroll-on-camera-during-home-run
+clip_id: MLB_776501_ladybug-takes-a-stroll-on-camera-during-home-run_auto1_0p460_7p460
+source_path: raw_sources\MLB_776501_ladybug-takes-a-stroll-on-camera-during-home-run_Ladybug_takes_a_stroll_on_camera_during_home_run_Ladybug_takes_a_stroll_on_camera_during_home_run_Ladybug_take.mp4
+clip_start_time: 0.460
+clip_end_time: 7.460

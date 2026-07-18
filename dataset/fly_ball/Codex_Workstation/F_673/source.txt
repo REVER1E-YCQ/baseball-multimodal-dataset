@@ -1,0 +1,7 @@
+video_title: James Outman's solo home run (3) James Outman's solo home run (3) James Outman's solo home run (3) James Outman crushes a 440-foot home run to right-center field, increasing the Twins' lead to 6-3 in the 6th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/08/cb205c7a-af30e0ab-0e60d35e-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776411_james-outman-homers-3-on-a-fly-ball-to-right-center-field
+clip_id: MLB_776411_james-outman-homers-3-on-a-fly-ball-to-right-center-field_auto1_18p780_25p780
+source_path: raw_sources\MLB_776411_james-outman-homers-3-on-a-fly-ball-to-right-center-field_James_Outman_s_solo_home_run_3_James_Outman_s_solo_home_run_3_James_Outman_s_solo_home_run_3_James_Ou.mp4
+clip_start_time: 18.780
+clip_end_time: 25.780

@@ -1,0 +1,7 @@
+video_title: Fernando Tatis Jr. hits a single Fernando Tatis Jr. hits a single Fernando Tatis Jr. hits a single Fernando Tatis Jr. hits a single on a line drive to center field for his first hit of the game
+video_url: https://bdata-producedclips.mlb.com/d9f03e17-d390-47b7-896b-9b47be449aa1.mp4
+source_id: MLB_776931_fernando-tatis-jr-singles-on-a-line-drive-to-center-fielder-tyrone-ta
+clip_id: MLB_776931_fernando-tatis-jr-singles-on-a-line-drive-to-center-fielder-tyrone-ta_auto1_5p080_12p080
+source_path: raw_sources\MLB_776931_fernando-tatis-jr-singles-on-a-line-drive-to-center-fielder-tyrone-ta_Fernando_Tatis_Jr._hits_a_single_Fernando_Tatis_Jr._hits_a_single_Fernando_Tatis_Jr._hits.mp4
+clip_start_time: 5.080
+clip_end_time: 12.080

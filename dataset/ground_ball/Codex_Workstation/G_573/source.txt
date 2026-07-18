@@ -1,0 +1,7 @@
+video_title: Nicky Lopez's slick snag Nicky Lopez's slick snag Nicky Lopez's slick snag Nicky Lopez makes a slick snag on a one-hop grounder, taking away a hit from Jason Heyward for the first out in the 2nd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/25/615638df-3cf32820-15e9c3ba-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746775_jason-heyward-grounds-out-second-baseman-nicky-lopez-to-first-baseman
+clip_id: MLB_746775_jason-heyward-grounds-out-second-baseman-nicky-lopez-to-first-baseman_auto1_0p000_6p000
+source_path: raw_sources\MLB_746775_jason-heyward-grounds-out-second-baseman-nicky-lopez-to-first-baseman_Nicky_Lopez_s_slick_snag_Nicky_Lopez_s_slick_snag_Nicky_Lopez_s_slick_snag_Nicky_Lopez_ma.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

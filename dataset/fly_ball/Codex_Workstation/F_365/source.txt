@@ -1,0 +1,7 @@
+video_title: Ozzie Albies' RBI single Ozzie Albies' RBI single Ozzie Albies' RBI single Ozzie Albies singles on a line drive to right field, plating Jurickson Profar to put the Braves on the board in the 1st
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/26/f0b1a035-cfbc859a-55f97ae6-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776993_ozzie-albies-singles-on-a-line-drive-to-right-fielder-adolis-garcia-j
+clip_id: MLB_776993_ozzie-albies-singles-on-a-line-drive-to-right-fielder-adolis-garcia-j_auto1_8p999_15p999
+source_path: raw_sources\MLB_776993_ozzie-albies-singles-on-a-line-drive-to-right-fielder-adolis-garcia-j_Ozzie_Albies_RBI_single_Ozzie_Albies_RBI_single_Ozzie_Albies_RBI_single_Ozzie_Albies_sing.mp4
+clip_start_time: 8.999
+clip_end_time: 15.999

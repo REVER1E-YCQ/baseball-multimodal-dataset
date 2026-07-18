@@ -1,0 +1,7 @@
+video_title: Eugenio Suárez's slick defensive play Eugenio Suárez's slick defensive play Eugenio Suárez's slick defensive play Eugenio Suárez scoops a ground ball and throws home to Tucker Barnhart, nabbing Heliot Ramos for the first out of the 6th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/05/30d2bb3f-d95421b6-ff9a36d7-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_747195_bryce-jarvis-in-play-out-s-to-jorge-soler-skk6qy
+clip_id: MLB_747195_bryce-jarvis-in-play-out-s-to-jorge-soler-skk6qy_auto1_2p280_8p280
+source_path: raw_sources\MLB_747195_bryce-jarvis-in-play-out-s-to-jorge-soler-skk6qy_Eugenio_Su_rez_s_slick_defensive_play_Eugenio_Su_rez_s_slick_defensive_play_Euge.mp4
+clip_start_time: 2.280
+clip_end_time: 8.280

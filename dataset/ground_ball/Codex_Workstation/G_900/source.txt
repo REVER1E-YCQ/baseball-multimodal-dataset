@@ -1,0 +1,7 @@
+video_title: Ogasawara's nice grab starts double play Ogasawara's nice grab starts double play Ogasawara's nice grab starts double play Shinnosuke Ogasawara makes a nice pick off a grounder to start a double play to end the top of the 5th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/02/20c79341-5e20b329-d3517ee0-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776903_blake-perkins-grounds-into-a-double-play-pitcher-shinnosuke-ogasawara
+clip_id: MLB_776903_blake-perkins-grounds-into-a-double-play-pitcher-shinnosuke-ogasawara_auto1_5p420_11p420
+source_path: raw_sources\MLB_776903_blake-perkins-grounds-into-a-double-play-pitcher-shinnosuke-ogasawara_Ogasawara_s_nice_grab_starts_double_play_Ogasawara_s_nice_grab_starts_double_play_Ogasawa.mp4
+clip_start_time: 5.420
+clip_end_time: 11.420

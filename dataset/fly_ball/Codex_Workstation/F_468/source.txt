@@ -1,0 +1,7 @@
+video_title: Bo Bichette's RBI triple Bo Bichette's RBI triple Bo Bichette's RBI triple Bo Bichette triples on a fly ball to deep left-center field and Andrés Giménez scores, tying the game at 1 in the bottom of the 6th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/04/8cf0910e-43ae3996-1399878d-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777651_mick-abel-in-play-run-s-to-bo-bichette
+clip_id: MLB_777651_mick-abel-in-play-run-s-to-bo-bichette_auto1_1p180_8p180
+source_path: raw_sources\MLB_777651_mick-abel-in-play-run-s-to-bo-bichette_Bo_Bichette_s_RBI_triple_Bo_Bichette_s_RBI_triple_Bo_Bichette_s_RBI_triple_Bo_Bichette_triples_on_a_fly_ball_to_deep_lef.mp4
+clip_start_time: 1.180
+clip_end_time: 8.180

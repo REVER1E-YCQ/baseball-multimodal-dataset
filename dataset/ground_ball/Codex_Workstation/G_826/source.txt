@@ -1,0 +1,7 @@
+video_title: Smith, Verlander combine for out to end top 2nd Smith, Verlander combine for out to end top 2nd Smith, Verlander combine for out to end top 2nd Jackson Holliday hits a grounder between Dominic Smith and Justin Verlander; Smith grabs the ball and tosses to Verlander for the out
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/31/b89bc263-bc41eded-3339052e-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776507_jackson-holliday-grounds-out-first-baseman-dominic-smith-to-pitcher-j
+clip_id: MLB_776507_jackson-holliday-grounds-out-first-baseman-dominic-smith-to-pitcher-j_auto1_5p480_11p480
+source_path: raw_sources\MLB_776507_jackson-holliday-grounds-out-first-baseman-dominic-smith-to-pitcher-j_Smith_Verlander_combine_for_out_to_end_top_2nd_Smith_Verlander_combine_for_out_to_end_top.mp4
+clip_start_time: 5.480
+clip_end_time: 11.480

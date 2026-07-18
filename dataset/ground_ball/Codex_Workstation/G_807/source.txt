@@ -1,0 +1,7 @@
+video_title: Andrew Saalfrank earns the save Andrew Saalfrank earns the save Andrew Saalfrank earns the save Andrew Saalfrank induces a grounder to Geraldo Perdomo for the final out of the game as the D-backs defeat the Giants, 5-3
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/10/73392084-b5c2dc54-6742f796-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776374_luis-matos-grounds-out-shortstop-geraldo-perdomo-to-first-baseman-tim
+clip_id: MLB_776374_luis-matos-grounds-out-shortstop-geraldo-perdomo-to-first-baseman-tim_auto1_1p520_7p520
+source_path: raw_sources\MLB_776374_luis-matos-grounds-out-shortstop-geraldo-perdomo-to-first-baseman-tim_Andrew_Saalfrank_earns_the_save_Andrew_Saalfrank_earns_the_save_Andrew_Saalfrank_earns_th.mp4
+clip_start_time: 1.520
+clip_end_time: 7.520

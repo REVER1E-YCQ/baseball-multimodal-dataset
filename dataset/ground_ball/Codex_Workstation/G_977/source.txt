@@ -1,0 +1,7 @@
+video_title: Graham Pauley's smooth stop Graham Pauley's smooth stop Graham Pauley's smooth stop Graham Pauley corrals a sharp ground ball from Jose Altuve and hurls an accurate throw to first for the final out of the 1st inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/04/69bea092-835b04f9-339a90db-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776875_jose-altuve-grounds-out-third-baseman-graham-pauley-to-first-baseman-
+clip_id: MLB_776875_jose-altuve-grounds-out-third-baseman-graham-pauley-to-first-baseman-_auto1_8p360_14p360
+source_path: raw_sources\MLB_776875_jose-altuve-grounds-out-third-baseman-graham-pauley-to-first-baseman-_Graham_Pauley_s_smooth_stop_Graham_Pauley_s_smooth_stop_Graham_Pauley_s_smooth_stop_Graha.mp4
+clip_start_time: 8.360
+clip_end_time: 14.360

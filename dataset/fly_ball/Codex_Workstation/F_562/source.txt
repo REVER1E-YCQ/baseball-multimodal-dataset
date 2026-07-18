@@ -1,0 +1,7 @@
+video_title: Jake Meyers fields the final out Jake Meyers fields the final out Jake Meyers fields the final out Jake Meyers tracks a high fly ball into center field and catches the final out of the game as the Astros defeat the Angels, 7-3
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/13/69f3bc17-02f77e90-78e3f5b9-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_778329_josh-hader-in-play-out-s-to-taylor-ward-pdjwsd
+clip_id: MLB_778329_josh-hader-in-play-out-s-to-taylor-ward-pdjwsd_auto1_6p220_13p220
+source_path: raw_sources\MLB_778329_josh-hader-in-play-out-s-to-taylor-ward-pdjwsd_Jake_Meyers_fields_the_final_out_Jake_Meyers_fields_the_final_out_Jake_Meyers_fields_the_final_out_Jake_Meyers_t.mp4
+clip_start_time: 6.220
+clip_end_time: 13.220

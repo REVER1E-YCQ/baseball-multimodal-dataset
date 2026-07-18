@@ -1,0 +1,7 @@
+video_title: Noelvi Marte's RBI infield single Noelvi Marte's RBI infield single Noelvi Marte's RBI infield single Noelvi Marte chops a ground ball to third and beats the throw to first for an infield single, while Austin Hays scores to make it 8-1 in the 9th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/27/e2c17214-c1642b67-be35bcdd-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_778148_scott-alexander-in-play-run-s-to-noelvi-marte
+clip_id: MLB_778148_scott-alexander-in-play-run-s-to-noelvi-marte_auto1_5p960_11p960
+source_path: raw_sources\MLB_778148_scott-alexander-in-play-run-s-to-noelvi-marte_Noelvi_Marte_s_RBI_infield_single_Noelvi_Marte_s_RBI_infield_single_Noelvi_Marte_s_RBI_infield_single_Noelvi_Mart.mp4
+clip_start_time: 5.960
+clip_end_time: 11.960

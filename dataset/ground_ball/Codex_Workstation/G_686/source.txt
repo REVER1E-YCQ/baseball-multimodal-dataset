@@ -1,0 +1,7 @@
+video_title: Santiago Espinal's jump throw Santiago Espinal's jump throw Santiago Espinal's jump throw Santiago Espinal makes a backhanded stop on Brendan Donovan's grounder, then makes a great jump throw to first in time for the out
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/30/b337be0f-ac6aa528-40a81e86-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_778119_brent-suter-in-play-out-s-to-brendan-donovan-jdculy
+clip_id: MLB_778119_brent-suter-in-play-out-s-to-brendan-donovan-jdculy_auto1_6p347_12p347
+source_path: raw_sources\MLB_778119_brent-suter-in-play-out-s-to-brendan-donovan-jdculy_Santiago_Espinal_s_jump_throw_Santiago_Espinal_s_jump_throw_Santiago_Espinal_s_jump_throw_Santiago_Espinal_.mp4
+clip_start_time: 6.347
+clip_end_time: 12.347

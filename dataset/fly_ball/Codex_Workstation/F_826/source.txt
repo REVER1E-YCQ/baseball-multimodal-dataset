@@ -1,0 +1,7 @@
+video_title: Nationals score six runs in the 5th inning Nationals score six runs in the 5th inning Nationals score six runs in the 5th inning Nationals scored six total runs behind a three-run home run from Dylan Crews and RBI singles from Riley Adams and Josh Bell in the 5th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/08/450caac2-85de5166-b8291c46-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776409_nationals-score-six-runs-in-the-5th-inning
+clip_id: MLB_776409_nationals-score-six-runs-in-the-5th-inning_auto1_11p060_18p060
+source_path: raw_sources\MLB_776409_nationals-score-six-runs-in-the-5th-inning_Nationals_score_six_runs_in_the_5th_inning_Nationals_score_six_runs_in_the_5th_inning_Nationals_score_six_runs_in_th.mp4
+clip_start_time: 11.060
+clip_end_time: 18.060

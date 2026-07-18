@@ -1,0 +1,7 @@
+video_title: Ke'Bryan Hayes' smooth play Ke'Bryan Hayes' smooth play Ke'Bryan Hayes' smooth play Ke'Bryan Hayes makes a great play on a ground ball and fires to first to complete the out and retire Santiago Espinal
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/20/4e4d7c0f-08501e35-49697218-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_777859_santiago-espinal-grounds-out-third-baseman-ke-bryan-hayes-to-first-ba
+clip_id: MLB_777859_santiago-espinal-grounds-out-third-baseman-ke-bryan-hayes-to-first-ba_auto1_4p825_10p825
+source_path: raw_sources\MLB_777859_santiago-espinal-grounds-out-third-baseman-ke-bryan-hayes-to-first-ba_Ke_Bryan_Hayes_smooth_play_Ke_Bryan_Hayes_smooth_play_Ke_Bryan_Hayes_smooth_play_Ke_Bryan.mp4
+clip_start_time: 4.825
+clip_end_time: 10.825

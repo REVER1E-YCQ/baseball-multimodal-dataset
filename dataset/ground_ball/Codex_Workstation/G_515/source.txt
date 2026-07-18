@@ -1,0 +1,7 @@
+video_title: Andrew Vaughn's RBI single Andrew Vaughn's RBI single Andrew Vaughn grounds an RBI single to left field
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/28/20bdba98-afc01ffb-c4487006-csvm-diamondx64-asset-4000K.mp4
+source_id: MLB_746791_genesis-cabrera-in-play-run-s-to-andrew-vaughn
+clip_id: MLB_746791_genesis-cabrera-in-play-run-s-to-andrew-vaughn_auto1_1p360_7p360
+source_path: raw_sources\MLB_746791_genesis-cabrera-in-play-run-s-to-andrew-vaughn_Andrew_Vaughn_s_RBI_single_Andrew_Vaughn_s_RBI_single_Andrew_Vaughn_grounds_an_R.mp4
+clip_start_time: 1.360
+clip_end_time: 7.360

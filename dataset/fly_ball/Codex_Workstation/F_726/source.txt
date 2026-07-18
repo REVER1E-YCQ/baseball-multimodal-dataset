@@ -1,0 +1,7 @@
+video_title: Bobby Witt Jr.'s go-ahead solo homer (21) Bobby Witt Jr.'s go-ahead solo homer (21) Bobby Witt Jr.'s go-ahead solo homer (21) Bobby Witt Jr. gives the Royals a 4-3 lead after hitting a solo home run in the bottom of the 8th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/04/de4c8509-0525dd33-dad193e9-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776463_bobby-witt-jr-homers-21-on-a-fly-ball-to-left-center-field
+clip_id: MLB_776463_bobby-witt-jr-homers-21-on-a-fly-ball-to-left-center-field_auto1_0p240_7p240
+source_path: raw_sources\MLB_776463_bobby-witt-jr-homers-21-on-a-fly-ball-to-left-center-field_Bobby_Witt_Jr._s_go-ahead_solo_homer_21_Bobby_Witt_Jr._s_go-ahead_solo_homer_21_Bobby_Witt_Jr._s_go-.mp4
+clip_start_time: 0.240
+clip_end_time: 7.240

@@ -1,0 +1,7 @@
+video_title: Sam Bachman's nifty behind-the-back stop Sam Bachman's nifty behind-the-back stop Sam Bachman's nifty behind-the-back stop Sam Bachman makes a dazzling behind-the-back stop on a sharp ground ball and throws to first to retire Jordan Westburg
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/14/31c049b5-edb0cc29-e3ced85e-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777519_sam-bachman-in-play-out-s-to-jordan-westburg
+clip_id: MLB_777519_sam-bachman-in-play-out-s-to-jordan-westburg_auto1_2p860_8p860
+source_path: raw_sources\MLB_777519_sam-bachman-in-play-out-s-to-jordan-westburg_Sam_Bachman_s_nifty_behind-the-back_stop_Sam_Bachman_s_nifty_behind-the-back_stop_Sam_Bachman_s_nifty_behind-the-b.mp4
+clip_start_time: 2.860
+clip_end_time: 8.860

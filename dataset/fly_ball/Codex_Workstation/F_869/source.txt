@@ -1,0 +1,7 @@
+video_title: Field View: Shohei Ohtani's 100th Dodger home run Field View: Shohei Ohtani's 100th Dodger home run Field View: Shohei Ohtani's 100th Dodger home run Don't miss this unique look at Shohei Ohtani's 100th home run as a Dodger, a solo homer off Bubba Chandler in the 3rd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/02/ea06224b-535b9d45-62a846e1-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776496_field-view-shohei-ohtani-s-100th-dodger-home-run
+clip_id: MLB_776496_field-view-shohei-ohtani-s-100th-dodger-home-run_auto1_7p000_14p000
+source_path: raw_sources\MLB_776496_field-view-shohei-ohtani-s-100th-dodger-home-run_Field_View_Shohei_Ohtani_s_100th_Dodger_home_run_Field_View_Shohei_Ohtani_s_100th_Dodger_home_run_Field_View_S.mp4
+clip_start_time: 7.000
+clip_end_time: 14.000

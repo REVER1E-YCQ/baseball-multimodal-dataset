@@ -1,0 +1,7 @@
+video_title: Salvador Perez's game-tying solo home run (24) Salvador Perez's game-tying solo home run (24) Salvador Perez's game-tying solo home run (24) Salvador Perez ties the game at 3 in the bottom of the 7th with a solo home run to left-center field
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/04/4fb4d7a8-a31dc7f7-2f279ec3-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776463_salvador-perez-homers-24-on-a-fly-ball-to-left-field
+clip_id: MLB_776463_salvador-perez-homers-24-on-a-fly-ball-to-left-field_auto1_0p880_7p880
+source_path: raw_sources\MLB_776463_salvador-perez-homers-24-on-a-fly-ball-to-left-field_Salvador_Perez_s_game-tying_solo_home_run_24_Salvador_Perez_s_game-tying_solo_home_run_24_Salvador_Perez_s.mp4
+clip_start_time: 0.880
+clip_end_time: 7.880

@@ -1,0 +1,7 @@
+video_title: Javier Sanoja's slick play Javier Sanoja's slick play Javier Sanoja's slick play Javier Sanoja reacts quickly to a hard-hit grounder, makes the play, and nabs the runner at first for the final out of the bottom of the 1st inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/13/95b85854-248d6e5a-97d90f7e-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777936_javier-sanoja-s-slick-play
+clip_id: MLB_777936_javier-sanoja-s-slick-play_auto1_1p000_7p000
+source_path: raw_sources\MLB_777936_javier-sanoja-s-slick-play_Javier_Sanoja_s_slick_play_Javier_Sanoja_s_slick_play_Javier_Sanoja_s_slick_play_Javier_Sanoja_reacts_quickly_to_a_hard-hit_grounder.mp4
+clip_start_time: 1.000
+clip_end_time: 7.000

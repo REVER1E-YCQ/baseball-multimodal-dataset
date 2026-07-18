@@ -1,0 +1,7 @@
+video_title: Bo Bichette's barehanded play Bo Bichette's barehanded play Bo Bichette's barehanded play Bo Bichette charges a soft ground ball and makes a barehanded throw to first base to nab Will Brennan in the top of the 9th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/14/f29f7b6c-3321c0c4-fd41708b-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_744924_will-brennan-grounds-out-shortstop-bo-bichette-to-first-baseman-vladi
+clip_id: MLB_744924_will-brennan-grounds-out-shortstop-bo-bichette-to-first-baseman-vladi_auto1_3p780_9p780
+source_path: raw_sources\MLB_744924_will-brennan-grounds-out-shortstop-bo-bichette-to-first-baseman-vladi_Bo_Bichette_s_barehanded_play_Bo_Bichette_s_barehanded_play_Bo_Bichette_s_bareha.mp4
+clip_start_time: 3.780
+clip_end_time: 9.780

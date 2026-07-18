@@ -1,0 +1,7 @@
+video_title: Cody Bellinger's running catch Cody Bellinger's running catch Cody Bellinger's running catch Cody Bellinger races back to the warning track to catch Danny Jansen's fly ball for the first out in the top of the 7th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/03/b5613814-e52674bd-2908d6e7-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_778074_danny-jansen-flies-out-to-center-fielder-cody-bellinger
+clip_id: MLB_778074_danny-jansen-flies-out-to-center-fielder-cody-bellinger_auto1_3p800_10p800
+source_path: raw_sources\MLB_778074_danny-jansen-flies-out-to-center-fielder-cody-bellinger_Cody_Bellinger_s_running_catch_Cody_Bellinger_s_running_catch_Cody_Bellinger_s_running_catch_Cody_Belli.mp4
+clip_start_time: 3.800
+clip_end_time: 10.800

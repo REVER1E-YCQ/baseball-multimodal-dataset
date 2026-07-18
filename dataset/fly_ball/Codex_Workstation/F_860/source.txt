@@ -1,0 +1,7 @@
+video_title: Joey Wiemer's two-run home run (1) Joey Wiemer's two-run home run (1) Joey Wiemer's two-run home run (1) Joey Wiemer hits his first home run since 2023 to cut the Marlins' deficit to 7-2 in the top of the 5th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/03/36e3a92e-e2a6e6bd-8f1caad8-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776477_joey-wiemer-homers-1-on-a-fly-ball-to-left-field-eric-wagaman-scores
+clip_id: MLB_776477_joey-wiemer-homers-1-on-a-fly-ball-to-left-field-eric-wagaman-scores_auto1_0p000_7p000
+source_path: raw_sources\MLB_776477_joey-wiemer-homers-1-on-a-fly-ball-to-left-field-eric-wagaman-scores_Joey_Wiemer_s_two-run_home_run_1_Joey_Wiemer_s_two-run_home_run_1_Joey_Wiemer_s_two-run_ho.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

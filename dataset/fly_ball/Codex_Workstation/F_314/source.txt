@@ -1,0 +1,7 @@
+video_title: Trevor Richards secures the final out Trevor Richards secures the final out Trevor Richards secures the final out Andrew Vaughn flies out to Byron Buxton for the final out of the game, Twins win 10-2 over White Sox
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-08/02/a2e9f891-9c080a8f-d05a4354-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745875_andrew-vaughn-flies-out-to-center-fielder-byron-buxton
+clip_id: MLB_745875_andrew-vaughn-flies-out-to-center-fielder-byron-buxton_auto1_19p176_26p176
+source_path: raw_sources\MLB_745875_andrew-vaughn-flies-out-to-center-fielder-byron-buxton_Trevor_Richards_secures_the_final_out_Trevor_Richards_secures_the_final_out_Trevor_Richards_secures_the_.mp4
+clip_start_time: 19.176
+clip_end_time: 26.176

@@ -1,0 +1,7 @@
+video_title: Brett Baty's terrific diving catch Brett Baty's terrific diving catch Brett Baty's terrific diving catch Brett Baty lays out to make an impressive diving snag on a line drive off the bat of Spencer Horwitz in the bottom of the 1st
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/29/d8e15740-8a72865e-17113378-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777313_frankie-montas-in-play-out-s-to-spencer-horwitz
+clip_id: MLB_777313_frankie-montas-in-play-out-s-to-spencer-horwitz_auto1_14p371_21p371
+source_path: raw_sources\MLB_777313_frankie-montas-in-play-out-s-to-spencer-horwitz_Brett_Baty_s_terrific_diving_catch_Brett_Baty_s_terrific_diving_catch_Brett_Baty_s_terrific_diving_catch_Brett_.mp4
+clip_start_time: 14.371
+clip_end_time: 21.371

@@ -1,0 +1,7 @@
+video_title: Willi Castro fields deflection for double play Willi Castro fields deflection for double play Willi Castro fields deflection for double play Willi Castro fields a grounder deflected by Griffin Jax, then steps on second and throws to first in time for a double play to end the top of the 8th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/07/1ad3410b-948ef3e4-92286377-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_778011_griffin-jax-in-play-out-s-to-ryan-mountcastle
+clip_id: MLB_778011_griffin-jax-in-play-out-s-to-ryan-mountcastle_auto1_7p011_13p011
+source_path: raw_sources\MLB_778011_griffin-jax-in-play-out-s-to-ryan-mountcastle_Willi_Castro_fields_deflection_for_double_play_Willi_Castro_fields_deflection_for_double_play_Willi_Castro_fields.mp4
+clip_start_time: 7.011
+clip_end_time: 13.011

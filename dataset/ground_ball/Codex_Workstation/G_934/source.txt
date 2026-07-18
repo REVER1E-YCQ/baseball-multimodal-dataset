@@ -1,0 +1,7 @@
+video_title: Dansby Swanson's fabulous sliding play Dansby Swanson's fabulous sliding play Dansby Swanson's fabulous sliding play Dansby Swanson makes an excellent sliding grab on a sharp ground ball and catapults a throw to first to nab Nacho Alvarez Jr. in the top of the 3rd
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/02/dfbf8c86-71dbaff0-66a81f48-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776487_shota-imanaga-in-play-out-s-to-nacho-alvarez-jr
+clip_id: MLB_776487_shota-imanaga-in-play-out-s-to-nacho-alvarez-jr_auto1_0p100_6p100
+source_path: raw_sources\MLB_776487_shota-imanaga-in-play-out-s-to-nacho-alvarez-jr_Dansby_Swanson_s_fabulous_sliding_play_Dansby_Swanson_s_fabulous_sliding_play_Dansby_Swanson_s_fabulous_sliding.mp4
+clip_start_time: 0.100
+clip_end_time: 6.100

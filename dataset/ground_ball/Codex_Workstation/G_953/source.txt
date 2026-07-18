@@ -1,0 +1,7 @@
+video_title: Isiah Kiner-Falefa's spectacular diving stop Isiah Kiner-Falefa's spectacular diving stop Isiah Kiner-Falefa's spectacular diving stop Isiah Kiner-Falefa flashes his glove to make a beautiful diving grab on a sharp ground ball from Kyle Karros in the 2nd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/22/5c16b0e7-07899f3f-7fec9784-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776637_braxton-ashcraft-in-play-out-s-to-kyle-karros
+clip_id: MLB_776637_braxton-ashcraft-in-play-out-s-to-kyle-karros_auto1_4p740_10p740
+source_path: raw_sources\MLB_776637_braxton-ashcraft-in-play-out-s-to-kyle-karros_Isiah_Kiner-Falefa_s_spectacular_diving_stop_Isiah_Kiner-Falefa_s_spectacular_diving_stop_Isiah_Kiner-Falefa_s_sp.mp4
+clip_start_time: 4.740
+clip_end_time: 10.740

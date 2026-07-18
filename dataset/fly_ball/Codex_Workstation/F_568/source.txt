@@ -1,0 +1,7 @@
+video_title: José Ramírez's backhanded catch José Ramírez's backhanded catch José Ramírez's backhanded catch José Ramírez reacts quickly to make a nifty backhanded catch on a line drive from Miguel Vargas for the second out of the 8th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/09/8389bde2-f3c98779-1c3049ef-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_778391_jakob-junis-in-play-out-s-to-miguel-vargas
+clip_id: MLB_778391_jakob-junis-in-play-out-s-to-miguel-vargas_auto1_0p000_7p000
+source_path: raw_sources\MLB_778391_jakob-junis-in-play-out-s-to-miguel-vargas_Jos_Ram_rez_s_backhanded_catch_Jos_Ram_rez_s_backhanded_catch_Jos_Ram_rez_s_backhanded_catch_Jos_Ram_rez_reacts_quic.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

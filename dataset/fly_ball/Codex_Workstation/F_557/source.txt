@@ -1,0 +1,7 @@
+video_title: Oswaldo Cabrera's first home run of the season Oswaldo Cabrera's first home run of the season Oswaldo Cabrera's first home run of the season Oswaldo Cabrera hits a line drive over the right-center-field wall for his first home run of the season, cutting the Yankees' deficit to 3-2 in the 5th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/17/23548df3-0cc14ffb-f09c118a-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_778282_oswaldo-cabrera-homers-1-on-a-line-drive-to-right-center-field
+clip_id: MLB_778282_oswaldo-cabrera-homers-1-on-a-line-drive-to-right-center-field_auto1_1p080_8p080
+source_path: raw_sources\MLB_778282_oswaldo-cabrera-homers-1-on-a-line-drive-to-right-center-field_Oswaldo_Cabrera_s_first_home_run_of_the_season_Oswaldo_Cabrera_s_first_home_run_of_the_season_Os.mp4
+clip_start_time: 1.080
+clip_end_time: 8.080

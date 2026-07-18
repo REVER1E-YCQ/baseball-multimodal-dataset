@@ -1,0 +1,7 @@
+video_title: Matt McLain's RBI groundout Matt McLain's RBI groundout Matt McLain's RBI groundout Matt McLain pulls a grounder to the left side, scoring Will Benson and getting the Reds on the board in the third inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/01/342bae22-adf75c42-86f7c3bf-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_777294_richard-fitts-in-play-run-s-to-matt-mclain
+clip_id: MLB_777294_richard-fitts-in-play-run-s-to-matt-mclain_auto1_4p060_10p060
+source_path: raw_sources\MLB_777294_richard-fitts-in-play-run-s-to-matt-mclain_Matt_McLain_s_RBI_groundout_Matt_McLain_s_RBI_groundout_Matt_McLain_s_RBI_groundout_Matt_McLain_pulls_a_grounder_to_.mp4
+clip_start_time: 4.060
+clip_end_time: 10.060

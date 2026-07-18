@@ -1,0 +1,7 @@
+video_title: Alex Bregman's solo home run (17) Alex Bregman's solo home run (17) Alex Bregman's solo home run (17) Alex Bregman slaps a solo home run off the Pesky Pole in right field, putting the Red Sox on the board in the bottom of the 5th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/13/619ae6c8-4a0dbbab-aab78b22-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776344_max-fried-in-play-run-s-to-alex-bregman-odpwtn
+clip_id: MLB_776344_max-fried-in-play-run-s-to-alex-bregman-odpwtn_auto1_8p780_15p780
+source_path: raw_sources\MLB_776344_max-fried-in-play-run-s-to-alex-bregman-odpwtn_Alex_Bregman_s_solo_home_run_17_Alex_Bregman_s_solo_home_run_17_Alex_Bregman_s_solo_home_run_17_Alex_Bregman_sla.mp4
+clip_start_time: 8.780
+clip_end_time: 15.780

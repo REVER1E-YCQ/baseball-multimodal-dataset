@@ -1,0 +1,7 @@
+video_title: Juan Soto's 40th home run of 2025 Juan Soto's 40th home run of 2025 Juan Soto's 40th home run of 2025 Juan Soto crushes a solo home run to right field to extend the Mets' lead to 2-0 in the bottom of the 7th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/13/f75edb6c-d81723ae-fd9c8f58-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776349_juan-soto-homers-40-on-a-fly-ball-to-right-field
+clip_id: MLB_776349_juan-soto-homers-40-on-a-fly-ball-to-right-field_auto1_7p040_14p040
+source_path: raw_sources\MLB_776349_juan-soto-homers-40-on-a-fly-ball-to-right-field_Juan_Soto_s_40th_home_run_of_2025_Juan_Soto_s_40th_home_run_of_2025_Juan_Soto_s_40th_home_run_of_2025_Juan_Sot.mp4
+clip_start_time: 7.040
+clip_end_time: 14.040

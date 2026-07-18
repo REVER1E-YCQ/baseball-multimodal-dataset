@@ -1,0 +1,7 @@
+video_title: Steven Okert snags liner to start double play Steven Okert snags liner to start double play Steven Okert snags liner to start double play Steven Okert snags a liner on the mound and throws to first base to turn an inning-ending double play in the 7th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/13/5a4195d8-70069ebb-7b04bf56-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777125_steven-okert-in-play-out-s-to-josh-smith-jm2grc
+clip_id: MLB_777125_steven-okert-in-play-out-s-to-josh-smith-jm2grc_auto1_3p160_10p160
+source_path: raw_sources\MLB_777125_steven-okert-in-play-out-s-to-josh-smith-jm2grc_Steven_Okert_snags_liner_to_start_double_play_Steven_Okert_snags_liner_to_start_double_play_Steven_Okert_snags_.mp4
+clip_start_time: 3.160
+clip_end_time: 10.160

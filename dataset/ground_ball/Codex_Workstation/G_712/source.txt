@@ -1,0 +1,7 @@
+video_title: Pete Alonso makes great scoop for the out Pete Alonso makes great scoop for the out Pete Alonso makes great scoop for the out Pete Alonso makes a great scoop on a tough hop from a 109 mph ground ball from Wilyer Abreu, running to first for the first out of the 3rd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/19/d9e113b2-7d431334-caf536e6-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777856_wilyer-abreu-grounds-out-to-first-baseman-pete-alonso-alex-bregman-to
+clip_id: MLB_777856_wilyer-abreu-grounds-out-to-first-baseman-pete-alonso-alex-bregman-to_auto1_0p600_6p600
+source_path: raw_sources\MLB_777856_wilyer-abreu-grounds-out-to-first-baseman-pete-alonso-alex-bregman-to_Pete_Alonso_makes_great_scoop_for_the_out_Pete_Alonso_makes_great_scoop_for_the_out_Pete_.mp4
+clip_start_time: 0.600
+clip_end_time: 6.600

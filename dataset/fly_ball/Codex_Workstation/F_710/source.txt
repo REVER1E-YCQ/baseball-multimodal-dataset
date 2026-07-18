@@ -1,0 +1,7 @@
+video_title: Luis García Jr.'s sac fly Luis García Jr.'s sac fly Luis García Jr.'s sac fly Luis García Jr. hits a sacrifice fly to center, scoring Daylen Lile to make it 8-5 in the 6th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/05/7d0e27a5-44c0b03b-4c6855e1-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776455_luis-garcia-jr-s-sac-fly-x2532
+clip_id: MLB_776455_luis-garcia-jr-s-sac-fly-x2532_auto1_0p000_7p000
+source_path: raw_sources\MLB_776455_luis-garcia-jr-s-sac-fly-x2532_Luis_Garc_a_Jr._s_sac_fly_Luis_Garc_a_Jr._s_sac_fly_Luis_Garc_a_Jr._s_sac_fly_Luis_Garc_a_Jr._hits_a_sacrifice_fly_to_center_sco.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

@@ -1,0 +1,7 @@
+video_title: Blaze Alexander's sensational diving play Blaze Alexander's sensational diving play Blaze Alexander's sensational diving play Blaze Alexander dives to snag a hard-hit grounder and Tim Tawa makes an excellent pick for the first out of the bottom 3rd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/10/5b3c7180-a39aebe9-5b9005e1-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776374_eduardo-rodriguez-in-play-out-s-to-luis-matos-aoujod
+clip_id: MLB_776374_eduardo-rodriguez-in-play-out-s-to-luis-matos-aoujod_auto1_1p300_7p300
+source_path: raw_sources\MLB_776374_eduardo-rodriguez-in-play-out-s-to-luis-matos-aoujod_Blaze_Alexander_s_sensational_diving_play_Blaze_Alexander_s_sensational_diving_play_Blaze_Alexander_s_sens.mp4
+clip_start_time: 1.300
+clip_end_time: 7.300

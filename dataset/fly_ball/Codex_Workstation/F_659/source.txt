@@ -1,0 +1,7 @@
+video_title: Ryan Mountcastle's sacrifice fly Ryan Mountcastle's sacrifice fly Ryan Mountcastle's sacrifice fly Ryan Mountcastle hits a sacrifice fly to center field in the bottom of the 1st inning to score Jackson Holliday and knot the game at 1
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/09/c9ad56cc-0b1c53cc-343713dc-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_776401_ryan-mountcastle-out-on-a-sacrifice-fly-to-center-fielder-oneil-cruz-
+clip_id: MLB_776401_ryan-mountcastle-out-on-a-sacrifice-fly-to-center-fielder-oneil-cruz-_auto1_2p260_9p260
+source_path: raw_sources\MLB_776401_ryan-mountcastle-out-on-a-sacrifice-fly-to-center-fielder-oneil-cruz-_Ryan_Mountcastle_s_sacrifice_fly_Ryan_Mountcastle_s_sacrifice_fly_Ryan_Mountcastle_s_sacr.mp4
+clip_start_time: 2.260
+clip_end_time: 9.260

@@ -1,0 +1,7 @@
+video_title: Eric Wagaman snags line drive to start double play Eric Wagaman snags line drive to start double play Eric Wagaman snags line drive to start double play Eric Wagaman catches a line drive off the bat of Andy Pages before lunging to tag Freddie Freeman to complete the inning-ending double play
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/07/f8f9111a-66efd35d-4739d45e-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_778017_eric-wagaman-starts-double-play
+clip_id: MLB_778017_eric-wagaman-starts-double-play_auto1_3p860_10p860
+source_path: raw_sources\MLB_778017_eric-wagaman-starts-double-play_Eric_Wagaman_snags_line_drive_to_start_double_play_Eric_Wagaman_snags_line_drive_to_start_double_play_Eric_Wagaman_snags_line_d.mp4
+clip_start_time: 3.860
+clip_end_time: 10.860

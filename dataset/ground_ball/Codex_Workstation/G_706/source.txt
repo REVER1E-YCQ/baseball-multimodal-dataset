@@ -1,0 +1,7 @@
+video_title: Nick Allen's RBI infield single  Nick Allen's RBI infield single  Nick Allen's RBI infield single  Nick Allen grounds a soft ground ball down the third-base line, plating a run to give the Braves a 1-0 lead in the 2nd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/24/ac66da7c-bff5938f-1c1b7d81-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_777803_sean-reynolds-in-play-run-s-to-nick-allen
+clip_id: MLB_777803_sean-reynolds-in-play-run-s-to-nick-allen_auto1_1p480_7p480
+source_path: raw_sources\MLB_777803_sean-reynolds-in-play-run-s-to-nick-allen_Nick_Allen_s_RBI_infield_single_Nick_Allen_s_RBI_infield_single_Nick_Allen_s_RBI_infield_single_Nick_Allen_grounds_a_.mp4
+clip_start_time: 1.480
+clip_end_time: 7.480

@@ -1,0 +1,7 @@
+video_title: Darell Hernaiz's two-run single Darell Hernaiz's two-run single Darell Hernaiz's two-run single Darell Hernaiz singles on a line drive to center field to drive in two and make it a 4-1 A's lead
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/16/39f773c1-ca5cba23-c6aaebd5-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_776718_darell-hernaiz-singles-on-a-line-drive-to-center-fielder-bryce-teodos
+clip_id: MLB_776718_darell-hernaiz-singles-on-a-line-drive-to-center-fielder-bryce-teodos_auto1_1p500_8p500
+source_path: raw_sources\MLB_776718_darell-hernaiz-singles-on-a-line-drive-to-center-fielder-bryce-teodos_Darell_Hernaiz_s_two-run_single_Darell_Hernaiz_s_two-run_single_Darell_Hernaiz_s_two-run_.mp4
+clip_start_time: 1.500
+clip_end_time: 8.500

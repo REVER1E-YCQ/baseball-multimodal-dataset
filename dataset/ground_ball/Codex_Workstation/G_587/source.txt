@@ -1,0 +1,7 @@
+video_title: CJ Abrams' RBI infield single CJ Abrams' RBI infield single CJ Abrams' RBI infield single CJ Abrams hustles down the line to beat out a grounder and drive in a run, cutting the Nationals' deficit to 4-3 in the 4th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/20/b947f70e-e782a1fd-7de9d798-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_744830_nick-lodolo-in-play-run-s-to-cj-abrams
+clip_id: MLB_744830_nick-lodolo-in-play-run-s-to-cj-abrams_auto1_2p720_8p720
+source_path: raw_sources\MLB_744830_nick-lodolo-in-play-run-s-to-cj-abrams_CJ_Abrams_RBI_infield_single_CJ_Abrams_RBI_infield_single_CJ_Abrams_RBI_infield_single_CJ_Abrams_hustles_down_the_line_t.mp4
+clip_start_time: 2.720
+clip_end_time: 8.720

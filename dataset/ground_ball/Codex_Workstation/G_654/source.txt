@@ -1,0 +1,7 @@
+video_title: Ketel Marte's RBI groundout Ketel Marte's RBI groundout Ketel Marte's RBI groundout Ketel Marte bounces into an RBI groundout to drive in Corbin Carroll and get the D-backs on the board
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-08/04/0815a516-4348a68b-8ec52636-csvm-diamondx64-asset-4000K.mp4
+source_id: MLB_745468_ketel-marte-grounds-out-second-baseman-isiah-kiner-falefa-to-first-ba
+clip_id: MLB_745468_ketel-marte-grounds-out-second-baseman-isiah-kiner-falefa-to-first-ba_auto1_6p940_12p940
+source_path: raw_sources\MLB_745468_ketel-marte-grounds-out-second-baseman-isiah-kiner-falefa-to-first-ba_Ketel_Marte_s_RBI_groundout_Ketel_Marte_s_RBI_groundout_Ketel_Marte_s_RBI_groundout_Ketel.mp4
+clip_start_time: 6.940
+clip_end_time: 12.940

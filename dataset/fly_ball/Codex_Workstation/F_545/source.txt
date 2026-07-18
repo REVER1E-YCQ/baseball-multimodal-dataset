@@ -1,0 +1,7 @@
+video_title: Forrest Whitley secures the Astros' win, 7-0  Forrest Whitley secures the Astros' win, 7-0  Forrest Whitley secures the Astros' win, 7-0  Cam Smith catches Anthony Santander's fly ball to end the game and secure a 7-0 victory for the Astros
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/21/b460f66b-7ac9342a-93818a3f-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_778231_anthony-santander-flies-out-to-right-fielder-cam-smith
+clip_id: MLB_778231_anthony-santander-flies-out-to-right-fielder-cam-smith_auto1_7p580_14p580
+source_path: raw_sources\MLB_778231_anthony-santander-flies-out-to-right-fielder-cam-smith_Forrest_Whitley_secures_the_Astros_win_7-0_Forrest_Whitley_secures_the_Astros_win_7-0_Forrest_Whitley_se.mp4
+clip_start_time: 7.580
+clip_end_time: 14.580

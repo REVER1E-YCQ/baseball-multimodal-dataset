@@ -1,0 +1,7 @@
+video_title: Royals unleash for a five-run 1st inning Royals unleash for a five-run 1st inning Royals unleash for a five-run 1st inning Vinnie Pasquantino and Nick Loftin rip RBI doubles, while Salvador Perez launches a three-run home run to power the Royals for five runs to open the game in the 1st inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/06/f00a5983-93eefce5-31b783a6-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776434_royals-unleash-for-a-five-run-1st-inning
+clip_id: MLB_776434_royals-unleash-for-a-five-run-1st-inning_auto1_5p840_12p840
+source_path: raw_sources\MLB_776434_royals-unleash-for-a-five-run-1st-inning_Royals_unleash_for_a_five-run_1st_inning_Royals_unleash_for_a_five-run_1st_inning_Royals_unleash_for_a_five-run_1st_in.mp4
+clip_start_time: 5.840
+clip_end_time: 12.840

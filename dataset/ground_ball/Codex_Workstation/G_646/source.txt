@@ -1,0 +1,7 @@
+video_title: Connor Joe hits an RBI groundout Connor Joe hits an RBI groundout Connor Joe hits an RBI groundout Connor Joe grounds out softly and scores Oneil Cruz, cutting the D-backs' lead to one in the top of the 6th inning
+video_url: https://bdata-producedclips.mlb.com/65ce8f37-1550-4e78-b84f-63ef4c039fb3.mp4
+source_id: MLB_747171_brandon-pfaadt-in-play-out-s-to-connor-joe
+clip_id: MLB_747171_brandon-pfaadt-in-play-out-s-to-connor-joe_auto1_5p561_11p561
+source_path: raw_sources\MLB_747171_brandon-pfaadt-in-play-out-s-to-connor-joe_Connor_Joe_hits_an_RBI_groundout_Connor_Joe_hits_an_RBI_groundout_Connor_Joe_hits_an_RBI_groundout_Connor_Joe_ground.mp4
+clip_start_time: 5.561
+clip_end_time: 11.561

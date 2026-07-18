@@ -1,0 +1,7 @@
+video_title: Jack Suwinski scores the winning run after a review Jack Suwinski scores the winning run after a review Jack Suwinski scores the winning run after a review Jack Suwinski scores the game-winning run on Isiah Kiner-Falefa's ground ball and the call is confirmed following a review in the bottom of the 
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/04/6c3080bf-e03a6c46-8e65e965-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776879_jack-suwinksi-scores-the-winning-run-after-a-review
+clip_id: MLB_776879_jack-suwinksi-scores-the-winning-run-after-a-review_auto1_29p300_35p300
+source_path: raw_sources\MLB_776879_jack-suwinksi-scores-the-winning-run-after-a-review_Jack_Suwinski_scores_the_winning_run_after_a_review_Jack_Suwinski_scores_the_winning_run_after_a_review_Jac.mp4
+clip_start_time: 29.300
+clip_end_time: 35.300

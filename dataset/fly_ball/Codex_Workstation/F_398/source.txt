@@ -1,0 +1,7 @@
+video_title: Brewers turn a swift inning-ending double play Brewers turn a swift inning-ending double play Brewers turn a swift inning-ending double play Caleb Durbin nabs a line drive from Will Smith and snaps a throw to second to double up Freddie Freeman, ending the 4th inning scoreless
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/18/fc0944a2-2bdb5247-8b071f88-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777103_quinn-priester-in-play-out-s-to-will-smith
+clip_id: MLB_777103_quinn-priester-in-play-out-s-to-will-smith_auto1_0p000_7p000
+source_path: raw_sources\MLB_777103_quinn-priester-in-play-out-s-to-will-smith_Brewers_turn_a_swift_inning-ending_double_play_Brewers_turn_a_swift_inning-ending_double_play_Brewers_turn_a_swift_i.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

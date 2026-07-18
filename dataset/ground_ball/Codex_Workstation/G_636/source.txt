@@ -1,0 +1,7 @@
+video_title: Héctor Neris seals the win with a groundout Héctor Neris seals the win with a groundout Héctor Neris seals the win with a groundout
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/22/27298b07-3de5016e-457ec481-csvm-diamondx64-asset-4000K.mp4
+source_id: MLB_746850_william-contreras-grounds-out-softly-to-first-baseman-michael-busch
+clip_id: MLB_746850_william-contreras-grounds-out-softly-to-first-baseman-michael-busch_auto1_3p982_9p982
+source_path: raw_sources\MLB_746850_william-contreras-grounds-out-softly-to-first-baseman-michael-busch_H_ctor_Neris_seals_the_win_with_a_groundout_H_ctor_Neris_seals_the_win_with_a_groundout_H_c.mp4
+clip_start_time: 3.982
+clip_end_time: 9.982

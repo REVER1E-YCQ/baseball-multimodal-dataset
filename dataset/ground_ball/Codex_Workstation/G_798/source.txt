@@ -1,0 +1,7 @@
+video_title: Robert Hassell III's RBI single Robert Hassell III's RBI single Robert Hassell III's RBI single Robert Hassell III laces a ground ball to left field for a single, while Dylan Crews scores to put the Nationals on the board with a 1-0 lead in the bottom of the 6th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/13/fbddc825-d7900d7d-3e0a2de1-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_776336_bubba-chandler-in-play-run-s-to-robert-hassell-iii
+clip_id: MLB_776336_bubba-chandler-in-play-run-s-to-robert-hassell-iii_auto1_1p360_7p360
+source_path: raw_sources\MLB_776336_bubba-chandler-in-play-run-s-to-robert-hassell-iii_Robert_Hassell_III_s_RBI_single_Robert_Hassell_III_s_RBI_single_Robert_Hassell_III_s_RBI_single_Robert_Hasse.mp4
+clip_start_time: 1.360
+clip_end_time: 7.360

@@ -1,0 +1,7 @@
+video_title: Louis Varland escapes trouble, holds lead Louis Varland escapes trouble, holds lead Louis Varland induces a grounder to second to end the Astros' threat in the 8th, preserving the Twins' 1-0 lead
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/15/2621d185-3a746f43-14288437-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_777494_luis-guillorme-grounds-out-second-baseman-brooks-lee-to-first-baseman
+clip_id: MLB_777494_luis-guillorme-grounds-out-second-baseman-brooks-lee-to-first-baseman_auto1_2p380_8p380
+source_path: raw_sources\MLB_777494_luis-guillorme-grounds-out-second-baseman-brooks-lee-to-first-baseman_Louis_Varland_escapes_trouble_holds_lead_Louis_Varland_escapes_trouble_holds_lead_Louis_V.mp4
+clip_start_time: 2.380
+clip_end_time: 8.380

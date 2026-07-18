@@ -1,0 +1,7 @@
+video_title: AJ Smith-Shawver exits with apparent injury AJ Smith-Shawver exits with apparent injury AJ Smith-Shawver exits with apparent injury AJ Smith-Shawver left the game in the bottom of the 6th inning with an apparent injury after being hit with a line drive on his right arm
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/29/1bc2a460-ac865c82-db5b9075-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_778120_aj-smith-shawver-exits-with-apparent-injury
+clip_id: MLB_778120_aj-smith-shawver-exits-with-apparent-injury_auto1_0p000_7p000
+source_path: raw_sources\MLB_778120_aj-smith-shawver-exits-with-apparent-injury_AJ_Smith-Shawver_exits_with_apparent_injury_AJ_Smith-Shawver_exits_with_apparent_injury_AJ_Smith-Shawver_exits_with.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

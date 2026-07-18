@@ -1,0 +1,7 @@
+video_title: Ump knocks ball down, Shaw nabs Davis at second Ump knocks ball down, Shaw nabs Davis at second Ump knocks ball down, Shaw nabs Davis at second Henry Davis hits a sharp grounder down the third base line that is knocked down by the umpire, allowing Matt Shaw to recover for the out
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/15/99130b8b-22e0e825-a923e678-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776737_colin-rea-in-play-no-out-to-henry-davis-m7meoh
+clip_id: MLB_776737_colin-rea-in-play-no-out-to-henry-davis-m7meoh_auto1_9p020_15p020
+source_path: raw_sources\MLB_776737_colin-rea-in-play-no-out-to-henry-davis-m7meoh_Ump_knocks_ball_down_Shaw_nabs_Davis_at_second_Ump_knocks_ball_down_Shaw_nabs_Davis_at_second_Ump_knocks_ball_do.mp4
+clip_start_time: 9.020
+clip_end_time: 15.020

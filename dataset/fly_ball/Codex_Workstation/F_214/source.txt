@@ -1,0 +1,7 @@
+video_title: White Sox challenge foul ball call White Sox challenge foul ball call White Sox challenge foul ball call Korey Lee smacks a line drive foul down the line, and after the White Sox challenge it, the call on the field stands
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/25/e582d0e9-7bf36903-1216f55f-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746794_white-sox-challenge-foul-ball-call
+clip_id: MLB_746794_white-sox-challenge-foul-ball-call_auto1_0p000_7p000
+source_path: raw_sources\MLB_746794_white-sox-challenge-foul-ball-call_White_Sox_challenge_foul_ball_call_White_Sox_challenge_foul_ball_call_White_Sox_.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

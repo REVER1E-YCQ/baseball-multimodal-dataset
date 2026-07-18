@@ -1,0 +1,7 @@
+video_title: Coby Mayo's solo home run (9) Coby Mayo's solo home run (9) Coby Mayo's solo home run (9) Coby Mayo hits a solo home run to straightaway center field to give the Orioles a 1-0 lead in the top of the 2nd
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/14/af53d234-433db74d-b9df16cb-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776322_coby-mayo-homers-9-on-a-fly-ball-to-center-field
+clip_id: MLB_776322_coby-mayo-homers-9-on-a-fly-ball-to-center-field_auto1_4p340_11p340
+source_path: raw_sources\MLB_776322_coby-mayo-homers-9-on-a-fly-ball-to-center-field_Coby_Mayo_s_solo_home_run_9_Coby_Mayo_s_solo_home_run_9_Coby_Mayo_s_solo_home_run_9_Coby_Mayo_hits_a_solo_home.mp4
+clip_start_time: 4.340
+clip_end_time: 11.340

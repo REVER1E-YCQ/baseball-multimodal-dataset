@@ -1,0 +1,7 @@
+video_title: Brett Baty's bases-clearing triple Brett Baty's bases-clearing triple Brett Baty's bases-clearing triple Brett Baty triples on a fly ball off the left-center-field wall and three runs score, giving the Mets a 3-1 lead over the Rockies in the 1st
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/31/1bef7779-c135ee4c-ae402bb4-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777700_antonio-senzatela-in-play-run-s-to-brett-baty
+clip_id: MLB_777700_antonio-senzatela-in-play-run-s-to-brett-baty_auto1_19p880_26p880
+source_path: raw_sources\MLB_777700_antonio-senzatela-in-play-run-s-to-brett-baty_Brett_Baty_s_bases-clearing_triple_Brett_Baty_s_bases-clearing_triple_Brett_Baty_s_bases-clearing_triple_Brett_Ba.mp4
+clip_start_time: 19.880
+clip_end_time: 26.880

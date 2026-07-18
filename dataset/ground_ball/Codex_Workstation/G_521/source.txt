@@ -1,0 +1,7 @@
+video_title: Nick Castellanos' RBI groundout Nick Castellanos' RBI groundout Nick Castellanos' RBI groundout
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/16/df03830a-0dc9a2ff-5c822708-csvm-diamondx64-asset-4000K.mp4
+source_id: MLB_747023_corbin-burnes-in-play-run-s-to-nick-castellanos
+clip_id: MLB_747023_corbin-burnes-in-play-run-s-to-nick-castellanos_auto1_4p200_10p200
+source_path: raw_sources\MLB_747023_corbin-burnes-in-play-run-s-to-nick-castellanos_Nick_Castellanos_RBI_groundout_Nick_Castellanos_RBI_groundout_Nick_Castellanos_R.mp4
+clip_start_time: 4.200
+clip_end_time: 10.200

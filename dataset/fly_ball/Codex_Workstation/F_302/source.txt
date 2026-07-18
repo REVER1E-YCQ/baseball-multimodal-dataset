@@ -1,0 +1,7 @@
+video_title: Nasim Nuñez nabs Lourdes Gurriel Jr. at the plate Nasim Nuñez nabs Lourdes Gurriel Jr. at the plate Nasim Nuñez nabs Lourdes Gurriel Jr. at the plate Nasim Nuñez knocks down a line drive and fires to home plate in time to nab Lourdes Gurriel Jr.
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/19/a7775691-b59c8532-f10b1cde-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_744842_patrick-corbin-in-play-out-s-to-eugenio-suarez-4bxxr9
+clip_id: MLB_744842_patrick-corbin-in-play-out-s-to-eugenio-suarez-4bxxr9_auto1_20p240_27p240
+source_path: raw_sources\MLB_744842_patrick-corbin-in-play-out-s-to-eugenio-suarez-4bxxr9_Nasim_Nu_ez_nabs_Lourdes_Gurriel_Jr._at_the_plate_Nasim_Nu_ez_nabs_Lourdes_Gurriel_Jr._at_the_plate_Nasim.mp4
+clip_start_time: 20.240
+clip_end_time: 27.240

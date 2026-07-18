@@ -1,0 +1,7 @@
+video_title: Kyle Manzardo's two-run home run (26)  Kyle Manzardo's two-run home run (26)  Kyle Manzardo's two-run home run (26)  Kyle Manzardo hits a home run to right field, scoring George Valera and giving the Guardians a 2-1 lead in the 1st
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/10/e51aba4a-f3e8fa91-5b1c24d4-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776382_kyle-manzardo-homers-26-on-a-fly-ball-to-right-field-george-valera-sc
+clip_id: MLB_776382_kyle-manzardo-homers-26-on-a-fly-ball-to-right-field-george-valera-sc_auto1_5p360_12p360
+source_path: raw_sources\MLB_776382_kyle-manzardo-homers-26-on-a-fly-ball-to-right-field-george-valera-sc_Kyle_Manzardo_s_two-run_home_run_26_Kyle_Manzardo_s_two-run_home_run_26_Kyle_Manzardo_s_t.mp4
+clip_start_time: 5.360
+clip_end_time: 12.360

@@ -1,0 +1,7 @@
+video_title: Soto loses a ball in the sun that is caught by Judge Soto loses a ball in the sun that is caught by Judge Soto loses a ball in the sun that is caught by Judge Aaron Judge tracks down a fly ball in right-center after Juan Soto loses it in the sun
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/31/7b17d498-cc112104-854a8e7a-csvm-diamondx64-asset-4000K.mp4
+source_id: MLB_745543_edmundo-sosa-flies-out-to-center-fielder-aaron-judge
+clip_id: MLB_745543_edmundo-sosa-flies-out-to-center-fielder-aaron-judge_auto1_6p140_13p140
+source_path: raw_sources\MLB_745543_edmundo-sosa-flies-out-to-center-fielder-aaron-judge_Soto_loses_a_ball_in_the_sun_that_is_caught_by_Judge_Soto_loses_a_ball_in_the_sun_that_is_caught_by_Judge_.mp4
+clip_start_time: 6.140
+clip_end_time: 13.140

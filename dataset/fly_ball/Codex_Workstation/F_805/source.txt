@@ -1,0 +1,7 @@
+video_title: Mike Trout's 399th career home run (21) Mike Trout's 399th career home run (21) Mike Trout's 399th career home run (21) Mike Trout hits a solo home run to left field, his 399th career homer ties the game up for the Angels at 4 in the top of the 5th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/11/e45428f6-29c94796-3433be8d-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776362_bryce-miller-in-play-run-s-to-mike-trout
+clip_id: MLB_776362_bryce-miller-in-play-run-s-to-mike-trout_auto1_4p680_11p680
+source_path: raw_sources\MLB_776362_bryce-miller-in-play-run-s-to-mike-trout_Mike_Trout_s_399th_career_home_run_21_Mike_Trout_s_399th_career_home_run_21_Mike_Trout_s_399th_career_home_run_21_Mike.mp4
+clip_start_time: 4.680
+clip_end_time: 11.680

@@ -1,0 +1,7 @@
+video_title: Wilyer Abreu's circus catch in right Wilyer Abreu's circus catch in right Wilyer Abreu's circus catch in right Wilyer Abreu makes the catch in right field after losing a fly ball in the sun
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/26/fe70063f-4f87fdd3-b89a85cf-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746957_wilyer-abreu-s-circus-catch-in-right
+clip_id: MLB_746957_wilyer-abreu-s-circus-catch-in-right_auto1_0p940_7p940
+source_path: raw_sources\MLB_746957_wilyer-abreu-s-circus-catch-in-right_Wilyer_Abreu_s_circus_catch_in_right_Wilyer_Abreu_s_circus_catch_in_right_Wilyer.mp4
+clip_start_time: 0.940
+clip_end_time: 7.940

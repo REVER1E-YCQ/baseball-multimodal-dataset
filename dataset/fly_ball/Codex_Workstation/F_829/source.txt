@@ -1,0 +1,7 @@
+video_title: Royce Lewis' second two-run home run (12) Royce Lewis' second two-run home run (12) Royce Lewis' second two-run home run (12) Royce Lewis slugs a two-run home run to left field, his second homer of the game to give the Twins a 5-3 lead in the 5th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/08/2d517474-00fb5f00-a86cef8a-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776411_royce-lewis-homers-12-on-a-fly-ball-to-left-field-trevor-larnach-scor
+clip_id: MLB_776411_royce-lewis-homers-12-on-a-fly-ball-to-left-field-trevor-larnach-scor_auto1_24p300_31p300
+source_path: raw_sources\MLB_776411_royce-lewis-homers-12-on-a-fly-ball-to-left-field-trevor-larnach-scor_Royce_Lewis_second_two-run_home_run_12_Royce_Lewis_second_two-run_home_run_12_Royce_Lewis.mp4
+clip_start_time: 24.300
+clip_end_time: 31.300

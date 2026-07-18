@@ -1,0 +1,7 @@
+video_title: Brooks Lee's slick grab Brooks Lee's slick grab Brooks Lee's slick grab Brooks Lee makes a smooth pick on a sharp ground ball off the bat of Austin Hedges before firing to first for the out in the bottom of the 5th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/01/0fbe813c-16ecd8e9-11afcc56-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_778108_simeon-woods-richardson-in-play-out-s-to-austin-hedges-rwqfwq
+clip_id: MLB_778108_simeon-woods-richardson-in-play-out-s-to-austin-hedges-rwqfwq_auto1_0p920_6p920
+source_path: raw_sources\MLB_778108_simeon-woods-richardson-in-play-out-s-to-austin-hedges-rwqfwq_Brooks_Lee_s_slick_grab_Brooks_Lee_s_slick_grab_Brooks_Lee_s_slick_grab_Brooks_Lee_makes_a_smooth.mp4
+clip_start_time: 0.920
+clip_end_time: 6.920

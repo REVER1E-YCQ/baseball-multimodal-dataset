@@ -1,0 +1,7 @@
+video_title: James Wood nabs William Contreras at home James Wood nabs William Contreras at home James Wood nabs William Contreras at home James Wood catches a fly ball in left and lasers the ball home to throw out a sliding William Contreras and end the top of the 3rd
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-08/02/0ce158d4-da2ca728-bc8a45a1-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_744825_jake-irvin-in-play-out-s-to-rhys-hoskins
+clip_id: MLB_744825_jake-irvin-in-play-out-s-to-rhys-hoskins_auto1_12p420_19p420
+source_path: raw_sources\MLB_744825_jake-irvin-in-play-out-s-to-rhys-hoskins_James_Wood_nabs_William_Contreras_at_home_James_Wood_nabs_William_Contreras_at_home_James_Wood_nabs_William_Contreras_.mp4
+clip_start_time: 12.420
+clip_end_time: 19.420

@@ -1,0 +1,7 @@
+video_title: Brett Harris scores on an error Brett Harris scores on an error Brett Harris scores on an error Casey Mize commits a throwing error on Zack Gelof's grounder, allowing Brett Harris to score and increase the Athletics' lead to 5-0 in the 4th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/27/d3ad3a35-460c8002-9441902a-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_776559_casey-mize-in-play-run-s-to-zack-gelof
+clip_id: MLB_776559_casey-mize-in-play-run-s-to-zack-gelof_auto1_5p460_11p460
+source_path: raw_sources\MLB_776559_casey-mize-in-play-run-s-to-zack-gelof_Brett_Harris_scores_on_an_error_Brett_Harris_scores_on_an_error_Brett_Harris_scores_on_an_error_Casey_Mize_commits_a_thr.mp4
+clip_start_time: 5.460
+clip_end_time: 11.460

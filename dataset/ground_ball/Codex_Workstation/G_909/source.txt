@@ -1,0 +1,7 @@
+video_title: Jose Iglesias' spinning play Jose Iglesias' spinning play Jose Iglesias' spinning play Jose Iglesias makes a slick stop on Pete Alonso's hard grounder, then spins and throws to first in time for the out in the 2nd
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/29/e64fcdc0-3e5fb568-b5e209d2-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776947_ryan-bergert-in-play-out-s-to-pete-alonso
+clip_id: MLB_776947_ryan-bergert-in-play-out-s-to-pete-alonso_auto1_0p000_6p000
+source_path: raw_sources\MLB_776947_ryan-bergert-in-play-out-s-to-pete-alonso_Jose_Iglesias_spinning_play_Jose_Iglesias_spinning_play_Jose_Iglesias_spinning_play_Jose_Iglesias_makes_a_slick_stop_.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

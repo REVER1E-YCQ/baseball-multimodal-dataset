@@ -1,0 +1,7 @@
+video_title: Masyn Winn's long-range play Masyn Winn's long-range play Masyn Winn's long-range play Masyn Winn hustles to his left to corral a ground ball and rips a sharp throw to first to nab Mookie Betts in the 4th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/04/1b9ef596-5b7dabee-19799431-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776870_sonny-gray-in-play-out-s-to-mookie-betts-97ca5m
+clip_id: MLB_776870_sonny-gray-in-play-out-s-to-mookie-betts-97ca5m_auto1_13p220_19p220
+source_path: raw_sources\MLB_776870_sonny-gray-in-play-out-s-to-mookie-betts-97ca5m_Masyn_Winn_s_long-range_play_Masyn_Winn_s_long-range_play_Masyn_Winn_s_long-range_play_Masyn_Winn_hustles_to_hi.mp4
+clip_start_time: 13.220
+clip_end_time: 19.220

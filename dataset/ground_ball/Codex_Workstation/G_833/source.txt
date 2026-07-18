@@ -1,0 +1,7 @@
+video_title: Will Robertson's RBI groundout Will Robertson's RBI groundout Will Robertson's RBI groundout Will Robertson chops a ground ball to Jazz Chisholm Jr., while Colson Montgomery scores to trim the White Sox's deficit to 5-3 in the bottom of the 11th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/30/2274c7e8-adcc4132-b108a2d8-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_776529_camilo-doval-in-play-run-s-to-will-robertson
+clip_id: MLB_776529_camilo-doval-in-play-run-s-to-will-robertson_auto1_1p480_7p480
+source_path: raw_sources\MLB_776529_camilo-doval-in-play-run-s-to-will-robertson_Will_Robertson_s_RBI_groundout_Will_Robertson_s_RBI_groundout_Will_Robertson_s_RBI_groundout_Will_Robertson_chops_.mp4
+clip_start_time: 1.480
+clip_end_time: 7.480

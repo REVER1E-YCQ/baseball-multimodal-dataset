@@ -1,0 +1,7 @@
+video_title: Jake McCarthy robs a home run from Ryan Noda Jake McCarthy robs a home run from Ryan Noda Jake McCarthy robs a home run from Ryan Noda Jake McCarthy perfectly times a fly ball and leaps up at the right-field wall to take away a home run from Ryan Noda in the 2nd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/24/393f3895-7b943c9c-b4d0ac2a-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777383_ryne-nelson-in-play-out-s-to-ryan-noda
+clip_id: MLB_777383_ryne-nelson-in-play-out-s-to-ryan-noda_auto1_0p000_7p000
+source_path: raw_sources\MLB_777383_ryne-nelson-in-play-out-s-to-ryan-noda_Jake_McCarthy_robs_a_home_run_from_Ryan_Noda_Jake_McCarthy_robs_a_home_run_from_Ryan_Noda_Jake_McCarthy_robs_a_home_run_.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

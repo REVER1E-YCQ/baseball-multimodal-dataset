@@ -1,0 +1,7 @@
+video_title: Austin Riley exits game after making tenacious play Austin Riley exits game after making tenacious play Austin Riley exits game after making tenacious play Austin Riley leaves the game after cleanly fielding a hard-hit grounder and racing after Elly De La Cruz to get the out at home in the bottom of
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/03/068caa9b-513e84f3-73ac0acc-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776907_hurston-waldrep-in-play-out-s-to-miguel-andujar
+clip_id: MLB_776907_hurston-waldrep-in-play-out-s-to-miguel-andujar_auto1_0p000_6p000
+source_path: raw_sources\MLB_776907_hurston-waldrep-in-play-out-s-to-miguel-andujar_Austin_Riley_exits_game_after_making_tenacious_play_Austin_Riley_exits_game_after_making_tenacious_play_Austin_.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

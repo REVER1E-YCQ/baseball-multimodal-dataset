@@ -1,0 +1,7 @@
+video_title: Luis Rengifo's RBI groundout Luis Rengifo's RBI groundout Luis Rengifo's RBI groundout Luis Rengifo bounces an RBI groundout to get the Angels on the board in the bottom of the 3rd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/28/1b48c14e-5dc29e1e-51651121-csvm-diamondx64-asset-4000K.mp4
+source_id: MLB_746195_osvaldo-bido-in-play-run-s-to-luis-rengifo
+clip_id: MLB_746195_osvaldo-bido-in-play-run-s-to-luis-rengifo_auto1_1p520_7p520
+source_path: raw_sources\MLB_746195_osvaldo-bido-in-play-run-s-to-luis-rengifo_Luis_Rengifo_s_RBI_groundout_Luis_Rengifo_s_RBI_groundout_Luis_Rengifo_s_RBI_groundout_Luis_Rengifo_bounces_an_RBI_g.mp4
+clip_start_time: 1.520
+clip_end_time: 7.520

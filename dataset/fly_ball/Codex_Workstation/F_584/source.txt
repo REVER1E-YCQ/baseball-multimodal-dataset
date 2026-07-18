@@ -1,0 +1,7 @@
+video_title: Brock Burke gets the final out Brock Burke gets the final out Brock Burke gets the final out Brock Burke gets the final out with an Emmanuel Rivera pop fly
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/10/ab849975-f1a3f5f0-b524847e-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777973_brock-burke-in-play-out-s-to-emmanuel-rivera
+clip_id: MLB_777973_brock-burke-in-play-out-s-to-emmanuel-rivera_auto1_0p840_7p840
+source_path: raw_sources\MLB_777973_brock-burke-in-play-out-s-to-emmanuel-rivera_Brock_Burke_gets_the_final_out_Brock_Burke_gets_the_final_out_Brock_Burke_gets_the_final_out_Brock_Burke_gets_the_.mp4
+clip_start_time: 0.840
+clip_end_time: 7.840

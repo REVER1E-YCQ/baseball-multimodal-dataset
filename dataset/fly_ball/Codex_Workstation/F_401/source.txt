@@ -1,0 +1,7 @@
+video_title: Yusei Kikuchi struck by line drive, stays in game Yusei Kikuchi struck by line drive, stays in game Yusei Kikuchi struck by line drive, stays in game Yusei Kikuchi is struck on his throwing arm by a line drive off the bat of Josh Naylor, but stays in the game after being checked by the trainer
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/12/a3694b7d-6dc26ceb-efa50777-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777131_yusei-kikuchi-in-play-no-out-to-josh-naylor-bsszlb
+clip_id: MLB_777131_yusei-kikuchi-in-play-no-out-to-josh-naylor-bsszlb_auto1_2p140_9p140
+source_path: raw_sources\MLB_777131_yusei-kikuchi-in-play-no-out-to-josh-naylor-bsszlb_Yusei_Kikuchi_struck_by_line_drive_stays_in_game_Yusei_Kikuchi_struck_by_line_drive_stays_in_game_Yusei_Kiku.mp4
+clip_start_time: 2.140
+clip_end_time: 9.140

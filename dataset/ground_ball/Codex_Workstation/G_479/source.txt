@@ -1,0 +1,7 @@
+video_title: Masyn Winn seals the win with a groundout Masyn Winn seals the win with a groundout Masyn Winn seals the win with a groundout
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/22/ce06a6f2-98f5a0c2-c8ed7743-csvm-diamondx64-asset-4000K.mp4
+source_id: MLB_745173_masyn-winn-seals-the-win-with-a-groundout
+clip_id: MLB_745173_masyn-winn-seals-the-win-with-a-groundout_auto1_1p440_7p440
+source_path: raw_sources\MLB_745173_masyn-winn-seals-the-win-with-a-groundout_Masyn_Winn_seals_the_win_with_a_groundout_Masyn_Winn_seals_the_win_with_a_ground.mp4
+clip_start_time: 1.440
+clip_end_time: 7.440

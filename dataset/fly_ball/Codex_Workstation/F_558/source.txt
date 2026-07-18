@@ -1,0 +1,7 @@
+video_title: Richie Palacios' double Richie Palacios' double Richie Palacios' double Richie Palacios hits a line drive to right-center field for a double in the 2nd inning in his first game back from the injured list
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/17/3003c373-d6dbae31-eff6bef2-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_778282_richie-palacios-doubles-1-on-a-sharp-line-drive-to-center-fielder-cod
+clip_id: MLB_778282_richie-palacios-doubles-1-on-a-sharp-line-drive-to-center-fielder-cod_auto1_2p480_9p480
+source_path: raw_sources\MLB_778282_richie-palacios-doubles-1-on-a-sharp-line-drive-to-center-fielder-cod_Richie_Palacios_double_Richie_Palacios_double_Richie_Palacios_double_Richie_Palacios_hits.mp4
+clip_start_time: 2.480
+clip_end_time: 9.480

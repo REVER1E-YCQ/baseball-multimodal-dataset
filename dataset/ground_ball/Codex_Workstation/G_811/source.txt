@@ -1,0 +1,7 @@
+video_title: Bobby Witt Jr.'s double play Bobby Witt Jr.'s double play Bobby Witt Jr.'s double play Bobby Witt Jr. fields José Ramírez's grounder and hustles to second before throwing to first for a double play to end the 8th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/09/f8d228eb-1b28aa45-ac3914d6-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776403_jose-ramirez-grounds-into-a-double-play-shortstop-bobby-witt-jr-to-fi
+clip_id: MLB_776403_jose-ramirez-grounds-into-a-double-play-shortstop-bobby-witt-jr-to-fi_auto1_5p060_11p060
+source_path: raw_sources\MLB_776403_jose-ramirez-grounds-into-a-double-play-shortstop-bobby-witt-jr-to-fi_Bobby_Witt_Jr._s_double_play_Bobby_Witt_Jr._s_double_play_Bobby_Witt_Jr._s_double_play_Bo.mp4
+clip_start_time: 5.060
+clip_end_time: 11.060

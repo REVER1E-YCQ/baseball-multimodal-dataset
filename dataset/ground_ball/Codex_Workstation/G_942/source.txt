@@ -1,0 +1,7 @@
+video_title: Chase Meidroth nabs Austin Wells at home Chase Meidroth nabs Austin Wells at home Chase Meidroth nabs Austin Wells at home Chase Meidroth corrals a ground ball from Ryan McMahon and rips a throw home to prevent Austin Wells from scoring in the top of the 10th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/30/32bec1be-40b90fff-7646f7a6-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776529_grant-taylor-in-play-out-s-to-ryan-mcmahon
+clip_id: MLB_776529_grant-taylor-in-play-out-s-to-ryan-mcmahon_auto1_5p040_11p040
+source_path: raw_sources\MLB_776529_grant-taylor-in-play-out-s-to-ryan-mcmahon_Chase_Meidroth_nabs_Austin_Wells_at_home_Chase_Meidroth_nabs_Austin_Wells_at_home_Chase_Meidroth_nabs_Austin_Wells_a.mp4
+clip_start_time: 5.040
+clip_end_time: 11.040

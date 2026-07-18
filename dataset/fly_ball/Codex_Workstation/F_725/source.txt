@@ -1,0 +1,7 @@
+video_title: Adam Frazier homers for 1,000th career hit (6) Adam Frazier homers for 1,000th career hit (6) Adam Frazier homers for 1,000th career hit (6) Adam Frazier lifts a solo home run to put the Royals on the board in the bottom of the 2nd inning and to give him 1,000 career hits
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/04/df877c62-5e9200b0-e3684134-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776463_adam-frazier-homers-6-on-a-fly-ball-to-right-field-ufrjsz
+clip_id: MLB_776463_adam-frazier-homers-6-on-a-fly-ball-to-right-field-ufrjsz_auto1_17p180_24p180
+source_path: raw_sources\MLB_776463_adam-frazier-homers-6-on-a-fly-ball-to-right-field-ufrjsz_Adam_Frazier_homers_for_1_000th_career_hit_6_Adam_Frazier_homers_for_1_000th_career_hit_6_Adam_Frazie.mp4
+clip_start_time: 17.180
+clip_end_time: 24.180

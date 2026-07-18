@@ -1,0 +1,7 @@
+video_title: Andy Pages turns double play to secure Dodgers' win Andy Pages turns double play to secure Dodgers' win Andy Pages turns double play to secure Dodgers' win Andy Pages catches a line drive in left-center field and throws to first to double up Tyler Freeman to end the game
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/26/db8ed819-35593748-a87e1f67-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777344_thairo-estrada-lines-into-a-double-play-center-fielder-andy-pages-to-
+clip_id: MLB_777344_thairo-estrada-lines-into-a-double-play-center-fielder-andy-pages-to-_auto1_8p440_15p440
+source_path: raw_sources\MLB_777344_thairo-estrada-lines-into-a-double-play-center-fielder-andy-pages-to-_Andy_Pages_turns_double_play_to_secure_Dodgers_win_Andy_Pages_turns_double_play_to_secure.mp4
+clip_start_time: 8.440
+clip_end_time: 15.440

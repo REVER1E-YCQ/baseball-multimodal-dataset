@@ -1,0 +1,7 @@
+video_title: Heriberto Hernández's solo home run (8) Heriberto Hernández's solo home run (8) Heriberto Hernández's solo home run (8) Heriberto Hernández hits a home run to left field putting the Marlins ahead 2-0
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/12/53337e3b-0257622e-c958f66e-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776366_heriberto-hernandez-homers-8-on-a-fly-ball-to-right-field
+clip_id: MLB_776366_heriberto-hernandez-homers-8-on-a-fly-ball-to-right-field_auto1_13p240_20p240
+source_path: raw_sources\MLB_776366_heriberto-hernandez-homers-8-on-a-fly-ball-to-right-field_Heriberto_Hern_ndez_s_solo_home_run_8_Heriberto_Hern_ndez_s_solo_home_run_8_Heriberto_Hern_ndez_s_sol.mp4
+clip_start_time: 13.240
+clip_end_time: 20.240

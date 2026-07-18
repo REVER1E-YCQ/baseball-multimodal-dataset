@@ -1,0 +1,7 @@
+video_title: Dominic Smith's tenacious play Dominic Smith's tenacious play Dominic Smith's tenacious play Dominic Smith fields a hard-hit grounder and then dives to first base to get the runner, and ends the top of the 3rd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/08/77282d2e-57ad6e71-d1c874ed-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777587_landen-roupp-in-play-out-s-to-michael-harris-ii-x4gaie
+clip_id: MLB_777587_landen-roupp-in-play-out-s-to-michael-harris-ii-x4gaie_auto1_0p000_6p000
+source_path: raw_sources\MLB_777587_landen-roupp-in-play-out-s-to-michael-harris-ii-x4gaie_Dominic_Smith_s_tenacious_play_Dominic_Smith_s_tenacious_play_Dominic_Smith_s_tenacious_play_Dominic_Smi.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

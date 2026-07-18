@@ -1,0 +1,7 @@
+video_title: Santiago Espinal's barehanded play Santiago Espinal's barehanded play Santiago Espinal's barehanded play Santiago Espinal charges a short ground ball and makes a barehanded play to throw out Jack Suwinski
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/26/056b5f0e-8d0858fe-f868d258-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746695_alexis-diaz-in-play-out-s-to-jack-suwinski-sqiosq
+clip_id: MLB_746695_alexis-diaz-in-play-out-s-to-jack-suwinski-sqiosq_auto1_5p500_11p500
+source_path: raw_sources\MLB_746695_alexis-diaz-in-play-out-s-to-jack-suwinski-sqiosq_Santiago_Espinal_s_barehanded_play_Santiago_Espinal_s_barehanded_play_Santiago_Espinal_s_barehanded_play_Sant.mp4
+clip_start_time: 5.500
+clip_end_time: 11.500

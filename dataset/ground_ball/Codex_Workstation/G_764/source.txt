@@ -1,0 +1,7 @@
+video_title: Michael A. Taylor's RBI forceout Michael A. Taylor's RBI forceout Michael A. Taylor's RBI forceout Michael A. Taylor hits a grounder to left side, scoring Lenyn Sosa to collect an RBI in his final game as a big leaguer
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/28/cbec1e94-637beec1-366fac6e-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_776143_mitchell-parker-in-play-run-s-to-michael-a-taylor
+clip_id: MLB_776143_mitchell-parker-in-play-run-s-to-michael-a-taylor_auto1_1p520_7p520
+source_path: raw_sources\MLB_776143_mitchell-parker-in-play-run-s-to-michael-a-taylor_Michael_A._Taylor_s_RBI_forceout_Michael_A._Taylor_s_RBI_forceout_Michael_A._Taylor_s_RBI_forceout_Michael_A..mp4
+clip_start_time: 1.520
+clip_end_time: 7.520

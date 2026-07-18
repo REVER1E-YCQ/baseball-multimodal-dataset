@@ -1,0 +1,7 @@
+video_title: Robert Suarez seals Padres' victory over the Braves Robert Suarez seals Padres' victory over the Braves Robert Suarez seals Padres' victory over the Braves Robert Suarez induces a ground ball to shortstop, sealing the Padres' 4-0 victory over the Braves in the top of the 9th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/13/b21423d8-19874e6d-719e7e9f-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745392_sean-murphy-grounds-out-shortstop-ha-seong-kim-to-first-baseman-luis-
+clip_id: MLB_745392_sean-murphy-grounds-out-shortstop-ha-seong-kim-to-first-baseman-luis-_auto1_5p660_11p660
+source_path: raw_sources\MLB_745392_sean-murphy-grounds-out-shortstop-ha-seong-kim-to-first-baseman-luis-_Robert_Suarez_seals_Padres_victory_over_the_Braves_Robert_Suarez_seals_Padres_victory_ove.mp4
+clip_start_time: 5.660
+clip_end_time: 11.660

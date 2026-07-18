@@ -1,0 +1,7 @@
+video_title: Gleyber Torres grounds out in the 8th Gleyber Torres grounds out in the 8th Gleyber Torres grounds out in the 8th Gleyber Torres grounds out in the 8th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/25/3cbd14d6-a5f4c10d-d56913ea-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745806_gleyber-torres-grounds-out-in-the-8th
+clip_id: MLB_745806_gleyber-torres-grounds-out-in-the-8th_auto1_9p000_15p000
+source_path: raw_sources\MLB_745806_gleyber-torres-grounds-out-in-the-8th_Gleyber_Torres_grounds_out_in_the_8th_Gleyber_Torres_grounds_out_in_the_8th_Gleyber_Torres_grounds_out_in_the_8th_Gleyber.mp4
+clip_start_time: 9.000
+clip_end_time: 15.000

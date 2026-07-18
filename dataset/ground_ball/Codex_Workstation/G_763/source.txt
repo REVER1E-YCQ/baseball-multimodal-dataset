@@ -1,0 +1,7 @@
+video_title: Caleb Ferguson deflects ball with foot for nifty play Caleb Ferguson deflects ball with foot for nifty play Caleb Ferguson deflects ball with foot for nifty play Caleb Ferguson deflects a grounder off his foot after dodging a broken bat and fields the ball to flip to first base for the out
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/28/d1ba6511-52dfa788-c0c4017c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776139_caleb-ferguson-in-play-out-s-to-michael-conforto
+clip_id: MLB_776139_caleb-ferguson-in-play-out-s-to-michael-conforto_auto1_2p120_8p120
+source_path: raw_sources\MLB_776139_caleb-ferguson-in-play-out-s-to-michael-conforto_Caleb_Ferguson_deflects_ball_with_foot_for_nifty_play_Caleb_Ferguson_deflects_ball_with_foot_for_nifty_play_Ca.mp4
+clip_start_time: 2.120
+clip_end_time: 8.120

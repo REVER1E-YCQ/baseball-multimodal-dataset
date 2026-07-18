@@ -1,0 +1,7 @@
+video_title: Tony Mansolino on Orioles' 11-2 loss Tony Mansolino on Orioles' 11-2 loss Tony Mansolino on Orioles' 11-2 loss Tony Mansolino discusses Carson Ragsdale's struggles in his Major League debut, Coby Mayo's home run and more following the Orioles' 11-2 defeat
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/14/420acbd2-cb3ae676-91f32d52-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776322_tony-mansolino-on-orioles-11-2-loss
+clip_id: MLB_776322_tony-mansolino-on-orioles-11-2-loss_auto1_10p700_17p700
+source_path: raw_sources\MLB_776322_tony-mansolino-on-orioles-11-2-loss_Tony_Mansolino_on_Orioles_11-2_loss_Tony_Mansolino_on_Orioles_11-2_loss_Tony_Mansolino_on_Orioles_11-2_loss_Tony_Mansolino_.mp4
+clip_start_time: 10.700
+clip_end_time: 17.700

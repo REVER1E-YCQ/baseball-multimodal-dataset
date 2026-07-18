@@ -1,0 +1,7 @@
+video_title: Willson Contreras' stunning diving stop Willson Contreras' stunning diving stop Willson Contreras's stunning diving stop Willson Contreras makes a tremendous diving effort for a sharp ground ball from Bryan Reynolds and flips to Miles Mikolas at first to end the top of the 5th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/28/77a49ccb-68961396-3a31a5e1-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776554_miles-mikolas-in-play-out-s-to-bryan-reynolds-fuuzs5
+clip_id: MLB_776554_miles-mikolas-in-play-out-s-to-bryan-reynolds-fuuzs5_auto1_0p000_6p000
+source_path: raw_sources\MLB_776554_miles-mikolas-in-play-out-s-to-bryan-reynolds-fuuzs5_Willson_Contreras_stunning_diving_stop_Willson_Contreras_stunning_diving_stop_Willson_Contreras_s_stunning.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

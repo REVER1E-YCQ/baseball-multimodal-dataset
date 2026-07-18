@@ -1,0 +1,7 @@
+video_title: Josh Lowe's solo home run (10) Josh Lowe's solo home run (10) Josh Lowe's solo home run (10) Josh Lowe hits a solo home run to right-center field, putting the Rays on the board in the 5th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/06/b3aa72bc-a46fc100-aa50eac0-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776438_tanner-bibee-in-play-run-s-to-josh-lowe
+clip_id: MLB_776438_tanner-bibee-in-play-run-s-to-josh-lowe_auto1_0p240_7p240
+source_path: raw_sources\MLB_776438_tanner-bibee-in-play-run-s-to-josh-lowe_Josh_Lowe_s_solo_home_run_10_Josh_Lowe_s_solo_home_run_10_Josh_Lowe_s_solo_home_run_10_Josh_Lowe_hits_a_solo_home_run_t.mp4
+clip_start_time: 0.240
+clip_end_time: 7.240

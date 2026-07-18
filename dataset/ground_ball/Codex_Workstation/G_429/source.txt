@@ -1,0 +1,7 @@
+video_title: Robert Garcia seals the win with a groundout Robert Garcia seals the win with a groundout Robert Garcia seals the win with a groundout
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/08/08d201ae-9faa0d7b-5b7ef853-csvm-diamondx64-asset-4000K.mp4
+source_id: MLB_744848_robert-garcia-in-play-out-s-to-sean-murphy
+clip_id: MLB_744848_robert-garcia-in-play-out-s-to-sean-murphy_auto1_1p440_7p440
+source_path: raw_sources\MLB_744848_robert-garcia-in-play-out-s-to-sean-murphy_Robert_Garcia_seals_the_win_with_a_groundout_Robert_Garcia_seals_the_win_with_a_.mp4
+clip_start_time: 1.440
+clip_end_time: 7.440

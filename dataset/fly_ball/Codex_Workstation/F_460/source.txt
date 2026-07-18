@@ -1,0 +1,7 @@
+video_title: Javier Báez's sweet leaping catch Javier Báez's sweet leaping catch Javier Báez's sweet leaping catch Javier Báez leaves his feet to snatch a line drive from Carson Kelly, making an athletic play for the first out in the 7th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/08/b39e8284-1661be5d-e827a1f0-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777594_brenan-hanifee-in-play-out-s-to-carson-kelly
+clip_id: MLB_777594_brenan-hanifee-in-play-out-s-to-carson-kelly_auto1_16p240_23p240
+source_path: raw_sources\MLB_777594_brenan-hanifee-in-play-out-s-to-carson-kelly_Javier_B_ez_s_sweet_leaping_catch_Javier_B_ez_s_sweet_leaping_catch_Javier_B_ez_s_sweet_leaping_catch_Javier_B_ez_.mp4
+clip_start_time: 16.240
+clip_end_time: 23.240

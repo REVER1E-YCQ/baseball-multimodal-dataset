@@ -1,0 +1,7 @@
+video_title: Paul DeJong's sacrifice fly Paul DeJong's sacrifice fly Paul DeJong's sacrifice fly Paul DeJong hits a sacrifice fly to center field, scoring Daylen Lile to extend the Nationals' lead to 5-1
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/08/6504f306-f3c1e0a1-cd5c3247-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_776409_paul-dejong-out-on-a-sacrifice-fly-to-center-fielder-jakob-marsee-day
+clip_id: MLB_776409_paul-dejong-out-on-a-sacrifice-fly-to-center-fielder-jakob-marsee-day_auto1_17p424_24p424
+source_path: raw_sources\MLB_776409_paul-dejong-out-on-a-sacrifice-fly-to-center-fielder-jakob-marsee-day_Paul_DeJong_s_sacrifice_fly_Paul_DeJong_s_sacrifice_fly_Paul_DeJong_s_sacrifice_fly_Paul_.mp4
+clip_start_time: 17.424
+clip_end_time: 24.424

@@ -1,0 +1,7 @@
+video_title: Andrew McCutchen called safe at second base  Andrew McCutchen called safe at second base  Andrew McCutchen called safe at second base  After the call on the field was overturned, Andrew McCutchen is called safe at second base and Ke'Bryan Hayes grounds out
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/23/462bfdef-a4595422-8cd4feb5-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745485_andrew-mccutchen-called-safe-at-second-base
+clip_id: MLB_745485_andrew-mccutchen-called-safe-at-second-base_auto1_0p000_6p000
+source_path: raw_sources\MLB_745485_andrew-mccutchen-called-safe-at-second-base_Andrew_McCutchen_called_safe_at_second_base_Andrew_McCutchen_called_safe_at_second_base_Andrew_McCutchen_called_saf.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

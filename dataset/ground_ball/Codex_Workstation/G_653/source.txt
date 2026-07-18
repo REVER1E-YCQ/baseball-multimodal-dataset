@@ -1,0 +1,7 @@
+video_title: Phillies score on a groundout Phillies score on a groundout Phillies score on a groundout
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-08/03/fb2c57af-e2516445-61dcbe27-csvm-diamondx64-asset-4000K.mp4
+source_id: MLB_745225_bryce-miller-in-play-run-s-to-alec-bohm
+clip_id: MLB_745225_bryce-miller-in-play-run-s-to-alec-bohm_auto1_6p220_12p220
+source_path: raw_sources\MLB_745225_bryce-miller-in-play-run-s-to-alec-bohm_Phillies_score_on_a_groundout_Phillies_score_on_a_groundout_Phillies_score_on_a_groundout.mp4
+clip_start_time: 6.220
+clip_end_time: 12.220

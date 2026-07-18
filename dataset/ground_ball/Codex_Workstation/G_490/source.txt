@@ -1,0 +1,7 @@
+video_title: Jose Altuve drives in two with a single Jose Altuve drives in two with a single Jose Altuve drives in two with a single Jose Altuve grounds a two-run single into left field to extend the Astros' lead to 3-0
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/26/1641feaa-b24a9b61-eb70a918-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745653_jose-altuve-singles-on-a-ground-ball-to-left-fielder-miguel-andujar-j
+clip_id: MLB_745653_jose-altuve-singles-on-a-ground-ball-to-left-fielder-miguel-andujar-j_auto1_22p860_28p860
+source_path: raw_sources\MLB_745653_jose-altuve-singles-on-a-ground-ball-to-left-fielder-miguel-andujar-j_Jose_Altuve_drives_in_two_with_a_single_Jose_Altuve_drives_in_two_with_a_single_.mp4
+clip_start_time: 22.860
+clip_end_time: 28.860

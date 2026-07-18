@@ -1,0 +1,7 @@
+video_title: Jarren Duran's sliding catch Jarren Duran's sliding catch Jarren Duran's sliding catch Jarren Duran reacts to a line drive and makes a nice sliding catch for the first out of the bottom of the 3rd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/20/98eaafb3-f9767684-272ad228-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777075_garrett-crochet-in-play-out-s-to-nico-hoerner
+clip_id: MLB_777075_garrett-crochet-in-play-out-s-to-nico-hoerner_auto1_0p000_7p000
+source_path: raw_sources\MLB_777075_garrett-crochet-in-play-out-s-to-nico-hoerner_Jarren_Duran_s_sliding_catch_Jarren_Duran_s_sliding_catch_Jarren_Duran_s_sliding_catch_Jarren_Duran_reacts_to_a_l.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

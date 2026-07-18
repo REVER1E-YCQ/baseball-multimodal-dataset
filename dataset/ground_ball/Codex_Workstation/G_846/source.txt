@@ -1,0 +1,7 @@
+video_title: Gabriel Arias' strong throw nabs Carson Williams Gabriel Arias' strong throw nabs Carson Williams Gabriel Arias' strong throw nabs Carson Williams Gabriel Arias backhands a grounder and makes a great throw to first to retire Carson Williams in the top of the 4th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/27/1f546bf2-12d064f8-31c8e7c3-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776580_carson-williams-grounds-out-shortstop-gabriel-arias-to-first-baseman-
+clip_id: MLB_776580_carson-williams-grounds-out-shortstop-gabriel-arias-to-first-baseman-_auto1_0p000_6p000
+source_path: raw_sources\MLB_776580_carson-williams-grounds-out-shortstop-gabriel-arias-to-first-baseman-_Gabriel_Arias_strong_throw_nabs_Carson_Williams_Gabriel_Arias_strong_throw_nabs_Carson_Wi.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

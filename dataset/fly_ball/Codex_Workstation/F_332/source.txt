@@ -1,0 +1,7 @@
+video_title: Michael Toglia's nice grab Michael Toglia's nice grab Michael Toglia's nice grab Michael Toglia snares a sharp line drive from Austin Slater for the first out in the bottom of the 2nd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/11/2fcbd94c-9cdfbab7-cf308421-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746688_austin-slater-lines-out-to-first-baseman-michael-toglia
+clip_id: MLB_746688_austin-slater-lines-out-to-first-baseman-michael-toglia_auto1_8p140_15p140
+source_path: raw_sources\MLB_746688_austin-slater-lines-out-to-first-baseman-michael-toglia_Michael_Toglia_s_nice_grab_Michael_Toglia_s_nice_grab_Michael_Toglia_s_nice_grab_Michael_Toglia_snares_.mp4
+clip_start_time: 8.140
+clip_end_time: 15.140

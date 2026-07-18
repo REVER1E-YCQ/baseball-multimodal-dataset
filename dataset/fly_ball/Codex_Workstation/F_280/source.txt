@@ -1,0 +1,7 @@
+video_title: Matthew Boyd snags the comebacker Matthew Boyd snags the comebacker Matthew Boyd snags the comebacker Matthew Boyd makes a heads-up play on a liner hit his way in the bottom of the 6th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/14/2001cdaa-9b57d891-6d42da7c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776747_joey-loperfido-lines-out-to-pitcher-matthew-boyd
+clip_id: MLB_776747_joey-loperfido-lines-out-to-pitcher-matthew-boyd_auto1_0p000_7p000
+source_path: raw_sources\MLB_776747_joey-loperfido-lines-out-to-pitcher-matthew-boyd_Matthew_Boyd_snags_the_comebacker_Matthew_Boyd_snags_the_comebacker_Matthew_Boyd_snags_the_comebacker_Matthew_.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

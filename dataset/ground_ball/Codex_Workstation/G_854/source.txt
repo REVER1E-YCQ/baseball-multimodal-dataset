@@ -1,0 +1,7 @@
+video_title: Brett Harris nabs James Outman at home Brett Harris nabs James Outman at home Brett Harris nabs James Outman at home Brett Harris fields Byron Buxton's grounder and throws home to cut down James Outman and keep the Athletics ahead, 1-0
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/20/513d17f0-c87738d4-5f55035f-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_776665_j-t-ginn-in-play-out-s-to-byron-buxton
+clip_id: MLB_776665_j-t-ginn-in-play-out-s-to-byron-buxton_auto1_1p420_7p420
+source_path: raw_sources\MLB_776665_j-t-ginn-in-play-out-s-to-byron-buxton_Brett_Harris_nabs_James_Outman_at_home_Brett_Harris_nabs_James_Outman_at_home_Brett_Harris_nabs_James_Outman_at_home_Bre.mp4
+clip_start_time: 1.420
+clip_end_time: 7.420

@@ -1,0 +1,7 @@
+video_title: Laz Díaz has a sword fight with the Braves' ball boy Laz Díaz has a sword fight with the Braves' ball boy Laz Díaz has a sword fight with the Braves' ball boy Umpire Laz Díaz has a sword fight and shares a laugh with the Braves' ball boy following a broken-bat groundout from Eli White
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/05/6e59c702-32a750a8-efcb2533-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_747097_laz-diaz-has-a-sword-fight-with-the-braves-ball-boy
+clip_id: MLB_747097_laz-diaz-has-a-sword-fight-with-the-braves-ball-boy_auto1_0p000_6p000
+source_path: raw_sources\MLB_747097_laz-diaz-has-a-sword-fight-with-the-braves-ball-boy_Laz_D_az_has_a_sword_fight_with_the_Braves_ball_boy_Laz_D_az_has_a_sword_fight_with_the_Braves_ball_boy_Laz.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

@@ -1,0 +1,7 @@
+video_title: Josh Jung's athletic play Josh Jung's athletic play Josh Jung's athletic play Josh Jung ranges into foul territory to field a grounder then makes an incredible throw to complete the out in style
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/06/7e460578-ae849bbc-a6a72a46-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776432_cole-winn-in-play-out-s-to-jeremy-pena-ozcmtk
+clip_id: MLB_776432_cole-winn-in-play-out-s-to-jeremy-pena-ozcmtk_auto1_2p140_8p140
+source_path: raw_sources\MLB_776432_cole-winn-in-play-out-s-to-jeremy-pena-ozcmtk_Josh_Jung_s_athletic_play_Josh_Jung_s_athletic_play_Josh_Jung_s_athletic_play_Josh_Jung_ranges_into_foul_territor.mp4
+clip_start_time: 2.140
+clip_end_time: 8.140

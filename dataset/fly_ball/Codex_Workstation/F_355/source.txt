@@ -1,0 +1,7 @@
+video_title: Warming Bernabel's RBI double Warming Bernabel's RBI double Warming Bernabel's RBI double Warming Bernabel doubles on a line drive to left field and Ezequiel Tovar scores, cutting the Rockies' deficit to 10-3 in the top of the 8th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/29/d7ab73cb-5a1f148b-bb282223-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776951_matt-festa-in-play-run-s-to-warming-bernabel
+clip_id: MLB_776951_matt-festa-in-play-run-s-to-warming-bernabel_auto1_6p420_13p420
+source_path: raw_sources\MLB_776951_matt-festa-in-play-run-s-to-warming-bernabel_Warming_Bernabel_s_RBI_double_Warming_Bernabel_s_RBI_double_Warming_Bernabel_s_RBI_double_Warming_Bernabel_doubles.mp4
+clip_start_time: 6.420
+clip_end_time: 13.420

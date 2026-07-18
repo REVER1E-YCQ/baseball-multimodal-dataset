@@ -1,0 +1,7 @@
+video_title: Tyler Soderstrom's diving catch Tyler Soderstrom's diving catch Tyler Soderstrom's diving catch Tyler Soderstrom snares a line drive off the bat of Christian Walker in the bottom of the 4th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/27/7990be6c-12b70ca5-6ef6823d-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777752_christian-walker-lines-out-sharply-to-left-fielder-tyler-soderstrom
+clip_id: MLB_777752_christian-walker-lines-out-sharply-to-left-fielder-tyler-soderstrom_auto1_0p400_7p400
+source_path: raw_sources\MLB_777752_christian-walker-lines-out-sharply-to-left-fielder-tyler-soderstrom_Tyler_Soderstrom_s_diving_catch_Tyler_Soderstrom_s_diving_catch_Tyler_Soderstrom_s_diving_c.mp4
+clip_start_time: 0.400
+clip_end_time: 7.400

@@ -1,0 +1,7 @@
+video_title: Andruw Monasterio ends the inning Andruw Monasterio ends the inning Andruw Monasterio ends the inning Andruw Monasterio makes a nice play, handling the grounder and tossing to first to end the 7th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/21/97b0881f-c0d372fc-9d29641a-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776231_thomas-saggese-grounds-out-second-baseman-andruw-monasterio-to-first-
+clip_id: MLB_776231_thomas-saggese-grounds-out-second-baseman-andruw-monasterio-to-first-_auto1_7p300_13p300
+source_path: raw_sources\MLB_776231_thomas-saggese-grounds-out-second-baseman-andruw-monasterio-to-first-_Andruw_Monasterio_ends_the_inning_Andruw_Monasterio_ends_the_inning_Andruw_Monasterio_end.mp4
+clip_start_time: 7.300
+clip_end_time: 13.300

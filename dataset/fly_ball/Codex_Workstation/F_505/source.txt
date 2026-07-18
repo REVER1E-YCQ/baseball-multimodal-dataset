@@ -1,0 +1,7 @@
+video_title: Julio Rodríguez's sweet sliding catch Julio Rodríguez's sweet sliding catch Julio Rodríguez's sweet sliding catch Julio Rodríguez slides in to snag a low line drive, robbing Fernando Tatis Jr. of a hit in the bottom of the 3rd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/17/01452778-17d1294f-386aa5b0-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777875_emerson-hancock-in-play-out-s-to-fernando-tatis-jr-yjzuge
+clip_id: MLB_777875_emerson-hancock-in-play-out-s-to-fernando-tatis-jr-yjzuge_auto1_17p157_24p157
+source_path: raw_sources\MLB_777875_emerson-hancock-in-play-out-s-to-fernando-tatis-jr-yjzuge_Julio_Rodr_guez_s_sweet_sliding_catch_Julio_Rodr_guez_s_sweet_sliding_catch_Julio_Rodr_guez_s_sweet_s.mp4
+clip_start_time: 17.157
+clip_end_time: 24.157

@@ -1,0 +1,7 @@
+video_title: Alexander Canario's sac fly Alexander Canario's sac fly Alexander Canario's sac fly Alexander Canario keeps it rolling for Pittsburg with a sacrifice fly to right field, extending their lead to 3-0 in the bottom of the 1st
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/02/26c7c215-60924837-2687e7b5-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_776496_alexander-canario-out-on-a-sacrifice-fly-to-right-fielder-teoscar-her
+clip_id: MLB_776496_alexander-canario-out-on-a-sacrifice-fly-to-right-fielder-teoscar-her_auto1_6p320_13p320
+source_path: raw_sources\MLB_776496_alexander-canario-out-on-a-sacrifice-fly-to-right-fielder-teoscar-her_Alexander_Canario_s_sac_fly_Alexander_Canario_s_sac_fly_Alexander_Canario_s_sac_fly_Alexa.mp4
+clip_start_time: 6.320
+clip_end_time: 13.320

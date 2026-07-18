@@ -1,0 +1,7 @@
+video_title: Eugenio Suárez's sharp barehanded play Eugenio Suárez's sharp barehanded play Eugenio Suárez's sharp barehanded play Eugenio Suárez charges a slow ground ball and rips a barehanded throw to first to retire Jake Meyers for the final out of the bottom of the 3rd
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/19/e61261c7-abd42241-c889585c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776262_bryan-woo-in-play-out-s-to-jake-meyers
+clip_id: MLB_776262_bryan-woo-in-play-out-s-to-jake-meyers_auto1_0p000_6p000
+source_path: raw_sources\MLB_776262_bryan-woo-in-play-out-s-to-jake-meyers_Eugenio_Su_rez_s_sharp_barehanded_play_Eugenio_Su_rez_s_sharp_barehanded_play_Eugenio_Su_rez_s_sharp_barehanded_play_Eug.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

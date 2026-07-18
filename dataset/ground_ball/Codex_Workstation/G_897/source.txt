@@ -1,0 +1,7 @@
+video_title: Trevor Story's RBI single Trevor Story's RBI single Trevor Story's RBI single Trevor Story hits a ground ball RBI single up the middle, driving in Alex Bregman and widening the Red Sox lead to 6-2 in the 7th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/05/90c7ec20-a38ce57d-59555bb2-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_776864_john-schreiber-in-play-run-s-to-trevor-story
+clip_id: MLB_776864_john-schreiber-in-play-run-s-to-trevor-story_auto1_3p260_9p260
+source_path: raw_sources\MLB_776864_john-schreiber-in-play-run-s-to-trevor-story_Trevor_Story_s_RBI_single_Trevor_Story_s_RBI_single_Trevor_Story_s_RBI_single_Trevor_Story_hits_a_ground_ball_RBI_.mp4
+clip_start_time: 3.260
+clip_end_time: 9.260

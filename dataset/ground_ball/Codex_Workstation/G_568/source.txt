@@ -1,0 +1,7 @@
+video_title: Sean Bouchard's RBI groundout  Sean Bouchard's RBI groundout  Sean Bouchard's RBI groundout 
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/20/aa281407-cc540978-2c28e1cf-csvm-diamondx64-asset-4000K.mp4
+source_id: MLB_746538_bobby-miller-in-play-run-s-to-sean-bouchard
+clip_id: MLB_746538_bobby-miller-in-play-run-s-to-sean-bouchard_auto1_1p440_7p440
+source_path: raw_sources\MLB_746538_bobby-miller-in-play-run-s-to-sean-bouchard_Sean_Bouchard_s_RBI_groundout_Sean_Bouchard_s_RBI_groundout_Sean_Bouchard_s_RBI_groundout.mp4
+clip_start_time: 1.440
+clip_end_time: 7.440

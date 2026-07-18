@@ -1,0 +1,7 @@
+video_title: Andrés Giménez's RBI groundout Andrés Giménez's RBI groundout Andrés Giménez's RBI groundout Andrés Giménez grounds out to second in the top of the 5th inning to score José Ramírez and give the Guardians a 2-1 lead
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/12/2eb668ea-7357c070-e25edef9-csvm-diamondx64-asset-4000K.mp4
+source_id: MLB_746701_nick-lodolo-in-play-out-s-to-andres-gimenez-uzzwyk
+clip_id: MLB_746701_nick-lodolo-in-play-out-s-to-andres-gimenez-uzzwyk_auto1_1p420_7p420
+source_path: raw_sources\MLB_746701_nick-lodolo-in-play-out-s-to-andres-gimenez-uzzwyk_Andr_s_Gim_nez_s_RBI_groundout_Andr_s_Gim_nez_s_RBI_groundout_Andr_s_Gim_nez_s_R.mp4
+clip_start_time: 1.420
+clip_end_time: 7.420

@@ -1,0 +1,7 @@
+video_title: Cedric Mullins' sac fly Cedric Mullins' sac fly Cedric Mullins' sac fly Cedric Mullins hit a fly ball to left field deep enough for Ramón Laureano to make it home to make the score 5-0 in the bottom of the 6th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/29/def5890d-ff9be4b7-faadaa1c-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_777317_kevin-kelly-in-play-run-s-to-cedric-mullins
+clip_id: MLB_777317_kevin-kelly-in-play-run-s-to-cedric-mullins_auto1_2p200_9p200
+source_path: raw_sources\MLB_777317_kevin-kelly-in-play-run-s-to-cedric-mullins_Cedric_Mullins_sac_fly_Cedric_Mullins_sac_fly_Cedric_Mullins_sac_fly_Cedric_Mullins_hit_a_fly_ball_to_left_field_de.mp4
+clip_start_time: 2.200
+clip_end_time: 9.200

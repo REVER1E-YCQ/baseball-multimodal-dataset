@@ -1,0 +1,7 @@
+video_title: Cal Raleigh's three-run homer (53) Cal Raleigh's three-run homer (53) Cal Raleigh's three-run homer (53) Cal Raleigh launches a three-run home run to center field, extending the Mariners' lead to 16-1 in the 9th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/07/e9252cf9-1d6709c6-89cf0e24-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776428_cal-raleigh-homers-53-on-a-fly-ball-to-center-field-victor-robles-sco
+clip_id: MLB_776428_cal-raleigh-homers-53-on-a-fly-ball-to-center-field-victor-robles-sco_auto1_0p000_7p000
+source_path: raw_sources\MLB_776428_cal-raleigh-homers-53-on-a-fly-ball-to-center-field-victor-robles-sco_Cal_Raleigh_s_three-run_homer_53_Cal_Raleigh_s_three-run_homer_53_Cal_Raleigh_s_three-run.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

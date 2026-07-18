@@ -1,0 +1,7 @@
+video_title: Edouard Julien's diving stop Edouard Julien's diving stop Edouard Julien's diving stop Edouard Julien makes a quick diving stop on Joey Ortiz's grounder and holds the runner at second base before throwing to first for the out
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/20/dd7b826e-f666ea34-618a521d-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745880_joey-ortiz-grounds-out-sharply-second-baseman-edouard-julien-to-first
+clip_id: MLB_745880_joey-ortiz-grounds-out-sharply-second-baseman-edouard-julien-to-first_auto1_0p000_6p000
+source_path: raw_sources\MLB_745880_joey-ortiz-grounds-out-sharply-second-baseman-edouard-julien-to-first_Edouard_Julien_s_diving_stop_Edouard_Julien_s_diving_stop_Edouard_Julien_s_diving_stop_Ed.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

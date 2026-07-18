@@ -1,0 +1,7 @@
+video_title: Nolan Arenado's run-saving stop Nolan Arenado's run-saving stop Nolan Arenado's run-saving stop Nolan Arenado makes an amazing diving grab on a hard-hit grounder from Lourdes Gurriel Jr. for the out to prevent a run from scoring in the 9th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/24/bcb972f9-f1763866-46224d21-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777786_ryan-helsley-in-play-out-s-to-lourdes-gurriel-jr
+clip_id: MLB_777786_ryan-helsley-in-play-out-s-to-lourdes-gurriel-jr_auto1_0p500_6p500
+source_path: raw_sources\MLB_777786_ryan-helsley-in-play-out-s-to-lourdes-gurriel-jr_Nolan_Arenado_s_run-saving_stop_Nolan_Arenado_s_run-saving_stop_Nolan_Arenado_s_run-saving_stop_Nolan_Arenado_.mp4
+clip_start_time: 0.500
+clip_end_time: 6.500

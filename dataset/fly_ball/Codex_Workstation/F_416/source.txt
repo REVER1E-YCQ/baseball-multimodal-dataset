@@ -1,0 +1,7 @@
+video_title: Julio Rodríguez doubles up the Pirates to end the 6th Julio Rodríguez doubles up the Pirates to end the 6th Julio Rodríguez doubles up the Pirates to end the 6th Julio Rodríguez grabs Oneil Cruz's line drive and rockets a throw to first to throw out Nick Gonzales for the inning-ending double play in
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/04/f88d7995-e493b6a2-79607fcf-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777236_bryan-woo-in-play-out-s-to-oneil-cruz-tm6yvw-x8409
+clip_id: MLB_777236_bryan-woo-in-play-out-s-to-oneil-cruz-tm6yvw-x8409_auto1_0p000_7p000
+source_path: raw_sources\MLB_777236_bryan-woo-in-play-out-s-to-oneil-cruz-tm6yvw-x8409_Julio_Rodr_guez_doubles_up_the_Pirates_to_end_the_6th_Julio_Rodr_guez_doubles_up_the_Pirates_to_end_the_6th_.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

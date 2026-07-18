@@ -1,0 +1,7 @@
+video_title: Jorge Polanco's two-run homer (24) Jorge Polanco's two-run homer (24) Jorge Polanco's two-run homer (24) Jorge Polanco drives a two-run home run to left field, extending the Mariners' lead to 6-0 in the 3rd
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/07/fd36994e-dfd74ed4-3e75b45e-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776428_jorge-polanco-homers-24-on-a-fly-ball-to-left-field-julio-rodriguez-s
+clip_id: MLB_776428_jorge-polanco-homers-24-on-a-fly-ball-to-left-field-julio-rodriguez-s_auto1_12p140_19p140
+source_path: raw_sources\MLB_776428_jorge-polanco-homers-24-on-a-fly-ball-to-left-field-julio-rodriguez-s_Jorge_Polanco_s_two-run_homer_24_Jorge_Polanco_s_two-run_homer_24_Jorge_Polanco_s_two-run.mp4
+clip_start_time: 12.140
+clip_end_time: 19.140

@@ -1,0 +1,7 @@
+video_title: Jhoan Duran induces groundout, earns save Jhoan Duran induces groundout, earns save Jhoan Duran induces groundout, earns save Jhoan Duran gets Marcus Semien to ground out to secure the Twins' 3-2 win over the Rangers
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/24/502ad5a3-02f210d8-af984588-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745905_jhoan-duran-in-play-out-s-to-marcus-semien
+clip_id: MLB_745905_jhoan-duran-in-play-out-s-to-marcus-semien_auto1_0p260_6p260
+source_path: raw_sources\MLB_745905_jhoan-duran-in-play-out-s-to-marcus-semien_Jhoan_Duran_induces_groundout_earns_save_Jhoan_Duran_induces_groundout_earns_sav.mp4
+clip_start_time: 0.260
+clip_end_time: 6.260

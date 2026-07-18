@@ -1,0 +1,7 @@
+video_title: Junior Caminero pulls up short running out grounder Junior Caminero pulls up short running out grounder Junior Caminero pulls up short running out grounder Junior Caminero stays in the game after pulling up short running out a ground ball in the 5th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/13/fee90f00-f5c7822c-158a3c1a-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776751_hogan-harris-in-play-out-s-to-junior-caminero
+clip_id: MLB_776751_hogan-harris-in-play-out-s-to-junior-caminero_auto1_2p000_8p000
+source_path: raw_sources\MLB_776751_hogan-harris-in-play-out-s-to-junior-caminero_Junior_Caminero_pulls_up_short_running_out_grounder_Junior_Caminero_pulls_up_short_running_out_grounder_Junior_Ca.mp4
+clip_start_time: 2.000
+clip_end_time: 8.000

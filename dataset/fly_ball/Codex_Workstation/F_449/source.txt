@@ -1,0 +1,7 @@
+video_title: Dylan Smith secures Tigers' 9-2 win Dylan Smith secures Tigers' 9-2 win Dylan Smith secures Tigers' 9-2 win Dylan Smith induces a fly ball to end the game and secure a 9-2 victory for the Tigers in Game 1 of their doubleheader
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/01/63f9f214-98c73a2e-234e4b96-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777451_nick-gonzales-flies-out-to-right-fielder-wenceel-perez
+clip_id: MLB_777451_nick-gonzales-flies-out-to-right-fielder-wenceel-perez_auto1_12p880_19p880
+source_path: raw_sources\MLB_777451_nick-gonzales-flies-out-to-right-fielder-wenceel-perez_Dylan_Smith_secures_Tigers_9-2_win_Dylan_Smith_secures_Tigers_9-2_win_Dylan_Smith_secures_Tigers_9-2_win.mp4
+clip_start_time: 12.880
+clip_end_time: 19.880

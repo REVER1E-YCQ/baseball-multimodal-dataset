@@ -1,0 +1,7 @@
+video_title: Landen Roupp escapes a jam in the 4th Landen Roupp escapes a jam in the 4th Landen Roupp escapes a jam in the 4th Landen Roupp gets Trea Turner to hit a grounder right back to him to end the bottom of the 4th, stranding runners at second and third
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/14/ad983d56-465caa5e-956c8dd6-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_778320_trea-turner-grounds-out-pitcher-landen-roupp-to-first-baseman-lamonte
+clip_id: MLB_778320_trea-turner-grounds-out-pitcher-landen-roupp-to-first-baseman-lamonte_auto1_3p260_9p260
+source_path: raw_sources\MLB_778320_trea-turner-grounds-out-pitcher-landen-roupp-to-first-baseman-lamonte_Landen_Roupp_escapes_a_jam_in_the_4th_Landen_Roupp_escapes_a_jam_in_the_4th_Landen_Roupp_.mp4
+clip_start_time: 3.260
+clip_end_time: 9.260

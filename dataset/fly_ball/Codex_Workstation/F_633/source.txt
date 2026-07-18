@@ -1,0 +1,7 @@
+video_title: Aaron Judge's 360th home run (45) Aaron Judge's 360th home run (45) Aaron Judge's 360th home run (45) Aaron Judge crushes a solo homer to left-center field, his 360th career home run gives the Yankees a 1-0 lead in the 1st inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/11/5010be09-8a836d62-cd579e31-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776368_aaron-judge-homers-45-on-a-fly-ball-to-center-field-uoquuz
+clip_id: MLB_776368_aaron-judge-homers-45-on-a-fly-ball-to-center-field-uoquuz_auto1_0p560_7p560
+source_path: raw_sources\MLB_776368_aaron-judge-homers-45-on-a-fly-ball-to-center-field-uoquuz_Aaron_Judge_s_360th_home_run_45_Aaron_Judge_s_360th_home_run_45_Aaron_Judge_s_360th_home_run_45_Aaro.mp4
+clip_start_time: 0.560
+clip_end_time: 7.560

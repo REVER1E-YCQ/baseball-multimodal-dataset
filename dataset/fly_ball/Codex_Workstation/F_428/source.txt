@@ -1,0 +1,7 @@
+video_title: Kyle Teel's go-ahead double Kyle Teel's go-ahead double Kyle Teel's go-ahead double Kyle Teel doubles on a line drive to right field, scoring Austin Slater and Chase Meidroth, giving the White Sox a 3-2 lead in the bottom of the 7th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/29/1198cd39-cca506c7-91cea0d2-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_777311_kyle-teel-doubles-4-on-a-line-drive-to-right-fielder-mike-yastrzemski
+clip_id: MLB_777311_kyle-teel-doubles-4-on-a-line-drive-to-right-fielder-mike-yastrzemski_auto1_13p680_20p680
+source_path: raw_sources\MLB_777311_kyle-teel-doubles-4-on-a-line-drive-to-right-fielder-mike-yastrzemski_Kyle_Teel_s_go-ahead_double_Kyle_Teel_s_go-ahead_double_Kyle_Teel_s_go-ahead_double_Kyle_.mp4
+clip_start_time: 13.680
+clip_end_time: 20.680

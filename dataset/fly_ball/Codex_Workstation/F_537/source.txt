@@ -1,0 +1,7 @@
+video_title: Luis Robert Jr.'s sliding catch  Luis Robert Jr.'s sliding catch  Luis Robert Jr.'s sliding catch  Luis Robert Jr. slides and catches Harrison Bader's line drive to end the 3rd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/23/5f15df7a-be1ab33b-d15a1af2-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_778201_harrison-bader-lines-out-to-center-fielder-luis-robert-jr
+clip_id: MLB_778201_harrison-bader-lines-out-to-center-fielder-luis-robert-jr_auto1_0p000_7p000
+source_path: raw_sources\MLB_778201_harrison-bader-lines-out-to-center-fielder-luis-robert-jr_Luis_Robert_Jr._s_sliding_catch_Luis_Robert_Jr._s_sliding_catch_Luis_Robert_Jr._s_sliding_catch_Luis_.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

@@ -1,0 +1,7 @@
+video_title: Seth Halvorsen seals Rockies' win Seth Halvorsen seals Rockies' win Seth Halvorsen seals Rockies' win Seth Halvorsen seals Rockies' win by forcing Cooper Hummel into a pop fly in right field
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/03/27b4fe74-83529bd0-675decdc-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777264_cooper-hummel-flies-out-to-right-fielder-tyler-freeman
+clip_id: MLB_777264_cooper-hummel-flies-out-to-right-fielder-tyler-freeman_auto1_6p040_13p040
+source_path: raw_sources\MLB_777264_cooper-hummel-flies-out-to-right-fielder-tyler-freeman_Seth_Halvorsen_seals_Rockies_win_Seth_Halvorsen_seals_Rockies_win_Seth_Halvorsen_seals_Rockies_win_Seth_.mp4
+clip_start_time: 6.040
+clip_end_time: 13.040

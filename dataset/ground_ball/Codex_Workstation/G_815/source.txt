@@ -1,0 +1,7 @@
+video_title: Jake Burger's double play Jake Burger's double play Jake Burger's double play Jake Burger fields Yordan Alvarez's grounder and steps on first, then throws to second to nab Jeremy Peña for a clutch double play in the 8th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/05/d42e28f3-a423d819-4d83058f-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776449_chris-martin-in-play-out-s-to-yordan-alvarez
+clip_id: MLB_776449_chris-martin-in-play-out-s-to-yordan-alvarez_auto1_7p520_13p520
+source_path: raw_sources\MLB_776449_chris-martin-in-play-out-s-to-yordan-alvarez_Jake_Burger_s_double_play_Jake_Burger_s_double_play_Jake_Burger_s_double_play_Jake_Burger_fields_Yordan_Alvarez_s_.mp4
+clip_start_time: 7.520
+clip_end_time: 13.520

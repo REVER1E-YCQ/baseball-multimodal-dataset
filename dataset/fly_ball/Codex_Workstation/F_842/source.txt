@@ -1,0 +1,7 @@
+video_title: Matt McLain's solo home run (14) Matt McLain's solo home run (14) Matt McLain's solo home run (14) Matt McLain belts a solo home run to center field, increasing the Reds' lead to 3-1 in the bottom of the 3rd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/06/11726a7f-d51fb8b6-2a07337f-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776439_matt-mclain-homers-14-on-a-fly-ball-to-center-field
+clip_id: MLB_776439_matt-mclain-homers-14-on-a-fly-ball-to-center-field_auto1_11p440_18p440
+source_path: raw_sources\MLB_776439_matt-mclain-homers-14-on-a-fly-ball-to-center-field_Matt_McLain_s_solo_home_run_14_Matt_McLain_s_solo_home_run_14_Matt_McLain_s_solo_home_run_14_Matt_McLain_be.mp4
+clip_start_time: 11.440
+clip_end_time: 18.440

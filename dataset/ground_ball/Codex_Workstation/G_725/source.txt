@@ -1,0 +1,7 @@
+video_title: Mookie Betts singles in the 1st Mookie Betts singles in the 1st Mookie Betts singles in the 1st Mookie Betts singles on a ground ball to left, advancing Shohei Ohtani to third in the top of the 1st
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/09/2730317d-8251cfd8-e8d9f112-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_777988_eduardo-rodriguez-in-play-no-out-to-mookie-betts-np12be
+clip_id: MLB_777988_eduardo-rodriguez-in-play-no-out-to-mookie-betts-np12be_auto1_4p780_10p780
+source_path: raw_sources\MLB_777988_eduardo-rodriguez-in-play-no-out-to-mookie-betts-np12be_Mookie_Betts_singles_in_the_1st_Mookie_Betts_singles_in_the_1st_Mookie_Betts_singles_in_the_1st_Mookie_.mp4
+clip_start_time: 4.780
+clip_end_time: 10.780

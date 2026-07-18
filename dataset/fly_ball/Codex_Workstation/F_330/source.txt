@@ -1,0 +1,7 @@
+video_title: Angel Martínez makes a catch, crashes into wall Angel Martínez makes a catch, crashes into wall Angel Martínez makes a catch, crashes into wall Angel Martínez tracks back to catch a deep fly ball from Riley Greene, then crashes into the center field wall and hangs onto the ball
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/08/e59988c4-9e0b0cc9-be0ac32c-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746455_gavin-williams-in-play-out-s-to-riley-greene-krqlqe
+clip_id: MLB_746455_gavin-williams-in-play-out-s-to-riley-greene-krqlqe_auto1_16p180_23p180
+source_path: raw_sources\MLB_746455_gavin-williams-in-play-out-s-to-riley-greene-krqlqe_Angel_Mart_nez_makes_a_catch_crashes_into_wall_Angel_Mart_nez_makes_a_catch_crashes_into_wall_Angel_Mart_ne.mp4
+clip_start_time: 16.180
+clip_end_time: 23.180

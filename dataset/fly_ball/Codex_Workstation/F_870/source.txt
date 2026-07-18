@@ -1,0 +1,7 @@
+video_title: Shohei Ohtani crushes 100th homer with the Dodgers Shohei Ohtani crushes 100th homer with the Dodgers Shohei Ohtani crushes 100th homer with the Dodgers Shohei Ohtani's 46th home run of the season is his 100th home run as a member of the Dodgers #CurtainCall
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/30/cfbeaf24-270fc8bc-4e388070-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776496_shohei-ohtani-crushes-100th-homer-with-the-dodgers
+clip_id: MLB_776496_shohei-ohtani-crushes-100th-homer-with-the-dodgers_auto1_20p920_27p920
+source_path: raw_sources\MLB_776496_shohei-ohtani-crushes-100th-homer-with-the-dodgers_Shohei_Ohtani_crushes_100th_homer_with_the_Dodgers_Shohei_Ohtani_crushes_100th_homer_with_the_Dodgers_Shohei.mp4
+clip_start_time: 20.920
+clip_end_time: 27.920

@@ -1,0 +1,7 @@
+video_title: James Wood's RBI groundout James Wood's RBI groundout James Wood's RBI groundout
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/26/1de02704-89670a59-3c501b4f-csvm-diamondx64-asset-4000K.mp4
+source_id: MLB_745146_james-wood-grounds-out-first-baseman-paul-goldschmidt-to-pitcher-sonn
+clip_id: MLB_745146_james-wood-grounds-out-first-baseman-paul-goldschmidt-to-pitcher-sonn_auto1_3p020_9p020
+source_path: raw_sources\MLB_745146_james-wood-grounds-out-first-baseman-paul-goldschmidt-to-pitcher-sonn_James_Wood_s_RBI_groundout_James_Wood_s_RBI_groundout_James_Wood_s_RBI_groundout.mp4
+clip_start_time: 3.020
+clip_end_time: 9.020

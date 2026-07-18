@@ -1,0 +1,7 @@
+video_title: Harrison Bader's solo home run (16) Harrison Bader's solo home run (16) Harrison Bader's solo home run (16) Harrison Bader gives the Phillies a 4-0 lead with a solo home run in the bottom of the 2nd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/09/5bd2b05d-4a393ac4-87733ed8-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776404_harrison-bader-homers-16-on-a-fly-ball-to-left-field-wgsawv
+clip_id: MLB_776404_harrison-bader-homers-16-on-a-fly-ball-to-left-field-wgsawv_auto1_2p280_9p280
+source_path: raw_sources\MLB_776404_harrison-bader-homers-16-on-a-fly-ball-to-left-field-wgsawv_Harrison_Bader_s_solo_home_run_16_Harrison_Bader_s_solo_home_run_16_Harrison_Bader_s_solo_home_run_.mp4
+clip_start_time: 2.280
+clip_end_time: 9.280

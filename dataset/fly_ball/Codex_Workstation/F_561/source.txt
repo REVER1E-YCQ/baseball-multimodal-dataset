@@ -1,0 +1,7 @@
+video_title: Brandon Lowe's two-run single  Brandon Lowe's two-run single  Brandon Lowe's two-run single  Brandon Lowe singles on a sharp line drive to left fielder Jarren Duran, Taylor Walls scores, Jake Mangum scores
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/14/73a4821d-a33e1466-4697b980-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_778328_brandon-lowe-singles-on-a-sharp-line-drive-to-left-fielder-jarren-dur
+clip_id: MLB_778328_brandon-lowe-singles-on-a-sharp-line-drive-to-left-fielder-jarren-dur_auto1_0p020_7p020
+source_path: raw_sources\MLB_778328_brandon-lowe-singles-on-a-sharp-line-drive-to-left-fielder-jarren-dur_Brandon_Lowe_s_two-run_single_Brandon_Lowe_s_two-run_single_Brandon_Lowe_s_two-run_single.mp4
+clip_start_time: 0.020
+clip_end_time: 7.020

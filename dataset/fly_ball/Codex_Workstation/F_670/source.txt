@@ -1,0 +1,7 @@
+video_title: Josh Bell homers twice vs. Marlins Josh Bell homers twice vs. Marlins Josh Bell homers twice vs. Marlins Josh Bell hits two separate two-run home runs in an outstanding hitting performance vs. Marlins
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/08/4627c6ef-bbfafcbd-a0be6d81-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776409_josh-bell-s-two-home-runs
+clip_id: MLB_776409_josh-bell-s-two-home-runs_auto1_27p880_34p880
+source_path: raw_sources\MLB_776409_josh-bell-s-two-home-runs_Josh_Bell_homers_twice_vs._Marlins_Josh_Bell_homers_twice_vs._Marlins_Josh_Bell_homers_twice_vs._Marlins_Josh_Bell_hits_two_separate_.mp4
+clip_start_time: 27.880
+clip_end_time: 34.880

@@ -1,0 +1,7 @@
+video_title: Joey Ortiz slows body down, turns double play Joey Ortiz slows body down, turns double play Joey Ortiz slows body down, turns double play Joey Ortiz fields a ground ball, slows his body down to tag second base and throws to first base, turning a double play in the top of the 3rd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/14/43a58de3-0d0670d6-c1a7fcd9-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777512_jose-quintana-in-play-out-s-to-alec-burleson
+clip_id: MLB_777512_jose-quintana-in-play-out-s-to-alec-burleson_auto1_0p000_6p000
+source_path: raw_sources\MLB_777512_jose-quintana-in-play-out-s-to-alec-burleson_Joey_Ortiz_slows_body_down_turns_double_play_Joey_Ortiz_slows_body_down_turns_double_play_Joey_Ortiz_slows_body_do.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

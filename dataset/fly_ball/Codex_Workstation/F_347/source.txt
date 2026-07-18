@@ -1,0 +1,7 @@
+video_title: Francisco Lindor's RBI single Francisco Lindor's RBI single Francisco Lindor's RBI single Francisco Lindor singles on a sharp line drive to center field to make it a 3-2 game
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/15/f5d1dbcc-74a68b9e-a53bda6f-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_776736_francisco-lindor-singles-on-a-sharp-line-drive-to-center-fielder-juli
+clip_id: MLB_776736_francisco-lindor-singles-on-a-sharp-line-drive-to-center-fielder-juli_auto1_6p100_13p100
+source_path: raw_sources\MLB_776736_francisco-lindor-singles-on-a-sharp-line-drive-to-center-fielder-juli_Francisco_Lindor_s_RBI_single_Francisco_Lindor_s_RBI_single_Francisco_Lindor_s_RBI_single.mp4
+clip_start_time: 6.100
+clip_end_time: 13.100

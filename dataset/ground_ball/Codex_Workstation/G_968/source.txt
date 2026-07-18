@@ -1,0 +1,7 @@
+video_title: Edmundo Sosa's sliding stop  Edmundo Sosa's sliding stop  Edmundo Sosa's sliding stop  Edmundo Sosa slides to snag a ground ball and makes the throw to first base for the final out of the 3rd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/09/f0aff93d-979ceb54-a62ebcee-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776810_edmundo-sosa-s-sliding-stop
+clip_id: MLB_776810_edmundo-sosa-s-sliding-stop_auto1_11p834_17p834
+source_path: raw_sources\MLB_776810_edmundo-sosa-s-sliding-stop_Edmundo_Sosa_s_sliding_stop_Edmundo_Sosa_s_sliding_stop_Edmundo_Sosa_s_sliding_stop_Edmundo_Sosa_slides_to_snag_a_ground_ball_and_m.mp4
+clip_start_time: 11.834
+clip_end_time: 17.834

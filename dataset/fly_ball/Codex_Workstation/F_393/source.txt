@@ -1,0 +1,7 @@
+video_title: Matt Olson's stellar snag Matt Olson's stellar snag Matt Olson's stellar snag Matt Olson flashes the leather and snags this 99.8 mph line drive off the bat of Jazz Chisholm Jr.
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/20/df7d699c-4cc8b1a4-259a119b-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777083_grant-holmes-in-play-out-s-to-jazz-chisholm-jr
+clip_id: MLB_777083_grant-holmes-in-play-out-s-to-jazz-chisholm-jr_auto1_0p020_7p020
+source_path: raw_sources\MLB_777083_grant-holmes-in-play-out-s-to-jazz-chisholm-jr_Matt_Olson_s_stellar_snag_Matt_Olson_s_stellar_snag_Matt_Olson_s_stellar_snag_Matt_Olson_flashes_the_leather_and.mp4
+clip_start_time: 0.020
+clip_end_time: 7.020

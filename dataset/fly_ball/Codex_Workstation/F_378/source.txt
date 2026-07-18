@@ -1,0 +1,7 @@
+video_title: Pete Alonso's leaping catch Pete Alonso's leaping catch Pete Alonso's leaping catch Pete Alonso react to the line drive and makes the nice leaping catch in the top of the 2nd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/22/3457fac7-cb753a77-a0b1297b-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777054_frankie-montas-in-play-out-s-to-yoan-moncada-ecfm97
+clip_id: MLB_777054_frankie-montas-in-play-out-s-to-yoan-moncada-ecfm97_auto1_1p080_8p080
+source_path: raw_sources\MLB_777054_frankie-montas-in-play-out-s-to-yoan-moncada-ecfm97_Pete_Alonso_s_leaping_catch_Pete_Alonso_s_leaping_catch_Pete_Alonso_s_leaping_catch_Pete_Alonso_react_to_th.mp4
+clip_start_time: 1.080
+clip_end_time: 8.080

@@ -1,0 +1,7 @@
+video_title: Tony Mansolino on Orioles' 7-5 win Tony Mansolino on Orioles' 7-5 win Tony Mansolino on Orioles' 7-5 win Manager Tony Mansolino discusses the lineup's production, Jackson Holliday's home run and more following the Orioles' 7-5 victory
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/03/776f7700-cff4e58a-ae083788-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776465_tony-mansolino-on-orioles-7-5-win
+clip_id: MLB_776465_tony-mansolino-on-orioles-7-5-win_auto1_23p200_30p200
+source_path: raw_sources\MLB_776465_tony-mansolino-on-orioles-7-5-win_Tony_Mansolino_on_Orioles_7-5_win_Tony_Mansolino_on_Orioles_7-5_win_Tony_Mansolino_on_Orioles_7-5_win_Manager_Tony_Mansolino_.mp4
+clip_start_time: 23.200
+clip_end_time: 30.200

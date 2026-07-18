@@ -1,0 +1,7 @@
+video_title: Pablo López's slick play Pablo López's slick play Pablo López's slick play Pablo López nicely recovers this ground ball and slides in for a flip to first to get the out
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/19/f7f1d5c2-8a9c51c0-4c9dacbf-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776263_pablo-lopez-in-play-out-s-to-angel-martinez-svdnhp
+clip_id: MLB_776263_pablo-lopez-in-play-out-s-to-angel-martinez-svdnhp_auto1_4p060_10p060
+source_path: raw_sources\MLB_776263_pablo-lopez-in-play-out-s-to-angel-martinez-svdnhp_Pablo_L_pez_s_slick_play_Pablo_L_pez_s_slick_play_Pablo_L_pez_s_slick_play_Pablo_L_pez_nicely_recovers_this_.mp4
+clip_start_time: 4.060
+clip_end_time: 10.060

@@ -1,0 +1,7 @@
+video_title: Brendan Donovan's outfield assist Brendan Donovan's outfield assist Brendan Donovan's outfield assist Brendan Donovan catches a fly ball then makes a heads-up throw to nab Spencer Torkelson at second for the first two outs of the top of the 2nd
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/21/a36ddf8b-7df5c2a8-0e16afe1-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777827_andre-pallante-in-play-run-s-to-colt-keith-x4456
+clip_id: MLB_777827_andre-pallante-in-play-run-s-to-colt-keith-x4456_auto1_0p000_7p000
+source_path: raw_sources\MLB_777827_andre-pallante-in-play-run-s-to-colt-keith-x4456_Brendan_Donovan_s_outfield_assist_Brendan_Donovan_s_outfield_assist_Brendan_Donovan_s_outfield_assist_Brendan_.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

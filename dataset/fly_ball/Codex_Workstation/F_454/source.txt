@@ -1,0 +1,7 @@
+video_title: Luke Jackson secures the save against White Sox Luke Jackson secures the save against White Sox Luke Jackson secures the save against White Sox Luke Jackson earns the save as Evan Carter catches Josh Rojas' fly ball in center field to end the Rangers' 2-1 win
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/15/d8d79e73-a2200d39-899ddaec-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777493_josh-rojas-flies-out-to-center-fielder-evan-carter
+clip_id: MLB_777493_josh-rojas-flies-out-to-center-fielder-evan-carter_auto1_0p000_7p000
+source_path: raw_sources\MLB_777493_josh-rojas-flies-out-to-center-fielder-evan-carter_Luke_Jackson_secures_the_save_against_White_Sox_Luke_Jackson_secures_the_save_against_White_Sox_Luke_Jackson.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

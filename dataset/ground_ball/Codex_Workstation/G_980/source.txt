@@ -1,0 +1,7 @@
+video_title: Isiah Kiner-Falefa walks it off Isiah Kiner-Falefa walks it off Isiah Kiner-Falefa walks it off Jack Suwinski scores the winning run on Isiah Kiner-Falefa's ground ball in the bottom of the 9th as the Pirates beat the Giants, 5-4
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/04/29251002-ceaf952a-6e53a788-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776879_randy-rodriguez-in-play-run-s-to-isiah-kiner-falefa
+clip_id: MLB_776879_randy-rodriguez-in-play-run-s-to-isiah-kiner-falefa_auto1_6p040_12p040
+source_path: raw_sources\MLB_776879_randy-rodriguez-in-play-run-s-to-isiah-kiner-falefa_Isiah_Kiner-Falefa_walks_it_off_Isiah_Kiner-Falefa_walks_it_off_Isiah_Kiner-Falefa_walks_it_off_Jack_Suwins.mp4
+clip_start_time: 6.040
+clip_end_time: 12.040

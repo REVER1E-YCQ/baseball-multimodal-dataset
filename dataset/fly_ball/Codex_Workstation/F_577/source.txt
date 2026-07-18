@@ -1,0 +1,7 @@
+video_title: Matt Olson's over-the-shoulder basket catch Matt Olson's over-the-shoulder basket catch Matt Olson's over-the-shoulder basket catch Matt Olson tracks Wilmer Flores' pop fly down the right-field line and makes an over-the-shoulder basket catch in foul territory to end the top of the 7th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/21/f6170ed0-75c8af21-4b2f7c10-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777069_rafael-montero-in-play-out-s-to-wilmer-flores
+clip_id: MLB_777069_rafael-montero-in-play-out-s-to-wilmer-flores_auto1_0p020_7p020
+source_path: raw_sources\MLB_777069_rafael-montero-in-play-out-s-to-wilmer-flores_Matt_Olson_s_over-the-shoulder_basket_catch_Matt_Olson_s_over-the-shoulder_basket_catch_Matt_Olson_s_over-the-sho.mp4
+clip_start_time: 0.020
+clip_end_time: 7.020

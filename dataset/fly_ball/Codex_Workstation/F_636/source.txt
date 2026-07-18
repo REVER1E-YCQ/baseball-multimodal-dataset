@@ -1,0 +1,7 @@
+video_title: Aaron Judge ties Joe DiMaggio with two-homer game Aaron Judge ties Joe DiMaggio with two-homer game Aaron Judge ties Joe DiMaggio with two-homer game Aaron Judge hits his 45th and 46th homers of the season to tie Joe DiMaggio for fourth all-time in Yankees home runs with 361 #CurtainCall
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/11/58c15d4d-e2182411-7d6303cc-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776368_aaron-judge-ties-joe-dimaggio-with-two-homer-game
+clip_id: MLB_776368_aaron-judge-ties-joe-dimaggio-with-two-homer-game_auto1_4p540_11p540
+source_path: raw_sources\MLB_776368_aaron-judge-ties-joe-dimaggio-with-two-homer-game_Aaron_Judge_ties_Joe_DiMaggio_with_two-homer_game_Aaron_Judge_ties_Joe_DiMaggio_with_two-homer_game_Aaron_Jud.mp4
+clip_start_time: 4.540
+clip_end_time: 11.540

@@ -1,0 +1,7 @@
+video_title: Dan Wilson talks using momentum, 18-2 victory Dan Wilson talks using momentum, 18-2 victory Dan Wilson talks using momentum, 18-2 victory Dan Wilson talks using momentum from last night's game into today's, Cal Raleigh's 53rd home run and more following the Mariners' victory
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/07/8ea87a75-080397c0-145be73b-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776428_dan-wilson-talks-using-momentum-18-2-victory
+clip_id: MLB_776428_dan-wilson-talks-using-momentum-18-2-victory_auto1_5p780_12p780
+source_path: raw_sources\MLB_776428_dan-wilson-talks-using-momentum-18-2-victory_Dan_Wilson_talks_using_momentum_18-2_victory_Dan_Wilson_talks_using_momentum_18-2_victory_Dan_Wilson_talks_using_m.mp4
+clip_start_time: 5.780
+clip_end_time: 12.780

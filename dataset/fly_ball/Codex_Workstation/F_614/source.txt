@@ -1,0 +1,7 @@
+video_title: Pete Alonso's walk-off home run snaps losing streak Pete Alonso's walk-off home run snaps losing streak Pete Alonso's walk-off home run snaps losing streak Pete Alonso walks it off against the Rangers in dramatic fashion with a three-run home run #CurtainCall
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/14/8b985b20-6523cd55-ce7695b5-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776335_pete-alonso-s-walk-off-home-run-snaps-losing-streak
+clip_id: MLB_776335_pete-alonso-s-walk-off-home-run-snaps-losing-streak_auto1_12p300_19p300
+source_path: raw_sources\MLB_776335_pete-alonso-s-walk-off-home-run-snaps-losing-streak_Pete_Alonso_s_walk-off_home_run_snaps_losing_streak_Pete_Alonso_s_walk-off_home_run_snaps_losing_streak_Pet.mp4
+clip_start_time: 12.300
+clip_end_time: 19.300

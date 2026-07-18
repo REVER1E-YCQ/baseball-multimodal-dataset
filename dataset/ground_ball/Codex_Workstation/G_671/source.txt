@@ -1,0 +1,7 @@
+video_title: Ty France's fantastic diving stop Ty France's fantastic diving stop Ty France's fantastic diving stop Ty France lays out for a hard ground ball from Luis Torrens to make a beautiful diving play for the final out of the 8th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/14/56c66ecb-27fd3849-9c97f0dc-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_778324_kody-funderburk-in-play-out-s-to-luis-torrens
+clip_id: MLB_778324_kody-funderburk-in-play-out-s-to-luis-torrens_auto1_1p120_7p120
+source_path: raw_sources\MLB_778324_kody-funderburk-in-play-out-s-to-luis-torrens_Ty_France_s_fantastic_diving_stop_Ty_France_s_fantastic_diving_stop_Ty_France_s_fantastic_diving_stop_Ty_France_l.mp4
+clip_start_time: 1.120
+clip_end_time: 7.120

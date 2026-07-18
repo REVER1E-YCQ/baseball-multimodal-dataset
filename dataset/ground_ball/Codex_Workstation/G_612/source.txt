@@ -1,0 +1,7 @@
+video_title: Bryan De La Cruz's RBI groundout Bryan De La Cruz's RBI groundout Bryan De La Cruz's RBI groundout
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/28/002f3a4d-e3837871-98df65be-csvm-diamondx64-asset-4000K.mp4
+source_id: MLB_745961_bryan-de-la-cruz-grounds-out-third-baseman-joey-ortiz-to-first-basema
+clip_id: MLB_745961_bryan-de-la-cruz-grounds-out-third-baseman-joey-ortiz-to-first-basema_auto1_5p680_11p680
+source_path: raw_sources\MLB_745961_bryan-de-la-cruz-grounds-out-third-baseman-joey-ortiz-to-first-basema_Bryan_De_La_Cruz_s_RBI_groundout_Bryan_De_La_Cruz_s_RBI_groundout_Bryan_De_La_Cruz_s_RBI_.mp4
+clip_start_time: 5.680
+clip_end_time: 11.680

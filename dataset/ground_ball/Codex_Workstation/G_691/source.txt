@@ -1,0 +1,7 @@
+video_title: Isaac Paredes' strong off-balance throw Isaac Paredes' strong off-balance throw Isaac Paredes' strong off-balance throw Isaac Paredes gloves a grounder and makes a terrific off-balance throw to get the first out of the bottom of the 1st inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/03/6df95791-c4fda2bf-58e8698b-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777663_andrew-mccutchen-grounds-out-third-baseman-isaac-paredes-to-first-bas
+clip_id: MLB_777663_andrew-mccutchen-grounds-out-third-baseman-isaac-paredes-to-first-bas_auto1_0p000_6p000
+source_path: raw_sources\MLB_777663_andrew-mccutchen-grounds-out-third-baseman-isaac-paredes-to-first-bas_Isaac_Paredes_strong_off-balance_throw_Isaac_Paredes_strong_off-balance_throw_Isaac_Pared.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

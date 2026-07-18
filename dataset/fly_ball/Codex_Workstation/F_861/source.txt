@@ -1,0 +1,7 @@
+video_title: Nasim Nuñez on his first career two-homer game Nasim Nuñez on his first career two-homer game Nasim Nuñez on his first career two-homer game Nasim Nuñez discusses hitting his first two career home runs against the Marlins
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/03/3bd1d745-0efe8e81-29463359-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776477_nasim-nunez-on-his-first-career-two-homer-game
+clip_id: MLB_776477_nasim-nunez-on-his-first-career-two-homer-game_auto1_21p280_28p280
+source_path: raw_sources\MLB_776477_nasim-nunez-on-his-first-career-two-homer-game_Nasim_Nu_ez_on_his_first_career_two-homer_game_Nasim_Nu_ez_on_his_first_career_two-homer_game_Nasim_Nu_ez_on_his.mp4
+clip_start_time: 21.280
+clip_end_time: 28.280

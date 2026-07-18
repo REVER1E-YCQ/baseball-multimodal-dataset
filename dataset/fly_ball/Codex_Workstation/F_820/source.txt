@@ -1,0 +1,7 @@
+video_title: Clayton McCullough on Bell's early homer, Mazur Clayton McCullough on Bell's early homer, Mazur Clayton McCullough on Bell's early homer, Mazur Clayton McCullough discusses Josh Bell's early home run in the 1st inning and Adam Mazur's start following a 7-5 loss against the Nationals
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/09/11dff2eb-3a658c5a-f9b9f63d-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776397_clayton-mccullough-on-bell-s-early-homer-mazur
+clip_id: MLB_776397_clayton-mccullough-on-bell-s-early-homer-mazur_auto1_0p980_7p980
+source_path: raw_sources\MLB_776397_clayton-mccullough-on-bell-s-early-homer-mazur_Clayton_McCullough_on_Bell_s_early_homer_Mazur_Clayton_McCullough_on_Bell_s_early_homer_Mazur_Clayton_McCullough.mp4
+clip_start_time: 0.980
+clip_end_time: 7.980

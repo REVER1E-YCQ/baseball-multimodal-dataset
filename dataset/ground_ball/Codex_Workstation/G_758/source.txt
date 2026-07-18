@@ -1,0 +1,7 @@
+video_title: Peterson, Lindor, Alonso combine to retire Judge Peterson, Lindor, Alonso combine to retire Judge Francisco Lindor's slick defense David Peterson induces a ground ball off the bat of Aaron Judge to Francisco Lindor, who flashes the leather and throws to Pete Alonso for the out
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/15/d909e707-78eb220f-6f1d71a9-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_778566_aaron-judge-grounds-out-sharply-shortstop-francisco-lindor-to-first-b
+clip_id: MLB_778566_aaron-judge-grounds-out-sharply-shortstop-francisco-lindor-to-first-b_auto1_0p000_6p000
+source_path: raw_sources\MLB_778566_aaron-judge-grounds-out-sharply-shortstop-francisco-lindor-to-first-b_Peterson_Lindor_Alonso_combine_to_retire_Judge_Peterson_Lindor_Alonso_combine_to_retire_J.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

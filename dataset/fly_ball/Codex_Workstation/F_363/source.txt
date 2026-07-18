@@ -1,0 +1,7 @@
+video_title: Jackson Merrill's long-range grab Jackson Merrill's long-range grab Jackson Merrill's long-range grab Jackson Merrill races to deep center field and makes a gorgeous catch on a line drive from Victor Scott II in the 3rd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/26/59890888-bde1fa0d-332caf02-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776992_randy-vasquez-in-play-out-s-to-victor-scott-ii-hthx4r
+clip_id: MLB_776992_randy-vasquez-in-play-out-s-to-victor-scott-ii-hthx4r_auto1_0p000_7p000
+source_path: raw_sources\MLB_776992_randy-vasquez-in-play-out-s-to-victor-scott-ii-hthx4r_Jackson_Merrill_s_long-range_grab_Jackson_Merrill_s_long-range_grab_Jackson_Merrill_s_long-range_grab_Jac.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

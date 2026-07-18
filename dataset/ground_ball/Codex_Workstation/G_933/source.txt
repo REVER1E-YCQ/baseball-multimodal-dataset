@@ -1,0 +1,7 @@
+video_title: Ian Happ's RBI single Ian Happ's RBI single Ian Happ's RBI single Ian Happ drills a sharp ground ball to Ha-Seong Kim and reaches for a single, while Seiya Suzuki scores to extend the Cubs' lead to 4-0 in the bottom of the 3rd
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/02/76c1356f-5326d5ee-5be3b3dd-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_776487_ian-happ-singles-on-a-sharp-ground-ball-to-shortstop-ha-seong-kim-sei
+clip_id: MLB_776487_ian-happ-singles-on-a-sharp-ground-ball-to-shortstop-ha-seong-kim-sei_auto1_1p440_7p440
+source_path: raw_sources\MLB_776487_ian-happ-singles-on-a-sharp-ground-ball-to-shortstop-ha-seong-kim-sei_Ian_Happ_s_RBI_single_Ian_Happ_s_RBI_single_Ian_Happ_s_RBI_single_Ian_Happ_drills_a_sharp.mp4
+clip_start_time: 1.440
+clip_end_time: 7.440

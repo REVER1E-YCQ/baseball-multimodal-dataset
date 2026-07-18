@@ -1,0 +1,7 @@
+video_title: Oswaldo Cabrera fields the final out Oswaldo Cabrera fields the final out Oswaldo Cabrera fields a grounder for the last out
+video_url: https://bdata-producedclips.mlb.com/f63aa7ee-9400-4523-b9b9-fb2c9c1b5984.mp4
+source_id: MLB_745411_luis-campusano-grounds-out-third-baseman-oswaldo-cabrera-to-first-bas
+clip_id: MLB_745411_luis-campusano-grounds-out-third-baseman-oswaldo-cabrera-to-first-bas_auto1_1p380_7p380
+source_path: raw_sources\MLB_745411_luis-campusano-grounds-out-third-baseman-oswaldo-cabrera-to-first-bas_Oswaldo_Cabrera_fields_the_final_out_Oswaldo_Cabrera_fields_the_final_out_Oswald.mp4
+clip_start_time: 1.380
+clip_end_time: 7.380

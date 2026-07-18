@@ -1,0 +1,7 @@
+video_title: Tommy Pham scores on fielder's choice Tommy Pham scores on fielder's choice Tommy Pham scores on fielder's choice Tommy Pham scores on fielder's choice after a ground ball to first base
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/01/0cb7ef62-c09ffd56-66eae5a2-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_776919_angel-chivilli-in-play-run-s-to-spencer-horwitz
+clip_id: MLB_776919_angel-chivilli-in-play-run-s-to-spencer-horwitz_auto1_10p060_16p060
+source_path: raw_sources\MLB_776919_angel-chivilli-in-play-run-s-to-spencer-horwitz_Tommy_Pham_scores_on_fielder_s_choice_Tommy_Pham_scores_on_fielder_s_choice_Tommy_Pham_scores_on_fielder_s_choi.mp4
+clip_start_time: 10.060
+clip_end_time: 16.060

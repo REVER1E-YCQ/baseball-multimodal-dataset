@@ -1,0 +1,7 @@
+video_title: Zach McKinstry's triple Zach McKinstry's triple Zach McKinstry's triple Zach McKinstry belts a line drive down the right-field line and hustles into third for a triple to lead off the top of the 3rd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/01/a3a1f622-48302d38-c67cba2b-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_777677_zach-mckinstry-triples-4-on-a-sharp-line-drive-to-right-fielder-john-
+clip_id: MLB_777677_zach-mckinstry-triples-4-on-a-sharp-line-drive-to-right-fielder-john-_auto1_16p039_23p039
+source_path: raw_sources\MLB_777677_zach-mckinstry-triples-4-on-a-sharp-line-drive-to-right-fielder-john-_Zach_McKinstry_s_triple_Zach_McKinstry_s_triple_Zach_McKinstry_s_triple_Zach_McKinstry_be.mp4
+clip_start_time: 16.039
+clip_end_time: 23.039

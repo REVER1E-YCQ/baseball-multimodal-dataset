@@ -1,0 +1,7 @@
+video_title: Adolis García's two-run single Adolis García's two-run single Adolis García's two-run single Adolis García singles on a line drive to center field, plating Corey Seager and Marcus Semien to give the Rangers a 4-2 lead in the 3rd
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/26/54849552-bc61e9d0-3e1a4148-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776993_grant-holmes-in-play-run-s-to-adolis-garcia
+clip_id: MLB_776993_grant-holmes-in-play-run-s-to-adolis-garcia_auto1_2p820_9p820
+source_path: raw_sources\MLB_776993_grant-holmes-in-play-run-s-to-adolis-garcia_Adolis_Garc_a_s_two-run_single_Adolis_Garc_a_s_two-run_single_Adolis_Garc_a_s_two-run_single_Adolis_Garc_a_singles_.mp4
+clip_start_time: 2.820
+clip_end_time: 9.820

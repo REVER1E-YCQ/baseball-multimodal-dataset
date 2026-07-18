@@ -1,0 +1,7 @@
+video_title: Alex Jackson's solo home run (5) Alex Jackson's solo home run (5) Alex Jackson's solo home run (5) Alex Jackson hits the Orioles' third home run of the 3rd inning to give them a 6-0 lead
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/03/baca1615-2542de08-215ba192-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776465_alex-jackson-homers-5-on-a-fly-ball-to-center-field
+clip_id: MLB_776465_alex-jackson-homers-5-on-a-fly-ball-to-center-field_auto1_0p000_7p000
+source_path: raw_sources\MLB_776465_alex-jackson-homers-5-on-a-fly-ball-to-center-field_Alex_Jackson_s_solo_home_run_5_Alex_Jackson_s_solo_home_run_5_Alex_Jackson_s_solo_home_run_5_Alex_Jackson_h.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

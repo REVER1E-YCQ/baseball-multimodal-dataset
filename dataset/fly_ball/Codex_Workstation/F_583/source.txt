@@ -1,0 +1,7 @@
+video_title: Javier Sanoja's sliding catch Javier Sanoja's sliding catch Javier Sanoja's sliding catch Javier Sanoja reacts quickly and snags a line drive from his knees, recording the second out in the top of the 6th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/30/338ca431-4cd62b8b-7413f86a-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777717_casey-schmitt-grounds-out-second-baseman-javier-sanoja-to-first-basem
+clip_id: MLB_777717_casey-schmitt-grounds-out-second-baseman-javier-sanoja-to-first-basem_auto1_3p720_10p720
+source_path: raw_sources\MLB_777717_casey-schmitt-grounds-out-second-baseman-javier-sanoja-to-first-basem_Javier_Sanoja_s_sliding_catch_Javier_Sanoja_s_sliding_catch_Javier_Sanoja_s_sliding_catch.mp4
+clip_start_time: 3.720
+clip_end_time: 10.720
