@@ -1,0 +1,7 @@
+video_title: Kyle Manzardo's solo homer (24) Kyle Manzardo's solo homer (24) Kyle Manzardo's solo homer (24) Kyle Manzardo crushes a solo home run to center field to bring the Guardians within two in the 8th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/01/e1fe83db-79c71462-37e63093-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776505_kyle-manzardo-homers-24-on-a-fly-ball-to-center-field
+clip_id: MLB_776505_kyle-manzardo-homers-24-on-a-fly-ball-to-center-field_auto1_2p780_9p780
+source_path: raw_sources\MLB_776505_kyle-manzardo-homers-24-on-a-fly-ball-to-center-field_Kyle_Manzardo_s_solo_homer_24_Kyle_Manzardo_s_solo_homer_24_Kyle_Manzardo_s_solo_homer_24_Kyle_Manzardo_c.mp4
+clip_start_time: 2.780
+clip_end_time: 9.780

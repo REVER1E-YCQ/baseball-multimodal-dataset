@@ -1,0 +1,7 @@
+video_title: Pete Crow-Armstrong's solo home run (29) Pete Crow-Armstrong's solo home run (29) Pete Crow-Armstrong's solo home run (29) Pete Crow-Armstrong drills a long solo home run to right field, giving the Cubs a 4-0 lead in the top of the 6th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/15/8496f905-ca772ffa-130c2b4a-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776318_pete-crow-armstrong-homers-29-on-a-fly-ball-to-right-center-field
+clip_id: MLB_776318_pete-crow-armstrong-homers-29-on-a-fly-ball-to-right-center-field_auto1_9p500_16p500
+source_path: raw_sources\MLB_776318_pete-crow-armstrong-homers-29-on-a-fly-ball-to-right-center-field_Pete_Crow-Armstrong_s_solo_home_run_29_Pete_Crow-Armstrong_s_solo_home_run_29_Pete_Crow-Armst.mp4
+clip_start_time: 9.500
+clip_end_time: 16.500

@@ -1,0 +1,7 @@
+video_title: Matt Olson's incredible day at the plate Matt Olson's incredible day at the plate Matt Olson's incredible day at the plate Matt Olson has a stellar day offensively as he accumulates one home run, four hits, and four RBIs against the Nationals
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/15/5520c5b6-b4759931-24b57b84-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776315_matt-olson-s-incredible-day-at-the-plate
+clip_id: MLB_776315_matt-olson-s-incredible-day-at-the-plate_auto1_0p000_7p000
+source_path: raw_sources\MLB_776315_matt-olson-s-incredible-day-at-the-plate_Matt_Olson_s_incredible_day_at_the_plate_Matt_Olson_s_incredible_day_at_the_plate_Matt_Olson_s_incredible_day_at_the_p.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000
