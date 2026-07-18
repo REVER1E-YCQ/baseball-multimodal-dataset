@@ -1,0 +1,7 @@
+video_title: Christopher Morel's three-run home run (11) Christopher Morel's three-run home run (11) Christopher Morel's three-run home run (11) Christopher Morel gives the Rays a 3-0 lead with a three-run home run to left-center field in the 1st inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/12/a09dbedc-04b1a726-31630937-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776352_christopher-morel-homers-11-on-a-fly-ball-to-left-center-field-chandl
+clip_id: MLB_776352_christopher-morel-homers-11-on-a-fly-ball-to-left-center-field-chandl_auto1_0p000_7p000
+source_path: raw_sources\MLB_776352_christopher-morel-homers-11-on-a-fly-ball-to-left-center-field-chandl_Christopher_Morel_s_three-run_home_run_11_Christopher_Morel_s_three-run_home_run_11_Chris.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

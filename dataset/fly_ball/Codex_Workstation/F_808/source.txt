@@ -1,0 +1,7 @@
+video_title: Agustín Ramírez's solo home run (20) Agustín Ramírez's solo home run (20) Agustín Ramírez's solo home run (20) Agustín Ramírez hits a home run to left field putting the Marlins on the board in the bottom of the first inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/12/970af890-001a997e-e0ee4a9b-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776366_agustin-ramirez-homers-20-on-a-fly-ball-to-left-field
+clip_id: MLB_776366_agustin-ramirez-homers-20-on-a-fly-ball-to-left-field_auto1_25p549_32p549
+source_path: raw_sources\MLB_776366_agustin-ramirez-homers-20-on-a-fly-ball-to-left-field_Agust_n_Ram_rez_s_solo_home_run_20_Agust_n_Ram_rez_s_solo_home_run_20_Agust_n_Ram_rez_s_solo_home_run_20_.mp4
+clip_start_time: 25.549
+clip_end_time: 32.549

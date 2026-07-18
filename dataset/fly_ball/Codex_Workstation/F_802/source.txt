@@ -1,0 +1,7 @@
+video_title: Rafael Marchán's sacrifice fly  Rafael Marchán's sacrifice fly  Rafael Marchán's sacrifice fly  Rafael Marchán skies a sacrifice fly to right field and ties the game at 1 in the bottom of the 2nd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/12/09e8a923-b24732e3-264df0d5-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_776354_michael-lorenzen-in-play-run-s-to-rafael-marchan
+clip_id: MLB_776354_michael-lorenzen-in-play-run-s-to-rafael-marchan_auto1_10p840_17p840
+source_path: raw_sources\MLB_776354_michael-lorenzen-in-play-run-s-to-rafael-marchan_Rafael_March_n_s_sacrifice_fly_Rafael_March_n_s_sacrifice_fly_Rafael_March_n_s_sacrifice_fly_Rafael_March_n_sk.mp4
+clip_start_time: 10.840
+clip_end_time: 17.840
