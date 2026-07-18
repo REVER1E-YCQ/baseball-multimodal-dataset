@@ -1,0 +1,7 @@
+video_title: Freddie Freeman passes DiMaggio on all-time HR list Freddie Freeman passes DiMaggio on all-time HR list Freddie Freeman passes DiMaggio on all-time HR list Freddie Freeman hits his 362nd career homer to pass Joe DiMaggio for 88th place on the all-time home run list and tie the game at 1
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/05/16fb5e76-7e91c05f-acf7e2fb-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776454_freddie-freeman-homers-19-on-a-fly-ball-to-center-field
+clip_id: MLB_776454_freddie-freeman-homers-19-on-a-fly-ball-to-center-field_auto1_14p280_21p280
+source_path: raw_sources\MLB_776454_freddie-freeman-homers-19-on-a-fly-ball-to-center-field_Freddie_Freeman_passes_DiMaggio_on_all-time_HR_list_Freddie_Freeman_passes_DiMaggio_on_all-time_HR_list.mp4
+clip_start_time: 14.280
+clip_end_time: 21.280

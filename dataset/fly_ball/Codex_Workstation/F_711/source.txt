@@ -1,0 +1,7 @@
+video_title: Nico Hoerner's solo home run (6) Nico Hoerner's solo home run (6) Nico Hoerner's solo home run (6) Nico Hoerner belts a solo home run to left-center field, adding to the Cubs' lead in the bottom of the 6th inning against the Nationals
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/05/6654050e-b66756cc-e1d1320c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776455_nico-hoerner-s-solo-home-run-6
+clip_id: MLB_776455_nico-hoerner-s-solo-home-run-6_auto1_8p220_15p220
+source_path: raw_sources\MLB_776455_nico-hoerner-s-solo-home-run-6_Nico_Hoerner_s_solo_home_run_6_Nico_Hoerner_s_solo_home_run_6_Nico_Hoerner_s_solo_home_run_6_Nico_Hoerner_belts_a_solo_home_run_.mp4
+clip_start_time: 8.220
+clip_end_time: 15.220

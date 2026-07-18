@@ -1,0 +1,7 @@
+video_title: Pete Crow-Armstrong's sacrifice fly Pete Crow-Armstrong's sacrifice fly Pete Crow-Armstrong's sacrifice fly Pete Crow-Armstrong lifts a sacrifice fly to right field, putting the Cubs on the board first
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/05/3f268535-a045fb71-916aeda1-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776455_pete-crow-armstrong-s-sacrifice-fly
+clip_id: MLB_776455_pete-crow-armstrong-s-sacrifice-fly_auto1_0p640_7p640
+source_path: raw_sources\MLB_776455_pete-crow-armstrong-s-sacrifice-fly_Pete_Crow-Armstrong_s_sacrifice_fly_Pete_Crow-Armstrong_s_sacrifice_fly_Pete_Crow-Armstrong_s_sacrifice_fly_Pete_Crow-Armst.mp4
+clip_start_time: 0.640
+clip_end_time: 7.640
