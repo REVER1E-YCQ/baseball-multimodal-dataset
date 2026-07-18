@@ -1,0 +1,7 @@
+video_title: Matt McLain's RBI sac fly Matt McLain's RBI sac fly Matt McLain's RBI sac fly Matt McLain skies a fly ball to right field, scoring Will Benson and putting the Reds up 5-1 in the top of the 9th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/19/c3066e7d-4753311c-b81304ea-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_777859_matt-mclain-out-on-a-sacrifice-fly-to-right-fielder-bryan-reynolds-wi
+clip_id: MLB_777859_matt-mclain-out-on-a-sacrifice-fly-to-right-fielder-bryan-reynolds-wi_auto1_7p060_14p060
+source_path: raw_sources\MLB_777859_matt-mclain-out-on-a-sacrifice-fly-to-right-fielder-bryan-reynolds-wi_Matt_McLain_s_RBI_sac_fly_Matt_McLain_s_RBI_sac_fly_Matt_McLain_s_RBI_sac_fly_Matt_McLain.mp4
+clip_start_time: 7.060
+clip_end_time: 14.060

@@ -1,0 +1,7 @@
+video_title: Rece Hinds' outfield assist  Rece Hinds' outfield assist  Rece Hinds' outfield assist  Rece Hinds catches a fly ball and makes a strong throw to the plate, nabbing Isiah Kiner-Falefa to end the 1st inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/21/8dbcc54a-bd4e59ef-f19af044-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777834_brady-singer-in-play-out-s-to-alexander-canario
+clip_id: MLB_777834_brady-singer-in-play-out-s-to-alexander-canario_auto1_8p740_15p740
+source_path: raw_sources\MLB_777834_brady-singer-in-play-out-s-to-alexander-canario_Rece_Hinds_outfield_assist_Rece_Hinds_outfield_assist_Rece_Hinds_outfield_assist_Rece_Hinds_catches_a_fly_ball_.mp4
+clip_start_time: 8.740
+clip_end_time: 15.740

@@ -1,0 +1,7 @@
+video_title: Joey Ortiz's diving catch Joey Ortiz's diving catch Joey Ortiz's diving catch Joey Ortiz makes an incredible diving catch on a hard-hit line drive for the second out of the bottom of the 5th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/05/a1a1551d-5e36fd9e-d1e1d0cf-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777238_javier-sanoja-lines-out-to-shortstop-joey-ortiz
+clip_id: MLB_777238_javier-sanoja-lines-out-to-shortstop-joey-ortiz_auto1_0p000_7p000
+source_path: raw_sources\MLB_777238_javier-sanoja-lines-out-to-shortstop-joey-ortiz_Joey_Ortiz_s_diving_catch_Joey_Ortiz_s_diving_catch_Joey_Ortiz_s_diving_catch_Joey_Ortiz_makes_an_incredible_di.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

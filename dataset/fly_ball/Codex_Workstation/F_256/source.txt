@@ -1,0 +1,7 @@
+video_title: Luke Raley's leaping grab Luke Raley's leaping grab Luke Raley's leaping grab Luke Raley makes a slick leaping grab on a line drive for the second out in the top of the 4th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/06/4eba46f1-fd8d0ad0-e28f7996-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777205_nick-gonzales-lines-out-sharply-to-first-baseman-luke-raley
+clip_id: MLB_777205_nick-gonzales-lines-out-sharply-to-first-baseman-luke-raley_auto1_0p080_7p080
+source_path: raw_sources\MLB_777205_nick-gonzales-lines-out-sharply-to-first-baseman-luke-raley_Luke_Raley_s_leaping_grab_Luke_Raley_s_leaping_grab_Luke_Raley_s_leaping_grab_Luke_Raley_makes_a_sl.mp4
+clip_start_time: 0.080
+clip_end_time: 7.080

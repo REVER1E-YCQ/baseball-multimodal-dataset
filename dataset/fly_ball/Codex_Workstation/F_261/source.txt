@@ -1,0 +1,7 @@
+video_title: Jacob Young's leaping catch at the wall Jacob Young's leaping catch at the wall Jacob Young's leaping catch at the wall Jacob Young tracks a fly ball from Taylor Ward and makes a stunning catch in mid-air before crashing into the wall in center field to close out the 1st inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/27/b2473d7d-1d06036b-504990d8-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777331_jake-irvin-in-play-out-s-to-taylor-ward
+clip_id: MLB_777331_jake-irvin-in-play-out-s-to-taylor-ward_auto1_0p340_7p340
+source_path: raw_sources\MLB_777331_jake-irvin-in-play-out-s-to-taylor-ward_Jacob_Young_s_leaping_catch_at_the_wall_Jacob_Young_s_leaping_catch_at_the_wall_Jacob_Young_s_leaping_catch_at_the_wall.mp4
+clip_start_time: 0.340
+clip_end_time: 7.340
