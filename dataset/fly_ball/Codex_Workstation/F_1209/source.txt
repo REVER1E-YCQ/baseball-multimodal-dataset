@@ -1,0 +1,7 @@
+video_title: CJ Abrams' incredible leaping catch CJ Abrams' incredible leaping catch CJ Abrams' incredible leaping catch CJ Abrams makes an incredible diving catch off of Jackson Chourio's liner for the first out of the bottom of the 7th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/12/226ea9a8-7596291e-380e4a0a-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745965_jackson-chourio-lines-out-to-shortstop-cj-abrams
+clip_id: MLB_745965_jackson-chourio-lines-out-to-shortstop-cj-abrams_auto1_2p580_9p580
+source_path: raw_sources\MLB_745965_jackson-chourio-lines-out-to-shortstop-cj-abrams_CJ_Abrams_incredible_leaping_catch_CJ_Abrams_incredible_leaping_catch_CJ_Abrams_incredible_leaping_catch_CJ_Ab.mp4
+clip_start_time: 2.580
+clip_end_time: 9.580

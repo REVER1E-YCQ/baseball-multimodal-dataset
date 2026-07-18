@@ -1,0 +1,7 @@
+video_title: Willy Adames catches Vladimir Guerrero Jr.'s liner Willy Adames catches Vladimir Guerrero Jr.'s liner Willy Adames catches Vladimir Guerrero Jr.'s liner Willy Adames and Vladimir Guerrero Jr. banter after Adames catches Guerrero's scorched line drive
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/11/00cc9917-fd200e31-49e874cf-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745981_vladimir-guerrero-jr-lines-out-sharply-to-shortstop-willy-adames
+clip_id: MLB_745981_vladimir-guerrero-jr-lines-out-sharply-to-shortstop-willy-adames_auto1_0p000_7p000
+source_path: raw_sources\MLB_745981_vladimir-guerrero-jr-lines-out-sharply-to-shortstop-willy-adames_Willy_Adames_catches_Vladimir_Guerrero_Jr._s_liner_Willy_Adames_catches_Vladimir.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

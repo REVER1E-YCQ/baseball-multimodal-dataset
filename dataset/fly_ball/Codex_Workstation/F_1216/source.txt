@@ -1,0 +1,7 @@
+video_title: Marlins escape trouble with quick double play Marlins escape trouble with quick double play Marlins escape trouble with quick double play Jake Burger makes a quick catch on a line drive and throws to second to complete the double play to end the top of the 5th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/20/75927a1a-dae125af-f9fc600e-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746041_roddery-munoz-in-play-out-s-to-j-d-martinez-0ggim1
+clip_id: MLB_746041_roddery-munoz-in-play-out-s-to-j-d-martinez-0ggim1_auto1_0p040_7p040
+source_path: raw_sources\MLB_746041_roddery-munoz-in-play-out-s-to-j-d-martinez-0ggim1_Marlins_escape_trouble_with_quick_double_play_Marlins_escape_trouble_with_quick_double_play_Marlins_escape_t.mp4
+clip_start_time: 0.040
+clip_end_time: 7.040

@@ -1,0 +1,7 @@
+video_title: Manuel Margot's RBI double Manuel Margot's RBI double Manuel Margot's RBI double Manuel Margot doubles on a sharp line drive to left-center field, scoring Christian Vázquez and extending the Twins' lead to 3-0 in the 4th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/28/a4512055-0666e959-b77e20b5-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745903_manuel-margot-doubles-3-on-a-sharp-line-drive-to-center-fielder-kyle-
+clip_id: MLB_745903_manuel-margot-doubles-3-on-a-sharp-line-drive-to-center-fielder-kyle-_auto1_0p180_7p180
+source_path: raw_sources\MLB_745903_manuel-margot-doubles-3-on-a-sharp-line-drive-to-center-fielder-kyle-_Manuel_Margot_s_RBI_double_Manuel_Margot_s_RBI_double_Manuel_Margot_s_RBI_double.mp4
+clip_start_time: 0.180
+clip_end_time: 7.180

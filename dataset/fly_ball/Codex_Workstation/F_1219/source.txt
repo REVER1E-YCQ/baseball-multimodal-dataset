@@ -1,0 +1,7 @@
+video_title: Jarren Duran's running catch Jarren Duran's running catch Jarren Duran's running catch Jarren Duran makes a strong running catch on Josh Bell's fly ball to bring in the first out of the bottom of the 6th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/03/c8396827-8b5fa6a0-5c9aa7bd-csvm-diamondx64-asset-4000K.mp4
+source_id: MLB_746045_josh-bell-flies-out-to-center-fielder-jarren-duran
+clip_id: MLB_746045_josh-bell-flies-out-to-center-fielder-jarren-duran_auto1_7p014_14p014
+source_path: raw_sources\MLB_746045_josh-bell-flies-out-to-center-fielder-jarren-duran_Jarren_Duran_s_running_catch_Jarren_Duran_s_running_catch_Jarren_Duran_s_running_catch_Jarren_Duran_makes_a_.mp4
+clip_start_time: 7.014
+clip_end_time: 14.014

@@ -1,0 +1,7 @@
+video_title: Tyler O'Neill seals a Red Sox win Tyler O'Neill seals a Red Sox win Tyler O'Neill seals a Red Sox win Tyler O'Neill snags Nick Fortes' fly ball, sealing the Red Sox's 7-2 win over the Marlins
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/03/34b5a9e9-81f3d3b9-1348d5b5-csvm-diamondx64-asset-4000K.mp4
+source_id: MLB_746045_nick-fortes-flies-out-to-right-fielder-tyler-o-neill
+clip_id: MLB_746045_nick-fortes-flies-out-to-right-fielder-tyler-o-neill_auto1_4p390_11p390
+source_path: raw_sources\MLB_746045_nick-fortes-flies-out-to-right-fielder-tyler-o-neill_Tyler_O_Neill_seals_a_Red_Sox_win_Tyler_O_Neill_seals_a_Red_Sox_win_Tyler_O_Neill_seals_a_Red_Sox_win_Tyle.mp4
+clip_start_time: 4.390
+clip_end_time: 11.390

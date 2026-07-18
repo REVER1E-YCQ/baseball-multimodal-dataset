@@ -1,0 +1,7 @@
+video_title: McCarthy nabs Freeman at home for the double play McCarthy nabs Freeman at home for the double play McCarthy nabs Freeman at home for the double play Jake McCarthy catches a fly ball and fires to home in time to throw out Freddie Freeman attempting to tag up in the 4th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/03/19b16973-18ea5fbb-777f210f-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746128_cristian-mena-in-play-out-s-to-miguel-rojas-hrftxl
+clip_id: MLB_746128_cristian-mena-in-play-out-s-to-miguel-rojas-hrftxl_auto1_0p000_7p000
+source_path: raw_sources\MLB_746128_cristian-mena-in-play-out-s-to-miguel-rojas-hrftxl_McCarthy_nabs_Freeman_at_home_for_the_double_play_McCarthy_nabs_Freeman_at_home_for_the_double_play_McCarthy.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000
