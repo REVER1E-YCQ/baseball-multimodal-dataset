@@ -1,0 +1,7 @@
+video_title: Salvador Perez's three-run home run (25) Salvador Perez's three-run home run (25) Salvador Perez's three-run home run (25) Salvador Perez crushes a three-run homer to left-center field, scoring Maikel Garcia and Vinnie Pasquantino to extend the Royals' lead to 4-0 in the bottom of the 1st
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/06/46738843-8e9b324f-91e983ea-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776434_salvador-perez-homers-25-on-a-fly-ball-to-left-center-field-maikel-ga
+clip_id: MLB_776434_salvador-perez-homers-25-on-a-fly-ball-to-left-center-field-maikel-ga_auto1_3p280_10p280
+source_path: raw_sources\MLB_776434_salvador-perez-homers-25-on-a-fly-ball-to-left-center-field-maikel-ga_Salvador_Perez_s_three-run_home_run_25_Salvador_Perez_s_three-run_home_run_25_Salvador_Pe.mp4
+clip_start_time: 3.280
+clip_end_time: 10.280

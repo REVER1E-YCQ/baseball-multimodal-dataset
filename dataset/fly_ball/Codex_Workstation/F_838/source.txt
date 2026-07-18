@@ -1,0 +1,7 @@
+video_title: Mariners plate seven runs in 9th Mariners plate seven runs in 9th Mariners plate seven runs in 9th The Mariners score seven runs in the top of the 9th, highlighted by home runs from Cal Raleigh and Eugenio Suárez
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/07/5386b62e-e359f7f1-c49c98b1-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776428_mariners-plate-seven-runs-in-9th
+clip_id: MLB_776428_mariners-plate-seven-runs-in-9th_auto1_15p400_22p400
+source_path: raw_sources\MLB_776428_mariners-plate-seven-runs-in-9th_Mariners_plate_seven_runs_in_9th_Mariners_plate_seven_runs_in_9th_Mariners_plate_seven_runs_in_9th_The_Mariners_score_seven_ru.mp4
+clip_start_time: 15.400
+clip_end_time: 22.400

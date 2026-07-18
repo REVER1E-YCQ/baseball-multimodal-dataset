@@ -1,0 +1,7 @@
+video_title: Mariners hit five homers in win over Braves Mariners hit five homers in win over Braves Mariners hit five homers in win over Braves The Mariners break out offensively against the Braves, with home runs from Jorge Polanco, Josh Naylor, and Cal Raleigh and two homers from Eugenio Suárez
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/07/864c0835-dd7228e3-7c59014e-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776428_mariners-hit-five-homers-in-win-over-braves
+clip_id: MLB_776428_mariners-hit-five-homers-in-win-over-braves_auto1_12p140_19p140
+source_path: raw_sources\MLB_776428_mariners-hit-five-homers-in-win-over-braves_Mariners_hit_five_homers_in_win_over_Braves_Mariners_hit_five_homers_in_win_over_Braves_Mariners_hit_five_homers_in.mp4
+clip_start_time: 12.140
+clip_end_time: 19.140

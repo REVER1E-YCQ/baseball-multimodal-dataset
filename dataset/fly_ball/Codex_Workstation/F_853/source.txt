@@ -1,0 +1,7 @@
+video_title: Mookie Betts' solo home run (15) Mookie Betts' solo home run (15) Mookie Betts' solo home run (15) Mookie Betts puts the Dodgers on the board with a solo home run in the top of the 9th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/04/2750425c-6d9b7614-e0ea046e-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776461_mookie-betts-homers-15-on-a-fly-ball-to-left-field-03d3e2
+clip_id: MLB_776461_mookie-betts-homers-15-on-a-fly-ball-to-left-field-03d3e2_auto1_1p000_8p000
+source_path: raw_sources\MLB_776461_mookie-betts-homers-15-on-a-fly-ball-to-left-field-03d3e2_Mookie_Betts_solo_home_run_15_Mookie_Betts_solo_home_run_15_Mookie_Betts_solo_home_run_15_Mookie_Bett.mp4
+clip_start_time: 1.000
+clip_end_time: 8.000

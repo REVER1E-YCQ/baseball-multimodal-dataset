@@ -1,0 +1,7 @@
+video_title: Dansby Swanson's three-run home run (22) Dansby Swanson's three-run home run (22) Dansby Swanson's three-run home run (22) Dansby Swanson extends the Cubs' lead in the 1st inning, hitting a three-run home run to center field
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/05/b04e4391-90fd9063-7fd02599-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776455_dansby-swanson-homers-22-on-a-fly-ball-to-center-field-nico-hoerner-s
+clip_id: MLB_776455_dansby-swanson-homers-22-on-a-fly-ball-to-center-field-nico-hoerner-s_auto1_0p320_7p320
+source_path: raw_sources\MLB_776455_dansby-swanson-homers-22-on-a-fly-ball-to-center-field-nico-hoerner-s_Dansby_Swanson_s_three-run_home_run_22_Dansby_Swanson_s_three-run_home_run_22_Dansby_Swan.mp4
+clip_start_time: 0.320
+clip_end_time: 7.320
