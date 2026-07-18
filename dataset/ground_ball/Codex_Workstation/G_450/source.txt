@@ -1,0 +1,7 @@
+video_title: Logan O'Hoppe is safe following review in the 7th Logan O'Hoppe is safe following review in the 7th Logan O'Hoppe is safe following review in the 7th Logan O'Hoppe is called out at first base while trying to beat out a ground ball, the called is overturned after an Angels challenge
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/04/b0f9a886-d0691c62-4ff720d7-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746222_yuki-matsui-in-play-out-s-to-logan-o-hoppe
+clip_id: MLB_746222_yuki-matsui-in-play-out-s-to-logan-o-hoppe_auto1_0p000_6p000
+source_path: raw_sources\MLB_746222_yuki-matsui-in-play-out-s-to-logan-o-hoppe_Logan_O_Hoppe_is_safe_following_review_in_the_7th_Logan_O_Hoppe_is_safe_followin.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

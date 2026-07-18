@@ -1,0 +1,7 @@
+video_title: Cristopher Sánchez's stellar outing Cristopher Sánchez's stellar outing Cristopher Sánchez's stellar outing Cristopher Sánchez strikes out three batters, allows one run and records 11 groundouts in his stellar start against the Brewers
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/04/7fef4f75-59c4b97b-187b4363-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745568_cristopher-sanchez-s-stellar-outing
+clip_id: MLB_745568_cristopher-sanchez-s-stellar-outing_auto1_21p720_27p720
+source_path: raw_sources\MLB_745568_cristopher-sanchez-s-stellar-outing_Cristopher_S_nchez_s_stellar_outing_Cristopher_S_nchez_s_stellar_outing_Cristoph.mp4
+clip_start_time: 21.720
+clip_end_time: 27.720

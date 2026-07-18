@@ -1,0 +1,7 @@
+video_title: Luis Rengifo's nice stop Luis Rengifo's nice stop Luis Rengifo's nice stop Luis Rengifo makes a slick sliding stop on Jose Altuve's grounder and makes the throw to first for the second out of the top of the 5th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/07/cdc3fb81-2d81336c-04b625c8-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746220_jose-altuve-grounds-out-third-baseman-luis-rengifo-to-first-baseman-n
+clip_id: MLB_746220_jose-altuve-grounds-out-third-baseman-luis-rengifo-to-first-baseman-n_auto1_0p960_6p960
+source_path: raw_sources\MLB_746220_jose-altuve-grounds-out-third-baseman-luis-rengifo-to-first-baseman-n_Luis_Rengifo_s_nice_stop_Luis_Rengifo_s_nice_stop_Luis_Rengifo_s_nice_stop_Luis_.mp4
+clip_start_time: 0.960
+clip_end_time: 6.960
