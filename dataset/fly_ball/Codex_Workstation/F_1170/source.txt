@@ -1,0 +1,7 @@
+video_title: Heliot Ramos' running catch Heliot Ramos' running catch Heliot Ramos' running catch Heliot Ramos chases down a deep fly ball to right-center field to record the final out of the top of the 7th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/24/7229d991-4db97805-59378909-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745323_heliot-ramos-running-catch
+clip_id: MLB_745323_heliot-ramos-running-catch_auto1_17p308_24p308
+source_path: raw_sources\MLB_745323_heliot-ramos-running-catch_Heliot_Ramos_running_catch_Heliot_Ramos_running_catch_Heliot_Ramos_running_catch_Heliot_Ramos_chases_down_a_deep_fly_ball_to_right-c.mp4
+clip_start_time: 17.308
+clip_end_time: 24.308

@@ -1,0 +1,7 @@
+video_title: Miguel Andujar's diving catch Miguel Andujar's diving catch Miguel Andujar's diving catch Miguel Andujar makes a diving catch on a sinking line drive to left field in the bottom of the 4th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/11/b47fb73c-ea1d90e7-625ebc0e-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745404_manny-machado-lines-out-sharply-to-left-fielder-miguel-andujar
+clip_id: MLB_745404_manny-machado-lines-out-sharply-to-left-fielder-miguel-andujar_auto1_21p180_28p180
+source_path: raw_sources\MLB_745404_manny-machado-lines-out-sharply-to-left-fielder-miguel-andujar_Miguel_Andujar_s_diving_catch_Miguel_Andujar_s_diving_catch_Miguel_Andujar_s_div.mp4
+clip_start_time: 21.180
+clip_end_time: 28.180

@@ -1,0 +1,7 @@
+video_title: Brandon Nimmo's outstanding catch Brandon Nimmo's outstanding catch Brandon Nimmo's outstanding catch Brandon Nimmo tracks a fly ball and lays out to make a fantastic catch in the bottom of the 6th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/07/5d4430d4-29e7a6eb-73b1c6ce-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745477_bryan-reynolds-lines-out-sharply-to-center-fielder-brandon-nimmo
+clip_id: MLB_745477_bryan-reynolds-lines-out-sharply-to-center-fielder-brandon-nimmo_auto1_4p540_11p540
+source_path: raw_sources\MLB_745477_bryan-reynolds-lines-out-sharply-to-center-fielder-brandon-nimmo_Brandon_Nimmo_s_outstanding_catch_Brandon_Nimmo_s_outstanding_catch_Brandon_Nimmo_s_outstandin.mp4
+clip_start_time: 4.540
+clip_end_time: 11.540

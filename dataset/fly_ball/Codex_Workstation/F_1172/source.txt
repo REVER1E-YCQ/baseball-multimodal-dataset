@@ -1,0 +1,7 @@
+video_title: Braves record double play on Luis Arraez's miscue Braves record double play on Luis Arraez's miscue Braves record double play on Luis Arraez's miscue Eddie Rosario and Matt Olson record a double play after Luis Arraez appears to not see a fly ball in the bottom of the 1st inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/13/d0fcbd26-1e453d2e-646b787b-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745392_reynaldo-lopez-in-play-out-s-to-jurickson-profar
+clip_id: MLB_745392_reynaldo-lopez-in-play-out-s-to-jurickson-profar_auto1_0p000_7p000
+source_path: raw_sources\MLB_745392_reynaldo-lopez-in-play-out-s-to-jurickson-profar_Braves_record_double_play_on_Luis_Arraez_s_miscue_Braves_record_double_play_on_Luis_Arraez_s_miscue_Braves_rec.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

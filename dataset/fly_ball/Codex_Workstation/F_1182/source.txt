@@ -1,0 +1,7 @@
+video_title: Matt Olson's two-run double Matt Olson's two-run double Matt Olson's two-run double Matt Olson hits a fly ball off the right-field wall for a two-run double to extend the Braves' lead to 4-1
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/26/4a5d1ab4-00e59563-4442fa03-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745498_carmen-mlodzinski-in-play-no-out-to-matt-olson
+clip_id: MLB_745498_carmen-mlodzinski-in-play-no-out-to-matt-olson_auto1_9p180_16p180
+source_path: raw_sources\MLB_745498_carmen-mlodzinski-in-play-no-out-to-matt-olson_Matt_Olson_s_two-run_double_Matt_Olson_s_two-run_double_Matt_Olson_s_two-run_dou.mp4
+clip_start_time: 9.180
+clip_end_time: 16.180

@@ -1,0 +1,7 @@
+video_title: Corbin Carroll's sliding catch Corbin Carroll's sliding catch Corbin Carroll's sliding catch Corbin Carroll ranges in and slides to catch a low line drive in right field
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-08/03/3b7793e0-e17a16a4-a6941cc8-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745474_bryan-reynolds-lines-out-to-right-fielder-corbin-carroll
+clip_id: MLB_745474_bryan-reynolds-lines-out-to-right-fielder-corbin-carroll_auto1_2p500_9p500
+source_path: raw_sources\MLB_745474_bryan-reynolds-lines-out-to-right-fielder-corbin-carroll_Corbin_Carroll_s_sliding_catch_Corbin_Carroll_s_sliding_catch_Corbin_Carroll_s_sliding_catch_Corbin_Ca.mp4
+clip_start_time: 2.500
+clip_end_time: 9.500

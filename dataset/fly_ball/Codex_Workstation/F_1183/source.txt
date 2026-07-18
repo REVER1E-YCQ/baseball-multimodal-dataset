@@ -1,0 +1,7 @@
+video_title: Nick Castellanos' nice catch in foul territory Nick Castellanos' nice catch in foul territory Nick Castellanos' nice catch in foul territory Nick Castellanos runs down Trent Grisham's fly ball and reaches out to make a nice catch in front of the wall in foul territory
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/30/7d2be239-4e148fb3-434bb567-csvm-diamondx64-asset-4000K.mp4
+source_id: MLB_745546_trent-grisham-flies-out-to-right-fielder-nick-castellanos-in-foul-ter
+clip_id: MLB_745546_trent-grisham-flies-out-to-right-fielder-nick-castellanos-in-foul-ter_auto1_9p040_16p040
+source_path: raw_sources\MLB_745546_trent-grisham-flies-out-to-right-fielder-nick-castellanos-in-foul-ter_Nick_Castellanos_nice_catch_in_foul_territory_Nick_Castellanos_nice_catch_in_foul_territo.mp4
+clip_start_time: 9.040
+clip_end_time: 16.040

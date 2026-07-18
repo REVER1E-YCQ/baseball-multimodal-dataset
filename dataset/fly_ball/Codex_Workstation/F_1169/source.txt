@@ -1,0 +1,7 @@
+video_title: Gavin Lux's jumping grab secures a Dodgers win Gavin Lux's jumping grab secures a Dodgers win Gavin Lux's jumping grab secures a Dodgers win Gavin Lux jumps to catch a line drive, securing a 14-7 Dodgers win in extra innings over the Giants
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/29/f2abd47b-77b200bf-1b341705-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745317_ryan-yarbrough-in-play-out-s-to-brett-wisely
+clip_id: MLB_745317_ryan-yarbrough-in-play-out-s-to-brett-wisely_auto1_3p440_10p440
+source_path: raw_sources\MLB_745317_ryan-yarbrough-in-play-out-s-to-brett-wisely_Gavin_Lux_s_jumping_grab_secures_a_Dodgers_win_Gavin_Lux_s_jumping_grab_secures_a_Dodgers_win_Gavin_Lux_s_jumping_.mp4
+clip_start_time: 3.440
+clip_end_time: 10.440
