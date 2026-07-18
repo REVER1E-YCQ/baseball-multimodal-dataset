@@ -1,0 +1,7 @@
+video_title: Tommy Pham's solo home run (5) Tommy Pham's solo home run (5) Tommy Pham's solo home run (5) Tommy Pham homers on a fly ball to center field, giving the White Sox an early 1-0 lead in the 1st
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/22/2457c583-2abb206b-4cd0ae19-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_744988_tommy-pham-homers-5-on-a-fly-ball-to-center-field-7gsnzx
+clip_id: MLB_744988_tommy-pham-homers-5-on-a-fly-ball-to-center-field-7gsnzx_auto1_7p700_14p700
+source_path: raw_sources\MLB_744988_tommy-pham-homers-5-on-a-fly-ball-to-center-field-7gsnzx_Tommy_Pham_s_solo_home_run_5_Tommy_Pham_s_solo_home_run_5_Tommy_Pham_s_solo_home_run_5_Tommy_Pham_home.mp4
+clip_start_time: 7.700
+clip_end_time: 14.700

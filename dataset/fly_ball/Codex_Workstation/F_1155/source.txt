@@ -1,0 +1,7 @@
+video_title: DJ Stewart's sliding catch DJ Stewart's sliding catch DJ Stewart's sliding catch DJ Stewart charges in on a soft liner and makes a nice sliding grab to rob Sam Huff of a base hit
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/17/95420ed8-dfd34b36-8742241b-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745005_sam-huff-flies-out-to-right-fielder-dj-stewart
+clip_id: MLB_745005_sam-huff-flies-out-to-right-fielder-dj-stewart_auto1_18p640_25p640
+source_path: sources\MLB_745005_sam-huff-flies-out-to-right-fielder-dj-stewart_DJ_Stewart_s_sliding_catch_DJ_Stewart_s_sliding_catch_DJ_Stewart_s_sliding_catch.mp4
+clip_start_time: 18.640
+clip_end_time: 25.640

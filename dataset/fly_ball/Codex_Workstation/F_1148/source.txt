@@ -1,0 +1,7 @@
+video_title: Kevin Kiermaier's leaping catch at the wall Kevin Kiermaier's leaping catch at the wall Kevin Kiermaier's leaping catch at the wall Kevin Kiermaier tracks down a fly ball in deep center and leaps to make a smooth catch in the 6th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/19/37ff8bbf-8df2b547-9ffa96a4-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_744920_kevin-gausman-in-play-out-s-to-dominic-smith-sua8sx
+clip_id: MLB_744920_kevin-gausman-in-play-out-s-to-dominic-smith-sua8sx_auto1_6p100_13p100
+source_path: raw_sources\MLB_744920_kevin-gausman-in-play-out-s-to-dominic-smith-sua8sx_Kevin_Kiermaier_s_leaping_catch_at_the_wall_Kevin_Kiermaier_s_leaping_catch_at_the_wall_Kevin_Kiermaier_s_l.mp4
+clip_start_time: 6.100
+clip_end_time: 13.100

@@ -1,0 +1,7 @@
+video_title: Luis Robert Jr. goes deep (12) Luis Robert Jr. goes deep (12) Luis Robert Jr. goes deep (12) Luis Robert Jr. homers on a line drive to left field, giving the White Sox a 2-1 advantage in the 3rd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/24/dddef9d9-b2b8b873-2b9fb428-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_744989_luis-robert-jr-homers-12-on-a-line-drive-to-left-field
+clip_id: MLB_744989_luis-robert-jr-homers-12-on-a-line-drive-to-left-field_auto1_14p660_21p660
+source_path: raw_sources\MLB_744989_luis-robert-jr-homers-12-on-a-line-drive-to-left-field_Luis_Robert_Jr._goes_deep_12_Luis_Robert_Jr._goes_deep_12_Luis_Robert_Jr._goes_deep_12_Luis_Robert_Jr._h.mp4
+clip_start_time: 14.660
+clip_end_time: 21.660

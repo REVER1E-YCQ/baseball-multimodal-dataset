@@ -1,0 +1,7 @@
+video_title: Michael Massey makes a great barehanded play Michael Massey makes a great barehanded play Michael Massey makes a great barehanded play Michael Massey barehands a line drive that bounces off Seth Lugo's glove and throws a strike to first to record the out
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/24/13d4f108-f3eec0c8-0f215289-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745087_michael-massey-makes-a-great-barehanded-play
+clip_id: MLB_745087_michael-massey-makes-a-great-barehanded-play_auto1_0p000_7p000
+source_path: raw_sources\MLB_745087_michael-massey-makes-a-great-barehanded-play_Michael_Massey_makes_a_great_barehanded_play_Michael_Massey_makes_a_great_bareha.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

@@ -1,0 +1,7 @@
+video_title: Koenig works out of a bases-loaded jam Koenig works out of a bases-loaded jam Koenig works out of a bases-loaded jam Garrett Mitchell catches a fly ball from David Bote, stranding three Cubs on base and preserving the Brewers' 1-0 lead in the 8th inning
+video_url: https://bdata-producedclips.mlb.com/6c24fcfd-7fb1-4f57-9e7b-cd3ccefdd8a0.mp4
+source_id: MLB_746848_jared-koenig-in-play-out-s-to-david-bote
+clip_id: MLB_746848_jared-koenig-in-play-out-s-to-david-bote_auto1_2p420_9p420
+source_path: raw_sources\MLB_746848_jared-koenig-in-play-out-s-to-david-bote_Koenig_works_out_of_a_bases-loaded_jam_Koenig_works_out_of_a_bases-loaded_jam_Koenig_works_out_of_a_bases-loaded_jam_G.mp4
+clip_start_time: 2.420
+clip_end_time: 9.420
