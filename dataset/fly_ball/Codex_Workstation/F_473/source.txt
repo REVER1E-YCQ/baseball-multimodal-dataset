@@ -1,0 +1,7 @@
+video_title: Dylan Carlson's sliding catch  Dylan Carlson's sliding catch  Dylan Carlson's sliding catch  Dylan Carlson makes a sliding catch on Luis Robert Jr.'s line drive in the top of the 6th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/01/5ca6910d-348700ad-f45ac8da-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777684_charlie-morton-in-play-out-s-to-luis-robert-jr
+clip_id: MLB_777684_charlie-morton-in-play-out-s-to-luis-robert-jr_auto1_1p740_8p740
+source_path: raw_sources\MLB_777684_charlie-morton-in-play-out-s-to-luis-robert-jr_Dylan_Carlson_s_sliding_catch_Dylan_Carlson_s_sliding_catch_Dylan_Carlson_s_sliding_catch_Dylan_Carlson_makes_a_.mp4
+clip_start_time: 1.740
+clip_end_time: 8.740

@@ -1,0 +1,7 @@
+video_title: Tommy Edman's sliding play Tommy Edman's sliding play Tommy Edman's sliding play Tommy Edman reacts quickly and drops to his knees to stop a hard-hit line drive, then throws to first base to record the out
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/30/759a8238-14a791ad-61250e1d-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777708_tony-gonsolin-in-play-out-s-to-jorbit-vivas-txr77w
+clip_id: MLB_777708_tony-gonsolin-in-play-out-s-to-jorbit-vivas-txr77w_auto1_0p000_7p000
+source_path: raw_sources\MLB_777708_tony-gonsolin-in-play-out-s-to-jorbit-vivas-txr77w_Tommy_Edman_s_sliding_play_Tommy_Edman_s_sliding_play_Tommy_Edman_s_sliding_play_Tommy_Edman_reacts_quickly_.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

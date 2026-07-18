@@ -1,0 +1,7 @@
+video_title: Daylen Lile's first career triple Daylen Lile's first career triple Daylen Lile's first career triple Daylen Lile hits a line drive down the right field line for his first career triple
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/01/ddddb846-6951b9c6-5a54654d-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_777696_ryne-nelson-in-play-no-out-to-daylen-lile
+clip_id: MLB_777696_ryne-nelson-in-play-no-out-to-daylen-lile_auto1_6p000_13p000
+source_path: raw_sources\MLB_777696_ryne-nelson-in-play-no-out-to-daylen-lile_Daylen_Lile_s_first_career_triple_Daylen_Lile_s_first_career_triple_Daylen_Lile_s_first_career_triple_Daylen_Lile_hit.mp4
+clip_start_time: 6.000
+clip_end_time: 13.000

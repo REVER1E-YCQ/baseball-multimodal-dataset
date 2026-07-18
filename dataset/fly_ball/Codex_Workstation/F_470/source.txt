@@ -1,0 +1,7 @@
+video_title: Dodgers avoid Marte homer after review Dodgers avoid Marte homer after review Dodgers avoid Marte homer after review A crew chief review confirms the original foul call on a deep fly ball from Starling Marte
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/03/98999342-e0d9fa39-6a75719e-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777657_dodgers-avoid-marte-homer-after-review
+clip_id: MLB_777657_dodgers-avoid-marte-homer-after-review_auto1_3p080_10p080
+source_path: raw_sources\MLB_777657_dodgers-avoid-marte-homer-after-review_Dodgers_avoid_Marte_homer_after_review_Dodgers_avoid_Marte_homer_after_review_Dodgers_avoid_Marte_homer_after_review_A_c.mp4
+clip_start_time: 3.080
+clip_end_time: 10.080

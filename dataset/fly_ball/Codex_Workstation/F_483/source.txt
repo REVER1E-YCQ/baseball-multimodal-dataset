@@ -1,0 +1,7 @@
+video_title: Denzel Clarke's leaping grab  Denzel Clarke's leaping grab  Denzel Clarke's leaping grab  Denzel Clarke tracks a deep fly ball before making a leaping catch to take potential extra bases away from George Springer in the 3rd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/30/29e95fc2-15be8d86-ef3d2362-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777716_george-springer-flies-out-sharply-to-center-fielder-denzel-clarke
+clip_id: MLB_777716_george-springer-flies-out-sharply-to-center-fielder-denzel-clarke_auto1_0p500_7p500
+source_path: raw_sources\MLB_777716_george-springer-flies-out-sharply-to-center-fielder-denzel-clarke_Denzel_Clarke_s_leaping_grab_Denzel_Clarke_s_leaping_grab_Denzel_Clarke_s_leaping_grab_Denzel.mp4
+clip_start_time: 0.500
+clip_end_time: 7.500

@@ -1,0 +1,7 @@
+video_title: Tyrone Taylor's long running catch Tyrone Taylor's long running catch Tyrone Taylor's long running catch Tyrone Taylor sprints all the way to shallow-right-center field and slides to catch Kyle Farmer's fly ball that got caught in the wind in the 6th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/31/e3810bd4-1f22de65-4df1015e-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777700_kyle-farmer-flies-out-to-center-fielder-tyrone-taylor
+clip_id: MLB_777700_kyle-farmer-flies-out-to-center-fielder-tyrone-taylor_auto1_0p300_7p300
+source_path: raw_sources\MLB_777700_kyle-farmer-flies-out-to-center-fielder-tyrone-taylor_Tyrone_Taylor_s_long_running_catch_Tyrone_Taylor_s_long_running_catch_Tyrone_Taylor_s_long_running_catch_.mp4
+clip_start_time: 0.300
+clip_end_time: 7.300
