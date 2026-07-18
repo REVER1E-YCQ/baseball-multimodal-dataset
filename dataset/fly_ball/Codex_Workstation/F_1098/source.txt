@@ -1,0 +1,7 @@
+video_title: Masataka Yoshida's sac fly Masataka Yoshida's sac fly Masataka Yoshida's sac fly Trevor Story makes an aggressive play and just beats the tag at home to score on a sacrifice fly by Masataka Yoshida
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/18/252da140-76aeb784-94ce15db-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776281_j-t-ginn-in-play-out-s-to-masataka-yoshida
+clip_id: MLB_776281_j-t-ginn-in-play-out-s-to-masataka-yoshida_auto1_7p280_14p280
+source_path: raw_sources\MLB_776281_j-t-ginn-in-play-out-s-to-masataka-yoshida_Masataka_Yoshida_s_sac_fly_Masataka_Yoshida_s_sac_fly_Masataka_Yoshida_s_sac_fly_Trevor_Story_makes_an_aggressive_pl.mp4
+clip_start_time: 7.280
+clip_end_time: 14.280

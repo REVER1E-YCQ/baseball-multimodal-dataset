@@ -1,0 +1,7 @@
+video_title: Craig Counsell talks Matthew Boyd's start in 3-1 win Craig Counsell talks Matthew Boyd's start in 3-1 win Craig Counsell talks Matthew Boyd's start in 3-1 win Craig Counsell discusses Matthew Boyd's solid start, Seiya Suzuki's solo home run and more after the Cubs' 3-1 win over the Padres
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/30/bc8f9255-93bc7337-43868e3c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_813066_craig-counsell-talks-matthew-boyd-s-start-in-3-1-win
+clip_id: MLB_813066_craig-counsell-talks-matthew-boyd-s-start-in-3-1-win_auto1_2p800_9p800
+source_path: raw_sources\MLB_813066_craig-counsell-talks-matthew-boyd-s-start-in-3-1-win_Craig_Counsell_talks_Matthew_Boyd_s_start_in_3-1_win_Craig_Counsell_talks_Matthew_Boyd_s_start_in_3-1_win_.mp4
+clip_start_time: 2.800
+clip_end_time: 9.800

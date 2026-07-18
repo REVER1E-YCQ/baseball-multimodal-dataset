@@ -1,0 +1,7 @@
+video_title: Bo Naylor's solo home run (13) Bo Naylor's solo home run (13) Bo Naylor's solo home run (13) Bo Naylor cranks a solo home run to right field, extending the Guardians' lead to 2-0 in the 2nd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/20/08ec64fe-c266ce6b-da7d8463-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777839_bo-naylor-homers-13-on-a-fly-ball-to-right-center-field
+clip_id: MLB_777839_bo-naylor-homers-13-on-a-fly-ball-to-right-center-field_auto1_0p440_7p440
+source_path: raw_sources\MLB_777839_bo-naylor-homers-13-on-a-fly-ball-to-right-center-field_Bo_Naylor_s_solo_home_run_13_Bo_Naylor_s_solo_home_run_13_Bo_Naylor_s_solo_home_run_13_Bo_Naylor_cranks.mp4
+clip_start_time: 0.440
+clip_end_time: 7.440

@@ -1,0 +1,7 @@
+video_title: Michael Busch's leadoff home run (29) Michael Busch's leadoff home run (29) Michael Busch's leadoff home run (29) Michael Busch leads off the game with a home run to right field, giving the Cubs a 1-0 lead over the Pirates in the top of the 1st
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/17/b0a21d05-0fea876b-e5aa637e-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776308_michael-busch-homers-29-on-a-fly-ball-to-right-field
+clip_id: MLB_776308_michael-busch-homers-29-on-a-fly-ball-to-right-field_auto1_8p700_15p700
+source_path: raw_sources\MLB_776308_michael-busch-homers-29-on-a-fly-ball-to-right-field_Michael_Busch_s_leadoff_home_run_29_Michael_Busch_s_leadoff_home_run_29_Michael_Busch_s_leadoff_home_run_2.mp4
+clip_start_time: 8.700
+clip_end_time: 15.700
