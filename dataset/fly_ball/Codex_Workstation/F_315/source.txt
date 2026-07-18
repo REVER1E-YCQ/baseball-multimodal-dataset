@@ -1,0 +1,7 @@
+video_title: Christian Vázquez's two-run double Christian Vázquez's two-run double Christian Vázquez's two-run double Christian Vázquez doubles on a fly ball to left field and scores two, giving the Twins a 6-2 lead over the White Sox in the 8th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-08/02/510d222c-abc38fda-31e8282f-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745875_steven-wilson-in-play-run-s-to-christian-vazquez
+clip_id: MLB_745875_steven-wilson-in-play-run-s-to-christian-vazquez_auto1_0p440_7p440
+source_path: raw_sources\MLB_745875_steven-wilson-in-play-run-s-to-christian-vazquez_Christian_V_zquez_s_two-run_double_Christian_V_zquez_s_two-run_double_Christian_V_zquez_s_two-run_double_Chris.mp4
+clip_start_time: 0.440
+clip_end_time: 7.440

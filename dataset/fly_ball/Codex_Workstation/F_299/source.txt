@@ -1,0 +1,7 @@
+video_title: Michael Conforto's tumbling grab Michael Conforto's tumbling grab Michael Conforto's tumbling grab Michael Conforto tracks a fly ball from Jordan Beck and makes a great catch for the final out of the 1st inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/21/59355688-7386bad0-38acdf42-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776644_jordan-beck-flies-out-to-left-fielder-michael-conforto
+clip_id: MLB_776644_jordan-beck-flies-out-to-left-fielder-michael-conforto_auto1_11p740_18p740
+source_path: raw_sources\MLB_776644_jordan-beck-flies-out-to-left-fielder-michael-conforto_Michael_Conforto_s_tumbling_grab_Michael_Conforto_s_tumbling_grab_Michael_Conforto_s_tumbling_grab_Micha.mp4
+clip_start_time: 11.740
+clip_end_time: 18.740
