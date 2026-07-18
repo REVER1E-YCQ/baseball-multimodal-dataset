@@ -1,0 +1,7 @@
+video_title: Lenyn Sosa's RBI double Lenyn Sosa's RBI double Lenyn Sosa's RBI double Lenyn Sosa doubles (2) on a line drive to left field to put the White Sox up 10-1 in the bottom of the 8th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/11/0790938c-8599c2d9-ca3eaf07-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_778366_lenyn-sosa-doubles-2-on-a-line-drive-to-left-fielder-jarren-duran-lui
+clip_id: MLB_778366_lenyn-sosa-doubles-2-on-a-line-drive-to-left-fielder-jarren-duran-lui_auto1_1p620_8p620
+source_path: raw_sources\MLB_778366_lenyn-sosa-doubles-2-on-a-line-drive-to-left-fielder-jarren-duran-lui_Lenyn_Sosa_s_RBI_double_Lenyn_Sosa_s_RBI_double_Lenyn_Sosa_s_RBI_double_Lenyn_Sosa_double.mp4
+clip_start_time: 1.620
+clip_end_time: 8.620

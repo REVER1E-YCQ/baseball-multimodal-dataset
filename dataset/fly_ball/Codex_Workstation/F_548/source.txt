@@ -1,0 +1,7 @@
+video_title: Alexander Canario's sprawling catch Alexander Canario's sprawling catch Alexander Canario's sprawling catch Alexander Canario misjudges the fly ball but recovers in time to make an impressive sprawling catch for the final out in the top of the 6th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/20/f494b406-2cdd89a4-b6bfca5a-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_778242_alexander-canario-s-sprawling-catch
+clip_id: MLB_778242_alexander-canario-s-sprawling-catch_auto1_0p000_7p000
+source_path: raw_sources\MLB_778242_alexander-canario-s-sprawling-catch_Alexander_Canario_s_sprawling_catch_Alexander_Canario_s_sprawling_catch_Alexander_Canario_s_sprawling_catch_Alexander_Canar.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000
