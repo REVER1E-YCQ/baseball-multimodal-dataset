@@ -1,0 +1,7 @@
+video_title: Steven Kwan's sac fly Steven Kwan's sac fly Steven Kwan's sac fly Steven Kwan hits a fly ball deep enough for Daniel Schneeman to score from third to make the score 7-2
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/06/b8c66f2b-77650254-dc8211b9-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_777226_carlos-hernandez-in-play-run-s-to-steven-kwan
+clip_id: MLB_777226_carlos-hernandez-in-play-run-s-to-steven-kwan_auto1_1p460_8p460
+source_path: raw_sources\MLB_777226_carlos-hernandez-in-play-run-s-to-steven-kwan_Steven_Kwan_s_sac_fly_Steven_Kwan_s_sac_fly_Steven_Kwan_s_sac_fly_Steven_Kwan_hits_a_fly_ball_deep_enough_for_Dan.mp4
+clip_start_time: 1.460
+clip_end_time: 8.460
