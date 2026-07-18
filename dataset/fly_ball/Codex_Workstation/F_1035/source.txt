@@ -1,0 +1,7 @@
+video_title: Field View: Anthony Volpe's solo home run Field View: Anthony Volpe's solo home run Field View: Anthony Volpe's solo home run Check out this unique angle of Anthony Volpe's solo home run in the bottom of the 2nd inning against the Red Sox
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/30/1cb57f0a-75212d7a-45916651-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_813074_field-view-anthony-volpe-s-solo-home-run
+clip_id: MLB_813074_field-view-anthony-volpe-s-solo-home-run_auto1_4p760_11p760
+source_path: raw_sources\MLB_813074_field-view-anthony-volpe-s-solo-home-run_Field_View_Anthony_Volpe_s_solo_home_run_Field_View_Anthony_Volpe_s_solo_home_run_Field_View_Anthony_Volpe_s_solo_home.mp4
+clip_start_time: 4.760
+clip_end_time: 11.760

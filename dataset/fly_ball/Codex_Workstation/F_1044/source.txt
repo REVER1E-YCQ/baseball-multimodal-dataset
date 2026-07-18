@@ -1,0 +1,7 @@
+video_title: Luis García Jr.'s second homer of the night (15) Luis García Jr.'s second homer of the night (15) Luis García Jr.'s second homer of the night (15) Luis García Jr. brings the Nationals within three runs of the White Sox with a two-run home run in the bottom of the 6th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/26/940c8eb6-3a40c1f9-d1d7bc2b-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776165_luis-garcia-jr-homers-15-on-a-fly-ball-to-right-field-daylen-lile-sco
+clip_id: MLB_776165_luis-garcia-jr-homers-15-on-a-fly-ball-to-right-field-daylen-lile-sco_auto1_3p380_10p380
+source_path: raw_sources\MLB_776165_luis-garcia-jr-homers-15-on-a-fly-ball-to-right-field-daylen-lile-sco_Luis_Garc_a_Jr._s_second_homer_of_the_night_15_Luis_Garc_a_Jr._s_second_homer_of_the_nigh.mp4
+clip_start_time: 3.380
+clip_end_time: 10.380

@@ -1,0 +1,7 @@
+video_title: Carter Jenson crushes a 482-foot home run Carter Jenson crushes a 482-foot home run Carter Jenson crushes a 482-foot home run Statcast measures the projected distance and exit velocity of Carter Jenson's 482 -foot homer at an exit velocity of 112.7 mph
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/28/8c0e9b5b-44538aef-07ed7354-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776138_carter-jenson-crushes-a-482-foot-home-run
+clip_id: MLB_776138_carter-jenson-crushes-a-482-foot-home-run_auto1_2p900_9p900
+source_path: raw_sources\MLB_776138_carter-jenson-crushes-a-482-foot-home-run_Carter_Jenson_crushes_a_482-foot_home_run_Carter_Jenson_crushes_a_482-foot_home_run_Carter_Jenson_crushes_a_482-foot_.mp4
+clip_start_time: 2.900
+clip_end_time: 9.900

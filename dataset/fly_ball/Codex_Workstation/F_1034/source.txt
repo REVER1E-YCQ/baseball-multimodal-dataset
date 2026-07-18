@@ -1,0 +1,7 @@
+video_title: Teoscar Hernández's second home run Teoscar Hernández's second home run Teoscar Hernández's second home run Teoscar Hernández hits a solo homer to right-center, his second home run of the game, while extending the Dodgers' lead to 6-0 in the bottom of the 5th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/30/bbc55740-dacb066d-dcec4d62-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_813069_teoscar-hernandez-s-second-home-run-2352
+clip_id: MLB_813069_teoscar-hernandez-s-second-home-run-2352_auto1_2p560_9p560
+source_path: raw_sources\MLB_813069_teoscar-hernandez-s-second-home-run-2352_Teoscar_Hern_ndez_s_second_home_run_Teoscar_Hern_ndez_s_second_home_run_Teoscar_Hern_ndez_s_second_home_run_Teoscar_He.mp4
+clip_start_time: 2.560
+clip_end_time: 9.560

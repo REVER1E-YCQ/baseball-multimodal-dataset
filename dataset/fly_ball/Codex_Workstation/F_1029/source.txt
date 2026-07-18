@@ -1,0 +1,7 @@
+video_title: Hernández, Edman launch back-to-back homers Hernández, Edman launch back-to-back homers Hernández, Edman launch back-to-back homers Teoscar Hernández and Tommy Edman slug consecutive homers to go back-to-back and put the Dodgers ahead by five in the bottom of the 3rd
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/30/b4d20bfb-87119c49-47f07428-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_813069_hernandez-edman-launch-back-to-back-homers
+clip_id: MLB_813069_hernandez-edman-launch-back-to-back-homers_auto1_4p120_11p120
+source_path: raw_sources\MLB_813069_hernandez-edman-launch-back-to-back-homers_Hern_ndez_Edman_launch_back-to-back_homers_Hern_ndez_Edman_launch_back-to-back_homers_Hern_ndez_Edman_launch_back-to.mp4
+clip_start_time: 4.120
+clip_end_time: 11.120
