@@ -1,0 +1,7 @@
+video_title: Jorge Polanco's sacrifice fly Jorge Polanco's sacrifice fly Jorge Polanco's sacrifice fly Jorge Polanco drives a sacrifice fly to center field, scoring Julio Rodríguez to put the Mariners ahead 10-0 in the 4th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/07/979104aa-992cd2c1-ce913329-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_776428_jorge-polanco-out-on-a-sacrifice-fly-to-center-fielder-michael-harris
+clip_id: MLB_776428_jorge-polanco-out-on-a-sacrifice-fly-to-center-fielder-michael-harris_auto1_1p440_8p440
+source_path: raw_sources\MLB_776428_jorge-polanco-out-on-a-sacrifice-fly-to-center-fielder-michael-harris_Jorge_Polanco_s_sacrifice_fly_Jorge_Polanco_s_sacrifice_fly_Jorge_Polanco_s_sacrifice_fly.mp4
+clip_start_time: 1.440
+clip_end_time: 8.440

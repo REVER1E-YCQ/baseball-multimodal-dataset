@@ -1,0 +1,7 @@
+video_title: Ozzie Albies' solo homer (16) Ozzie Albies' solo homer (16) Ozzie Albies' solo homer (16) Ozzie Albies crushes a solo home run to left-center to give the Braves an early 1-0 lead in the bottom of the 1st
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/08/f4802da2-a4b82710-395314d7-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776412_ozzie-albies-homers-16-on-a-fly-ball-to-center-field
+clip_id: MLB_776412_ozzie-albies-homers-16-on-a-fly-ball-to-center-field_auto1_14p940_21p940
+source_path: raw_sources\MLB_776412_ozzie-albies-homers-16-on-a-fly-ball-to-center-field_Ozzie_Albies_solo_homer_16_Ozzie_Albies_solo_homer_16_Ozzie_Albies_solo_homer_16_Ozzie_Albies_crushes_a_so.mp4
+clip_start_time: 14.940
+clip_end_time: 21.940

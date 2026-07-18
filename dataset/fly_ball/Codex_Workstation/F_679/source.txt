@@ -1,0 +1,7 @@
+video_title: Shohei Ohtani's two-homer game Shohei Ohtani's two-homer game Shohei Ohtani's two-homer game Shohei Ohtani belts two solo home runs to center field against the Orioles, one to lead off the game and a second in the 3rd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/07/ca3f8af4-a722ca8b-da9f1d59-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776427_shohei-ohtani-s-two-homer-game-x6514
+clip_id: MLB_776427_shohei-ohtani-s-two-homer-game-x6514_auto1_2p500_9p500
+source_path: raw_sources\MLB_776427_shohei-ohtani-s-two-homer-game-x6514_Shohei_Ohtani_s_two-homer_game_Shohei_Ohtani_s_two-homer_game_Shohei_Ohtani_s_two-homer_game_Shohei_Ohtani_belts_two_solo_.mp4
+clip_start_time: 2.500
+clip_end_time: 9.500

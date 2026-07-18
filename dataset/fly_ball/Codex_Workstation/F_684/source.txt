@@ -1,0 +1,7 @@
+video_title: Field View: Cal Raleigh's 53rd home run Field View: Cal Raleigh's 53rd home run Field View: Cal Raleigh's 53rd home run Don't miss this unique look at Cal Raleigh's three-run home run in the top of the 9th inning against the Braves, his 53rd of the season
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/07/d3490233-3876ac45-7c331502-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776428_field-view-cal-raleigh-s-53rd-home-run
+clip_id: MLB_776428_field-view-cal-raleigh-s-53rd-home-run_auto1_0p000_7p000
+source_path: raw_sources\MLB_776428_field-view-cal-raleigh-s-53rd-home-run_Field_View_Cal_Raleigh_s_53rd_home_run_Field_View_Cal_Raleigh_s_53rd_home_run_Field_View_Cal_Raleigh_s_53rd_home_run_Don.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

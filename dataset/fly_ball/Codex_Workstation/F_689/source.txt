@@ -1,0 +1,7 @@
+video_title: Christian Walker's solo home run (22) Christian Walker's solo home run (22) Christian Walker's solo home run (22) Christian Walker crushes a solo home run to center field, giving the Astros an early 1-0 lead in the 3rd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/06/92ad7d53-da5cb054-0fce0a47-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776432_christian-walker-s-solo-home-run-22
+clip_id: MLB_776432_christian-walker-s-solo-home-run-22_auto1_4p920_11p920
+source_path: raw_sources\MLB_776432_christian-walker-s-solo-home-run-22_Christian_Walker_s_solo_home_run_22_Christian_Walker_s_solo_home_run_22_Christian_Walker_s_solo_home_run_22_Christian_Walke.mp4
+clip_start_time: 4.920
+clip_end_time: 11.920

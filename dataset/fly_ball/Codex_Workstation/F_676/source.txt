@@ -1,0 +1,7 @@
+video_title: Matt Olson's solo home run (23) Matt Olson's solo home run (23) Matt Olson's solo home run (23) Matt Olson launches a solo homer to center field to increase the Braves' lead to 4-1 in the bottom of the 8th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/08/1fffa3ff-1c3afc41-6fd95074-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776412_matt-olson-homers-23-on-a-fly-ball-to-center-field
+clip_id: MLB_776412_matt-olson-homers-23-on-a-fly-ball-to-center-field_auto1_1p760_8p760
+source_path: raw_sources\MLB_776412_matt-olson-homers-23-on-a-fly-ball-to-center-field_Matt_Olson_s_solo_home_run_23_Matt_Olson_s_solo_home_run_23_Matt_Olson_s_solo_home_run_23_Matt_Olson_launche.mp4
+clip_start_time: 1.760
+clip_end_time: 8.760
