@@ -1,0 +1,7 @@
+video_title: Pete Alonso's two-homer game Pete Alonso's two-homer game Pete Alonso's two-homer game Pete Alonso crushes solo home runs in the 1st and 7th in his stellar offensive performance against the Tigers
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/02/f011945f-7c645f28-8087641d-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776490_pete-alonso-s-two-homer-game-x0620
+clip_id: MLB_776490_pete-alonso-s-two-homer-game-x0620_auto1_9p540_16p540
+source_path: raw_sources\MLB_776490_pete-alonso-s-two-homer-game-x0620_Pete_Alonso_s_two-homer_game_Pete_Alonso_s_two-homer_game_Pete_Alonso_s_two-homer_game_Pete_Alonso_crushes_solo_home_runs_in.mp4
+clip_start_time: 9.540
+clip_end_time: 16.540

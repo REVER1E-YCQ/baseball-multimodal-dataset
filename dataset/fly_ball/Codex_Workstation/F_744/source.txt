@@ -1,0 +1,7 @@
+video_title: Juan Soto's nonchalant home run robbery Juan Soto's nonchalant home run robbery Juan Soto's nonchalant home run robbery Juan Soto reaches up at the wall in right-center to casually rob a homer from Kerry Carpenter in the bottom of the 9th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/02/215ac743-909b0c74-803f145c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776490_kerry-carpenter-flies-out-to-right-fielder-juan-soto-frkzbs
+clip_id: MLB_776490_kerry-carpenter-flies-out-to-right-fielder-juan-soto-frkzbs_auto1_18p125_25p125
+source_path: raw_sources\MLB_776490_kerry-carpenter-flies-out-to-right-fielder-juan-soto-frkzbs_Juan_Soto_s_nonchalant_home_run_robbery_Juan_Soto_s_nonchalant_home_run_robbery_Juan_Soto_s_nonchal.mp4
+clip_start_time: 18.125
+clip_end_time: 25.125
