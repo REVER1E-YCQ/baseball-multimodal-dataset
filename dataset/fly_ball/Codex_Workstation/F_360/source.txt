@@ -1,0 +1,7 @@
+video_title: Yandy Díaz' sacrifice fly Yandy Díaz' sacrifice fly Yandy Díaz' sacrifice fly Yandy Díaz lifts a sacrifice fly ball to left field in the top of the 8th inning, increasing the Rays' lead 4-2
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/28/21dd90e5-867cc701-5a280c35-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776970_tim-hill-in-play-run-s-to-yandy-diaz
+clip_id: MLB_776970_tim-hill-in-play-run-s-to-yandy-diaz_auto1_2p920_9p920
+source_path: raw_sources\MLB_776970_tim-hill-in-play-run-s-to-yandy-diaz_Yandy_D_az_sacrifice_fly_Yandy_D_az_sacrifice_fly_Yandy_D_az_sacrifice_fly_Yandy_D_az_lifts_a_sacrifice_fly_ball_to_left_f.mp4
+clip_start_time: 2.920
+clip_end_time: 9.920

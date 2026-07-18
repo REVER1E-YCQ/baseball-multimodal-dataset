@@ -1,0 +1,7 @@
+video_title: Joey Loperfido's sliding catch Joey Loperfido's sliding catch Joey Loperfido's sliding catch Joey Loperfido makes a nifty sliding grab on a sharp line drive from Bobby Witt Jr. for the second out of the 1st inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/01/baac5cff-635a6d57-ee7e56c1-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_776920_bobby-witt-jr-lines-out-sharply-to-left-fielder-joey-loperfido
+clip_id: MLB_776920_bobby-witt-jr-lines-out-sharply-to-left-fielder-joey-loperfido_auto1_3p960_10p960
+source_path: raw_sources\MLB_776920_bobby-witt-jr-lines-out-sharply-to-left-fielder-joey-loperfido_Joey_Loperfido_s_sliding_catch_Joey_Loperfido_s_sliding_catch_Joey_Loperfido_s_sliding_catch_Joe.mp4
+clip_start_time: 3.960
+clip_end_time: 10.960

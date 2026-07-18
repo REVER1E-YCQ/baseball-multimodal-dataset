@@ -1,0 +1,7 @@
+video_title: Zach Neto's diving grab  Zach Neto's diving grab  Zach Neto's diving grab  Zach Neto lays out to snag a sharp line drive off the bat of Jonah Heim in the top of the 2nd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/29/ed3223c5-07bc1cee-e9c6f0be-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776945_jonah-heim-lines-out-to-shortstop-zach-neto
+clip_id: MLB_776945_jonah-heim-lines-out-to-shortstop-zach-neto_auto1_0p000_7p000
+source_path: raw_sources\MLB_776945_jonah-heim-lines-out-to-shortstop-zach-neto_Zach_Neto_s_diving_grab_Zach_Neto_s_diving_grab_Zach_Neto_s_diving_grab_Zach_Neto_lays_out_to_snag_a_sharp_line_dri.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

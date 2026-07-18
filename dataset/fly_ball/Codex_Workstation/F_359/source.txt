@@ -1,0 +1,7 @@
+video_title: Tony Santillan snags line drive Tony Santillan snags line drive Tony Santillan snags line drive Tony Santillan snags a 93 mph line drive off the bat of Tommy Edman in the top of the 8th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/29/587a3124-cf51e6b4-8aea0dff-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776963_miguel-rojas-lines-out-to-pitcher-tony-santillan
+clip_id: MLB_776963_miguel-rojas-lines-out-to-pitcher-tony-santillan_auto1_1p080_8p080
+source_path: raw_sources\MLB_776963_miguel-rojas-lines-out-to-pitcher-tony-santillan_Tony_Santillan_snags_line_drive_Tony_Santillan_snags_line_drive_Tony_Santillan_snags_line_drive_Tony_Santillan.mp4
+clip_start_time: 1.080
+clip_end_time: 8.080

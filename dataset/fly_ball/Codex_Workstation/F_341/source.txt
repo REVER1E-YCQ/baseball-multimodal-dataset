@@ -1,0 +1,7 @@
+video_title: Masataka Yoshida's two-run single Masataka Yoshida's two-run single Masataka Yoshida's two-run single Masataka Yoshida singles on a line drive to right field and two runs score, giving the Red Sox an early 2-0 lead in the 1st inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/11/075bdccd-161e8c2c-c5d67ed4-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746935_oak-bos-656e70
+clip_id: MLB_746935_oak-bos-656e70_auto1_0p120_7p120
+source_path: raw_sources\MLB_746935_oak-bos-656e70_Masataka_Yoshida_s_two-run_single_Masataka_Yoshida_s_two-run_single_Masataka_Yoshida_s_two-run_single_Masataka_Yoshida_singles_on_a_line_drive_t.mp4
+clip_start_time: 0.120
+clip_end_time: 7.120

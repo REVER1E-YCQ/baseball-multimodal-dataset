@@ -1,0 +1,7 @@
+video_title: Wilyer Abreu's RBI double Wilyer Abreu's RBI double Wilyer Abreu's RBI double Wilyer Abreu doubles on a line drive to right field, driving in Connor Wong to increase the Red Sox's lead to 3-0 in the 1st
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/11/ecd65ec2-0feeb4f4-1bf7dbb0-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746935_luis-medina-in-play-run-s-to-wilyer-abreu
+clip_id: MLB_746935_luis-medina-in-play-run-s-to-wilyer-abreu_auto1_14p420_21p420
+source_path: raw_sources\MLB_746935_luis-medina-in-play-run-s-to-wilyer-abreu_Wilyer_Abreu_s_RBI_double_Wilyer_Abreu_s_RBI_double_Wilyer_Abreu_s_RBI_double_Wilyer_Abreu_doubles_on_a_line_drive_to.mp4
+clip_start_time: 14.420
+clip_end_time: 21.420
