@@ -1,0 +1,7 @@
+video_title: Trevor Larnach's leaping grab Trevor Larnach's leaping grab Trevor Larnach's leaping grab Trevor Larnach elevates to make the catch in left on a sharp line drive off the bat of Jarren Duran
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/04/e4c647e1-6f9cf2e6-cea673bc-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_778063_jarren-duran-lines-out-sharply-to-left-fielder-trevor-larnach
+clip_id: MLB_778063_jarren-duran-lines-out-sharply-to-left-fielder-trevor-larnach_auto1_5p420_12p420
+source_path: raw_sources\MLB_778063_jarren-duran-lines-out-sharply-to-left-fielder-trevor-larnach_Trevor_Larnach_s_leaping_grab_Trevor_Larnach_s_leaping_grab_Trevor_Larnach_s_leaping_grab_Trevor_.mp4
+clip_start_time: 5.420
+clip_end_time: 12.420

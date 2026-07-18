@@ -1,0 +1,7 @@
+video_title: Corey Seager singles in the 4th Corey Seager singles in the 4th Corey Seager singles in the 4th Corey Seager singles on a sharp line drive to left fielder Randy Arozarena
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/03/15df2438-c4488aea-487ddd8f-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_778070_corey-seager-singles-on-a-sharp-line-drive-to-left-fielder-randy-aroz
+clip_id: MLB_778070_corey-seager-singles-on-a-sharp-line-drive-to-left-fielder-randy-aroz_auto1_0p000_7p000
+source_path: raw_sources\MLB_778070_corey-seager-singles-on-a-sharp-line-drive-to-left-fielder-randy-aroz_Corey_Seager_singles_in_the_4th_Corey_Seager_singles_in_the_4th_Corey_Seager_singles_in_t.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

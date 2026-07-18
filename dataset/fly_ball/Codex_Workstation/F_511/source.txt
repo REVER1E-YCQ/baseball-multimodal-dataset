@@ -1,0 +1,7 @@
+video_title: Brendan Donovan's tremendous leaping catch Brendan Donovan's tremendous leaping catch Brendan Donovan's tremendous leaping catch Brendan Donovan tracks a line drive from CJ Abrams and makes a difficult leaping grab on the warning track for the final out of the 3rd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/10/1a0d6cd8-9dbe81b7-91a594ad-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777980_cj-abrams-flies-out-sharply-to-left-fielder-brendan-donovan
+clip_id: MLB_777980_cj-abrams-flies-out-sharply-to-left-fielder-brendan-donovan_auto1_6p380_13p380
+source_path: raw_sources\MLB_777980_cj-abrams-flies-out-sharply-to-left-fielder-brendan-donovan_Brendan_Donovan_s_tremendous_leaping_catch_Brendan_Donovan_s_tremendous_leaping_catch_Brendan_Donov.mp4
+clip_start_time: 6.380
+clip_end_time: 13.380

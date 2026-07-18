@@ -1,0 +1,7 @@
+video_title: Hunter Renfroe's diving catch  Hunter Renfroe's diving catch  Hunter Renfroe's diving catch  Hunter Renfroe sprints toward the right-field line, dives and catches a sinking liner to take a hit away from Christian Walker in the 2nd
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/14/0b4612ae-130e1be6-50d05145-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777920_michael-lorenzen-in-play-out-s-to-christian-walker-ecepsf
+clip_id: MLB_777920_michael-lorenzen-in-play-out-s-to-christian-walker-ecepsf_auto1_5p680_12p680
+source_path: raw_sources\MLB_777920_michael-lorenzen-in-play-out-s-to-christian-walker-ecepsf_Hunter_Renfroe_s_diving_catch_Hunter_Renfroe_s_diving_catch_Hunter_Renfroe_s_diving_catch_Hunter_Renf.mp4
+clip_start_time: 5.680
+clip_end_time: 12.680

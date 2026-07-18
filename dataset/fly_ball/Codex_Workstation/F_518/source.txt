@@ -1,0 +1,7 @@
+video_title: Brandon Lowe, Taylor Walls execute double play Brandon Lowe, Taylor Walls execute double play Brandon Lowe, Taylor Walls execute double play Brandon Lowe makes a nice catch on a line drive and flips the ball to Taylor Walls to complete the double play
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/06/5ebe99bd-9d145ae7-6cbcd750-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_778040_mason-montgomery-in-play-out-s-to-bryce-harper
+clip_id: MLB_778040_mason-montgomery-in-play-out-s-to-bryce-harper_auto1_13p940_20p940
+source_path: raw_sources\MLB_778040_mason-montgomery-in-play-out-s-to-bryce-harper_Brandon_Lowe_Taylor_Walls_execute_double_play_Brandon_Lowe_Taylor_Walls_execute_double_play_Brandon_Lowe_Taylor_.mp4
+clip_start_time: 13.940
+clip_end_time: 20.940

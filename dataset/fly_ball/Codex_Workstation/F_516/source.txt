@@ -1,0 +1,7 @@
+video_title: Jacob Young's two-run single Jacob Young's two-run single Jacob Young's two-run single Jacob Young pads the Nationals' lead by driving in two with a line drive to center field in the bottom of the 6th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/06/2d6c38e4-d0b174c7-57a10d86-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_778026_matt-festa-in-play-run-s-to-jacob-young
+clip_id: MLB_778026_matt-festa-in-play-run-s-to-jacob-young_auto1_4p600_11p600
+source_path: raw_sources\MLB_778026_matt-festa-in-play-run-s-to-jacob-young_Jacob_Young_s_two-run_single_Jacob_Young_s_two-run_single_Jacob_Young_s_two-run_single_Jacob_Young_pads_the_Nationals_l.mp4
+clip_start_time: 4.600
+clip_end_time: 11.600

@@ -1,0 +1,7 @@
+video_title: Addison Barger's solo home run (1) Addison Barger's solo home run (1) Addison Barger's solo home run (1) Addison Barger goes deep for the first time this season and makes it an 8-1 Blue Jays lead with a line drive home run to right field
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/11/2a608cf0-412397cb-b3391be5-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777958_addison-barger-homers-1-on-a-line-drive-to-right-field
+clip_id: MLB_777958_addison-barger-homers-1-on-a-line-drive-to-right-field_auto1_0p000_7p000
+source_path: raw_sources\MLB_777958_addison-barger-homers-1-on-a-line-drive-to-right-field_Addison_Barger_s_solo_home_run_1_Addison_Barger_s_solo_home_run_1_Addison_Barger_s_solo_home_run_1_Addis.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000
