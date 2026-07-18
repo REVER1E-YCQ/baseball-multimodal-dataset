@@ -1,0 +1,7 @@
+video_title: Jacob Young's stupendous defensive performance Jacob Young's stupendous defensive performance Jacob Young's stupendous defensive performance Jacob Young makes two stupendous outfield catches, including a home run robbery in the bottom of the 9th inning to help the Nationals towards a 3-2 win
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/21/209478f7-01591590-5a407f0f-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776237_jacob-young-s-stupendous-outfield-catches
+clip_id: MLB_776237_jacob-young-s-stupendous-outfield-catches_auto1_0p000_7p000
+source_path: raw_sources\MLB_776237_jacob-young-s-stupendous-outfield-catches_Jacob_Young_s_stupendous_defensive_performance_Jacob_Young_s_stupendous_defensive_performance_Jacob_Young_s_stupendou.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

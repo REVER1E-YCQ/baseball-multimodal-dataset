@@ -1,0 +1,7 @@
+video_title: Willi Castro ruled safe after challenge Willi Castro ruled safe after challenge Willi Castro ruled safe after challenge Willi Castro returns to first base safely on a fly ball and the call is upheld following an Astros challenge in the 5th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/31/983b2d3e-f38fb082-d9d8148e-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746387_ronel-blanco-in-play-out-s-to-jose-miranda-ijrkdb
+clip_id: MLB_746387_ronel-blanco-in-play-out-s-to-jose-miranda-ijrkdb_auto1_33p960_40p960
+source_path: raw_sources\MLB_746387_ronel-blanco-in-play-out-s-to-jose-miranda-ijrkdb_Willi_Castro_ruled_safe_after_challenge_Willi_Castro_ruled_safe_after_challenge_.mp4
+clip_start_time: 33.960
+clip_end_time: 40.960

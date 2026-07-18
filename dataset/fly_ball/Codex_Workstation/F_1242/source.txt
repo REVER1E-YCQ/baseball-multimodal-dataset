@@ -1,0 +1,7 @@
+video_title: Vinnie Pasquantino's solo home run (8) Vinnie Pasquantino's solo home run (8) Vinnie Pasquantino's solo home run (8) Vinnie Pasquantino homers on a fly ball to right field, tying the game at 1 in the bottom of the 4th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/24/7e9a31ad-e9f2af76-ef68f5ae-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746298_vinnie-pasquantino-homers-8-on-a-fly-ball-to-right-field
+clip_id: MLB_746298_vinnie-pasquantino-homers-8-on-a-fly-ball-to-right-field_auto1_8p640_15p640
+source_path: raw_sources\MLB_746298_vinnie-pasquantino-homers-8-on-a-fly-ball-to-right-field_Vinnie_Pasquantino_s_solo_home_run_8_Vinnie_Pasquantino_s_solo_home_run_8_Vinnie_Pasquantino_s_solo_ho.mp4
+clip_start_time: 8.640
+clip_end_time: 15.640

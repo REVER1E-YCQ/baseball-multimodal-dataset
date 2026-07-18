@@ -1,0 +1,7 @@
+video_title: Brenton Doyle makes a diving catch Brenton Doyle makes a diving catch Brenton Doyle makes a diving catch Brenton Doyle charges a soft liner and lays out to make the diving catch, robbing Miguel Rojas of a hit
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/31/756d916d-99e1e7a2-2cde29af-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746140_miguel-rojas-lines-out-to-center-fielder-brenton-doyle
+clip_id: MLB_746140_miguel-rojas-lines-out-to-center-fielder-brenton-doyle_auto1_10p700_17p700
+source_path: raw_sources\MLB_746140_miguel-rojas-lines-out-to-center-fielder-brenton-doyle_Brenton_Doyle_makes_a_diving_catch_Brenton_Doyle_makes_a_diving_catch_Brenton_Do.mp4
+clip_start_time: 10.700
+clip_end_time: 17.700

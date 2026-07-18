@@ -1,0 +1,7 @@
+video_title: Aaron Judge's solo home run (38) Aaron Judge's solo home run (38) Aaron Judge's solo home run (38) Aaron Judge homers on a fly ball to left field, giving the Yankees a 1-0 lead in the top of the 1st
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/29/179c2bd0-f64a5df1-d8cb8885-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745547_aaron-judge-homers-38-on-a-fly-ball-to-left-field
+clip_id: MLB_745547_aaron-judge-homers-38-on-a-fly-ball-to-left-field_auto1_1p140_8p140
+source_path: raw_sources\MLB_745547_aaron-judge-homers-38-on-a-fly-ball-to-left-field_Aaron_Judge_s_solo_home_run_38_Aaron_Judge_s_solo_home_run_38_Aaron_Judge_s_solo_home_run_38_Aaron_Judge_home.mp4
+clip_start_time: 1.140
+clip_end_time: 8.140

@@ -1,0 +1,7 @@
+video_title: Tyler Freeman's catch at the wall Tyler Freeman's catch at the wall Tyler Freeman's catch at the wall Tyler Freeman tracks a fly ball to the warning track and makes a great catch at the wall to take away a hit from Elehuris Montero in the 8th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/29/677e95d7-1a7e0f51-ab0ec21c-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746551_pedro-avila-in-play-out-s-to-elehuris-montero
+clip_id: MLB_746551_pedro-avila-in-play-out-s-to-elehuris-montero_auto1_6p400_13p400
+source_path: raw_sources\MLB_746551_pedro-avila-in-play-out-s-to-elehuris-montero_Tyler_Freeman_s_catch_at_the_wall_Tyler_Freeman_s_catch_at_the_wall_Tyler_Freema.mp4
+clip_start_time: 6.400
+clip_end_time: 13.400

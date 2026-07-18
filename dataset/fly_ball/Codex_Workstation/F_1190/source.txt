@@ -1,0 +1,7 @@
+video_title: Phillies turn double play Phillies turn double play Phillies turn double play Ali Sánchez sends a line drive to Bryson Stott, initiating a double play to Kody Clemens in the top of the 3rd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/28/45740ecf-00e49296-6b87868c-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745560_cristopher-sanchez-in-play-out-s-to-ali-sanchez
+clip_id: MLB_745560_cristopher-sanchez-in-play-out-s-to-ali-sanchez_auto1_13p380_20p380
+source_path: raw_sources\MLB_745560_cristopher-sanchez-in-play-out-s-to-ali-sanchez_Phillies_turn_double_play_Phillies_turn_double_play_Phillies_turn_double_play_Ali_S_nchez_sends_a_line_drive_to.mp4
+clip_start_time: 13.380
+clip_end_time: 20.380

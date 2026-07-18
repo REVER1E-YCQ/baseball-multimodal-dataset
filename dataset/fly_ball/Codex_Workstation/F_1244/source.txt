@@ -1,0 +1,7 @@
+video_title: Jose Siri's diving catch Jose Siri's diving catch Jose Siri's diving catch Jose Siri chases down a sinking line drive and dives to make a great catch, robbing Alex Bregman of a base hit
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-08/02/0012f300-c99dc16e-399ac918-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746354_alex-bregman-lines-out-to-center-fielder-jose-siri
+clip_id: MLB_746354_alex-bregman-lines-out-to-center-fielder-jose-siri_auto1_4p140_11p140
+source_path: raw_sources\MLB_746354_alex-bregman-lines-out-to-center-fielder-jose-siri_Jose_Siri_s_diving_catch_Jose_Siri_s_diving_catch_Jose_Siri_s_diving_catch_Jose_Siri_chases_down_a_sinking_l.mp4
+clip_start_time: 4.140
+clip_end_time: 11.140

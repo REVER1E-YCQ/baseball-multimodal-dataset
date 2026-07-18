@@ -1,0 +1,7 @@
+video_title: Brent Rooker's two-run home run (30) Brent Rooker's two-run home run (30) Brent Rooker's two-run home run (30) Brent Rooker crushes his 30th home run of the season, a two-run homer to give the Athletics an early 2-0 lead in the 1st inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/18/21bbdbab-1cb47fc8-8e3bb66c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776281_brent-rooker-homers-30-on-a-fly-ball-to-left-field-lawrence-butler-sc
+clip_id: MLB_776281_brent-rooker-homers-30-on-a-fly-ball-to-left-field-lawrence-butler-sc_auto1_0p040_7p040
+source_path: raw_sources\MLB_776281_brent-rooker-homers-30-on-a-fly-ball-to-left-field-lawrence-butler-sc_Brent_Rooker_s_two-run_home_run_30_Brent_Rooker_s_two-run_home_run_30_Brent_Rooker_s_two-.mp4
+clip_start_time: 0.040
+clip_end_time: 7.040

@@ -1,0 +1,7 @@
+video_title: Mike Yastrzemski's sacrifice fly Mike Yastrzemski's sacrifice fly Mike Yastrzemski's sacrifice fly Mike Yastrzemski hits a towering fly ball to right field for a sacrifice fly to increase the Giants' lead to 3-0
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/27/4f423428-2560fc43-d8fafa6c-csvm-diamondx64-asset-4000K.mp4
+source_id: MLB_745310_mike-yastrzemski-out-on-a-sacrifice-fly-to-right-fielder-jake-cave-cu
+clip_id: MLB_745310_mike-yastrzemski-out-on-a-sacrifice-fly-to-right-fielder-jake-cave-cu_auto1_17p628_24p628
+source_path: raw_sources\MLB_745310_mike-yastrzemski-out-on-a-sacrifice-fly-to-right-fielder-jake-cave-cu_Mike_Yastrzemski_s_sacrifice_fly_Mike_Yastrzemski_s_sacrifice_fly_Mike_Yastrzemski_s_sacr.mp4
+clip_start_time: 17.628
+clip_end_time: 24.628

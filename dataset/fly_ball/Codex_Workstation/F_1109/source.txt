@@ -1,0 +1,7 @@
+video_title: Bo Naylor's second solo home run of the game (14) Bo Naylor's second solo home run of the game (14) Bo Naylor's second solo home run of the game (14) Bo Naylo connects for his second solo home run of the game, extending the Guardians' lead to 6-0 in the 8th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/20/d125fa87-908981f8-0bb565ec-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777839_bo-naylor-s-second-solo-home-run-of-the-game-14
+clip_id: MLB_777839_bo-naylor-s-second-solo-home-run-of-the-game-14_auto1_3p740_10p740
+source_path: raw_sources\MLB_777839_bo-naylor-s-second-solo-home-run-of-the-game-14_Bo_Naylor_s_second_solo_home_run_of_the_game_14_Bo_Naylor_s_second_solo_home_run_of_the_game_14_Bo_Naylor_s_sec.mp4
+clip_start_time: 3.740
+clip_end_time: 10.740

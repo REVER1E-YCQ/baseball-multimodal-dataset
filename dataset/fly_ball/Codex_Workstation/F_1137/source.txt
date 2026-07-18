@@ -1,0 +1,7 @@
+video_title: Jake Meyers' amazing jumping catch Jake Meyers' amazing jumping catch Jake Meyers' amazing jumping catch Jake Meyers tracks a deep fly ball in center field and leaps to make the grab at the wall, robbing Riley Greene of extra bases
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/14/52d7610f-7baf196c-e6250540-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746378_riley-greene-flies-out-sharply-to-center-fielder-jake-meyers
+clip_id: MLB_746378_riley-greene-flies-out-sharply-to-center-fielder-jake-meyers_auto1_15p640_22p640
+source_path: raw_sources\MLB_746378_riley-greene-flies-out-sharply-to-center-fielder-jake-meyers_Jake_Meyers_amazing_jumping_catch_Jake_Meyers_amazing_jumping_catch_Jake_Meyers_.mp4
+clip_start_time: 15.640
+clip_end_time: 22.640

@@ -1,0 +1,7 @@
+video_title: Mike Yastrzemski's second homer of the game (17) Mike Yastrzemski's second homer of the game (17) Mike Yastrzemski's second homer of the game (17) Mike Yastrzemski crushes a solo home run to right-center field, his second homer of the game, increasing the Royals' lead to 9-0 in the 8th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/28/cd7bcb5d-4ae6aede-a3554c30-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776138_osvaldo-bido-in-play-run-s-to-mike-yastrzemski
+clip_id: MLB_776138_osvaldo-bido-in-play-run-s-to-mike-yastrzemski_auto1_3p780_10p780
+source_path: raw_sources\MLB_776138_osvaldo-bido-in-play-run-s-to-mike-yastrzemski_Mike_Yastrzemski_s_second_homer_of_the_game_17_Mike_Yastrzemski_s_second_homer_of_the_game_17_Mike_Yastrzemski_s.mp4
+clip_start_time: 3.780
+clip_end_time: 10.780

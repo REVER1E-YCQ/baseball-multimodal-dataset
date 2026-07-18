@@ -1,0 +1,7 @@
+video_title: Alex Verdugo makes a running catch Alex Verdugo makes a running catch Alex Verdugo makes a running catch Alex Verdugo chases down a line drive near the left-field wall and makes the grab to rob Nolan Schanuel of extra bases
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/28/15cac7fd-e69eccd7-e8ac1526-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746229_nestor-cortes-in-play-out-s-to-nolan-schanuel
+clip_id: MLB_746229_nestor-cortes-in-play-out-s-to-nolan-schanuel_auto1_4p180_11p180
+source_path: raw_sources\MLB_746229_nestor-cortes-in-play-out-s-to-nolan-schanuel_Alex_Verdugo_makes_a_running_catch_Alex_Verdugo_makes_a_running_catch_Alex_Verdu.mp4
+clip_start_time: 4.180
+clip_end_time: 11.180

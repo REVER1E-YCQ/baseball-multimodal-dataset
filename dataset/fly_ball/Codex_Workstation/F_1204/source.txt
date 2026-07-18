@@ -1,0 +1,7 @@
+video_title: Carlos Correa catches knuckling line drive Carlos Correa catches knuckling line drive Carlos Correa catches knuckling line drive Carlos Correa jumps and reacts quickly to snag a knuckling line drive in the 2nd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/10/3f69d556-a826912f-697d98f2-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745897_chris-paddack-in-play-out-s-to-michael-toglia
+clip_id: MLB_745897_chris-paddack-in-play-out-s-to-michael-toglia_auto1_0p000_7p000
+source_path: raw_sources\MLB_745897_chris-paddack-in-play-out-s-to-michael-toglia_Carlos_Correa_catches_knuckling_line_drive_Carlos_Correa_catches_knuckling_line_.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

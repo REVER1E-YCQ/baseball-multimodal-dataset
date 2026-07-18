@@ -1,0 +1,7 @@
+video_title: Daylen Lile's go-ahead inside-the-park home run (7) Daylen Lile's go-ahead inside-the-park home run (7) Daylen Lile's go-ahead inside-the-park home run (7) Daylen Lile sprints around the bases for an electric go-ahead inside-the-park home run, giving the Nationals a 5-3 lead in the 11th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/20/37f812ba-cfea437e-0386af7c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776252_tyler-rogers-in-play-run-s-to-daylen-lile
+clip_id: MLB_776252_tyler-rogers-in-play-run-s-to-daylen-lile_auto1_0p000_7p000
+source_path: raw_sources\MLB_776252_tyler-rogers-in-play-run-s-to-daylen-lile_Daylen_Lile_s_go-ahead_inside-the-park_home_run_7_Daylen_Lile_s_go-ahead_inside-the-park_home_run_7_Daylen_Lile_s_go-.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

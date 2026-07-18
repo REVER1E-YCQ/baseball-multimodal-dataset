@@ -1,0 +1,7 @@
+video_title: Taylor Ward robs a home run Taylor Ward robs a home run Taylor Ward robs a home run Taylor Ward tracks a fly ball into deep left field and reaches over the wall to snatch a potential home run from Tyler Soderstrom
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/24/447bb446-e2df711a-df5b9117-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746218_hans-crouse-in-play-out-s-to-tyler-soderstrom
+clip_id: MLB_746218_hans-crouse-in-play-out-s-to-tyler-soderstrom_auto1_0p000_7p000
+source_path: raw_sources\MLB_746218_hans-crouse-in-play-out-s-to-tyler-soderstrom_Taylor_Ward_robs_a_home_run_Taylor_Ward_robs_a_home_run_Taylor_Ward_robs_a_home_run_Taylor_Ward_tracks_a_fly_ball.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

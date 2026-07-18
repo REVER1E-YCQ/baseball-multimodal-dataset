@@ -1,0 +1,7 @@
+video_title: Francisco Lindor hits home run wearing No. 21 (27) Francisco Lindor hits home run wearing No. 21 (27) Francisco Lindor hits home run wearing No. 21 (27) Francisco Lindor hits a solo home run wearing No. 21 in honor of Roberto Clemente, extending the Mets' lead to 6-1 in the bottom of the 2nd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/16/803624c3-47a19594-40755a15-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776304_francisco-lindor-homers-27-on-a-fly-ball-to-right-center-field-awcvuk
+clip_id: MLB_776304_francisco-lindor-homers-27-on-a-fly-ball-to-right-center-field-awcvuk_auto1_0p000_7p000
+source_path: raw_sources\MLB_776304_francisco-lindor-homers-27-on-a-fly-ball-to-right-center-field-awcvuk_Francisco_Lindor_hits_home_run_wearing_No._21_27_Francisco_Lindor_hits_home_run_wearing_N.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

@@ -1,0 +1,7 @@
+video_title: Dominic Fletcher's two-run home run (1) Dominic Fletcher's two-run home run (1) Dominic Fletcher's two-run home run (1) Dominic Fletcher crushes a two-run home run to right field, his first of the season and extends the White Sox lead to 5-0 in the 4th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/28/f44f21b4-d6782d87-8161a934-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776143_dominic-fletcher-homers-1-on-a-fly-ball-to-right-field-lenyn-sosa-sco
+clip_id: MLB_776143_dominic-fletcher-homers-1-on-a-fly-ball-to-right-field-lenyn-sosa-sco_auto1_1p380_8p380
+source_path: raw_sources\MLB_776143_dominic-fletcher-homers-1-on-a-fly-ball-to-right-field-lenyn-sosa-sco_Dominic_Fletcher_s_two-run_home_run_1_Dominic_Fletcher_s_two-run_home_run_1_Dominic_Fletc.mp4
+clip_start_time: 1.380
+clip_end_time: 8.380

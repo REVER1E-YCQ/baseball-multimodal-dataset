@@ -1,0 +1,7 @@
+video_title: Miguel Andujar's solo homer (10) Miguel Andujar's solo homer (10) Miguel Andujar's solo homer (10) Miguel Andujar hits a 403-foot solo home run to left field to put the Reds up 1-0 in the 1st inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/19/7e042f0a-fb36ba25-5fc0e761-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776267_miguel-andujar-homers-10-on-a-fly-ball-to-left-field
+clip_id: MLB_776267_miguel-andujar-homers-10-on-a-fly-ball-to-left-field_auto1_3p240_10p240
+source_path: raw_sources\MLB_776267_miguel-andujar-homers-10-on-a-fly-ball-to-left-field_Miguel_Andujar_s_solo_homer_10_Miguel_Andujar_s_solo_homer_10_Miguel_Andujar_s_solo_homer_10_Miguel_Anduja.mp4
+clip_start_time: 3.240
+clip_end_time: 10.240

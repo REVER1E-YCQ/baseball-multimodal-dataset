@@ -1,0 +1,7 @@
+video_title: Jared Triolo's four-hit, three RBI game Jared Triolo's four-hit, three RBI game Jared Triolo's four-hit, three RBI game Jared Triolo collects four hits while driving in three runs, including a two-run home run during the Pirates' 11-0 win over the Athletics
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/21/d67551d0-3457cfd6-892eea03-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776234_jared-triolo-s-four-hit-three-rbi-game
+clip_id: MLB_776234_jared-triolo-s-four-hit-three-rbi-game_auto1_0p920_7p920
+source_path: raw_sources\MLB_776234_jared-triolo-s-four-hit-three-rbi-game_Jared_Triolo_s_four-hit_three_RBI_game_Jared_Triolo_s_four-hit_three_RBI_game_Jared_Triolo_s_four-hit_three_RBI_game_Jar.mp4
+clip_start_time: 0.920
+clip_end_time: 7.920

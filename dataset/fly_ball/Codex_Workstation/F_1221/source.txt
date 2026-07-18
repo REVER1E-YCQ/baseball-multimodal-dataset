@@ -1,0 +1,7 @@
+video_title: Xavier Edwards' double Xavier Edwards' double Xavier Edwards' double Xavier Edwards doubles on a fly ball to left field, starting the Marlins' fight back in the bottom of the 9th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/03/20545af6-1edd6402-21b4b33f-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746045_xavier-edwards-triples-1-on-a-fly-ball-to-left-fielder-rob-refsnyder
+clip_id: MLB_746045_xavier-edwards-triples-1-on-a-fly-ball-to-left-fielder-rob-refsnyder_auto1_0p000_7p000
+source_path: raw_sources\MLB_746045_xavier-edwards-triples-1-on-a-fly-ball-to-left-fielder-rob-refsnyder_Xavier_Edwards_double_Xavier_Edwards_double_Xavier_Edwards_double_Xavier_Edwards_doubles_o.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

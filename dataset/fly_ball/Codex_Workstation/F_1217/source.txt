@@ -1,0 +1,7 @@
+video_title: Jesús Sánchez's RBI single Jesús Sánchez's RBI single Jesús Sánchez's RBI single Jesús Sánchez sends a sharp line drive to right field, putting the Marlins on the board with a 1-0 lead in the bottom of the 1st inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/03/2e052977-ea2732a7-74ff289b-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746045_brayan-bello-in-play-run-s-to-jesus-sanchez
+clip_id: MLB_746045_brayan-bello-in-play-run-s-to-jesus-sanchez_auto1_1p080_8p080
+source_path: raw_sources\MLB_746045_brayan-bello-in-play-run-s-to-jesus-sanchez_Jes_s_S_nchez_s_RBI_single_Jes_s_S_nchez_s_RBI_single_Jes_s_S_nchez_s_RBI_single_Jes_s_S_nchez_sends_a_sharp_line_d.mp4
+clip_start_time: 1.080
+clip_end_time: 8.080

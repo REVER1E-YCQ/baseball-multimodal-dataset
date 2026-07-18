@@ -1,0 +1,7 @@
+video_title: Michael Siani's sliding catch Michael Siani's sliding catch Michael Siani's sliding catch Michael Siani races into right-center field and slides to catch a hard-hit Marcell Ozuna line drive in the top of the 1st inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/26/565c83e2-04b16c44-5495175b-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745158_marcell-ozuna-lines-out-sharply-to-center-fielder-michael-siani
+clip_id: MLB_745158_marcell-ozuna-lines-out-sharply-to-center-fielder-michael-siani_auto1_0p000_7p000
+source_path: raw_sources\MLB_745158_marcell-ozuna-lines-out-sharply-to-center-fielder-michael-siani_Michael_Siani_s_sliding_catch_Michael_Siani_s_sliding_catch_Michael_Siani_s_sliding_catch_Micha.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

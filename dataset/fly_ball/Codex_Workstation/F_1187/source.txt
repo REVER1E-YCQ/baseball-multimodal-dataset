@@ -1,0 +1,7 @@
+video_title: Seth Brown lines an RBI double to right field Seth Brown lines an RBI double to right field Seth Brown lines an RBI double to right field Seth Brown sends a line drive to right field to give the A's an early 1-0 lead over the Phillies in the top of the 2nd inning
+video_url: https://bdata-producedclips.mlb.com/88e7aa31-fdaf-4ba6-8c99-bc6bd28ba82f.mp4
+source_id: MLB_745549_seth-brown-doubles-7-on-a-sharp-line-drive-to-right-fielder-nick-cast
+clip_id: MLB_745549_seth-brown-doubles-7-on-a-sharp-line-drive-to-right-fielder-nick-cast_auto1_10p620_17p620
+source_path: raw_sources\MLB_745549_seth-brown-doubles-7-on-a-sharp-line-drive-to-right-fielder-nick-cast_Seth_Brown_lines_an_RBI_double_to_right_field_Seth_Brown_lines_an_RBI_double_to_right_fie.mp4
+clip_start_time: 10.620
+clip_end_time: 17.620

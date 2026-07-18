@@ -1,0 +1,7 @@
+video_title: Marcus Semien's solo home run (14) Marcus Semien's solo home run (14) Marcus Semien's solo home run (14) Marcus Semien homers on a line drive to left field, tying the game at 1 in the bottom of the 3rd
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/22/157a85d4-83cbb710-6feada85-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_744988_marcus-semien-homers-14-on-a-line-drive-to-left-field
+clip_id: MLB_744988_marcus-semien-homers-14-on-a-line-drive-to-left-field_auto1_19p400_26p400
+source_path: raw_sources\MLB_744988_marcus-semien-homers-14-on-a-line-drive-to-left-field_Marcus_Semien_s_solo_home_run_14_Marcus_Semien_s_solo_home_run_14_Marcus_Semien_s_solo_home_run_14_Marcus.mp4
+clip_start_time: 19.400
+clip_end_time: 26.400

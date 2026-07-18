@@ -1,0 +1,7 @@
+video_title: Fernando Tatis Jr.'s 150th career home run Fernando Tatis Jr.'s 150th career home run Fernando Tatis Jr.'s 150th career home run Fernando Tatis Jr. crushes his 23rd home run of the season and his 150th career home run, extending the Padres' lead to 3-0
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/21/9d284f02-6df5420a-0cf967f6-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776235_sean-burke-in-play-run-s-to-fernando-tatis-jr
+clip_id: MLB_776235_sean-burke-in-play-run-s-to-fernando-tatis-jr_auto1_0p620_7p620
+source_path: raw_sources\MLB_776235_sean-burke-in-play-run-s-to-fernando-tatis-jr_Fernando_Tatis_Jr._s_150th_career_home_run_Fernando_Tatis_Jr._s_150th_career_home_run_Fernando_Tatis_Jr._s_150th_.mp4
+clip_start_time: 0.620
+clip_end_time: 7.620

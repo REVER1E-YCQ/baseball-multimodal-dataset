@@ -1,0 +1,7 @@
+video_title: Jackson Chourio's RBI single Jackson Chourio's RBI single Jackson Chourio's RBI single Jackson Chourio singles on a line drive to center, scoring Joey Ortiz and putting the Brewers on the board in the top of the 1st inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/24/f0a51731-91fc2718-4f90806b-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746851_justin-steele-in-play-run-s-to-jackson-chourio
+clip_id: MLB_746851_justin-steele-in-play-run-s-to-jackson-chourio_auto1_3p060_10p060
+source_path: raw_sources\MLB_746851_justin-steele-in-play-run-s-to-jackson-chourio_Jackson_Chourio_s_RBI_single_Jackson_Chourio_s_RBI_single_Jackson_Chourio_s_RBI_single_Jackson_Chourio_singles_o.mp4
+clip_start_time: 3.060
+clip_end_time: 10.060

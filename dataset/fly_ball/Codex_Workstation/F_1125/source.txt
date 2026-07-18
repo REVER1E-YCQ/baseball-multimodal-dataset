@@ -1,0 +1,7 @@
+video_title: Pete Fairbanks closes out Rays' shutout win Pete Fairbanks closes out Rays' shutout win Pete Fairbanks closes out Rays' shutout win Randy Arozarena catches a fly ball from David Fry to secure the Rays' 2-0 shutout win over the Guardians
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/14/febd3dfe-d7e884f2-a6b29c46-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745066_david-fry-flies-out-to-left-fielder-randy-arozarena
+clip_id: MLB_745066_david-fry-flies-out-to-left-fielder-randy-arozarena_auto1_1p280_8p280
+source_path: raw_sources\MLB_745066_david-fry-flies-out-to-left-fielder-randy-arozarena_Pete_Fairbanks_closes_out_Rays_shutout_win_Pete_Fairbanks_closes_out_Rays_shutout_win_Pete_Fairbanks_closes.mp4
+clip_start_time: 1.280
+clip_end_time: 8.280

@@ -1,0 +1,7 @@
+video_title: Drake Baldwin's two-run home run (17) Drake Baldwin's two-run home run (17) Drake Baldwin's two-run home run (17) Drake Baldwin hits a two-run home run to right-center field, increasing the Braves' lead to 10-1 in the 9th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/19/50bca830-7caa9ecd-086a1fa4-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776268_drake-baldwin-homers-17-on-a-fly-ball-to-right-center-field-jurickson
+clip_id: MLB_776268_drake-baldwin-homers-17-on-a-fly-ball-to-right-center-field-jurickson_auto1_1p020_8p020
+source_path: raw_sources\MLB_776268_drake-baldwin-homers-17-on-a-fly-ball-to-right-center-field-jurickson_Drake_Baldwin_s_two-run_home_run_17_Drake_Baldwin_s_two-run_home_run_17_Drake_Baldwin_s_t.mp4
+clip_start_time: 1.020
+clip_end_time: 8.020

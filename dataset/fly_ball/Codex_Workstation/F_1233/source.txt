@@ -1,0 +1,7 @@
+video_title: Bobby Witt Jr.'s triple in the 1st Bobby Witt Jr.'s triple in the 1st Bobby Witt Jr.'s triple in the 1st Bobby Witt Jr. shows off his speed after hitting a line drive to right field for a one-out triple in the bottom of the 1st inning
+video_url: https://bdata-producedclips.mlb.com/75a283df-b168-4673-a47b-ae31ced981d9.mp4
+source_id: MLB_746280_bobby-witt-jr-s-triple-in-the-1st
+clip_id: MLB_746280_bobby-witt-jr-s-triple-in-the-1st_auto1_4p420_11p420
+source_path: raw_sources\MLB_746280_bobby-witt-jr-s-triple-in-the-1st_Bobby_Witt_Jr._s_triple_in_the_1st_Bobby_Witt_Jr._s_triple_in_the_1st_Bobby_Witt_Jr._s_triple_in_the_1st_Bobby_Witt_Jr._shows.mp4
+clip_start_time: 4.420
+clip_end_time: 11.420

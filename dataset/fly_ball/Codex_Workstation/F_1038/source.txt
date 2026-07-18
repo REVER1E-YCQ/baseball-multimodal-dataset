@@ -1,0 +1,7 @@
+video_title: Data Viz: Carter Jensen's 482-foot home run Data Viz: Carter Jensen's 482-foot home run Data Viz: Carter Jensen's 482-foot home run Take a look at Carter Jensen's 482-foot solo home run through data visualization
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/28/2ea601bd-6c8c6fa8-dfa80819-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776138_data-viz-carter-jensen-s-482-foot-home-run
+clip_id: MLB_776138_data-viz-carter-jensen-s-482-foot-home-run_auto1_5p800_12p800
+source_path: raw_sources\MLB_776138_data-viz-carter-jensen-s-482-foot-home-run_Data_Viz_Carter_Jensen_s_482-foot_home_run_Data_Viz_Carter_Jensen_s_482-foot_home_run_Data_Viz_Carter_Jensen_s_482-f.mp4
+clip_start_time: 5.800
+clip_end_time: 12.800

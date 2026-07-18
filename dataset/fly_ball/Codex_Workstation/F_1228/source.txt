@@ -1,0 +1,7 @@
+video_title: Kenta Maeda exits early after being hit by line drive Kenta Maeda exits early after being hit by line drive Kenta Maeda exits early after being hit by line drive Kenta Maeda has to exit his outing against the Angels early after being hit by line drive in the 6th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/28/462a5400-230c152d-82dbb576-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746214_kenta-maeda-exits-early-after-being-hit-by-line-drive
+clip_id: MLB_746214_kenta-maeda-exits-early-after-being-hit-by-line-drive_auto1_3p520_10p520
+source_path: raw_sources\MLB_746214_kenta-maeda-exits-early-after-being-hit-by-line-drive_Kenta_Maeda_exits_early_after_being_hit_by_line_drive_Kenta_Maeda_exits_early_after_being_hit_by_line_dri.mp4
+clip_start_time: 3.520
+clip_end_time: 10.520

@@ -1,0 +1,7 @@
+video_title: Nick Kurtz's two-homer game  Nick Kurtz's two-homer game  Nick Kurtz's two-homer game  Nick Kurtz slugs a pair of homers to left field and drives in three runs against the Astros
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/25/3a1d4575-c3919b17-f44986b1-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776182_nick-kurtz-two-homer-game
+clip_id: MLB_776182_nick-kurtz-two-homer-game_auto1_0p000_7p000
+source_path: raw_sources\MLB_776182_nick-kurtz-two-homer-game_Nick_Kurtz_s_two-homer_game_Nick_Kurtz_s_two-homer_game_Nick_Kurtz_s_two-homer_game_Nick_Kurtz_slugs_a_pair_of_homers_to_left_field_a.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

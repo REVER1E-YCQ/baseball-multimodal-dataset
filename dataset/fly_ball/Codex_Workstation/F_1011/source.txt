@@ -1,0 +1,7 @@
+video_title: Gleyber Torres' solo home run (16) Gleyber Torres' solo home run (16) Gleyber Torres' solo home run (16) Gleyber Torres crushes a solo home run to left field in the bottom of the 3rd inning to tie the game
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/16/85920b47-9a3e2f4c-e2bd0328-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776303_gleyber-torres-homers-16-on-a-fly-ball-to-left-field
+clip_id: MLB_776303_gleyber-torres-homers-16-on-a-fly-ball-to-left-field_auto1_3p620_10p620
+source_path: raw_sources\MLB_776303_gleyber-torres-homers-16-on-a-fly-ball-to-left-field_Gleyber_Torres_solo_home_run_16_Gleyber_Torres_solo_home_run_16_Gleyber_Torres_solo_home_run_16_Gleyber_To.mp4
+clip_start_time: 3.620
+clip_end_time: 10.620

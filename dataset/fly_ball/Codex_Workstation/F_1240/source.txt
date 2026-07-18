@@ -1,0 +1,7 @@
+video_title: Bryan De La Cruz's RBI double Bryan De La Cruz's RBI double Bryan De La Cruz's RBI double Bryan De La Cruz doubles on a line drive to left field, driving in Jazz Chisholm Jr. to give the Marlins a 1-0 lead in the 3rd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/24/6250dcf0-67c89a62-7866d3b5-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746298_cole-ragans-in-play-no-out-to-bryan-de-la-cruz
+clip_id: MLB_746298_cole-ragans-in-play-no-out-to-bryan-de-la-cruz_auto1_11p940_18p940
+source_path: raw_sources\MLB_746298_cole-ragans-in-play-no-out-to-bryan-de-la-cruz_Bryan_De_La_Cruz_s_RBI_double_Bryan_De_La_Cruz_s_RBI_double_Bryan_De_La_Cruz_s_RBI_double_Bryan_De_La_Cruz_doubl.mp4
+clip_start_time: 11.940
+clip_end_time: 18.940

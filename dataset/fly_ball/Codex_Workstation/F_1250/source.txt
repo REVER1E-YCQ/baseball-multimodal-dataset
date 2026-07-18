@@ -1,0 +1,7 @@
+video_title: Bryan Abreu closes out the Astros' win Bryan Abreu closes out the Astros' win Bryan Abreu closes out the Astros' win Gunnar Henderson pops out to Alex Bregman at third, ending the game and securing the Astros' 14-11 victory over the Orioles
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/21/d8f2e943-5f2be71d-b2f483ee-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746375_gunnar-henderson-flies-out-to-third-baseman-alex-bregman
+clip_id: MLB_746375_gunnar-henderson-flies-out-to-third-baseman-alex-bregman_auto1_0p440_7p440
+source_path: raw_sources\MLB_746375_gunnar-henderson-flies-out-to-third-baseman-alex-bregman_Bryan_Abreu_closes_out_the_Astros_win_Bryan_Abreu_closes_out_the_Astros_win_Bryan_Abreu_closes_out_the.mp4
+clip_start_time: 0.440
+clip_end_time: 7.440

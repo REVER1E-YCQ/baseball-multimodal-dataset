@@ -1,0 +1,7 @@
+video_title: Miguel Andujar hits an RBI double Miguel Andujar hits an RBI double Miguel Andujar hits an RBI double Miguel Andujar doubles on a line drive to right field, driving in a run in the top of the 9th inning
+video_url: https://bdata-producedclips.mlb.com/6bf45c44-7be7-4980-9bde-d960839bf22b.mp4
+source_id: MLB_745549_miguel-andujar-doubles-9-on-a-line-drive-to-right-fielder-nick-castel
+clip_id: MLB_745549_miguel-andujar-doubles-9-on-a-line-drive-to-right-fielder-nick-castel_auto1_4p640_11p640
+source_path: raw_sources\MLB_745549_miguel-andujar-doubles-9-on-a-line-drive-to-right-fielder-nick-castel_Miguel_Andujar_hits_an_RBI_double_Miguel_Andujar_hits_an_RBI_double_Miguel_Andujar_hits_a.mp4
+clip_start_time: 4.640
+clip_end_time: 11.640

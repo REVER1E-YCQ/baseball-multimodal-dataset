@@ -1,0 +1,7 @@
+video_title: Ceddanne Rafaela's triple Ceddanne Rafaela's triple Ceddanne Rafaela's triple Ceddanne Rafaela launches a sharp fly ball to center field and strides all the way to third in the top of the 6th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/03/3236bd05-99854bd3-8beda75b-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746045_ceddanne-rafaela-triples-3-on-a-sharp-fly-ball-to-center-fielder-jazz
+clip_id: MLB_746045_ceddanne-rafaela-triples-3-on-a-sharp-fly-ball-to-center-fielder-jazz_auto1_19p894_26p894
+source_path: raw_sources\MLB_746045_ceddanne-rafaela-triples-3-on-a-sharp-fly-ball-to-center-fielder-jazz_Ceddanne_Rafaela_s_triple_Ceddanne_Rafaela_s_triple_Ceddanne_Rafaela_s_triple_Ceddanne_Ra.mp4
+clip_start_time: 19.894
+clip_end_time: 26.894

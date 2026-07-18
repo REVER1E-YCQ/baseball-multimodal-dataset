@@ -1,0 +1,7 @@
+video_title: Aaron Judge's solo home run (53) Aaron Judge's solo home run (53) Aaron Judge's solo home run (53) Aaron Judge hits a solo home run to left-center field to give the Yankees a 1-0 lead in the 1st inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/27/16a59e00-b2c646ae-00a772b4-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776162_aaron-judge-homers-53-on-a-fly-ball-to-left-center-field
+clip_id: MLB_776162_aaron-judge-homers-53-on-a-fly-ball-to-left-center-field_auto1_2p480_9p480
+source_path: raw_sources\MLB_776162_aaron-judge-homers-53-on-a-fly-ball-to-left-center-field_Aaron_Judge_s_solo_home_run_53_Aaron_Judge_s_solo_home_run_53_Aaron_Judge_s_solo_home_run_53_Aaron_Jud.mp4
+clip_start_time: 2.480
+clip_end_time: 9.480

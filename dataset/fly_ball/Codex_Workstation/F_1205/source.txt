@@ -1,0 +1,7 @@
+video_title: Carlos Santana's great diving catch Carlos Santana's great diving catch Carlos Santana's great diving catch Carlos Santana makes a fantastic diving catch on a hot liner to first
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/30/2ff6980a-78cfa586-7fe3c1ae-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745898_chris-paddack-in-play-out-s-to-mj-melendez
+clip_id: MLB_745898_chris-paddack-in-play-out-s-to-mj-melendez_auto1_0p120_7p120
+source_path: raw_sources\MLB_745898_chris-paddack-in-play-out-s-to-mj-melendez_Carlos_Santana_s_great_diving_catch_Carlos_Santana_s_great_diving_catch_Carlos_S.mp4
+clip_start_time: 0.120
+clip_end_time: 7.120

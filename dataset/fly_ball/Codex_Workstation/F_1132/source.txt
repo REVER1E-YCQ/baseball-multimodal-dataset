@@ -1,0 +1,7 @@
+video_title: Ben Rice's solo home run (7) Ben Rice's solo home run (7) Ben Rice's solo home run (7) Ben Rice homers on a fly ball to right-center field, giving the Yankees a 3-0 advantage in the top of the 2nd
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/29/9da97d17-7e3aa293-23ba4af8-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745547_zack-wheeler-in-play-run-s-to-ben-rice
+clip_id: MLB_745547_zack-wheeler-in-play-run-s-to-ben-rice_auto1_1p300_8p300
+source_path: raw_sources\MLB_745547_zack-wheeler-in-play-run-s-to-ben-rice_Ben_Rice_s_solo_home_run_7_Ben_Rice_s_solo_home_run_7_Ben_Rice_s_solo_home_run_7_Ben_Rice_homers_on_a_fly_ball_to_right-.mp4
+clip_start_time: 1.300
+clip_end_time: 8.300

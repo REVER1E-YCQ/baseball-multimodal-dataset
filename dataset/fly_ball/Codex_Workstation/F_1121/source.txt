@@ -1,0 +1,7 @@
+video_title: Anthony Volpe on his homer and tonight's loss Anthony Volpe on his homer and tonight's loss Anthony Volpe on his homer and tonight's loss Anthony Volpe discusses his solo home run tonight, facing Garrett Crochet and Aroldis Chapman, and his confidence moving forward after a Game 1 loss
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/30/1bd69857-be17f120-736a5eb7-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_813074_anthony-volpe-on-his-homer-and-tonight-s-loss
+clip_id: MLB_813074_anthony-volpe-on-his-homer-and-tonight-s-loss_auto1_1p560_8p560
+source_path: raw_sources\MLB_813074_anthony-volpe-on-his-homer-and-tonight-s-loss_Anthony_Volpe_on_his_homer_and_tonight_s_loss_Anthony_Volpe_on_his_homer_and_tonight_s_loss_Anthony_Volpe_on_his_.mp4
+clip_start_time: 1.560
+clip_end_time: 8.560

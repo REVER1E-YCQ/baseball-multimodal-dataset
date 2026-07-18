@@ -1,0 +1,7 @@
+video_title: Ozzie Albies' sacrifice fly  Ozzie Albies' sacrifice fly  Ozzie Albies' sacrifice fly  Ozzie Albies hits a sacrifice fly to right field, Matt Olson scores and gives the Braves a 5-0 lead
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/16/561000ef-3b3a0246-e2b21c76-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776307_ozzie-albies-out-on-a-sacrifice-fly-to-right-fielder-dylan-crews-matt
+clip_id: MLB_776307_ozzie-albies-out-on-a-sacrifice-fly-to-right-fielder-dylan-crews-matt_auto1_0p000_7p000
+source_path: raw_sources\MLB_776307_ozzie-albies-out-on-a-sacrifice-fly-to-right-fielder-dylan-crews-matt_Ozzie_Albies_sacrifice_fly_Ozzie_Albies_sacrifice_fly_Ozzie_Albies_sacrifice_fly_Ozzie_Al.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

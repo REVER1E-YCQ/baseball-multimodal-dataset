@@ -1,0 +1,7 @@
+video_title: Mark Vientos' backhanded grab Mark Vientos' backhanded grab Mark Vientos' backhanded grab Mark Vientos makes a slick backhanded catch off Joey Meneses' liner for the final out of the bottom of the 1st
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/04/0fbf1002-a28f72bc-c18168ba-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_744834_joey-meneses-lines-out-to-third-baseman-mark-vientos
+clip_id: MLB_744834_joey-meneses-lines-out-to-third-baseman-mark-vientos_auto1_0p760_7p760
+source_path: raw_sources\MLB_744834_joey-meneses-lines-out-to-third-baseman-mark-vientos_Mark_Vientos_backhanded_grab_Mark_Vientos_backhanded_grab_Mark_Vientos_backhanded_grab_Mark_Vientos_makes_.mp4
+clip_start_time: 0.760
+clip_end_time: 7.760

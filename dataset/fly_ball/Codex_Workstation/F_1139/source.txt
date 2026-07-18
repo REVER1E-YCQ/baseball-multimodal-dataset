@@ -1,0 +1,7 @@
+video_title: Aaron Schunk's first MLB at-bat Aaron Schunk's first MLB at-bat Aaron Schunk's first MLB at-bat Aaron Schunk flies out to deep right field in the first at-bat of his MLB career
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/29/4ceebf8f-f9cc0754-4d98243e-csvm-diamondx64-asset-4000K.mp4
+source_id: MLB_746778_aaron-schunk-flies-out-to-right-fielder-tommy-pham
+clip_id: MLB_746778_aaron-schunk-flies-out-to-right-fielder-tommy-pham_auto1_1p400_8p400
+source_path: raw_sources\MLB_746778_aaron-schunk-flies-out-to-right-fielder-tommy-pham_Aaron_Schunk_s_first_MLB_at-bat_Aaron_Schunk_s_first_MLB_at-bat_Aaron_Schunk_s_first_MLB_at-bat_Aaron_Schunk.mp4
+clip_start_time: 1.400
+clip_end_time: 8.400

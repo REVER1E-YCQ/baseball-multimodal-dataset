@@ -1,0 +1,7 @@
+video_title: Francisco Lindor's outstanding lunging catch Francisco Lindor's outstanding lunging catch Francisco Lindor's outstanding lunging catch Francisco Lindor stretches out to snag a hard-hit line drive, robbing Ke'Bryan Hayes of a run-scoring hit in the bottom of the 7th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/06/2bee08c9-58f9fbe2-f3515b55-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745476_ke-bryan-hayes-lines-out-to-shortstop-francisco-lindor
+clip_id: MLB_745476_ke-bryan-hayes-lines-out-to-shortstop-francisco-lindor_auto1_1p920_8p920
+source_path: raw_sources\MLB_745476_ke-bryan-hayes-lines-out-to-shortstop-francisco-lindor_Francisco_Lindor_s_outstanding_lunging_catch_Francisco_Lindor_s_outstanding_lunging_catch_Francisco_Lind.mp4
+clip_start_time: 1.920
+clip_end_time: 8.920

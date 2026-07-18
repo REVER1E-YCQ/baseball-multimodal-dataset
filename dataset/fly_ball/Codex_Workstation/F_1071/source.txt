@@ -1,0 +1,7 @@
+video_title: Nacho Alvarez Jr.'s sacrifice fly Nacho Alvarez Jr.'s sacrifice fly Nacho Alvarez Jr.'s sacrifice fly Nacho Alvarez Jr. lifts a sacrifice fly to right field, plating Marcell Ozuna and extending the Braves' lead to 9-5 in the 6th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/22/760cd821-f9786dd6-f6c15c9e-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_776221_pj-poulin-in-play-run-s-to-nacho-alvarez-jr
+clip_id: MLB_776221_pj-poulin-in-play-run-s-to-nacho-alvarez-jr_auto1_1p560_8p560
+source_path: raw_sources\MLB_776221_pj-poulin-in-play-run-s-to-nacho-alvarez-jr_Nacho_Alvarez_Jr._s_sacrifice_fly_Nacho_Alvarez_Jr._s_sacrifice_fly_Nacho_Alvarez_Jr._s_sacrifice_fly_Nacho_Alvarez.mp4
+clip_start_time: 1.560
+clip_end_time: 8.560

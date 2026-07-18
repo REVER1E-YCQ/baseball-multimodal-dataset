@@ -1,0 +1,7 @@
+video_title: Sal Frelick makes catch, call confirmed Sal Frelick makes catch, call confirmed Sal Frelick makes catch, call confirmed Sal Frelick catches a fly ball then drops it on the transfer, and the call is confirmed after a Twins' challenge in the bottom of the 12th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/20/3005a914-8ea74423-775f80a1-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745880_jakob-junis-in-play-out-s-to-austin-martin
+clip_id: MLB_745880_jakob-junis-in-play-out-s-to-austin-martin_auto1_0p000_7p000
+source_path: raw_sources\MLB_745880_jakob-junis-in-play-out-s-to-austin-martin_Sal_Frelick_makes_catch_call_confirmed_Sal_Frelick_makes_catch_call_confirmed_Sal_Frelick_makes_catch_call_confirmed.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

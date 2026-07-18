@@ -1,0 +1,7 @@
+video_title: Michael Harris II's second home run of the game (19) Michael Harris II's second home run of the game (19) Michael Harris II's second home run of the game (19) Michael Harris II belts his second homer of the game and gives Atlanta a 3-1 lead in the bottom of the 7th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/23/fc18d1be-3c35b717-b36b37c8-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776219_michael-harris-ii-homers-19-on-a-fly-ball-to-center-field
+clip_id: MLB_776219_michael-harris-ii-homers-19-on-a-fly-ball-to-center-field_auto1_0p140_7p140
+source_path: raw_sources\MLB_776219_michael-harris-ii-homers-19-on-a-fly-ball-to-center-field_Michael_Harris_II_s_second_home_run_of_the_game_19_Michael_Harris_II_s_second_home_run_of_the_game_19.mp4
+clip_start_time: 0.140
+clip_end_time: 7.140

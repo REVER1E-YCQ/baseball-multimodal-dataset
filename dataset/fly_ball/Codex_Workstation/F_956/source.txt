@@ -1,0 +1,7 @@
+video_title: Oneil Cruz's two-run homer (20) Oneil Cruz's two-run homer (20) Oneil Cruz's two-run homer (20) Oneil Cruz hits a two-run home run to left field, extending the Pirates' lead to 4-0 in the 2nd
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/23/69332dd3-a72781ee-eb89227f-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776224_oneil-cruz-homers-20-on-a-fly-ball-to-left-field-alexander-canario-sc
+clip_id: MLB_776224_oneil-cruz-homers-20-on-a-fly-ball-to-left-field-alexander-canario-sc_auto1_4p260_11p260
+source_path: raw_sources\MLB_776224_oneil-cruz-homers-20-on-a-fly-ball-to-left-field-alexander-canario-sc_Oneil_Cruz_s_two-run_homer_20_Oneil_Cruz_s_two-run_homer_20_Oneil_Cruz_s_two-run_homer_20.mp4
+clip_start_time: 4.260
+clip_end_time: 11.260

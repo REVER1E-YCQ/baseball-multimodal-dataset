@@ -1,0 +1,7 @@
+video_title: Pete Alonso's solo home run (37) Pete Alonso's solo home run (37) Pete Alonso's solo home run (37) Pete Alonso sends one over the fence for another home run in his fourth straight game, putting the Mets up 1-0 in the 1st inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/18/57040c83-e6bf0560-a4ab5741-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776276_pete-alonso-homers-37-on-a-fly-ball-to-center-field
+clip_id: MLB_776276_pete-alonso-homers-37-on-a-fly-ball-to-center-field_auto1_6p560_13p560
+source_path: raw_sources\MLB_776276_pete-alonso-homers-37-on-a-fly-ball-to-center-field_Pete_Alonso_s_solo_home_run_37_Pete_Alonso_s_solo_home_run_37_Pete_Alonso_s_solo_home_run_37_Pete_Alonso_se.mp4
+clip_start_time: 6.560
+clip_end_time: 13.560

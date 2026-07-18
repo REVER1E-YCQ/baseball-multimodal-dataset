@@ -1,0 +1,7 @@
+video_title: Vaughn Grissom's snag at second Vaughn Grissom's snag at second Vaughn Grissom's snag at second Vaughn Grissom drops to his left to snag a line drive off the bat of Yandy Díaz before firing to first for the out
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/22/139574d6-d5bc5f06-0324adbb-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745089_brayan-bello-in-play-out-s-to-yandy-diaz-qjhbwh
+clip_id: MLB_745089_brayan-bello-in-play-out-s-to-yandy-diaz-qjhbwh_auto1_0p000_7p000
+source_path: raw_sources\MLB_745089_brayan-bello-in-play-out-s-to-yandy-diaz-qjhbwh_Vaughn_Grissom_s_snag_at_second_Vaughn_Grissom_s_snag_at_second_Vaughn_Grissom_s.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

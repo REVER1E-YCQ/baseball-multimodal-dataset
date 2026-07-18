@@ -1,0 +1,7 @@
+video_title: Michael Busch's TOWERING 30th home run of the year Michael Busch's TOWERING 30th home run of the year Michael Busch's TOWERING 30th home run of the year Michael Busch launches a towering solo home run to deep-right field for his first career 30-homer season, giving the Cubs a 1-0 lead
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/20/a61b0fec-0868a456-9a715f3e-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776254_michael-busch-homers-30-on-a-fly-ball-to-right-center-field
+clip_id: MLB_776254_michael-busch-homers-30-on-a-fly-ball-to-right-center-field_auto1_6p760_13p760
+source_path: raw_sources\MLB_776254_michael-busch-homers-30-on-a-fly-ball-to-right-center-field_Michael_Busch_s_TOWERING_30th_home_run_of_the_year_Michael_Busch_s_TOWERING_30th_home_run_of_the_ye.mp4
+clip_start_time: 6.760
+clip_end_time: 13.760

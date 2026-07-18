@@ -1,0 +1,7 @@
+video_title: Sam Hilliard catches flyout to seal Rockies' win Sam Hilliard catches flyout to seal Rockies' win Sam Hilliard catches flyout to seal Rockies' win Sam Hilliard catches a fly ball to finish off the Rockies' 20-7 blowout win over the Red Sox
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/24/ba83d393-9c511de3-2bb1f11c-csvm-diamondx64-asset-4000K.mp4
+source_id: MLB_746525_peter-lambert-in-play-out-s-to-david-hamilton
+clip_id: MLB_746525_peter-lambert-in-play-out-s-to-david-hamilton_auto1_3p627_10p627
+source_path: raw_sources\MLB_746525_peter-lambert-in-play-out-s-to-david-hamilton_Sam_Hilliard_catches_flyout_to_seal_Rockies_win_Sam_Hilliard_catches_flyout_to_seal_Rockies_win_Sam_Hilliard_catc.mp4
+clip_start_time: 3.627
+clip_end_time: 10.627

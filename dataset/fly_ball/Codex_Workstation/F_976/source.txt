@@ -1,0 +1,7 @@
+video_title: Tyler Stephenson's two-run home run (12) Tyler Stephenson's two-run home run (12) Tyler Stephenson's two-run home run (12) Tyler Stephenson crushes a two-run home run to right field, scoring Noelvi Marte to extend the Reds' lead to 6-3
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/20/eea5d8ce-892c3327-de6b5a56-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776254_tyler-stephenson-homers-12-on-a-fly-ball-to-right-field-noelvi-marte-
+clip_id: MLB_776254_tyler-stephenson-homers-12-on-a-fly-ball-to-right-field-noelvi-marte-_auto1_3p140_10p140
+source_path: raw_sources\MLB_776254_tyler-stephenson-homers-12-on-a-fly-ball-to-right-field-noelvi-marte-_Tyler_Stephenson_s_two-run_home_run_12_Tyler_Stephenson_s_two-run_home_run_12_Tyler_Steph.mp4
+clip_start_time: 3.140
+clip_end_time: 10.140

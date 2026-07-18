@@ -1,0 +1,7 @@
+video_title: Ezequiel Tovar's solo home run (8) Ezequiel Tovar's solo home run (8) Ezequiel Tovar's solo home run (8) Ezequiel Tovar belts a fly ball to left-center field for a solo homer, extending the Rockies' lead to 4-0
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/31/482228c3-f75cf8de-225330ac-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746140_ezequiel-tovar-homers-8-on-a-fly-ball-to-center-field
+clip_id: MLB_746140_ezequiel-tovar-homers-8-on-a-fly-ball-to-center-field_auto1_8p620_15p620
+source_path: raw_sources\MLB_746140_ezequiel-tovar-homers-8-on-a-fly-ball-to-center-field_Ezequiel_Tovar_s_solo_home_run_8_Ezequiel_Tovar_s_solo_home_run_8_Ezequiel_Tovar.mp4
+clip_start_time: 8.620
+clip_end_time: 15.620

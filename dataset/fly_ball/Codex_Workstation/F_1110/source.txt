@@ -1,0 +1,7 @@
+video_title: Bo Naylor's two-homer, two-RBI game vs. the Twins Bo Naylor's two-homer, two-RBI game vs. the Twins Bo Naylor's two-homer, two-RBI game vs. the Twins Bo Naylor has a strong day at the dish for the Guardians, lifting two solo home runs against the Twins
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/20/2d466b59-e92117ce-fbdf032d-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777839_bo-naylor-s-two-homer-two-rbi-game-vs-the-twins
+clip_id: MLB_777839_bo-naylor-s-two-homer-two-rbi-game-vs-the-twins_auto1_0p440_7p440
+source_path: raw_sources\MLB_777839_bo-naylor-s-two-homer-two-rbi-game-vs-the-twins_Bo_Naylor_s_two-homer_two-RBI_game_vs._the_Twins_Bo_Naylor_s_two-homer_two-RBI_game_vs._the_Twins_Bo_Naylor_s_t.mp4
+clip_start_time: 0.440
+clip_end_time: 7.440

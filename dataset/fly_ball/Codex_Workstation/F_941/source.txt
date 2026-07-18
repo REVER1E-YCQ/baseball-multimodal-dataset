@@ -1,0 +1,7 @@
+video_title: Jake Mangum's solo home run (3) Jake Mangum's solo home run (3) Jake Mangum's solo home run (3) Jake Mangum makes it a six-run game with a solo home run to left field to begin the 8th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/24/73e73631-a2f223d1-9ae2c4e6-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776203_jake-mangum-homers-3-on-a-fly-ball-to-center-field
+clip_id: MLB_776203_jake-mangum-homers-3-on-a-fly-ball-to-center-field_auto1_0p720_7p720
+source_path: raw_sources\MLB_776203_jake-mangum-homers-3-on-a-fly-ball-to-center-field_Jake_Mangum_s_solo_home_run_3_Jake_Mangum_s_solo_home_run_3_Jake_Mangum_s_solo_home_run_3_Jake_Mangum_makes_.mp4
+clip_start_time: 0.720
+clip_end_time: 7.720

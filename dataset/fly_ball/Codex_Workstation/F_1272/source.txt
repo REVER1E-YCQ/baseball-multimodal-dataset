@@ -1,0 +1,7 @@
+video_title: Brent Suter's quick reaction to snag line drive Brent Suter's quick reaction to snag line drive Brent Suter's quick reaction to snag line drive Brent Suter makes a quick reaction to snag a sharp line drive for the second out in the 6th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/22/0a1a96a8-1c811387-396368f9-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746712_luis-campusano-lines-out-to-pitcher-brent-suter
+clip_id: MLB_746712_luis-campusano-lines-out-to-pitcher-brent-suter_auto1_12p600_19p600
+source_path: raw_sources\MLB_746712_luis-campusano-lines-out-to-pitcher-brent-suter_Brent_Suter_s_quick_reaction_to_snag_line_drive_Brent_Suter_s_quick_reaction_to_.mp4
+clip_start_time: 12.600
+clip_end_time: 19.600

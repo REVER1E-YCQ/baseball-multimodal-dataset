@@ -1,0 +1,7 @@
+video_title: Richie Palacios catches the final out Richie Palacios catches the final out Richie Palacios catches the final out of the game Richie Palacios fields a fly ball in left field, catching the final out of the game as the Rays defeat the Blue Jays, 13-0
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/25/c1bc107f-86a7f98b-4fb56809-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_744907_colin-poche-in-play-out-s-to-daulton-varsho
+clip_id: MLB_744907_colin-poche-in-play-out-s-to-daulton-varsho_auto1_0p000_7p000
+source_path: raw_sources\MLB_744907_colin-poche-in-play-out-s-to-daulton-varsho_Richie_Palacios_catches_the_final_out_Richie_Palacios_catches_the_final_out_Richie_Palacios_catches_the_final_out_o.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

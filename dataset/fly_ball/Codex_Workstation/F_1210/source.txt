@@ -1,0 +1,7 @@
+video_title: Brewers turn double play, ending inning  Brewers turn double play, ending inning  Brewers turn double play, ending inning  Blake Perkins catches a fly ball and then throws to first base, nabbing Cody Bellinger trying to steal on the play
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/28/f13f7db1-f174938c-29edcc47-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745970_elvis-peguero-in-play-out-s-to-ian-happ
+clip_id: MLB_745970_elvis-peguero-in-play-out-s-to-ian-happ_auto1_9p140_16p140
+source_path: raw_sources\MLB_745970_elvis-peguero-in-play-out-s-to-ian-happ_Brewers_turn_double_play_ending_inning_Brewers_turn_double_play_ending_inning_Brewers_turn_double_play_ending_inning_Bl.mp4
+clip_start_time: 9.140
+clip_end_time: 16.140

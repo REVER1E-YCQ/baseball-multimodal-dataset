@@ -1,0 +1,7 @@
+video_title: Shohei Ohtani shows off exit velocity with two homers Shohei Ohtani shows off exit velocity with two homers Shohei Ohtani shows off exit velocity with two homers Statcast measures the projected distance, exit velocity and bat Shohei Ohtani's two home runs, one of them being hit 117.7 mph
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/30/ad0dc69e-7df39f7c-c5239b7c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_813069_shohei-ohtani-shows-off-exit-velocity-with-two-homers
+clip_id: MLB_813069_shohei-ohtani-shows-off-exit-velocity-with-two-homers_auto1_0p000_7p000
+source_path: raw_sources\MLB_813069_shohei-ohtani-shows-off-exit-velocity-with-two-homers_Shohei_Ohtani_shows_off_exit_velocity_with_two_homers_Shohei_Ohtani_shows_off_exit_velocity_with_two_home.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

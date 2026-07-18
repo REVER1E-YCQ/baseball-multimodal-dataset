@@ -1,0 +1,7 @@
+video_title: Pete Alonso's double play Pete Alonso's double play Pete Alonso's double play Pete Alonso snags Bryan De La Cruz's line drive and steps on first base to double off Jazz Chisholm Jr. in the bottom of the 1st inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/22/fced4519-1f39addf-c4a774dc-csvm-diamondx64-asset-4000K.mp4
+source_id: MLB_746034_david-peterson-in-play-out-s-to-bryan-de-la-cruz-jwjob1
+clip_id: MLB_746034_david-peterson-in-play-out-s-to-bryan-de-la-cruz-jwjob1_auto1_1p377_8p377
+source_path: raw_sources\MLB_746034_david-peterson-in-play-out-s-to-bryan-de-la-cruz-jwjob1_Pete_Alonso_s_double_play_Pete_Alonso_s_double_play_Pete_Alonso_s_double_play_Pete_Alonso_snags_Bryan_D.mp4
+clip_start_time: 1.377
+clip_end_time: 8.377

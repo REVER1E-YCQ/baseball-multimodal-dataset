@@ -1,0 +1,7 @@
+video_title: Fernando Tatis Jr.'s go-ahead double Fernando Tatis Jr.'s go-ahead double Fernando Tatis Jr.'s go-ahead double Fernando Tatis Jr. doubles on a line drive to left field, plating Luis Campusano to give the Padres a 5-4 lead in the 10th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/23/2bb1cc27-f383aeff-81eeba5b-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746714_sam-moll-in-play-run-s-to-fernando-tatis-jr
+clip_id: MLB_746714_sam-moll-in-play-run-s-to-fernando-tatis-jr_auto1_4p600_11p600
+source_path: raw_sources\MLB_746714_sam-moll-in-play-run-s-to-fernando-tatis-jr_Fernando_Tatis_Jr._s_go-ahead_double_Fernando_Tatis_Jr._s_go-ahead_double_Fernan.mp4
+clip_start_time: 4.600
+clip_end_time: 11.600

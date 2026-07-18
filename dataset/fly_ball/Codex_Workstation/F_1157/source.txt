@@ -1,0 +1,7 @@
+video_title: Joey Meneses makes a sweet snag Joey Meneses makes a sweet snag Joey Meneses makes a sweet snag Joey Meneses makes a nice grab on a line drive from Yandy Díaz in the bottom of the 8th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/29/b45ab6d4-4483dc8f-4f37acb9-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745071_hunter-harvey-in-play-out-s-to-yandy-diaz
+clip_id: MLB_745071_hunter-harvey-in-play-out-s-to-yandy-diaz_auto1_0p400_7p400
+source_path: raw_sources\MLB_745071_hunter-harvey-in-play-out-s-to-yandy-diaz_Joey_Meneses_makes_a_sweet_snag_Joey_Meneses_makes_a_sweet_snag_Joey_Meneses_makes_a_sweet_snag_Joey_Meneses_makes_a_.mp4
+clip_start_time: 0.400
+clip_end_time: 7.400

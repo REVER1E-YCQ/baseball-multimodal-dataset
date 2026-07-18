@@ -1,0 +1,7 @@
+video_title: Jhonkensy Noel's solo home run (5) Jhonkensy Noel's solo home run (5) Jhonkensy Noel's solo home run (5) Jhonkensy Noel crushes a solo home run to left field in the top of the 4th inning to tie the game 1-1
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/18/5c95c141-645bcd96-83d03a26-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776275_jhonkensy-noel-homers-5-on-a-fly-ball-to-left-center-field
+clip_id: MLB_776275_jhonkensy-noel-homers-5-on-a-fly-ball-to-left-center-field_auto1_12p160_19p160
+source_path: raw_sources\MLB_776275_jhonkensy-noel-homers-5-on-a-fly-ball-to-left-center-field_Jhonkensy_Noel_s_solo_home_run_5_Jhonkensy_Noel_s_solo_home_run_5_Jhonkensy_Noel_s_solo_home_run_5_J.mp4
+clip_start_time: 12.160
+clip_end_time: 19.160

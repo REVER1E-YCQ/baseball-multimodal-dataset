@@ -1,0 +1,7 @@
+video_title: Eloy Jiménez's RBI single Eloy Jiménez's RBI single Eloy Jiménez's RBI single Eloy Jiménez singles on a sharp line drive to left field, scoring Andrew Benintendi to give the White Sox a run in the bottom of the 7th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/14/008bdeb2-802d7c01-f45c6154-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746769_eloy-jimenez-singles-on-a-sharp-line-drive-to-left-fielder-bryan-reyn
+clip_id: MLB_746769_eloy-jimenez-singles-on-a-sharp-line-drive-to-left-fielder-bryan-reyn_auto1_0p000_7p000
+source_path: raw_sources\MLB_746769_eloy-jimenez-singles-on-a-sharp-line-drive-to-left-fielder-bryan-reyn_Eloy_Jim_nez_s_RBI_single_Eloy_Jim_nez_s_RBI_single_Eloy_Jim_nez_s_RBI_single_Eloy_Jim_ne.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000
