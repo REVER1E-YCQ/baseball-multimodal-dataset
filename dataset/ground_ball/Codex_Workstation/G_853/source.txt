@@ -1,0 +1,7 @@
+video_title: Christian Walker's tremendous diving stop Christian Walker's tremendous diving stop Christian Walker's tremendous diving stop Christian Walker lays out to grab a sharp ground ball from Gunnar Henderson, making an incredible play for the second out of the 3rd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/21/ea713328-e9ffafb0-b48b2722-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776655_gunnar-henderson-grounds-out-first-baseman-christian-walker-to-pitche
+clip_id: MLB_776655_gunnar-henderson-grounds-out-first-baseman-christian-walker-to-pitche_auto1_1p520_7p520
+source_path: raw_sources\MLB_776655_gunnar-henderson-grounds-out-first-baseman-christian-walker-to-pitche_Christian_Walker_s_tremendous_diving_stop_Christian_Walker_s_tremendous_diving_stop_Chris.mp4
+clip_start_time: 1.520
+clip_end_time: 7.520

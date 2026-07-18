@@ -1,0 +1,7 @@
+video_title: Darell Hernaiz makes sweet jump throw to end game Darell Hernaiz makes sweet jump throw to end game Darell Hernaiz makes sweet jump throw to end game Darell Hernaiz fields Andy Ibáñez's grounder and makes a sweet jump throw to first in time to end the game and seal the Athletics' 7-0 win
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/27/ad261c28-c33b801e-fe3252b2-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776559_andy-ibanez-grounds-out-shortstop-darell-hernaiz-to-first-baseman-nic
+clip_id: MLB_776559_andy-ibanez-grounds-out-shortstop-darell-hernaiz-to-first-baseman-nic_auto1_0p680_6p680
+source_path: raw_sources\MLB_776559_andy-ibanez-grounds-out-shortstop-darell-hernaiz-to-first-baseman-nic_Darell_Hernaiz_makes_sweet_jump_throw_to_end_game_Darell_Hernaiz_makes_sweet_jump_throw_t.mp4
+clip_start_time: 0.680
+clip_end_time: 6.680

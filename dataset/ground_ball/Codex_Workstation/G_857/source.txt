@@ -1,0 +1,7 @@
+video_title: Brett Baty fields his own deflection for out Brett Baty fields his own deflection for out Brett Baty fields his own deflection for out Josh Bell's grounder deflects off of Brett Baty's glove, but Baty grabs the deflection with his bare hand and throws to first in time for the out
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/19/9fed496c-8cd8dd6f-92983ca9-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776678_josh-bell-grounds-out-third-baseman-brett-baty-to-first-baseman-pete-
+clip_id: MLB_776678_josh-bell-grounds-out-third-baseman-brett-baty-to-first-baseman-pete-_auto1_1p840_7p840
+source_path: raw_sources\MLB_776678_josh-bell-grounds-out-third-baseman-brett-baty-to-first-baseman-pete-_Brett_Baty_fields_his_own_deflection_for_out_Brett_Baty_fields_his_own_deflection_for_out.mp4
+clip_start_time: 1.840
+clip_end_time: 7.840

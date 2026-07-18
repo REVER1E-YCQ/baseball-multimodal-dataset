@@ -1,0 +1,7 @@
+video_title: Logan Gilbert escapes early trouble in the 1st Logan Gilbert escapes early trouble in the 1st Logan Gilbert escapes early trouble in the 1st Logan Gilbert induces a ground ball from Alec Bohm to strand two on base in the 1st inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/18/7a744836-098dca6e-18147587-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_776689_logan-gilbert-in-play-out-s-to-alec-bohm-veqof2
+clip_id: MLB_776689_logan-gilbert-in-play-out-s-to-alec-bohm-veqof2_auto1_7p200_13p200
+source_path: raw_sources\MLB_776689_logan-gilbert-in-play-out-s-to-alec-bohm-veqof2_Logan_Gilbert_escapes_early_trouble_in_the_1st_Logan_Gilbert_escapes_early_trouble_in_the_1st_Logan_Gilbert_esc.mp4
+clip_start_time: 7.200
+clip_end_time: 13.200

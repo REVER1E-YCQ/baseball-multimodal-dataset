@@ -1,0 +1,7 @@
+video_title: Dalton Rushing's two-run single Dalton Rushing's two-run single Dalton Rushing's two-run single Dalton Rushing lines a ground ball into center field, scoring Andy Pages and Enrique Hernández to extend the Dodgers' lead to 4-1 in the bottom of the 4th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/27/b68e6a3c-bff7a154-e2e58271-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776562_nick-lodolo-in-play-run-s-to-dalton-rushing
+clip_id: MLB_776562_nick-lodolo-in-play-run-s-to-dalton-rushing_auto1_0p000_6p000
+source_path: raw_sources\MLB_776562_nick-lodolo-in-play-run-s-to-dalton-rushing_Dalton_Rushing_s_two-run_single_Dalton_Rushing_s_two-run_single_Dalton_Rushing_s_two-run_single_Dalton_Rushing_line.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

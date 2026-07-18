@@ -1,0 +1,7 @@
+video_title: Andrés Chaparro's sliding stop Andrés Chaparro's sliding stop Andrés Chaparro's sliding stop Andrés Chaparro makes a great sliding stop on Brandon Nimmo's grounder up the first-base line, then flips it to Jake Irvin in time for the out
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/19/36ed72a9-0a9fc00f-31b9a0df-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776678_brandon-nimmo-grounds-out-first-baseman-andres-chaparro-to-pitcher-ja
+clip_id: MLB_776678_brandon-nimmo-grounds-out-first-baseman-andres-chaparro-to-pitcher-ja_auto1_0p000_6p000
+source_path: raw_sources\MLB_776678_brandon-nimmo-grounds-out-first-baseman-andres-chaparro-to-pitcher-ja_Andr_s_Chaparro_s_sliding_stop_Andr_s_Chaparro_s_sliding_stop_Andr_s_Chaparro_s_sliding_s.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000
