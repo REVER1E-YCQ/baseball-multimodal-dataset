@@ -1,0 +1,7 @@
+video_title: Rob Refsnyder breaks up Flaherty's no-hit bid Rob Refsnyder breaks up Flaherty's no-hit bid Rob Refsnyder breaks up Flaherty's no-hit bid Rob Refsnyder hits a line drive to left field, breaking up Jack Flaherty's no-hitter with one out in the 7th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/30/13969d01-8ba09355-b3f68a56-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746954_jack-flaherty-in-play-no-out-to-rob-refsnyder
+clip_id: MLB_746954_jack-flaherty-in-play-no-out-to-rob-refsnyder_auto1_0p000_7p000
+source_path: raw_sources\MLB_746954_jack-flaherty-in-play-no-out-to-rob-refsnyder_Rob_Refsnyder_breaks_up_Flaherty_s_no-hit_bid_Rob_Refsnyder_breaks_up_Flaherty_s.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000
