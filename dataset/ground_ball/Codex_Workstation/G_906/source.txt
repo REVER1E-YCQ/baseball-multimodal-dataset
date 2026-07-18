@@ -1,0 +1,7 @@
+video_title: Shohei Ohtani singles after a broken bat Shohei Ohtani singles after a broken bat Shohei Ohtani singles after a broken bat Shohei Ohtani singles on a ground ball to second base after his bat breaks on the hit in the 3rd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/01/7993acea-d089e91c-5bd62f4c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776918_shane-baz-in-play-no-out-to-shohei-ohtani
+clip_id: MLB_776918_shane-baz-in-play-no-out-to-shohei-ohtani_auto1_0p000_6p000
+source_path: raw_sources\MLB_776918_shane-baz-in-play-no-out-to-shohei-ohtani_Shohei_Ohtani_singles_after_a_broken_bat_Shohei_Ohtani_singles_after_a_broken_bat_Shohei_Ohtani_singles_after_a_broke.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

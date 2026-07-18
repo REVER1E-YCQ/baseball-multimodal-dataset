@@ -1,0 +1,7 @@
+video_title: José Ramírez's two-run double José Ramírez's two-run double José Ramírez's two-run double José Ramírez doubles on a grounder that deflects off Gleyber Torres and two runs score, increasing the Guardians' lead to 5-1 in the 7th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/24/7945bd95-733b45d6-98f19e56-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776204_will-vest-in-play-run-s-to-jose-ramirez-ilnqhb
+clip_id: MLB_776204_will-vest-in-play-run-s-to-jose-ramirez-ilnqhb_auto1_5p780_11p780
+source_path: raw_sources\MLB_776204_will-vest-in-play-run-s-to-jose-ramirez-ilnqhb_Jos_Ram_rez_s_two-run_double_Jos_Ram_rez_s_two-run_double_Jos_Ram_rez_s_two-run_double_Jos_Ram_rez_doubles_on_a_.mp4
+clip_start_time: 5.780
+clip_end_time: 11.780

@@ -1,0 +1,7 @@
+video_title: Nick Kurtz fields the final out Nick Kurtz fields the final out Nick Kurtz fields the final out Nick Kurtz fields a hard-hit grounder, steps on first for the final out of the game as the A's defeat the D-backs, 5-1
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/01/822e1857-dfdcfb6d-da375564-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776914_sean-newcomb-in-play-out-s-to-ketel-marte-qsnprj
+clip_id: MLB_776914_sean-newcomb-in-play-out-s-to-ketel-marte-qsnprj_auto1_5p600_11p600
+source_path: raw_sources\MLB_776914_sean-newcomb-in-play-out-s-to-ketel-marte-qsnprj_Nick_Kurtz_fields_the_final_out_Nick_Kurtz_fields_the_final_out_Nick_Kurtz_fields_the_final_out_Nick_Kurtz_fie.mp4
+clip_start_time: 5.600
+clip_end_time: 11.600

@@ -1,0 +1,7 @@
+video_title: Jordan Westburg's sweet stop, strong throw Jordan Westburg's sweet stop, strong throw Jordan Westburg's sweet stop, strong throw Jordan Westburg makes a sweet sliding stop on a hard-hit grounder from Paul Goldschmidt, completing the long throw to first base for the first out in the 5th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/26/02f2692a-a66bb5d6-f7737085-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776174_paul-goldschmidt-grounds-out-third-baseman-jordan-westburg-to-first-b
+clip_id: MLB_776174_paul-goldschmidt-grounds-out-third-baseman-jordan-westburg-to-first-b_auto1_0p040_6p040
+source_path: raw_sources\MLB_776174_paul-goldschmidt-grounds-out-third-baseman-jordan-westburg-to-first-b_Jordan_Westburg_s_sweet_stop_strong_throw_Jordan_Westburg_s_sweet_stop_strong_throw_Jorda.mp4
+clip_start_time: 0.040
+clip_end_time: 6.040
