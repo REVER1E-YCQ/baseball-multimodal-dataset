@@ -1,0 +1,7 @@
+video_title: Riley Greene's sacrifice fly Riley Greene's sacrifice fly Riley Greene's sacrifice fly Riley Greene hits a sacrifice fly to center, scoring Gleyber Torres to make it 6-2 in the 9th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/21/de5a7a56-a54685e2-f85e5028-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776238_dylan-dodd-in-play-run-s-to-riley-greene
+clip_id: MLB_776238_dylan-dodd-in-play-run-s-to-riley-greene_auto1_3p400_10p400
+source_path: raw_sources\MLB_776238_dylan-dodd-in-play-run-s-to-riley-greene_Riley_Greene_s_sacrifice_fly_Riley_Greene_s_sacrifice_fly_Riley_Greene_s_sacrifice_fly_Riley_Greene_hits_a_sacrifice_f.mp4
+clip_start_time: 3.400
+clip_end_time: 10.400

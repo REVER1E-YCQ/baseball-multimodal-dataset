@@ -1,0 +1,7 @@
+video_title: Nick Gonzales' sacrifice fly Nick Gonzales' sacrifice fly Nick Gonzales' sacrifice fly Nick Gonzales lifts a sacrifice fly to center field, scoring Bryan Reynolds and increasing the Pirates' lead to 3-0 in the bottom of the 1st inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/19/7354a86a-fe4547c3-b99158b9-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_776266_luis-severino-in-play-run-s-to-nick-gonzales
+clip_id: MLB_776266_luis-severino-in-play-run-s-to-nick-gonzales_auto1_1p440_8p440
+source_path: raw_sources\MLB_776266_luis-severino-in-play-run-s-to-nick-gonzales_Nick_Gonzales_sacrifice_fly_Nick_Gonzales_sacrifice_fly_Nick_Gonzales_sacrifice_fly_Nick_Gonzales_lifts_a_sacrific.mp4
+clip_start_time: 1.440
+clip_end_time: 8.440

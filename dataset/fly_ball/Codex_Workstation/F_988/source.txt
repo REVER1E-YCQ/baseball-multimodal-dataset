@@ -1,0 +1,7 @@
+video_title: Spencer Steer, Elly De La Cruz go back to back Spencer Steer, Elly De La Cruz go back to back Spencer Steer, Elly De La Cruz go back to back Spencer Steer and Elly De La Cruz hit back-to-back home runs in the  6th to lead the Reds to a 7-4 win
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/19/04082bcc-81a87d35-2eedb981-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776267_spencer-steer-elly-de-la-cruz-go-back-to-back
+clip_id: MLB_776267_spencer-steer-elly-de-la-cruz-go-back-to-back_auto1_1p180_8p180
+source_path: raw_sources\MLB_776267_spencer-steer-elly-de-la-cruz-go-back-to-back_Spencer_Steer_Elly_De_La_Cruz_go_back_to_back_Spencer_Steer_Elly_De_La_Cruz_go_back_to_back_Spencer_Steer_Elly_De.mp4
+clip_start_time: 1.180
+clip_end_time: 8.180
