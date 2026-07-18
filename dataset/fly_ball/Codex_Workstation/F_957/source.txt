@@ -1,0 +1,7 @@
+video_title: Brooks Lee's two-run home run (16) Brooks Lee's two-run home run (16) Brooks Lee's two-run home run (16) Brooks Lee crushes a go-ahead two-run home run in the bottom of the 6th inning, giving the Twins a 3-2 lead
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/21/a07d92bd-48d5ba25-825291ba-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776225_brooks-lee-homers-16-on-a-fly-ball-to-right-center-field-luke-keascha
+clip_id: MLB_776225_brooks-lee-homers-16-on-a-fly-ball-to-right-center-field-luke-keascha_auto1_3p480_10p480
+source_path: raw_sources\MLB_776225_brooks-lee-homers-16-on-a-fly-ball-to-right-center-field-luke-keascha_Brooks_Lee_s_two-run_home_run_16_Brooks_Lee_s_two-run_home_run_16_Brooks_Lee_s_two-run_ho.mp4
+clip_start_time: 3.480
+clip_end_time: 10.480

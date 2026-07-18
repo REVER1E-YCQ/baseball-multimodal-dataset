@@ -1,0 +1,7 @@
+video_title: Rafael Devers' solo home run (33)  Rafael Devers' solo home run (33)  Rafael Devers' solo home run (33)  Rafael Devers hits a solo home run to left-center field, cutting the Giants' deficit to 6-5 in the 5th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/22/8dea2754-a0bee45a-152c2b00-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776220_rafael-devers-homers-33-on-a-fly-ball-to-left-center-field
+clip_id: MLB_776220_rafael-devers-homers-33-on-a-fly-ball-to-left-center-field_auto1_0p000_7p000
+source_path: raw_sources\MLB_776220_rafael-devers-homers-33-on-a-fly-ball-to-left-center-field_Rafael_Devers_solo_home_run_33_Rafael_Devers_solo_home_run_33_Rafael_Devers_solo_home_run_33_Rafael_.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

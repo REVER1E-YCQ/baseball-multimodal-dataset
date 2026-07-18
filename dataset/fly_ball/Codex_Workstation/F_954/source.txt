@@ -1,0 +1,7 @@
+video_title: Ronald Acuña Jr.'s solo home run (19) Ronald Acuña Jr.'s solo home run (19) Ronald Acuña Jr.'s solo home run (19) Ronald Acuña Jr. answers with a solo home run of his own to tie the game at 1-1 in the first inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/22/6a671f99-5321da93-ae5704f0-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776221_ronald-acuna-jr-homers-19-on-a-fly-ball-to-left-center-field
+clip_id: MLB_776221_ronald-acuna-jr-homers-19-on-a-fly-ball-to-left-center-field_auto1_0p000_7p000
+source_path: raw_sources\MLB_776221_ronald-acuna-jr-homers-19-on-a-fly-ball-to-left-center-field_Ronald_Acu_a_Jr._s_solo_home_run_19_Ronald_Acu_a_Jr._s_solo_home_run_19_Ronald_Acu_a_Jr._s_solo_ho.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

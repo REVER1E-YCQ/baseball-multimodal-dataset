@@ -1,0 +1,7 @@
+video_title: Jared Triolo's two-run home run (7) Jared Triolo's two-run home run (7) Jared Triolo's two-run home run (7) Jared Triolo lifts a two-run home run to deep left field, plating Nick Yorke to extend the Pirates' lead to 4-0 in the 2nd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/21/067a7c15-901dae97-5e1262c1-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776234_jared-triolo-homers-7-on-a-fly-ball-to-left-center-field-nick-yorke-s
+clip_id: MLB_776234_jared-triolo-homers-7-on-a-fly-ball-to-left-center-field-nick-yorke-s_auto1_6p940_13p940
+source_path: raw_sources\MLB_776234_jared-triolo-homers-7-on-a-fly-ball-to-left-center-field-nick-yorke-s_Jared_Triolo_s_two-run_home_run_7_Jared_Triolo_s_two-run_home_run_7_Jared_Triolo_s_two-ru.mp4
+clip_start_time: 6.940
+clip_end_time: 13.940

@@ -1,0 +1,7 @@
+video_title: Colson Montgomery's two-run home run (19) Colson Montgomery's two-run home run (19) Colson Montgomery's two-run home run (19) Colson Montgomery hammers a two-run home run to right-center field, putting the White Sox up 2-1 in the 6th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/23/a939e68d-8eee8e30-c5180fec-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776216_colson-montgomery-homers-19-on-a-fly-ball-to-right-center-field-kyle-
+clip_id: MLB_776216_colson-montgomery-homers-19-on-a-fly-ball-to-right-center-field-kyle-_auto1_0p100_7p100
+source_path: raw_sources\MLB_776216_colson-montgomery-homers-19-on-a-fly-ball-to-right-center-field-kyle-_Colson_Montgomery_s_two-run_home_run_19_Colson_Montgomery_s_two-run_home_run_19_Colson_Mo.mp4
+clip_start_time: 0.100
+clip_end_time: 7.100
