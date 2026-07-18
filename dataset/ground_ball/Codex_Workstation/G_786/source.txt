@@ -1,0 +1,7 @@
+video_title: Ben Rortvedt scores on Mookie Betts' fielder's choice Ben Rortvedt scores on Mookie Betts' fielder's choice Ben Rortvedt scores on Mookie Betts' fielder's choice Ben Rortvedt comes home on Mookie Betts' ground ball to shortstop, giving the Dodgers a 1-0 lead in the bottom of the 6th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/18/82c3a8ea-0f54ff79-a4624522-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776271_logan-webb-in-play-no-out-to-mookie-betts-sa2lob
+clip_id: MLB_776271_logan-webb-in-play-no-out-to-mookie-betts-sa2lob_auto1_4p100_10p100
+source_path: raw_sources\MLB_776271_logan-webb-in-play-no-out-to-mookie-betts-sa2lob_Ben_Rortvedt_scores_on_Mookie_Betts_fielder_s_choice_Ben_Rortvedt_scores_on_Mookie_Betts_fielder_s_choice_Ben_.mp4
+clip_start_time: 4.100
+clip_end_time: 10.100

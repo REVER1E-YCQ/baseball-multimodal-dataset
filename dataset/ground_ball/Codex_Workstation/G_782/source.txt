@@ -1,0 +1,7 @@
+video_title: Corbin Carroll's RBI single Corbin Carroll's RBI single Corbin Carroll's RBI single Corbin Carroll singles on a ground ball to right field in the bottom of the 1st inning to score Geraldo Perdomo and make it 2-1
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/20/e8c9b3da-dda7143f-9e549b22-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_776246_corbin-carroll-singles-on-a-ground-ball-to-right-fielder-max-kepler-g
+clip_id: MLB_776246_corbin-carroll-singles-on-a-ground-ball-to-right-fielder-max-kepler-g_auto1_5p040_11p040
+source_path: raw_sources\MLB_776246_corbin-carroll-singles-on-a-ground-ball-to-right-fielder-max-kepler-g_Corbin_Carroll_s_RBI_single_Corbin_Carroll_s_RBI_single_Corbin_Carroll_s_RBI_single_Corbi.mp4
+clip_start_time: 5.040
+clip_end_time: 11.040

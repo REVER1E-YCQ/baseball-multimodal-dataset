@@ -1,0 +1,7 @@
+video_title: James McCann's RBI single James McCann's RBI single James McCann's RBI single James McCann singles on a ground ball to left field, Alek Thomas scores, as D-backs take a 1-0 lead in the top of the 2nd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/14/061e79c6-42aa8f24-8337cf3e-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_776324_james-mccann-singles-on-a-ground-ball-to-left-fielder-austin-martin-a
+clip_id: MLB_776324_james-mccann-singles-on-a-ground-ball-to-left-fielder-austin-martin-a_auto1_1p520_7p520
+source_path: raw_sources\MLB_776324_james-mccann-singles-on-a-ground-ball-to-left-fielder-austin-martin-a_James_McCann_s_RBI_single_James_McCann_s_RBI_single_James_McCann_s_RBI_single_James_McCan.mp4
+clip_start_time: 1.520
+clip_end_time: 7.520

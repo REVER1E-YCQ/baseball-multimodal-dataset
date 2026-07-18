@@ -1,0 +1,7 @@
+video_title: Amed Rosario's smooth backhanded stop Amed Rosario's smooth backhanded stop Amed Rosario's smooth backhanded stop Amed Rosario drops to one knee to make a smooth backhanded stop on Samuel Basallo's grounder, then throws to first in time to end the 4th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/19/ad4d4ea5-fd520470-84fff97a-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_776273_samuel-basallo-grounds-out-third-baseman-amed-rosario-to-first-basema
+clip_id: MLB_776273_samuel-basallo-grounds-out-third-baseman-amed-rosario-to-first-basema_auto1_5p185_11p185
+source_path: raw_sources\MLB_776273_samuel-basallo-grounds-out-third-baseman-amed-rosario-to-first-basema_Amed_Rosario_s_smooth_backhanded_stop_Amed_Rosario_s_smooth_backhanded_stop_Amed_Rosario_.mp4
+clip_start_time: 5.185
+clip_end_time: 11.185

@@ -1,0 +1,7 @@
+video_title: Webb, Adames combine for unique putout Webb, Adames combine for unique putout Webb, Adames combine for unique putout Logan Webb redirects a hard-hit grounder from Teoscar Hernández with his foot, fielded by Willy Adames who throws to first for the out in the 2nd
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/18/16c8ecbc-44006f5b-7e5f0b83-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776271_logan-webb-in-play-out-s-to-teoscar-hernandez-raaypf
+clip_id: MLB_776271_logan-webb-in-play-out-s-to-teoscar-hernandez-raaypf_auto1_0p000_6p000
+source_path: raw_sources\MLB_776271_logan-webb-in-play-out-s-to-teoscar-hernandez-raaypf_Webb_Adames_combine_for_unique_putout_Webb_Adames_combine_for_unique_putout_Webb_Adames_combine_for_unique.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000
