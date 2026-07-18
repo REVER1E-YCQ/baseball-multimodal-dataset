@@ -1,0 +1,7 @@
+video_title: Jonathan India's diving stop Jonathan India's diving stop Jonathan India's diving stop Jonathan India makes a great diving stop on William Contreras' grounder to prevent a run from scoring in the bottom of the 7th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/16/2d62957b-d1e9fb65-f735f4a7-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745977_william-contreras-grounds-out-second-baseman-jonathan-india-to-first-
+clip_id: MLB_745977_william-contreras-grounds-out-second-baseman-jonathan-india-to-first-_auto1_0p300_6p300
+source_path: raw_sources\MLB_745977_william-contreras-grounds-out-second-baseman-jonathan-india-to-first-_Jonathan_India_s_diving_stop_Jonathan_India_s_diving_stop_Jonathan_India_s_divin.mp4
+clip_start_time: 0.300
+clip_end_time: 6.300

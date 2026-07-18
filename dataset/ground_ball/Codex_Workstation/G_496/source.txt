@@ -1,0 +1,7 @@
+video_title: Jose Miranda's two-run single Jose Miranda's two-run single Jose Miranda's two-run single Jose Miranda singles on a sharp ground ball to center field, scoring two runs to give the Twins a 2-0 lead in the 1st
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/28/3e409feb-64b73bda-b016e2b8-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745903_jose-miranda-singles-on-a-sharp-ground-ball-to-center-fielder-kyle-is
+clip_id: MLB_745903_jose-miranda-singles-on-a-sharp-ground-ball-to-center-fielder-kyle-is_auto1_0p180_6p180
+source_path: raw_sources\MLB_745903_jose-miranda-singles-on-a-sharp-ground-ball-to-center-fielder-kyle-is_Jose_Miranda_s_two-run_single_Jose_Miranda_s_two-run_single_Jose_Miranda_s_two-r.mp4
+clip_start_time: 0.180
+clip_end_time: 6.180

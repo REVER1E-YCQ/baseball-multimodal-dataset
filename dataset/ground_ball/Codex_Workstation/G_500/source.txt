@@ -1,0 +1,7 @@
+video_title: Sal Frelick's RBI groundout Sal Frelick's RBI groundout Sal Frelick's RBI groundout Sal Frelick grounds out but a run scores to cut the Brewers' deficit to 6-2 in the bottom of the 10th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/28/286932c7-51168bd3-90a9dd11-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745987_sal-frelick-grounds-out-shortstop-dansby-swanson-to-first-baseman-mic
+clip_id: MLB_745987_sal-frelick-grounds-out-shortstop-dansby-swanson-to-first-baseman-mic_auto1_3p320_9p320
+source_path: raw_sources\MLB_745987_sal-frelick-grounds-out-shortstop-dansby-swanson-to-first-baseman-mic_Sal_Frelick_s_RBI_groundout_Sal_Frelick_s_RBI_groundout_Sal_Frelick_s_RBI_ground.mp4
+clip_start_time: 3.320
+clip_end_time: 9.320

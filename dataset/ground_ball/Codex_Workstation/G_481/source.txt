@@ -1,0 +1,7 @@
+video_title: Wyatt Langford's RBI forceout Wyatt Langford's RBI forceout Wyatt Langford's RBI force out Wyatt Langford grounds into a forceout, scoring Adolis García to cut the Mariners' lead to 7-2 in the top of the 9th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/15/8a9208fb-bfb0df5f-ee2ff64e-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745241_eduard-bazardo-in-play-out-s-to-wyatt-langford
+clip_id: MLB_745241_eduard-bazardo-in-play-out-s-to-wyatt-langford_auto1_0p040_6p040
+source_path: raw_sources\MLB_745241_eduard-bazardo-in-play-out-s-to-wyatt-langford_Wyatt_Langford_s_RBI_forceout_Wyatt_Langford_s_RBI_forceout_Wyatt_Langford_s_RBI.mp4
+clip_start_time: 0.040
+clip_end_time: 6.040

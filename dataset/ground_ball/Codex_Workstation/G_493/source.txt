@@ -1,0 +1,7 @@
+video_title: Mark Vientos' two-run double  Mark Vientos' two-run double  Mark Vientos' two-run double  Mark Vientos grounds a two-run double down the left-field line, giving the Mets a 2-1 lead in the bottom of the 2nd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/11/9f0c02d2-c53cda76-ed9d3130-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745815_jesus-luzardo-in-play-run-s-to-mark-vientos
+clip_id: MLB_745815_jesus-luzardo-in-play-run-s-to-mark-vientos_auto1_0p000_6p000
+source_path: raw_sources\MLB_745815_jesus-luzardo-in-play-run-s-to-mark-vientos_Mark_Vientos_two-run_double_Mark_Vientos_two-run_double_Mark_Vientos_two-run_dou.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000
