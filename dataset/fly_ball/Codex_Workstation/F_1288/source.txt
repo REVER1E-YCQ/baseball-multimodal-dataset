@@ -1,0 +1,7 @@
+video_title: Nick Castellanos' leaping catch Nick Castellanos' leaping catch Nick Castellanos' leaping catch Nick Castellanos tracks down a fly ball and leaps to make a superb catch, recording the second out in the bottom of the 1st inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/02/183c3a18-f9399ccc-abed0e0e-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746860_michael-mercado-in-play-out-s-to-cody-bellinger
+clip_id: MLB_746860_michael-mercado-in-play-out-s-to-cody-bellinger_auto1_1p160_8p160
+source_path: raw_sources\MLB_746860_michael-mercado-in-play-out-s-to-cody-bellinger_Nick_Castellanos_leaping_catch_Nick_Castellanos_leaping_catch_Nick_Castellanos_leaping_catch_Nick_Castellanos_t.mp4
+clip_start_time: 1.160
+clip_end_time: 8.160

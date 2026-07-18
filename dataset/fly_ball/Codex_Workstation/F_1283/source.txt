@@ -1,0 +1,7 @@
+video_title: Assad escapes bases-loaded jam Assad escapes bases-loaded jam Assad escapes bases-loaded jam Ian Happ catches Nolan Arenado's fly ball, stranding three Cardinals and ending the top of the 3rd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-08/02/8118007a-f622f644-f918e91f-csvm-diamondx64-asset-4000K.mp4
+source_id: MLB_746845_javier-assad-in-play-out-s-to-nolan-arenado-7zta0t
+clip_id: MLB_746845_javier-assad-in-play-out-s-to-nolan-arenado-7zta0t_auto1_1p360_8p360
+source_path: raw_sources\MLB_746845_javier-assad-in-play-out-s-to-nolan-arenado-7zta0t_Assad_escapes_bases-loaded_jam_Assad_escapes_bases-loaded_jam_Assad_escapes_bases-loaded_jam_Ian_Happ_catche.mp4
+clip_start_time: 1.360
+clip_end_time: 8.360

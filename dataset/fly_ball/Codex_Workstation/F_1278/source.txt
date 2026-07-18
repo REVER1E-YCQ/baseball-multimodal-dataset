@@ -1,0 +1,7 @@
+video_title: Brendan Rodgers makes a great jumping grab Brendan Rodgers makes a great jumping grab Brendan Rodgers makes a great jumping grab Brendan Rodgers jumps straight up to snare a hard line drive and rob Andrew Benintendi of a base hit
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/29/20223526-24b8a4e1-2a7526e1-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746778_cal-quantrill-in-play-out-s-to-andrew-benintendi-x3xf0d
+clip_id: MLB_746778_cal-quantrill-in-play-out-s-to-andrew-benintendi-x3xf0d_auto1_0p000_7p000
+source_path: raw_sources\MLB_746778_cal-quantrill-in-play-out-s-to-andrew-benintendi-x3xf0d_Brendan_Rodgers_makes_a_great_jumping_grab_Brendan_Rodgers_makes_a_great_jumping_grab_Brendan_Rodgers_m.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

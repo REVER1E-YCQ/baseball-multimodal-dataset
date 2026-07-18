@@ -1,0 +1,7 @@
+video_title: Mark Canha slides to make the catch in right Mark Canha slides to make the catch in right Mark Canha slides to make the catch in right Mark Canha runs in for a fly ball and makes a smooth sliding catch to rob Jonathan India in the bottom of the 4th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/06/62eab64a-a557e451-57ee37b0-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746694_mark-canha-sliding-catch
+clip_id: MLB_746694_mark-canha-sliding-catch_auto1_1p680_8p680
+source_path: raw_sources\MLB_746694_mark-canha-sliding-catch_Mark_Canha_slides_to_make_the_catch_in_right_Mark_Canha_slides_to_make_the_catch_in_right_Mark_Canha_slides_to_make_the_catch_in_right.mp4
+clip_start_time: 1.680
+clip_end_time: 8.680

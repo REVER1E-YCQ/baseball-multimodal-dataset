@@ -1,0 +1,7 @@
+video_title: Manny Machado's two-run double Manny Machado's two-run double Manny Machado's two-run double Manny Machado doubles on a fly ball to right field and two runs score, giving the Padres a 2-0 lead in the 1st
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/23/14706705-dc4e327c-c3315916-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746714_manny-machado-doubles-10-on-a-fly-ball-to-right-fielder-nick-martini-
+clip_id: MLB_746714_manny-machado-doubles-10-on-a-fly-ball-to-right-fielder-nick-martini-_auto1_11p020_18p020
+source_path: raw_sources\MLB_746714_manny-machado-doubles-10-on-a-fly-ball-to-right-fielder-nick-martini-_Manny_Machado_s_two-run_double_Manny_Machado_s_two-run_double_Manny_Machado_s_tw.mp4
+clip_start_time: 11.020
+clip_end_time: 18.020
