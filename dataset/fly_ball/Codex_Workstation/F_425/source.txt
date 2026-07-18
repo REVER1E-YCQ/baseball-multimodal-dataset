@@ -1,0 +1,7 @@
+video_title: Christian Koss doubles after review Christian Koss doubles after review Christian Koss doubles after review Christian Koss' hits a deep fly ball to left-center field, touched by a fan and ultimately ruled a double after the original call is overturned following a review
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/30/a51c4c35-2ba6c51a-a62f3727-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777291_christian-koss-doubles-3-to-left-center-field-on-fan-interference
+clip_id: MLB_777291_christian-koss-doubles-3-to-left-center-field-on-fan-interference_auto1_4p900_11p900
+source_path: raw_sources\MLB_777291_christian-koss-doubles-3-to-left-center-field-on-fan-interference_Christian_Koss_doubles_after_review_Christian_Koss_doubles_after_review_Christian_Koss_double.mp4
+clip_start_time: 4.900
+clip_end_time: 11.900

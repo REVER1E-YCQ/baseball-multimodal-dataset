@@ -1,0 +1,7 @@
+video_title: Colt Keith's triple Colt Keith's triple Colt Keith's triple Colt Keith triples on a sharp line drive to right field in the bottom of the 8th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/27/d718fa25-9dd5f021-7720d491-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_777334_colt-keith-triples-2-on-a-sharp-line-drive-to-right-fielder-willi-cas
+clip_id: MLB_777334_colt-keith-triples-2-on-a-sharp-line-drive-to-right-fielder-willi-cas_auto1_13p840_20p840
+source_path: raw_sources\MLB_777334_colt-keith-triples-2-on-a-sharp-line-drive-to-right-fielder-willi-cas_Colt_Keith_s_triple_Colt_Keith_s_triple_Colt_Keith_s_triple_Colt_Keith_triples_on_a_sharp.mp4
+clip_start_time: 13.840
+clip_end_time: 20.840

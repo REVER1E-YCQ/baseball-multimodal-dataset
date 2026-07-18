@@ -1,0 +1,7 @@
+video_title: Nolan Arenado's 400th Major League double Nolan Arenado's 400th Major League double Nolan Arenado's 400th Major League double Nolan Arenado hits a line drive down the right-field line for his 400th Major League double
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/29/525e833a-95cdbaf5-6353dbc0-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_777309_logan-allen-in-play-no-out-to-nolan-arenado-g5bcfd
+clip_id: MLB_777309_logan-allen-in-play-no-out-to-nolan-arenado-g5bcfd_auto1_11p820_18p820
+source_path: raw_sources\MLB_777309_logan-allen-in-play-no-out-to-nolan-arenado-g5bcfd_Nolan_Arenado_s_400th_Major_League_double_Nolan_Arenado_s_400th_Major_League_double_Nolan_Arenado_s_400th_Ma.mp4
+clip_start_time: 11.820
+clip_end_time: 18.820

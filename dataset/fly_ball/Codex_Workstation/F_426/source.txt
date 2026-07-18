@@ -1,0 +1,7 @@
+video_title: Jorge Alcala secures the Red Sox's win Jorge Alcala secures the Red Sox's win Jorge Alcala secures the Red Sox's win Jarren Duran catches Elly De La Cruz's fly ball in left field to end the Red Sox's 13-6 win over the Reds
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/30/bf64d860-d180e3c0-649edf3f-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777300_elly-de-la-cruz-flies-out-to-left-fielder-jarren-duran
+clip_id: MLB_777300_elly-de-la-cruz-flies-out-to-left-fielder-jarren-duran_auto1_0p000_7p000
+source_path: raw_sources\MLB_777300_elly-de-la-cruz-flies-out-to-left-fielder-jarren-duran_Jorge_Alcala_secures_the_Red_Sox_s_win_Jorge_Alcala_secures_the_Red_Sox_s_win_Jorge_Alcala_secures_the_R.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

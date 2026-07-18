@@ -1,0 +1,7 @@
+video_title: Third base umpire okay after line drive hit Third base umpire okay after line drive hit Third base umpire okay after line drive hit Umpire Adrian Johnson is okay after taking a line drive foul off his left leg in the bottom of the 4th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/26/d7b7872d-dfbc665a-a8ae7891-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777348_third-base-umpire-okay-after-line-drive-hit
+clip_id: MLB_777348_third-base-umpire-okay-after-line-drive-hit_auto1_0p000_7p000
+source_path: raw_sources\MLB_777348_third-base-umpire-okay-after-line-drive-hit_Third_base_umpire_okay_after_line_drive_hit_Third_base_umpire_okay_after_line_drive_hit_Third_base_umpire_okay_afte.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

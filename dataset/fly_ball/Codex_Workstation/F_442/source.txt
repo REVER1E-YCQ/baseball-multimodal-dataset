@@ -1,0 +1,7 @@
+video_title: Juan Soto's smooth sliding catch Juan Soto's smooth sliding catch Juan Soto's smooth sliding catch Juan Soto charges in to make a nice sliding grab on a line drive in the top of the 2nd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/23/b9d3f138-2e71b8bf-bfc04383-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777389_paul-blackburn-in-play-out-s-to-michael-harris-ii-cqoc4x-x4296
+clip_id: MLB_777389_paul-blackburn-in-play-out-s-to-michael-harris-ii-cqoc4x-x4296_auto1_1p500_8p500
+source_path: raw_sources\MLB_777389_paul-blackburn-in-play-out-s-to-michael-harris-ii-cqoc4x-x4296_Juan_Soto_s_smooth_sliding_catch_Juan_Soto_s_smooth_sliding_catch_Juan_Soto_s_smooth_sliding_cat.mp4
+clip_start_time: 1.500
+clip_end_time: 8.500

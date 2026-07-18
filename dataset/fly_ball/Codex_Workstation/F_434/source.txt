@@ -1,0 +1,7 @@
+video_title: Mike Yastrzemski's running catch Mike Yastrzemski's running catch Mike Yastrzemski's running catch Mike Yastrzemski tracks a liner hit by Lenyn Sosa and makes a nice running catch in right field for the first out in the bottom of the 8th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/27/8eda9ac9-8e598602-852286d6-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777338_tyler-rogers-in-play-out-s-to-lenyn-sosa
+clip_id: MLB_777338_tyler-rogers-in-play-out-s-to-lenyn-sosa_auto1_0p000_7p000
+source_path: raw_sources\MLB_777338_tyler-rogers-in-play-out-s-to-lenyn-sosa_Mike_Yastrzemski_s_running_catch_Mike_Yastrzemski_s_running_catch_Mike_Yastrzemski_s_running_catch_Mike_Yastrzemski_tr.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000
