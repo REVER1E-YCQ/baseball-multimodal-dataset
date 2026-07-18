@@ -1,0 +1,7 @@
+video_title: Liam Hicks, Otto Lopez hit back-to-back homers Liam Hicks, Otto Lopez hit back-to-back homers Liam Hicks, Otto Lopez hit back-to-back homers Liam Hicks and Otto Lopez hit back-to-back home runs in the top of the 3rd inning, giving the Marlins a 4-2 lead over the Rockies
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/18/b3248459-bc75a3a9-9204b47b-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776270_liam-hicks-otto-lopez-hit-back-to-back-homers
+clip_id: MLB_776270_liam-hicks-otto-lopez-hit-back-to-back-homers_auto1_7p800_14p800
+source_path: raw_sources\MLB_776270_liam-hicks-otto-lopez-hit-back-to-back-homers_Liam_Hicks_Otto_Lopez_hit_back-to-back_homers_Liam_Hicks_Otto_Lopez_hit_back-to-back_homers_Liam_Hicks_Otto_Lopez.mp4
+clip_start_time: 7.800
+clip_end_time: 14.800
