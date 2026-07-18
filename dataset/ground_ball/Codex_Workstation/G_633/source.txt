@@ -1,0 +1,7 @@
+video_title: Pirates seal win over White Sox Pirates seal win over White Sox Pirates seal win over White Sox Ke'Bryan Hayes fields Gavin Sheets' grounder and throws to first for the out, sealing the Pirates' 9-4 win over the White Sox
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/14/046bb16a-94b0fd64-8a37c61f-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746769_gavin-sheets-grounds-out-softly-third-baseman-ke-bryan-hayes-to-first
+clip_id: MLB_746769_gavin-sheets-grounds-out-softly-third-baseman-ke-bryan-hayes-to-first_auto1_0p000_6p000
+source_path: raw_sources\MLB_746769_gavin-sheets-grounds-out-softly-third-baseman-ke-bryan-hayes-to-first_Pirates_seal_win_over_White_Sox_Pirates_seal_win_over_White_Sox_Pirates_seal_win_over_Whi.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

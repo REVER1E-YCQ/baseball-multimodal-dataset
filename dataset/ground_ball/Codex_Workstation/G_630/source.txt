@@ -1,0 +1,7 @@
+video_title: Xavier Edwards' jump throw Xavier Edwards' jump throw Xavier Edwards' jump throw Xavier Edwards backhands a ground ball and makes a jumping throw to nab Spencer Steer at first base
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/12/cd259f81-6b287243-d09dd1dc-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746685_spencer-steer-grounds-out-shortstop-xavier-edwards-to-first-baseman-j
+clip_id: MLB_746685_spencer-steer-grounds-out-shortstop-xavier-edwards-to-first-baseman-j_auto1_10p560_16p560
+source_path: raw_sources\MLB_746685_spencer-steer-grounds-out-shortstop-xavier-edwards-to-first-baseman-j_Xavier_Edwards_jump_throw_Xavier_Edwards_jump_throw_Xavier_Edwards_jump_throw_Xavier_Edwa.mp4
+clip_start_time: 10.560
+clip_end_time: 16.560

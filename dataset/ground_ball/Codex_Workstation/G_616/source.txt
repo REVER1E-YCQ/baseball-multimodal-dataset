@@ -1,0 +1,7 @@
+video_title: Nick Gordon's RBI groundout Nick Gordon's RBI groundout Nick Gordon's RBI groundout
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/23/a6591575-1c012cbd-9370feae-csvm-diamondx64-asset-4000K.mp4
+source_id: MLB_746036_nick-gordon-grounds-out-to-first-baseman-ryan-mountcastle-jesus-sanch
+clip_id: MLB_746036_nick-gordon-grounds-out-to-first-baseman-ryan-mountcastle-jesus-sanch_auto1_12p869_18p869
+source_path: raw_sources\MLB_746036_nick-gordon-grounds-out-to-first-baseman-ryan-mountcastle-jesus-sanch_Nick_Gordon_s_RBI_groundout_Nick_Gordon_s_RBI_groundout_Nick_Gordon_s_RBI_groundout.mp4
+clip_start_time: 12.869
+clip_end_time: 18.869

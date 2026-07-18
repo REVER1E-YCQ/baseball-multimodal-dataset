@@ -1,0 +1,7 @@
+video_title: Connor Wong's RBI groundout Connor Wong's RBI groundout Connor Wong's RBI groundout Connor Wong grounds out to third base to drive in a run in the top of the 8th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/24/88765723-032cf62b-e5527144-csvm-diamondx64-asset-4000K.mp4
+source_id: MLB_746525_connor-wong-grounds-out-third-baseman-aaron-schunk-to-first-baseman-m
+clip_id: MLB_746525_connor-wong-grounds-out-third-baseman-aaron-schunk-to-first-baseman-m_auto1_1p420_7p420
+source_path: raw_sources\MLB_746525_connor-wong-grounds-out-third-baseman-aaron-schunk-to-first-baseman-m_Connor_Wong_s_RBI_groundout_Connor_Wong_s_RBI_groundout_Connor_Wong_s_RBI_groundout_Conno.mp4
+clip_start_time: 1.420
+clip_end_time: 7.420

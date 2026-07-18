@@ -1,0 +1,7 @@
+video_title: A’s score a run on an error A’s score a run on an error A’s score a run on an error Miguel Andujar hits a hard ground ball that goes under Brandon Drury’s glove for an error to drive in the A’s first run of the day
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/28/aba5d03f-69f04589-65cbeabb-csvm-diamondx64-asset-4000K.mp4
+source_id: MLB_746195_jose-soriano-in-play-run-s-to-miguel-andujar
+clip_id: MLB_746195_jose-soriano-in-play-run-s-to-miguel-andujar_auto1_4p680_10p680
+source_path: raw_sources\MLB_746195_jose-soriano-in-play-run-s-to-miguel-andujar_A_s_score_a_run_on_an_error_A_s_score_a_run_on_an_error_A_s_score_a_run_on_an_error_Miguel_Andujar_hits_a_hard_gro.mp4
+clip_start_time: 4.680
+clip_end_time: 10.680
