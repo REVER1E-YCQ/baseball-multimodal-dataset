@@ -1,0 +1,7 @@
+video_title: Elly De La Cruz catches a liner Elly De La Cruz catches a liner Elly De La Cruz catches a liner Elly De La Cruz catches a liner for the first out in the top of the 2nd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/01/4f975e88-423c2b4f-2ec910f1-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_778107_andrew-abbott-swinging-strike-to-willson-contreras-itx7wu
+clip_id: MLB_778107_andrew-abbott-swinging-strike-to-willson-contreras-itx7wu_auto1_1p820_8p820
+source_path: raw_sources\MLB_778107_andrew-abbott-swinging-strike-to-willson-contreras-itx7wu_Elly_De_La_Cruz_catches_a_liner_Elly_De_La_Cruz_catches_a_liner_Elly_De_La_Cruz_catches_a_liner_Elly_.mp4
+clip_start_time: 1.820
+clip_end_time: 8.820

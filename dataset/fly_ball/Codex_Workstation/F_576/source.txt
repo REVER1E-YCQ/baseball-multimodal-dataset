@@ -1,0 +1,7 @@
+video_title: Dansby Swanson makes diving tag for unassisted DP Dansby Swanson makes diving tag for unassisted DP Dansby Swanson makes diving tag for unassisted DP Dansby Swanson catches a liner and makes a diving tag to complete an unassisted double play and end the royal's threat in the top of the 5th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/22/485239ed-51c1712f-0e3f15a7-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777047_matthew-boyd-in-play-out-s-to-kyle-isbel
+clip_id: MLB_777047_matthew-boyd-in-play-out-s-to-kyle-isbel_auto1_0p000_7p000
+source_path: raw_sources\MLB_777047_matthew-boyd-in-play-out-s-to-kyle-isbel_Dansby_Swanson_makes_diving_tag_for_unassisted_DP_Dansby_Swanson_makes_diving_tag_for_unassisted_DP_Dansby_Swanson_mak.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

@@ -1,0 +1,7 @@
+video_title: Austin Slater's line drive ruled foul after review Austin Slater's line drive ruled foul after review Austin Slater's line drive ruled foul after review Austin Slater hits a line drive that's ruled a foul ball after the original call is confirmed in the bottom of the 1st inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/13/23e7f075-2f2d5858-14e946d9-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777120_austin-slater-s-line-drive-ruled-foul-after-review
+clip_id: MLB_777120_austin-slater-s-line-drive-ruled-foul-after-review_auto1_0p000_7p000
+source_path: raw_sources\MLB_777120_austin-slater-s-line-drive-ruled-foul-after-review_Austin_Slater_s_line_drive_ruled_foul_after_review_Austin_Slater_s_line_drive_ruled_foul_after_review_Austin.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

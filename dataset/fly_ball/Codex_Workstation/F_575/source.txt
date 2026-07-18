@@ -1,0 +1,7 @@
+video_title: Dansby Swanson turns unassisted DP after review Dansby Swanson turns unassisted DP after review Dansby Swanson turns unassisted DP after review Dansby Swanson snags a liner and dives to tag Freddy Fermin for the double play, as a Cubs' challenge overturns the safe call on the field
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/22/bde354b8-1eea82e3-41a2a15b-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777047_dansby-swanson-turns-unassisted-dp-after-review
+clip_id: MLB_777047_dansby-swanson-turns-unassisted-dp-after-review_auto1_0p340_7p340
+source_path: raw_sources\MLB_777047_dansby-swanson-turns-unassisted-dp-after-review_Dansby_Swanson_turns_unassisted_DP_after_review_Dansby_Swanson_turns_unassisted_DP_after_review_Dansby_Swanson_.mp4
+clip_start_time: 0.340
+clip_end_time: 7.340

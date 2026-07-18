@@ -1,0 +1,7 @@
+video_title: Edwin Díaz earns the save against the Angels Edwin Díaz earns the save against the Angels Edwin Díaz earns the save against the Angels Edwin Díaz earns the save against the Angels by forcing Mike Trout into a pop fly
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/23/3e7551d2-adaada7a-1603adaf-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777034_edwin-diaz-in-play-out-s-to-mike-trout
+clip_id: MLB_777034_edwin-diaz-in-play-out-s-to-mike-trout_auto1_2p780_9p780
+source_path: raw_sources\MLB_777034_edwin-diaz-in-play-out-s-to-mike-trout_Edwin_D_az_earns_the_save_against_the_Angels_Edwin_D_az_earns_the_save_against_the_Angels_Edwin_D_az_earns_the_save_agai.mp4
+clip_start_time: 2.780
+clip_end_time: 9.780

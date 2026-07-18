@@ -1,0 +1,7 @@
+video_title: Taylor Walls starts inning-ending double play Taylor Walls starts inning-ending double play Taylor Walls starts inning-ending double play Taylor Walls leaps to snag a liner and doubles off the runner at second base to complete an inning-ending double play
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/22/9affc926-a58acb3e-4abb2299-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777409_eric-orze-in-play-out-s-to-jahmai-jones
+clip_id: MLB_777409_eric-orze-in-play-out-s-to-jahmai-jones_auto1_0p000_7p000
+source_path: raw_sources\MLB_777409_eric-orze-in-play-out-s-to-jahmai-jones_Taylor_Walls_starts_inning-ending_double_play_Taylor_Walls_starts_inning-ending_double_play_Taylor_Walls_starts_inning-.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

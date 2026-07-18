@@ -1,0 +1,7 @@
+video_title: Christian Yelich's two-run home run (3)  Christian Yelich's two-run home run (3)  Christian Yelich's two-run home run (3) Christian Yelich homers on a fly ball to center field, giving the Brewers a 14-2 lead in the top of the 9th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/09/debdc131-efca7461-e69e409e-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_778379_christian-yelich-homers-3-on-a-fly-ball-to-center-field-jackson-chour
+clip_id: MLB_778379_christian-yelich-homers-3-on-a-fly-ball-to-center-field-jackson-chour_auto1_15p820_22p820
+source_path: raw_sources\MLB_778379_christian-yelich-homers-3-on-a-fly-ball-to-center-field-jackson-chour_Christian_Yelich_s_two-run_home_run_3_Christian_Yelich_s_two-run_home_run_3_Christian_Yel.mp4
+clip_start_time: 15.820
+clip_end_time: 22.820
