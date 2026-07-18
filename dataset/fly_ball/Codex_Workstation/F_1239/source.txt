@@ -1,0 +1,7 @@
+video_title: Anthony Volpe recovers for the out Anthony Volpe recovers for the out Anthony Volpe recovers for the out Anthony Volpe knocks down a sharp line drive and makes a smooth recovery for the out at first
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/11/423e3408-8d898a32-8e250563-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746296_marcus-stroman-in-play-out-s-to-nelson-velazquez
+clip_id: MLB_746296_marcus-stroman-in-play-out-s-to-nelson-velazquez_auto1_12p860_19p860
+source_path: raw_sources\MLB_746296_marcus-stroman-in-play-out-s-to-nelson-velazquez_Anthony_Volpe_recovers_for_the_out_Anthony_Volpe_recovers_for_the_out_Anthony_Vo.mp4
+clip_start_time: 12.860
+clip_end_time: 19.860

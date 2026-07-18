@@ -1,0 +1,7 @@
+video_title: Kevin Pillar's sliding catch Kevin Pillar's sliding catch Kevin Pillar's sliding catch Kevin Pillar charges a fly ball and makes an inning-ending sliding catch in foul territory in the 1st
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/19/63f9fc35-9face709-f690c8be-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746219_sal-frelick-flies-out-to-right-fielder-kevin-pillar-in-foul-territory
+clip_id: MLB_746219_sal-frelick-flies-out-to-right-fielder-kevin-pillar-in-foul-territory_auto1_0p000_7p000
+source_path: raw_sources\MLB_746219_sal-frelick-flies-out-to-right-fielder-kevin-pillar-in-foul-territory_Kevin_Pillar_s_sliding_catch_Kevin_Pillar_s_sliding_catch_Kevin_Pillar_s_sliding_catch_Ke.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

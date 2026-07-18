@@ -1,0 +1,7 @@
+video_title: Jackson Merrill turns a double play at second Jackson Merrill turns a double play at second Jackson Merrill turns a double play at second Jackson Merrill runs in to catch a line drive and throws to second to double off Hunter Renfroe to end the 3rd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/31/040f6367-4de7787c-e36e7266-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746303_dylan-cease-in-play-out-s-to-maikel-garcia-3k30yc
+clip_id: MLB_746303_dylan-cease-in-play-out-s-to-maikel-garcia-3k30yc_auto1_5p480_12p480
+source_path: raw_sources\MLB_746303_dylan-cease-in-play-out-s-to-maikel-garcia-3k30yc_Jackson_Merrill_turns_a_double_play_at_second_Jackson_Merrill_turns_a_double_pla.mp4
+clip_start_time: 5.480
+clip_end_time: 12.480

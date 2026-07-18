@@ -1,0 +1,7 @@
+video_title: Taylor Ward's two-run homer (13) Taylor Ward's two-run homer (13) Taylor Ward's two-run homer (13) Taylor Ward lifts a fly ball to the opposite field for a two-run home run, putting the Angels on the board in the bottom of the 1st inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/24/bc6f527c-6b6234a1-7b453161-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746218_luis-medina-in-play-run-s-to-taylor-ward
+clip_id: MLB_746218_luis-medina-in-play-run-s-to-taylor-ward_auto1_0p000_7p000
+source_path: raw_sources\MLB_746218_luis-medina-in-play-run-s-to-taylor-ward_Taylor_Ward_s_two-run_homer_13_Taylor_Ward_s_two-run_homer_13_Taylor_Ward_s_two-run_homer_13_Taylor_Ward_lifts_a_fly_b.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

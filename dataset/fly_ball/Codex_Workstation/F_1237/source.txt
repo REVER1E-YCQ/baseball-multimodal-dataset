@@ -1,0 +1,7 @@
+video_title: Salvador Perez's two-run single Salvador Perez's two-run single Salvador Perez's two-run single Salvador Perez singles on a line drive to right field and two runs score, giving the Royals a 4-1 lead in the 7th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/03/9fdfe158-8571913a-9bb86f59-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746283_shawn-armstrong-in-play-run-s-to-salvador-perez
+clip_id: MLB_746283_shawn-armstrong-in-play-run-s-to-salvador-perez_auto1_15p155_22p155
+source_path: raw_sources\MLB_746283_shawn-armstrong-in-play-run-s-to-salvador-perez_Salvador_Perez_s_two-run_single_Salvador_Perez_s_two-run_single_Salvador_Perez_s_two-run_single_Salvador_Perez_.mp4
+clip_start_time: 15.155
+clip_end_time: 22.155

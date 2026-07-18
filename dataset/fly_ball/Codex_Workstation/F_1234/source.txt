@@ -1,0 +1,7 @@
+video_title: Gabriel Moreno's two-run single Gabriel Moreno's two-run single Gabriel Moreno's two-run single Gabriel Moreno singles on a line drive to center field and two runs score, giving the D-backs an early 3-0 lead in the 1st
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/23/fbe2ff1d-e4c15cb9-f5c8628e-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_746281_alec-marsh-in-play-run-s-to-gabriel-moreno
+clip_id: MLB_746281_alec-marsh-in-play-run-s-to-gabriel-moreno_auto1_6p280_13p280
+source_path: raw_sources\MLB_746281_alec-marsh-in-play-run-s-to-gabriel-moreno_Gabriel_Moreno_s_two-run_single_Gabriel_Moreno_s_two-run_single_Gabriel_Moreno_s_two-run_single_Gabriel_Moreno_singl.mp4
+clip_start_time: 6.280
+clip_end_time: 13.280
