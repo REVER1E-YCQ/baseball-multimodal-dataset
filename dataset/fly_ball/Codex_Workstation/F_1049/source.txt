@@ -1,0 +1,7 @@
+video_title: Jahmai Jones on his leadoff homer in big win Jahmai Jones on his leadoff homer in big win Jahmai Jones on his leadoff homer in big win Jahmai Jones talks about hitting a leadoff home run to lead the Tigers to a big win over the Guardians
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/25/568145e4-5b2f06d2-d746e5b2-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776189_jahmai-jones-on-his-leadoff-homer-in-big-win
+clip_id: MLB_776189_jahmai-jones-on-his-leadoff-homer-in-big-win_auto1_3p400_10p400
+source_path: raw_sources\MLB_776189_jahmai-jones-on-his-leadoff-homer-in-big-win_Jahmai_Jones_on_his_leadoff_homer_in_big_win_Jahmai_Jones_on_his_leadoff_homer_in_big_win_Jahmai_Jones_on_his_lead.mp4
+clip_start_time: 3.400
+clip_end_time: 10.400

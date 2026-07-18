@@ -1,0 +1,7 @@
+video_title: Otto Kemp's two-run home run (7) Otto Kemp's two-run home run (7) Otto Kemp's two-run home run (7) Otto Kemp hits a two-run home run to right field, extending the Phillies' lead to 3-0 in the bottom of the 2nd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/23/62a13204-3dc99caa-a6fceff7-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776215_otto-kemp-homers-7-on-a-line-drive-to-right-center-field-weston-wilso
+clip_id: MLB_776215_otto-kemp-homers-7-on-a-line-drive-to-right-center-field-weston-wilso_auto1_2p340_9p340
+source_path: raw_sources\MLB_776215_otto-kemp-homers-7-on-a-line-drive-to-right-center-field-weston-wilso_Otto_Kemp_s_two-run_home_run_7_Otto_Kemp_s_two-run_home_run_7_Otto_Kemp_s_two-run_home_ru.mp4
+clip_start_time: 2.340
+clip_end_time: 9.340

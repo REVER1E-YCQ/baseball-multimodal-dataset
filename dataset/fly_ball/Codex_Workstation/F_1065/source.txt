@@ -1,0 +1,7 @@
+video_title: Riley Greene's solo home run (35) Riley Greene's solo home run (35) Riley Greene's solo home run (35) Riley Greene makes it a two-run lead with a line-drive solo home run to right field in the top of the 6th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/23/79e77d09-43bd43d6-1d98a9ad-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776218_riley-greene-homers-35-on-a-fly-ball-to-right-field
+clip_id: MLB_776218_riley-greene-homers-35-on-a-fly-ball-to-right-field_auto1_4p820_11p820
+source_path: raw_sources\MLB_776218_riley-greene-homers-35-on-a-fly-ball-to-right-field_Riley_Greene_s_solo_home_run_35_Riley_Greene_s_solo_home_run_35_Riley_Greene_s_solo_home_run_35_Riley_Green.mp4
+clip_start_time: 4.820
+clip_end_time: 11.820

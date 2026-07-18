@@ -1,0 +1,7 @@
+video_title: Miguel Cairo on Brad Lord, James Wood in loss Miguel Cairo on Brad Lord, James Wood in loss Miguel Cairo on Brad Lord, James Wood in loss Nationals manager Miguel Cairo talks about Brad Lord's performance, James Wood's home run and more after a loss to the Braves
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/23/d4801263-f0928a9f-b553d05f-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776219_miguel-cairo-on-brad-lord-james-wood-in-loss
+clip_id: MLB_776219_miguel-cairo-on-brad-lord-james-wood-in-loss_auto1_2p260_9p260
+source_path: raw_sources\MLB_776219_miguel-cairo-on-brad-lord-james-wood-in-loss_Miguel_Cairo_on_Brad_Lord_James_Wood_in_loss_Miguel_Cairo_on_Brad_Lord_James_Wood_in_loss_Miguel_Cairo_on_Brad_Lor.mp4
+clip_start_time: 2.260
+clip_end_time: 9.260

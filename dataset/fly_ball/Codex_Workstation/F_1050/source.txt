@@ -1,0 +1,7 @@
+video_title: Riley Greene's solo homer (36) Riley Greene's solo homer (36) Riley Greene's solo homer (36) Riley Greene crushes a solo home run to right field to extend the Tigers' lead to 4-1 in the top of the 4th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/25/c5b7b1e4-424ce35d-2d8d41f6-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776189_riley-greene-homers-36-on-a-fly-ball-to-right-field
+clip_id: MLB_776189_riley-greene-homers-36-on-a-fly-ball-to-right-field_auto1_3p620_10p620
+source_path: raw_sources\MLB_776189_riley-greene-homers-36-on-a-fly-ball-to-right-field_Riley_Greene_s_solo_homer_36_Riley_Greene_s_solo_homer_36_Riley_Greene_s_solo_homer_36_Riley_Greene_crushes.mp4
+clip_start_time: 3.620
+clip_end_time: 10.620

@@ -1,0 +1,7 @@
+video_title: Byron Buxton's two-homer day  Byron Buxton's two-homer day  Byron Buxton's two-homer day  Byron Buxton hits two no-doubt home runs to lead the Twins to a 4-0 victory
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/25/dd42cf48-61050e5f-9dce8628-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_776183_byron-buxton-s-two-homer-day
+clip_id: MLB_776183_byron-buxton-s-two-homer-day_auto1_7p440_14p440
+source_path: raw_sources\MLB_776183_byron-buxton-s-two-homer-day_Byron_Buxton_s_two-homer_day_Byron_Buxton_s_two-homer_day_Byron_Buxton_s_two-homer_day_Byron_Buxton_hits_two_no-doubt_home_runs_to.mp4
+clip_start_time: 7.440
+clip_end_time: 14.440
