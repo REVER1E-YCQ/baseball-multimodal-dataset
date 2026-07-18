@@ -1,0 +1,7 @@
+video_title: Eury Pérez gets out of a jam Eury Pérez gets out of a jam Eury Pérez gets out of a jam Eury Pérez fields a softly hit ground ball and gets the runner at first, stranding two runners and escaping a jam in the bottom of the 4th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/15/8efbf8c2-205753d5-5906f1c1-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_777503_alex-call-grounds-out-softly-pitcher-eury-perez-to-first-baseman-eric
+clip_id: MLB_777503_alex-call-grounds-out-softly-pitcher-eury-perez-to-first-baseman-eric_auto1_3p740_9p740
+source_path: raw_sources\MLB_777503_alex-call-grounds-out-softly-pitcher-eury-perez-to-first-baseman-eric_Eury_P_rez_gets_out_of_a_jam_Eury_P_rez_gets_out_of_a_jam_Eury_P_rez_gets_out_of_a_jam_Eu.mp4
+clip_start_time: 3.740
+clip_end_time: 9.740

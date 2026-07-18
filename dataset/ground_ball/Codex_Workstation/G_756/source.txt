@@ -1,0 +1,7 @@
+video_title: Luis García Jr.'s sliding stop Luis García Jr.'s sliding stop Luis García Jr.'s sliding stop Luis García Jr. makes a terrific play diving to his left to corral a ground ball and throws to first, nabbing Ronny Mauricio for the first out of the 5th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/10/51cf0ece-4a61cd46-b7a10e06-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777570_ronny-mauricio-grounds-out-second-baseman-luis-garcia-jr-to-first-bas
+clip_id: MLB_777570_ronny-mauricio-grounds-out-second-baseman-luis-garcia-jr-to-first-bas_auto1_0p780_6p780
+source_path: raw_sources\MLB_777570_ronny-mauricio-grounds-out-second-baseman-luis-garcia-jr-to-first-bas_Luis_Garc_a_Jr._s_sliding_stop_Luis_Garc_a_Jr._s_sliding_stop_Luis_Garc_a_Jr._s_sliding_s.mp4
+clip_start_time: 0.780
+clip_end_time: 6.780

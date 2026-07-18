@@ -1,0 +1,7 @@
+video_title: Ozzie Albies fields the final out Ozzie Albies fields the final out Ozzie Albies fields the final out Ozzie Albies cleanly fields a ground ball and flips to second for the final out of the game as the Braves defeat the Mets, 5-0
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/18/03d4aeb5-0677b216-e1aa6866-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777470_luis-torrens-grounds-into-a-force-out-second-baseman-ozzie-albies-to-
+clip_id: MLB_777470_luis-torrens-grounds-into-a-force-out-second-baseman-ozzie-albies-to-_auto1_0p200_6p200
+source_path: raw_sources\MLB_777470_luis-torrens-grounds-into-a-force-out-second-baseman-ozzie-albies-to-_Ozzie_Albies_fields_the_final_out_Ozzie_Albies_fields_the_final_out_Ozzie_Albies_fields_t.mp4
+clip_start_time: 0.200
+clip_end_time: 6.200

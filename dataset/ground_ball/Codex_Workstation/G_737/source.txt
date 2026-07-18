@@ -1,0 +1,7 @@
+video_title: Elly De La Cruz hustles for a double Elly De La Cruz hustles for a double Elly De La Cruz hustles for a double Elly De La Cruz chops a ground ball down the left-field line and slides safely to second base for a leadoff double to start the 6th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/22/8c2f74de-2558aee1-5dec6421-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_777407_elly-de-la-cruz-doubles-15-on-a-ground-ball-to-left-fielder-alec-burl
+clip_id: MLB_777407_elly-de-la-cruz-doubles-15-on-a-ground-ball-to-left-fielder-alec-burl_auto1_3p320_9p320
+source_path: raw_sources\MLB_777407_elly-de-la-cruz-doubles-15-on-a-ground-ball-to-left-fielder-alec-burl_Elly_De_La_Cruz_hustles_for_a_double_Elly_De_La_Cruz_hustles_for_a_double_Elly_De_La_Cruz.mp4
+clip_start_time: 3.320
+clip_end_time: 9.320

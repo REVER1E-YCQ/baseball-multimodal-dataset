@@ -1,0 +1,7 @@
+video_title: Will Benson's RBI single Will Benson's RBI single Will Benson hits a sharp ground ball to right field and scores Spencer Steer to extend the Reds' lead to 4-1 in the bottom of the 3rd
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/18/12400541-a9ca7502-c02aae5f-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_777474_bailey-ober-in-play-run-s-to-will-benson
+clip_id: MLB_777474_bailey-ober-in-play-run-s-to-will-benson_auto1_2p360_8p360
+source_path: raw_sources\MLB_777474_bailey-ober-in-play-run-s-to-will-benson_Will_Benson_s_RBI_single_Will_Benson_s_RBI_single_Will_Benson_hits_a_sharp_ground_ball_to_right_field_and_scores_Spenc.mp4
+clip_start_time: 2.360
+clip_end_time: 8.360

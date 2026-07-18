@@ -1,0 +1,7 @@
+video_title: Trevor Story's exceptional jump-throw Trevor Story's exceptional jump-throw Trevor Story's exceptional jump-throw Trevor Story backhands a ground ball from Junior Caminero, making an incredible jump-throw to first base for the first out in the 6th
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/11/06f3e27b-87fd271a-15334586-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777561_walker-buehler-in-play-out-s-to-junior-caminero-zamez5
+clip_id: MLB_777561_walker-buehler-in-play-out-s-to-junior-caminero-zamez5_auto1_0p000_6p000
+source_path: raw_sources\MLB_777561_walker-buehler-in-play-out-s-to-junior-caminero-zamez5_Trevor_Story_s_exceptional_jump-throw_Trevor_Story_s_exceptional_jump-throw_Trevor_Story_s_exceptional_j.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

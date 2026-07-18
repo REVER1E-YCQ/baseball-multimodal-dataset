@@ -1,0 +1,7 @@
+video_title: Christian Moore's first big league putout  Christian Moore's first big league putout  Christian Moore's first big league putout  Christian Moore fields a ground ball off the bat of Jackson Holliday and throws to first base, recording his first big league putout in his debut
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/13/430f3be6-8efd2fae-ac824177-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777539_christian-moore-s-first-big-league-putout
+clip_id: MLB_777539_christian-moore-s-first-big-league-putout_auto1_0p000_6p000
+source_path: raw_sources\MLB_777539_christian-moore-s-first-big-league-putout_Christian_Moore_s_first_big_league_putout_Christian_Moore_s_first_big_league_putout_Christian_Moore_s_first_big_leagu.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000

@@ -1,0 +1,7 @@
+video_title: Brandon Nimmo's RBI single Brandon Nimmo's RBI single Brandon Nimmo's RBI single Brandon Nimmo hits a ground ball single to right field, scoring Francisco Lindor and trimming the Mets' deficit to 7-4 in the bottom of the 5th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/14/bc21967d-157628da-866985f3-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_777518_drew-rasmussen-in-play-run-s-to-brandon-nimmo-6akcfm
+clip_id: MLB_777518_drew-rasmussen-in-play-run-s-to-brandon-nimmo-6akcfm_auto1_2p100_8p100
+source_path: raw_sources\MLB_777518_drew-rasmussen-in-play-run-s-to-brandon-nimmo-6akcfm_Brandon_Nimmo_s_RBI_single_Brandon_Nimmo_s_RBI_single_Brandon_Nimmo_s_RBI_single_Brandon_Nimmo_hits_a_grou.mp4
+clip_start_time: 2.100
+clip_end_time: 8.100

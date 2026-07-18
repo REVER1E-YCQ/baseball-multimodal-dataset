@@ -1,0 +1,7 @@
+video_title: Tyler Fitzgerald's smooth play at second Tyler Fitzgerald's smooth play at second Tyler Fitzgerald's smooth play at second Tyler Fitzgerald fields Tommy Edman's slow grounder up the middle and makes a difficult throw to first in time to end the 6th inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/15/11976151-69aa7b25-0d9911ae-csvm-diamondgcp-asset-4000K.mp4
+source_id: MLB_777498_ryan-walker-in-play-out-s-to-tommy-edman
+clip_id: MLB_777498_ryan-walker-in-play-out-s-to-tommy-edman_auto1_1p580_7p580
+source_path: raw_sources\MLB_777498_ryan-walker-in-play-out-s-to-tommy-edman_Tyler_Fitzgerald_s_smooth_play_at_second_Tyler_Fitzgerald_s_smooth_play_at_second_Tyler_Fitzgerald_s_smooth_play_at_se.mp4
+clip_start_time: 1.580
+clip_end_time: 7.580

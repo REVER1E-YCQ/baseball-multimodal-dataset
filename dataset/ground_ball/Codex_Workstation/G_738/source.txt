@@ -1,0 +1,7 @@
+video_title: Jonathan Aranda's jumping grab ends the threat Jonathan Aranda's jumping grab ends the threat Jonathan Aranda's jumping grab ends the threat Jonathan Aranda leaps up to make a nice grab on a ground ball for the final out of the top of the 2nd
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/21/331e695e-3777ecb5-db9a004e-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_777420_colt-keith-grounds-out-to-first-baseman-jonathan-aranda
+clip_id: MLB_777420_colt-keith-grounds-out-to-first-baseman-jonathan-aranda_auto1_0p000_6p000
+source_path: raw_sources\MLB_777420_colt-keith-grounds-out-to-first-baseman-jonathan-aranda_Jonathan_Aranda_s_jumping_grab_ends_the_threat_Jonathan_Aranda_s_jumping_grab_ends_the_threat_Jonathan_.mp4
+clip_start_time: 0.000
+clip_end_time: 6.000
