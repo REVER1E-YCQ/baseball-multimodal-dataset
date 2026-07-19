@@ -3,6 +3,14 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Environment & secrets
+.env
+
+# Pipeline artifacts
+logs/
+temp/
+*.log
+
 # Editor / annotation tool backups
 *.bak
 *.tmp
