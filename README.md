@@ -12,6 +12,18 @@ This repository stores a multimodal baseball event dataset for machine learning 
 
 请勿直接向 `main` 分支提交个人工作内容。
 
+## Audio Classification Baseline
+
+The current reproducible audio baseline is available here:
+
+- [Frozen M2D baseline for fly ball vs ground ball](./baselines/m2d_audio/README.md)
+
+It uses matched 200 ms event and strict-pre windows, frozen M2D embeddings,
+and an L2 logistic-regression classifier. The package includes the evaluation
+protocol, environment specification, unit tests, reference metrics, and
+cross-collector limitations. Raw audio, model weights, generated windows, and
+embeddings are intentionally excluded.
+
 The dataset focuses on:
 
 - Audio: bat-ball contact sounds
