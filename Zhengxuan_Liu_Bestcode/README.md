@@ -1,67 +1,47 @@
-# Zhengxuan Liu Best Model Code
+# Zhengxuan Liu 棒球击球声音频实验
 
-这个目录保存本次棒球击球声音二分类实验中综合表现最好的算法：
+本目录保存两次独立但使用相同数据划分的音频分类实验。任务是仅根据击球声音，将样本识别为滚地球（`ground_ball`）或高飞球（`fly_ball`）。
 
-```text
-0.5秒击球音频
--> STFT、log-Mel、MFCC和频谱/时域统计特征
--> 683维特征向量
--> StandardScaler
--> class-balanced RBF-SVM
--> ground_ball / fly_ball
-```
+## 实验目录
 
-详细测试结果见[MODEL_RESULTS.md](MODEL_RESULTS.md)。仓库内附带的`best_model.joblib`是使用1494条训练数据得到的最终模型。
+### [实验一：三种基础音频方法](experiment_1_baselines/)
 
-## 文件说明
+比较传统人工音频特征、频谱 CNN 和原始波形 CNN。该实验用于建立基础结果，并保存了当时表现最好的传统 RBF-SVM 模型。
 
-- `train_best_model.py`：从`dataset/`重新划分数据、提取特征、搜索参数并训练模型。
-- `predict_best_model.py`：使用训练好的模型预测一条WAV音频。
-- `best_model.joblib`：本次实验训练好的模型。
-- `model_metadata.json`：模型参数、数据来源和测试结果。
-- `requirements.txt`：Python依赖。
+### [实验二：预训练 EAT 音频模型](experiment_2_eat_audio/)
 
-## 安装依赖
+使用 Efficient Audio Transformer（EAT）提取多时间尺度音频表示，并将 EAT 与实验一的传统 RBF-SVM 在概率层进行融合。
 
-```bash
-python -m pip install -r requirements.txt
-```
+## 公平对比
 
-## 重新训练
+两次实验共用同一个固定数据划分：
 
-在仓库根目录运行：
+- 总样本：2135 条
+- 训练集：1494 条，约 70%
+- 测试集：641 条，约 30%
+- 训练集和测试集之间没有重复音频哈希
+- 模型选择与阈值选择只使用训练集内部验证数据
 
-```bash
-python Zhengxuan_Liu_Bestcode/train_best_model.py \
-  --dataset-root dataset \
-  --output-dir Zhengxuan_Liu_Bestcode/retrained_output
-```
+## 结果对比
 
-训练脚本使用固定随机种子42，保持70%训练、30%测试，并确保完全相同的音频不会跨越训练集和测试集。
+| 实验 | 方法 | Accuracy | Balanced Accuracy | Macro-F1 | ROC-AUC |
+|---|---|---:|---:|---:|---:|
+| 实验一 | 传统特征 + RBF-SVM | 0.6225 | 0.6123 | 0.6129 | 0.6544 |
+| 实验一 | 频谱 CNN | 0.6069 | 0.5887 | 0.5875 | 0.6528 |
+| 实验一 | 波形 CNN | 0.5757 | 0.5947 | 0.5736 | 0.6405 |
+| 实验二 | 三尺度冻结 EAT | 0.6755 | 0.6650 | 0.6662 | 0.7193 |
+| 实验二 | EAT + 传统模型分数级融合 | **0.6802** | **0.6733** | **0.6738** | **0.7282** |
 
-## 预测一条音频
+实验二的最佳融合模型相对实验一最佳模型，Macro-F1 提高约 `0.0609`。5000 次配对 bootstrap 得到的提升 95% 区间约为 `[0.0186, 0.1039]`。
 
-如果已经知道击球事件的开始和结束时间：
+## 两次实验的核心区别
 
-```bash
-python Zhengxuan_Liu_Bestcode/predict_best_model.py \
-  --audio path/to/audio.wav \
-  --event-start 1.20 \
-  --event-end 1.28
-```
+| 项目 | 实验一 | 实验二 |
+|---|---|---|
+| 特征来源 | 人工设计特征或从零训练 CNN | 大规模预训练 EAT 表示 |
+| 时间范围 | 固定 0.5 秒 | 0.25、0.5、1.0 秒多尺度 |
+| 分类方式 | RBF-SVM 或小型 CNN | 正则逻辑回归及概率融合 |
+| 是否更新 EAT 主干 | 不适用 | 否，冻结主干提取特征 |
+| 最佳 Macro-F1 | 0.6129 | 0.6738 |
 
-如果只知道击球中心时刻：
-
-```bash
-python Zhengxuan_Liu_Bestcode/predict_best_model.py \
-  --audio path/to/audio.wav \
-  --event-center 1.24
-```
-
-不提供击球时间时，程序会使用短时RMS峰值自动寻找最强瞬态：
-
-```bash
-python Zhengxuan_Liu_Bestcode/predict_best_model.py --audio path/to/audio.wav
-```
-
-已知人工标注时间通常比自动寻找峰值更加可靠。
+每个子目录都包含详细中文报告、运行代码、指标文件和必要的模型文件。

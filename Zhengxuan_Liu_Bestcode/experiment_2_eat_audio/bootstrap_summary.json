@@ -1,0 +1,11 @@
+{
+  "paired_macro_f1_gain_fusion_minus_traditional": 0.06090256375696623,
+  "paired_gain_95_ci": [
+    0.01859389648880079,
+    0.10390436059745639
+  ],
+  "probability_gain_above_zero": 0.9974,
+  "bootstrap_iterations": 5000,
+  "aligned_test_samples": 641,
+  "alignment_key": "audio_path (sample_id is not globally unique)"
+}

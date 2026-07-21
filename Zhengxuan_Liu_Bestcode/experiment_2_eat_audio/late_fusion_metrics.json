@@ -1,0 +1,70 @@
+{
+  "accuracy": 0.6801872074882995,
+  "balanced_accuracy": 0.6732955108021941,
+  "macro_f1": 0.6737557134025687,
+  "roc_auc": 0.7282322422226182,
+  "confusion_matrix": [
+    [
+      173,
+      106
+    ],
+    [
+      99,
+      263
+    ]
+  ],
+  "classification_report": {
+    "ground_ball": {
+      "precision": 0.6360294117647058,
+      "recall": 0.6200716845878136,
+      "f1-score": 0.6279491833030852,
+      "support": 279.0
+    },
+    "fly_ball": {
+      "precision": 0.7127371273712737,
+      "recall": 0.7265193370165746,
+      "f1-score": 0.719562243502052,
+      "support": 362.0
+    },
+    "accuracy": 0.6801872074882995,
+    "macro avg": {
+      "precision": 0.6743832695679898,
+      "recall": 0.6732955108021941,
+      "f1-score": 0.6737557134025687,
+      "support": 641.0
+    },
+    "weighted avg": {
+      "precision": 0.6793495257266052,
+      "recall": 0.6801872074882995,
+      "f1-score": 0.6796869801705204,
+      "support": 641.0
+    }
+  },
+  "selected_fusion": {
+    "eat_weight": 0.7000000000000001,
+    "traditional_weight": 0.29999999999999993,
+    "threshold": 0.49,
+    "validation_macro_f1": 0.6706796676905317,
+    "validation_balanced_accuracy": 0.6692109914832074,
+    "validation_roc_auc": 0.6856017997750281
+  },
+  "eat_configuration": {
+    "feature_name": "eat_multi_max",
+    "feature_dimension": 2304,
+    "model_type": "logistic",
+    "parameter_C": 0.01,
+    "threshold": 0.44499999999999995,
+    "validation_macro_f1": 0.6653998678122934,
+    "validation_balanced_accuracy": 0.6641089506668809,
+    "validation_roc_auc": 0.6779688253254057,
+    "fit_seconds": 0.23076748847961426
+  },
+  "traditional_configuration": {
+    "model_type": "rbf_svm",
+    "C": 100.0
+  },
+  "train_samples": 1494,
+  "validation_samples": 225,
+  "test_samples": 641,
+  "selection_rule": "Weights and threshold selected only on the fixed training split's validation subset."
+}

@@ -1,0 +1,82 @@
+{
+  "accuracy": 0.6755070202808112,
+  "balanced_accuracy": 0.6650428721360819,
+  "macro_f1": 0.6662060125378038,
+  "roc_auc": 0.7192716687459157,
+  "confusion_matrix": [
+    [
+      163,
+      116
+    ],
+    [
+      92,
+      270
+    ]
+  ],
+  "classification_report": {
+    "ground_ball": {
+      "precision": 0.6392156862745098,
+      "recall": 0.5842293906810035,
+      "f1-score": 0.6104868913857678,
+      "support": 279.0
+    },
+    "fly_ball": {
+      "precision": 0.6994818652849741,
+      "recall": 0.7458563535911602,
+      "f1-score": 0.7219251336898396,
+      "support": 362.0
+    },
+    "accuracy": 0.6755070202808112,
+    "macro avg": {
+      "precision": 0.669348775779742,
+      "recall": 0.6650428721360819,
+      "f1-score": 0.6662060125378038,
+      "support": 641.0
+    },
+    "weighted avg": {
+      "precision": 0.6732505642804194,
+      "recall": 0.6755070202808112,
+      "f1-score": 0.6734208129365852,
+      "support": 641.0
+    }
+  },
+  "selected_configuration": {
+    "feature_name": "eat_multi_max",
+    "feature_dimension": 2304,
+    "model_type": "logistic",
+    "parameter_C": 0.01,
+    "threshold": 0.44499999999999995,
+    "validation_macro_f1": 0.6653998678122934,
+    "validation_balanced_accuracy": 0.6641089506668809,
+    "validation_roc_auc": 0.6779688253254057,
+    "fit_seconds": 0.23076748847961426
+  },
+  "dataset_samples": 2135,
+  "train_samples": 1494,
+  "inner_train_samples": 1269,
+  "validation_samples": 225,
+  "test_samples": 641,
+  "eat_model_id": "worstchan/EAT-base_epoch30_finetune_AS2M",
+  "eat_model_revision": "60d61e8b2e9e5ba3be6860285de80cb7d625ccbb",
+  "windows_seconds": [
+    0.25,
+    0.5,
+    1.0
+  ],
+  "pooling": [
+    "cls",
+    "max",
+    "mean"
+  ],
+  "device": "cuda",
+  "torch_version": "2.11.0+cu130",
+  "config": {
+    "seed": 42,
+    "sample_rate": 16000,
+    "validation_fraction": 0.15,
+    "batch_size": 32,
+    "norm_mean": -4.268,
+    "norm_std": 4.569,
+    "event_position_fraction": 0.2
+  }
+}
