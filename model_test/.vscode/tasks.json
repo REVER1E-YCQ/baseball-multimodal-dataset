@@ -1,0 +1,63 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "先精化击球时间（RF + RMS/onset 特征）",
+      "type": "shell",
+      "command": "${workspaceFolder}\\.venv\\Scripts\\python.exe",
+      "args": [
+        "refine_impact_times.py",
+        "--config",
+        "localizer_config.json"
+      ],
+      "options": {
+        "cwd": "${workspaceFolder}",
+        "env": {
+          "PYTHONUTF8": "1",
+          "PYTHONIOENCODING": "utf-8"
+        }
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "训练 BEATs（默认 20 epoch 上限）",
+      "type": "shell",
+      "command": "${workspaceFolder}\\.venv\\Scripts\\python.exe",
+      "args": [
+        "train_beats_classifier.py",
+        "--config",
+        "config.json"
+      ],
+      "options": {
+        "cwd": "${workspaceFolder}",
+        "env": {
+          "PYTHONUTF8": "1",
+          "PYTHONIOENCODING": "utf-8"
+        }
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "预测示例 F_001",
+      "type": "shell",
+      "command": "${workspaceFolder}\\.venv\\Scripts\\python.exe",
+      "args": [
+        "predict_beats_classifier.py",
+        "--model",
+        "outputs\\beats_crop1s_seed42\\best_model.pt",
+        "--audio",
+        "..\\dataset\\fly_ball\\Codex_Workstation\\F_001\\audio.wav",
+        "--impact-time",
+        "0.99"
+      ],
+      "options": {
+        "cwd": "${workspaceFolder}",
+        "env": {
+          "PYTHONUTF8": "1",
+          "PYTHONIOENCODING": "utf-8"
+        }
+      },
+      "problemMatcher": []
+    }
+  ]
+}

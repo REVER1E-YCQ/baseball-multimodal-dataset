@@ -1,0 +1,47 @@
+{
+  "paths": {
+    "data_root": "../dataset",
+    "refined_events_csv": "outputs/refined_events/refined_events.csv",
+    "beats_checkpoint": "checkpoints/BEATs_mirror/BEATs_iter3_plus_AS2M.pt",
+    "output_root": "outputs"
+  },
+  "audio": {
+    "target_sample_rate": 16000,
+    "crop_seconds": 0.6,
+    "train_crop_jitter_seconds": 0.015,
+    "remove_dc_offset": true,
+    "peak_normalize": false
+  },
+  "localization": {
+    "use_refined_events": true,
+    "minimum_confidence": 0.6
+  },
+  "model": {
+    "head_dropout": 0.35,
+    "unfreeze_last_blocks": 0,
+    "pooling_candidates": [
+      "mean",
+      "max"
+    ]
+  },
+  "augmentation": {
+    "enabled": true,
+    "gain_db": 4.0,
+    "gaussian_noise_std": 0.002
+  },
+  "split": {
+    "seed": 42,
+    "validation_ratio": 0.15,
+    "test_ratio": 0.2
+  },
+  "training": {
+    "max_epochs": 20,
+    "batch_size": 8,
+    "num_workers": 2,
+    "head_learning_rate": 0.001,
+    "backbone_learning_rate": 0.00001,
+    "weight_decay": 0.0001,
+    "early_stopping_patience": 10,
+    "use_mixed_precision": false
+  }
+}
