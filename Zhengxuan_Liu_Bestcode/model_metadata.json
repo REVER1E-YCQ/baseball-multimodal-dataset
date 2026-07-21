@@ -1,0 +1,35 @@
+{
+  "model": "683-dimensional handcrafted audio features + StandardScaler + class-balanced RBF-SVM",
+  "model_sha256": "EB71A10420262A8550F0B441C8B59087029EAD899308D29EE85F0007496801F4",
+  "dataset_branch": "codex/ai-2000-complete-20260718",
+  "dataset_commit": "54aa4fcd9dde04f90824394ea9af076dae19cf93",
+  "dataset_samples": 2135,
+  "train_samples": 1494,
+  "test_samples": 641,
+  "feature_dimension": 683,
+  "best_parameters": {
+    "kernel": "rbf",
+    "C": 100.0,
+    "gamma": "scale",
+    "class_weight": "balanced"
+  },
+  "metrics": {
+    "accuracy": 0.6224648985959438,
+    "balanced_accuracy": 0.6123289570090498,
+    "macro_f1": 0.6128531496456024,
+    "roc_auc": 0.6544139487910652,
+    "ground_ball_recall": 0.5340501792114696,
+    "fly_ball_recall": 0.6906077348066298,
+    "confusion_matrix": [[149, 130], [112, 250]]
+  },
+  "audio_config": {
+    "sample_rate": 48000,
+    "clip_seconds": 0.5,
+    "pre_event_seconds": 0.1,
+    "n_fft": 2048,
+    "win_length": 1200,
+    "hop_length": 480,
+    "n_mels": 64,
+    "n_mfcc": 20
+  }
+}
