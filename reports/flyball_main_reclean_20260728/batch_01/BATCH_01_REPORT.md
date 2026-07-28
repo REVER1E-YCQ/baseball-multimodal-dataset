@@ -1,5 +1,7 @@
 # Fly Ball 第一批重新清洗报告
 
+数据提交：`c8a2863e`（`Reclean fly ball batch 1 with audio-bound timing`）
+
 ## 批次结果
 
 - main 修复队列：241 条
