@@ -1,0 +1,7 @@
+video_title: Sam Antonacci's leaping snag  Sam Antonacci's leaping snag  Sam Antonacci's leaping snag  Dillon Dingler hits a line drive caught in the air by second baseman Sam Antonacci in the bottom of the 1st inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/20/d35a7e9d-78f3c981-86ed7126-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_824263_dillon-dingler-lines-out-to-second-baseman-sam-antonacci
+clip_id: MLB_824263_dillon-dingler-lines-out-to-second-baseman-sam-antonacci_head_0p000_7p000
+source_path: raw_sources\MLB_824263_dillon-dingler-lines-out-to-second-baseman-sam-antonacci_Sam_Antonacci_s_leaping_snag_Sam_Antonacci_s_leaping_snag_Sam_Antonacci_s_leapin.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

@@ -5,5 +5,3 @@ clip_id: MLB_825026_cristian-javier-in-play-run-s-to-tyler-soderstrom-zctsc7_aut
 source_path: raw_sources\MLB_825026_cristian-javier-in-play-run-s-to-tyler-soderstrom-zctsc7_Tyler_Soderstrom_s_RBI_single_Tyler_Soderstrom_s_RBI_single_Tyler_Soderstrom_s_R.mp4
 clip_start_time: 0.000
 clip_end_time: 7.000
-
-review_variant: recut_partial_context

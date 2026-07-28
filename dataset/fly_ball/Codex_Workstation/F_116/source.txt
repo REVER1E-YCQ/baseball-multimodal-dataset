@@ -5,5 +5,3 @@ clip_id: MLB_825080_kyle-karros-flies-out-to-shortstop-geraldo-perdomo_head_0p00
 source_path: raw_sources\MLB_825080_kyle-karros-flies-out-to-shortstop-geraldo-perdomo_Zac_Gallen_escapes_bases-loaded_jam_Zac_Gallen_escapes_bases-loaded_jam_Zac_Gall.mp4
 clip_start_time: 0.000
 clip_end_time: 7.000
-
-review_variant: recut_partial_context

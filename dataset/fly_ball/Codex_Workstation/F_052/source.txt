@@ -5,5 +5,3 @@ clip_id: MLB_823858_tommy-troy-lines-out-to-right-fielder-esteury-ruiz_head_0p00
 source_path: raw_sources\MLB_823858_tommy-troy-lines-out-to-right-fielder-esteury-ruiz_Esteury_Ruiz_makes_the_catch_for_the_win_Esteury_Ruiz_makes_the_catch_for_the_wi.mp4
 clip_start_time: 0.000
 clip_end_time: 7.000
-
-review_variant: recut_complete

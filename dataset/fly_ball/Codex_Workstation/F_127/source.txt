@@ -5,5 +5,3 @@ clip_id: MLB_824937_eury-perez-in-play-out-s-to-ronald-acuna-jr-x8261_auto1_0p00
 source_path: raw_sources\MLB_824937_eury-perez-in-play-out-s-to-ronald-acuna-jr-x8261_Marsee_Lopez_Pauley_turn_two_on_Acu_a_Jr._s_flyout_Marsee_Lopez_Pauley_turn_two_.mp4
 clip_start_time: 0.000
 clip_end_time: 7.000
-
-review_variant: recut_partial_context

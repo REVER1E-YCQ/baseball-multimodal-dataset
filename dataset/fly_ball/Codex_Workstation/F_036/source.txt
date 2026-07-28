@@ -5,5 +5,3 @@ clip_id: MLB_824421_logan-gilbert-in-play-run-s-to-kahlil-watson_head_0p000_7p00
 source_path: raw_sources\MLB_824421_logan-gilbert-in-play-run-s-to-kahlil-watson_Kahlil_Watson_s_RBI_double_Kahlil_Watson_s_RBI_double_Kahlil_Watson_s_RBI_double.mp4
 clip_start_time: 0.000
 clip_end_time: 7.000
-
-review_variant: original

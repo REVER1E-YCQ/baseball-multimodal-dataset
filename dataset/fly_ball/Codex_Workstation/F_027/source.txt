@@ -5,5 +5,3 @@ clip_id: MLB_822965_griffin-jax-in-play-run-s-to-salvador-perez-x2441_head_0p000
 source_path: raw_sources\MLB_822965_griffin-jax-in-play-run-s-to-salvador-perez-x2441_Two_runs_score_on_error_on_Salvador_Perez_s_liner_Two_runs_score_on_error_on_Sal.mp4
 clip_start_time: 0.000
 clip_end_time: 7.000
-
-review_variant: original

@@ -1,0 +1,7 @@
+video_title: Ceddanne Rafaela drives in two runs with a single Ceddanne Rafaela drives in two runs with a single Ceddanne Rafaela drives in two runs with a single Ceddanne Rafaela hits a line drive to center field for a single, driving home two runs to extend Boston's lead to 11-1
+video_url: https://bdata-producedclips.mlb.com/a83d27fb-7e3e-4d76-aa4b-390831028b8d.mp4
+source_id: MLB_746251_guillermo-zuniga-in-play-run-s-to-ceddanne-rafaela
+clip_id: MLB_746251_guillermo-zuniga-in-play-run-s-to-ceddanne-rafaela_auto1_1p360_8p360
+source_path: raw_sources\MLB_746251_guillermo-zuniga-in-play-run-s-to-ceddanne-rafaela_Ceddanne_Rafaela_drives_in_two_runs_with_a_single_Ceddanne_Rafaela_drives_in_two.mp4
+clip_start_time: 1.360
+clip_end_time: 8.360

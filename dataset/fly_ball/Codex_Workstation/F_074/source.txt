@@ -5,5 +5,3 @@ clip_id: MLB_825089_merrill-kelly-in-play-out-s-to-bo-bichette_head_0p000_7p000
 source_path: raw_sources\MLB_825089_merrill-kelly-in-play-out-s-to-bo-bichette_Ketel_Marte_s_leaping_catch_Ketel_Marte_s_leaping_catch_Ketel_Marte_s_leaping_ca.mp4
 clip_start_time: 0.000
 clip_end_time: 7.000
-
-review_variant: original

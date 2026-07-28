@@ -5,5 +5,3 @@ clip_id: MLB_823629_aaron-judge-singles-on-a-line-drive-to-right-fielder-carson-
 source_path: raw_sources\MLB_823629_aaron-judge-singles-on-a-line-drive-to-right-fielder-carson-benge-ben_Aaron_Judge_singles_on_a_line_drive_to_right_field_Aaron_Judge_singles_on_a_line.mp4
 clip_start_time: 0.000
 clip_end_time: 7.000
-
-review_variant: original

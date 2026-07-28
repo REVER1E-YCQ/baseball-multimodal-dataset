@@ -1,0 +1,7 @@
+video_title: Richie Palacios' walk-off single Richie Palacios' walk-off single Richie Palacios' walk-off single Richie Palacios singles on a line drive to center, scoring José Caballero to secure a 6-5 win in 12 innings
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/30/93f763d3-bb6096cd-1c6eb5a5-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745081_richie-palacios-singles-on-a-line-drive-to-center-fielder-jj-bleday-j
+clip_id: MLB_745081_richie-palacios-singles-on-a-line-drive-to-center-fielder-jj-bleday-j_auto1_2p200_9p200
+source_path: raw_sources\MLB_745081_richie-palacios-singles-on-a-line-drive-to-center-fielder-jj-bleday-j_Richie_Palacios_walk-off_single_Richie_Palacios_walk-off_single_Richie_Palacios_.mp4
+clip_start_time: 2.200
+clip_end_time: 9.200

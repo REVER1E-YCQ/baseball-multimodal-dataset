@@ -1,0 +1,7 @@
+video_title: Hunter Feduccia's RBI triple Hunter Feduccia's RBI triple Hunter Feduccia's RBI triple Hunter Feduccia stretches out a deep fly ball to right field for a RBI triple to add on to the Rays' 3-1 lead in the top of the 2nd
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-07/02/566b710f-004b6ecb-3929552a-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_824093_stephen-kolek-in-play-run-s-to-hunter-feduccia
+clip_id: MLB_824093_stephen-kolek-in-play-run-s-to-hunter-feduccia_head_0p000_7p000
+source_path: raw_sources\MLB_824093_stephen-kolek-in-play-run-s-to-hunter-feduccia_Hunter_Feduccia_s_RBI_triple_Hunter_Feduccia_s_RBI_triple_Hunter_Feduccia_s_RBI_.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

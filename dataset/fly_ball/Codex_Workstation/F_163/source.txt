@@ -1,0 +1,7 @@
+video_title: Orlando Arcia's two-run home run (4) Orlando Arcia's two-run home run (4) Orlando Arcia's two-run home run (4) Orlando Arcia hooks a fly ball down the left-field line to give the Braves a 2-0 lead in the top of the 3rd inning
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/11/3955961b-99493e0e-a100cb03-csvm-diamondx64-asset_1280x720_59_4000K.mp4
+source_id: MLB_745828_christian-scott-in-play-run-s-to-orlando-arcia
+clip_id: MLB_745828_christian-scott-in-play-run-s-to-orlando-arcia_auto1_0p000_7p000
+source_path: raw_sources\MLB_745828_christian-scott-in-play-run-s-to-orlando-arcia_Orlando_Arcia_s_two-run_home_run_4_Orlando_Arcia_s_two-run_home_run_4_Orlando_Ar.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

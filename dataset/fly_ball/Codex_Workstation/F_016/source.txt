@@ -5,5 +5,3 @@ clip_id: MLB_823532_jj-bleday-flies-out-to-left-fielder-jose-caballero_head_0p00
 source_path: raw_sources\MLB_823532_jj-bleday-flies-out-to-left-fielder-jose-caballero_Jos_Caballero_s_nice_catch_at_the_track_Jos_Caballero_s_nice_catch_at_the_track_.mp4
 clip_start_time: 0.000
 clip_end_time: 7.000
-
-review_variant: original

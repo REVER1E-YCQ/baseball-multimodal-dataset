@@ -5,5 +5,3 @@ clip_id: MLB_823950_luis-arraez-bites-his-bat-in-frustration_head_0p000_7p000
 source_path: raw_sources\MLB_823950_luis-arraez-bites-his-bat-in-frustration_Luis_Arraez_bites_his_bat_in_frustration_Luis_Arraez_bites_his_bat_in_frustratio.mp4
 clip_start_time: 0.000
 clip_end_time: 7.000
-
-review_variant: recut_complete

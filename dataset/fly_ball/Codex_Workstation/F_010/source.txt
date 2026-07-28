@@ -5,5 +5,3 @@ clip_id: MLB_824900_freddy-peralta-in-play-out-s-to-mike-yastrzemski-irj7tw_head
 source_path: raw_sources\MLB_824900_freddy-peralta-in-play-out-s-to-mike-yastrzemski-irj7tw_Carson_Benge_s_diving_catch_Carson_Benge_s_diving_catch_Carson_Benge_s_diving_ca.mp4
 clip_start_time: 0.000
 clip_end_time: 7.000
-
-review_variant: original

@@ -5,5 +5,3 @@ clip_id: MLB_823866_chris-sale-in-play-run-s-to-heriberto-hernandez_head_0p000_7
 source_path: raw_sources\MLB_823866_chris-sale-in-play-run-s-to-heriberto-hernandez_Heriberto_Hern_ndez_s_sac_fly_Heriberto_Hern_ndez_s_sac_fly_Heriberto_Hern_ndez_.mp4
 clip_start_time: 0.000
 clip_end_time: 7.000
-
-review_variant: recut_complete

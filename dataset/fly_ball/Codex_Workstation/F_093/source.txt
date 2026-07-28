@@ -1,0 +1,7 @@
+video_title: Edmundo Sosa makes catch, starts 7-4-3 double play Edmundo Sosa makes catch, starts 7-4-3 double play Edmundo Sosa makes catch, starts 7-4-3 double play Edmundo Sosa catches a line drive from Marcell Ozuna, starting a relay with Bryson Stott and Bryce Harper to double up Ryan O'Hearn at first base
+video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/15/6c1f5817-51a117ed-bfd02a9b-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
+source_id: MLB_823384_aaron-nola-in-play-out-s-to-marcell-ozuna-nvap04
+clip_id: MLB_823384_aaron-nola-in-play-out-s-to-marcell-ozuna-nvap04_head_0p000_7p000
+source_path: raw_sources\MLB_823384_aaron-nola-in-play-out-s-to-marcell-ozuna-nvap04_Edmundo_Sosa_makes_catch_starts_7-4-3_double_play_Edmundo_Sosa_makes_catch_start.mp4
+clip_start_time: 0.000
+clip_end_time: 7.000

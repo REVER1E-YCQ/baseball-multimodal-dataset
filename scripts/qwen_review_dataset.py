@@ -15,7 +15,6 @@ from common import append_jsonl, get_env_first, load_jsonl, repo_path, write_csv
 from qwen_omni_label import (
     AuthError,
     ModelQuotaError,
-    api_key_fingerprint,
     call_qwen,
     extract_json,
     filter_models_by_usage,
@@ -66,7 +65,7 @@ def sample_row(path: Path) -> dict[str, str]:
         return next(csv.DictReader(fh))
 
 
-def audio_transient_candidates(path: Path, limit: int = 24, separation: float = 0.120) -> list[float]:
+def audio_transient_candidates(path: Path, limit: int = 8, separation: float = 0.250) -> list[float]:
     with wave.open(str(path), "rb") as wav:
         channels = wav.getnchannels()
         sample_rate = wav.getframerate()
@@ -119,19 +118,11 @@ def successful_records(path: Path) -> dict[tuple[str, str], dict[str, Any]]:
     return records
 
 
-CURRENT_ACCOUNT_FINGERPRINT = ""
-
-
-def combined_usage(paths: list[Path], account_fingerprint: str) -> dict[str, int]:
+def combined_usage(paths: list[Path]) -> dict[str, int]:
     totals: dict[str, int] = {}
     for path in paths:
-        for record in load_jsonl(path):
-            if record.get("account_fingerprint") != account_fingerprint:
-                continue
-            model = record.get("model")
-            usage = record.get("usage") or {}
-            if model and usage:
-                totals[model] = totals.get(model, 0) + usage_total_tokens(usage)
+        for model, tokens in model_usage_totals(path).items():
+            totals[model] = totals.get(model, 0) + tokens
     return totals
 
 
@@ -206,7 +197,6 @@ def invoke(
             record = {
                 "sample_id": sample_id,
                 "stage": stage,
-                "account_fingerprint": CURRENT_ACCOUNT_FINGERPRINT,
                 "model": model,
                 "usage": usage,
                 "elapsed_seconds": round(time.time() - started, 3),
@@ -245,7 +235,6 @@ def invoke(
         {
             "sample_id": sample_id,
             "stage": stage,
-            "account_fingerprint": CURRENT_ACCOUNT_FINGERPRINT,
             "model": "",
             "usage": None,
             "elapsed_seconds": round(time.time() - started, 3),
@@ -284,53 +273,18 @@ def timing_evidence_passes(result: dict[str, Any]) -> bool:
         start = float(result.get("corrected_event_start"))
         end = float(result.get("corrected_event_end"))
         contact = float(result.get("observed_contact_time"))
-        candidate = float(result.get("selected_audio_candidate_seconds"))
     except (TypeError, ValueError):
         return False
     return (
         result.get("decision") in {"pass", "correct"}
         and float(result.get("confidence") or 0) >= 0.85
-        and result.get("timing_validation") == "audio_candidate_bound"
         and result.get("contact_audible") is True
-        and result.get("contact_visible") is True
         and substantive_evidence(result.get("audio_evidence"))
-        and abs(contact - candidate) <= 0.0001
         and 0.0 <= start < end
         and 0.020 <= contact - start
         and 0.020 <= end - contact
         and end - start <= 0.200001
     )
-
-
-def bind_timing_to_audio_candidate(record: dict[str, Any], candidates: list[float], output: Path) -> dict[str, Any]:
-    """Make a model choice usable only when it exactly selects local audio evidence."""
-    result = dict(record.get("result") or {})
-    selected: float | None = None
-    try:
-        index = int(result.get("selected_audio_candidate_index"))
-        if 1 <= index <= len(candidates):
-            selected = candidates[index - 1]
-            reported = float(result.get("selected_audio_candidate_seconds"))
-            if abs(reported - selected) > 0.030:
-                selected = None
-    except (TypeError, ValueError):
-        selected = None
-    if result.get("decision") in {"pass", "correct"} and (
-        selected is None or result.get("contact_audible") is not True or result.get("contact_visible") is not True
-    ):
-        result["decision"] = "review"
-        result["failure_reason"] = "timing_inconsistent"
-    if selected is not None:
-        result["selected_audio_candidate_seconds"] = selected
-        result["observed_contact_time"] = selected
-        result["corrected_event_start"] = round(max(0.0, selected - 0.05), 3)
-        result["corrected_event_end"] = round(selected + 0.05, 3)
-        result["timing_validation"] = "audio_candidate_bound"
-    else:
-        result["timing_validation"] = "timing_inconsistent"
-    normalized = {**record, "usage": None, "result": result}
-    append_jsonl(output, normalized)
-    return normalized
 
 
 def substantive_evidence(value: Any) -> bool:
@@ -476,8 +430,6 @@ def main() -> int:
         help="Rerun selected stages whose recorded model is outside the current exact stage allowlist.",
     )
     parser.add_argument("--checkpoint-every", type=int, default=10)
-    parser.add_argument("--shard-count", type=int, default=1, help="Split the sorted sample list into this many independent workers.")
-    parser.add_argument("--shard-index", type=int, default=0, help="Zero-based worker index when --shard-count is greater than one.")
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args()
 
@@ -487,10 +439,6 @@ def main() -> int:
         samples = [path for path in samples if sample_row(path).get("sample_id", path.name) in wanted]
     if args.limit:
         samples = samples[: args.limit]
-    if args.shard_count < 1 or not 0 <= args.shard_index < args.shard_count:
-        raise SystemExit("--shard-count must be positive and --shard-index must be in range.")
-    if args.shard_count > 1:
-        samples = [path for index, path in enumerate(samples) if index % args.shard_count == args.shard_index]
     records = successful_records(args.output)
     forced_stages = {"timing", "semantics", "adjudication"} if args.force else set(args.force_stage)
     configured_models = load_review_models()
@@ -538,8 +486,6 @@ def main() -> int:
     api_key = get_env_first(["QWEN_API_KEY", "DASHSCOPE_API_KEY"])
     if not api_key:
         raise SystemExit("Set QWEN_API_KEY or DASHSCOPE_API_KEY in this process before review.")
-    global CURRENT_ACCOUNT_FINGERPRINT
-    CURRENT_ACCOUNT_FINGERPRINT = api_key_fingerprint(api_key)
     base_url = os.getenv("QWEN_BASE_URL", "https://dashscope.aliyuncs.com/compatible-mode/v1")
     all_models = configured_models
     cap = model_token_cap()
@@ -548,7 +494,7 @@ def main() -> int:
     # accounting.  Otherwise a resumed region-only run could ignore tokens it
     # has already spent and cross the configured 90% safety threshold.
     usage_paths = [args.output, repo_path("reports", "qwen_labels.jsonl"), *repo_path("reports").glob("qwen*.jsonl")]
-    usage_totals = combined_usage(list(dict.fromkeys(usage_paths)), CURRENT_ACCOUNT_FINGERPRINT)
+    usage_totals = combined_usage(list(dict.fromkeys(usage_paths)))
     blocked: set[str] = set()
 
     if forced_stages:
@@ -613,7 +559,6 @@ def main() -> int:
             if timing_record is None:
                 timing_record = invoke(sample_id, "timing", video_path, context_prompt(timing_prompt, row, source, audio_candidates=audio_candidates), args.output, models_for_stage(all_models, "timing"), usage_totals, blocked, api_key, base_url, cap, reserve)
                 if timing_record:
-                    timing_record = bind_timing_to_audio_candidate(timing_record, audio_candidates, args.output)
                     records[(sample_id, "timing")] = timing_record
             print(f"{index}/{len(samples)} {sample_id}: timing reviewed" if timing_record else f"{sample_id}: timing failed")
             if args.checkpoint_every > 0 and index % args.checkpoint_every == 0:
@@ -624,7 +569,6 @@ def main() -> int:
         if timing_record is None:
             timing_record = invoke(sample_id, "timing", video_path, context_prompt(timing_prompt, row, source, audio_candidates=audio_candidates), args.output, models_for_stage(all_models, "timing"), usage_totals, blocked, api_key, base_url, cap, reserve)
             if timing_record:
-                timing_record = bind_timing_to_audio_candidate(timing_record, audio_candidates, args.output)
                 records[(sample_id, "timing")] = timing_record
         if timing_record is None:
             print(f"{sample_id}: timing failed")

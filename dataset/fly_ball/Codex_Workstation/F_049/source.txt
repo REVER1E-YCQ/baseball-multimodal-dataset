@@ -5,5 +5,3 @@ clip_id: MLB_822808_kyle-bradish-in-play-run-s-to-kazuma-okamoto_head_0p000_7p00
 source_path: raw_sources\MLB_822808_kyle-bradish-in-play-run-s-to-kazuma-okamoto_Kazuma_Okamoto_s_RBI_single_Kazuma_Okamoto_s_RBI_single_Kazuma_Okamoto_s_RBI_sin.mp4
 clip_start_time: 0.000
 clip_end_time: 7.000
-
-review_variant: original

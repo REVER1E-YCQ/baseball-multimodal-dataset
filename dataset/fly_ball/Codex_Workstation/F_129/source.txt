@@ -5,5 +5,3 @@ clip_id: MLB_823682_nolan-schanuel-singles-on-a-line-drive-to-left-fielder-trevo
 source_path: raw_sources\MLB_823682_nolan-schanuel-singles-on-a-line-drive-to-left-fielder-trevor-larnach_Nolan_Schanuel_s_game-tying_single_Nolan_Schanuel_s_game-tying_single_Nolan_Scha.mp4
 clip_start_time: 0.000
 clip_end_time: 7.000
-
-review_variant: original

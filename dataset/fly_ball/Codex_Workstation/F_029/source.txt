@@ -5,5 +5,3 @@ clip_id: MLB_823363_paul-skenes-in-play-run-s-to-tyler-stephenson_head_0p000_7p0
 source_path: raw_sources\MLB_823363_paul-skenes-in-play-run-s-to-tyler-stephenson_Tyler_Stephenson_s_RBI_single_Tyler_Stephenson_s_RBI_single_Tyler_Stephenson_s_R.mp4
 clip_start_time: 0.000
 clip_end_time: 7.000
-
-review_variant: original

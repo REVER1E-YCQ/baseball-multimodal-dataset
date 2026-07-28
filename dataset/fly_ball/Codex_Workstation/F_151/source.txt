@@ -5,5 +5,3 @@ clip_id: MLB_745913_dominic-smith-doubles-1-on-a-fly-ball-to-left-fielder-manuel
 source_path: raw_sources\MLB_745913_dominic-smith-doubles-1-on-a-fly-ball-to-left-fielder-manuel-margot-w_Dominic_Smith_s_two-run_double_Dominic_Smith_s_two-run_double_Dominic_Smith_s_tw.mp4
 clip_start_time: 0.080
 clip_end_time: 7.080
-
-review_variant: recut_complete

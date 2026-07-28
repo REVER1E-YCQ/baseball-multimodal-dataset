@@ -5,5 +5,3 @@ clip_id: MLB_823385_paul-skenes-in-play-no-out-to-mickey-moniak-bus4ip_head_0p00
 source_path: raw_sources\MLB_823385_paul-skenes-in-play-no-out-to-mickey-moniak-bus4ip_Mickey_Moniak_breaks_up_no-hitter_Mickey_Moniak_breaks_up_no-hitter_Mickey_Monia.mp4
 clip_start_time: 0.000
 clip_end_time: 7.000
-
-review_variant: original

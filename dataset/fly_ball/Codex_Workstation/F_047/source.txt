@@ -5,5 +5,3 @@ clip_id: MLB_824350_brandon-sproat-in-play-run-s-to-edouard-julien_head_0p000_7p
 source_path: raw_sources\MLB_824350_brandon-sproat-in-play-run-s-to-edouard-julien_Edouard_Julien_s_RBI_single_Edouard_Julien_s_RBI_single_Edouard_Julien_s_RBI_sin.mp4
 clip_start_time: 0.000
 clip_end_time: 7.000
-
-review_variant: original

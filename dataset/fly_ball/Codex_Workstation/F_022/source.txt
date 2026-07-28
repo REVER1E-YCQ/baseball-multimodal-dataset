@@ -5,5 +5,3 @@ clip_id: MLB_822800_dylan-cease-in-play-run-s-to-jose-altuve_head_0p000_7p000
 source_path: raw_sources\MLB_822800_dylan-cease-in-play-run-s-to-jose-altuve_Jose_Altuve_s_RBI_single_Jose_Altuve_s_RBI_single_Jose_Altuve_s_RBI_single_Jose_.mp4
 clip_start_time: 0.000
 clip_end_time: 7.000
-
-review_variant: original

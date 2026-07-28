@@ -5,5 +5,3 @@ clip_id: MLB_823383_carmen-mlodzinski-in-play-out-s-to-brenton-doyle_head_0p000_
 source_path: raw_sources\MLB_823383_carmen-mlodzinski-in-play-out-s-to-brenton-doyle_Bryan_Reynolds_saves_a_run_with_a_nice_catch_Bryan_Reynolds_saves_a_run_with_a_n.mp4
 clip_start_time: 0.000
 clip_end_time: 7.000
-
-review_variant: original

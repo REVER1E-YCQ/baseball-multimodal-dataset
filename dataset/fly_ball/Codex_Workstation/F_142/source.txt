@@ -5,5 +5,3 @@ clip_id: MLB_746251_reese-mcguire-singles-on-a-line-drive-to-center-fielder-mike
 source_path: raw_sources\MLB_746251_reese-mcguire-singles-on-a-line-drive-to-center-fielder-mike-trout-en_Reese_McGuire_singles_to_score_Enmanuel_Valdez_Reese_McGuire_singles_to_score_En.mp4
 clip_start_time: 1.440
 clip_end_time: 8.440
-
-review_variant: original

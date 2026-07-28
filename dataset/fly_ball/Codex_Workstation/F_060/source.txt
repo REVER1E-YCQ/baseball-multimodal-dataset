@@ -5,5 +5,3 @@ clip_id: MLB_822987_luis-arraez-lines-out-to-left-fielder-chandler-simpson_head_
 source_path: raw_sources\MLB_822987_luis-arraez-lines-out-to-left-fielder-chandler-simpson_Chandler_Simpson_s_running_catch_Chandler_Simpson_s_running_catch_Chandler_Simps.mp4
 clip_start_time: 0.000
 clip_end_time: 7.000
-
-review_variant: original

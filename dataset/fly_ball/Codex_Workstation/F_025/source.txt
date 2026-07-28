@@ -5,5 +5,3 @@ clip_id: MLB_823611_brooks-raley-in-play-run-s-to-dansby-swanson_head_0p000_7p00
 source_path: raw_sources\MLB_823611_brooks-raley-in-play-run-s-to-dansby-swanson_Dansby_Swanson_s_RBI_triple_Dansby_Swanson_s_RBI_triple_Dansby_Swanson_s_RBI_tri.mp4
 clip_start_time: 0.000
 clip_end_time: 7.000
-
-review_variant: recut_partial_context

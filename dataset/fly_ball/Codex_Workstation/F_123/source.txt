@@ -5,5 +5,3 @@ clip_id: MLB_823002_matt-shaw-flies-out-sharply-to-center-fielder-cedric-mullins
 source_path: raw_sources\MLB_823002_matt-shaw-flies-out-sharply-to-center-fielder-cedric-mullins_Matt_Shaw_s_sharp_flyout_Matt_Shaw_s_sharp_flyout_Matt_Shaw_s_sharp_flyout_Matt_.mp4
 clip_start_time: 0.000
 clip_end_time: 7.000
-
-review_variant: recut_partial_context

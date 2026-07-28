@@ -5,5 +5,3 @@ clip_id: MLB_823309_noah-schultz-in-play-no-out-to-fernando-tatis-jr-blj7vi_head
 source_path: raw_sources\MLB_823309_noah-schultz-in-play-no-out-to-fernando-tatis-jr-blj7vi_Fernando_Tatis_Jr._s_triple_Fernando_Tatis_Jr._s_triple_Fernando_Tatis_Jr._s_tri.mp4
 clip_start_time: 0.000
 clip_end_time: 7.000
-
-review_variant: original

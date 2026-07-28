@@ -5,5 +5,3 @@ clip_id: MLB_823645_eduardo-rodriguez-in-play-run-s-to-luis-robert-jr_auto1_0p00
 source_path: raw_sources\MLB_823645_eduardo-rodriguez-in-play-run-s-to-luis-robert-jr_Luis_Robert_Jr._s_solo_home_run_2_Luis_Robert_Jr._s_solo_home_run_2_Luis_Robert_.mp4
 clip_start_time: 0.000
 clip_end_time: 7.000
-
-review_variant: recut_complete

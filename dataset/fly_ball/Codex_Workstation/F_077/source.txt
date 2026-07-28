@@ -5,5 +5,3 @@ clip_id: MLB_824441_jose-ramirez-lines-out-sharply-to-left-fielder-bryce-teodosi
 source_path: raw_sources\MLB_824441_jose-ramirez-lines-out-sharply-to-left-fielder-bryce-teodosio_Bryce_Teodosio_s_sliding_catch_Bryce_Teodosio_s_sliding_catch_Bryce_Teodosio_s_s.mp4
 clip_start_time: 0.000
 clip_end_time: 7.000
-
-review_variant: recut_partial_context

@@ -5,5 +5,3 @@ clip_id: MLB_746251_chase-silseth-in-play-run-s-to-david-hamilton_auto1_0p440_7p
 source_path: raw_sources\MLB_746251_chase-silseth-in-play-run-s-to-david-hamilton_David_Hamilton_s_first_Major_League_home_run_David_Hamilton_s_first_Major_League.mp4
 clip_start_time: 0.440
 clip_end_time: 7.440
-
-review_variant: recut_complete

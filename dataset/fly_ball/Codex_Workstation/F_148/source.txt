@@ -5,5 +5,3 @@ clip_id: MLB_745910_max-kepler-homers-3-on-a-fly-ball-to-right-center-field-shtp
 source_path: raw_sources\MLB_745910_max-kepler-homers-3-on-a-fly-ball-to-right-center-field-shtpox_Max_Kepler_s_solo_home_run_3_Max_Kepler_s_solo_home_run_3_Max_Kepler_s_solo_home.mp4
 clip_start_time: 1.200
 clip_end_time: 8.200
-
-review_variant: recut_complete
