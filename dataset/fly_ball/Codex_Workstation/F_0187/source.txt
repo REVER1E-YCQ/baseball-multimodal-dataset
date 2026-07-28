@@ -1,7 +1,7 @@
 video_title: Luis Rengifo's incredible diving catch Luis Rengifo's incredible diving catch Luis Rengifo's incredible diving catch Luis Rengifo makes an impressive diving catch on Victor Caratini's liner for the final out of the top of the 6th
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/07/a28f901f-7f036d30-48ffb532-csvm-diamondx64-asset_1280x720_59_4000K.mp4
 source_id: MLB_746220_victor-caratini-lines-out-to-third-baseman-luis-rengifo
-clip_id: MLB_746220_victor-caratini-lines-out-to-third-baseman-luis-rengifo_auto1_0p880_7p880
+clip_id: MLB_746220_victor-caratini-lines-out-to-third-baseman-luis-rengifo_reclean_0p915_14p915
 source_path: raw_sources\MLB_746220_victor-caratini-lines-out-to-third-baseman-luis-rengifo_Luis_Rengifo_s_incredible_diving_catch_Luis_Rengifo_s_incredible_diving_catch_Lu.mp4
-clip_start_time: 0.880
-clip_end_time: 7.880
+clip_start_time: 0.915
+clip_end_time: 14.915

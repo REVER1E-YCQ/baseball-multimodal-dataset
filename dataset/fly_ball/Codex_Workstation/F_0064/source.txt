@@ -1,7 +1,7 @@
 video_title: Chandler Simpson catches Valenzuela's liner Chandler Simpson catches Valenzuela's liner Chandler Simpson catches Valenzuela's liner
 video_url: https://bdata-producedclips.mlb.com/48d348ff-388d-4f5c-be08-092c8f213866.mp4
 source_id: MLB_822984_nick-martinez-in-play-out-s-to-brandon-valenzuela
-clip_id: MLB_822984_nick-martinez-in-play-out-s-to-brandon-valenzuela_head_0p000_7p000
+clip_id: MLB_822984_nick-martinez-in-play-out-s-to-brandon-valenzuela_reclean_2p925_10p275
 source_path: raw_sources\MLB_822984_nick-martinez-in-play-out-s-to-brandon-valenzuela_Chandler_Simpson_catches_Valenzuela_s_liner_Chandler_Simpson_catches_Valenzuela_.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000
+clip_start_time: 2.925
+clip_end_time: 10.275

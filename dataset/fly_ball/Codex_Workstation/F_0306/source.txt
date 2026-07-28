@@ -1,7 +1,7 @@
 video_title: Alejandro Kirk's sacrifice fly Alejandro Kirk's sacrifice fly Alejandro Kirk's sacrifice fly Alejandro Kirk hits a fly ball to center deep enough for Bo Bichette to tag up and score in the 4th inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/07/b4646a4d-c6053e37-9d15bdab-csvm-diamondx64-asset-4000K.mp4
 source_id: MLB_745233_george-kirby-in-play-run-s-to-alejandro-kirk
-clip_id: MLB_745233_george-kirby-in-play-run-s-to-alejandro-kirk_auto1_4p140_11p140
+clip_id: MLB_745233_george-kirby-in-play-run-s-to-alejandro-kirk_reclean_4p175_16p667
 source_path: raw_sources\MLB_745233_george-kirby-in-play-run-s-to-alejandro-kirk_Alejandro_Kirk_s_sacrifice_fly_Alejandro_Kirk_s_sacrifice_fly_Alejandro_Kirk_s_sacrifice_fly_Alejandro_Kirk_hits_a.mp4
-clip_start_time: 4.140
-clip_end_time: 11.140
+clip_start_time: 4.175
+clip_end_time: 16.667

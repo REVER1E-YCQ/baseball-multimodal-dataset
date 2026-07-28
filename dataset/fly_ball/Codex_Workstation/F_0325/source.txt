@@ -1,7 +1,7 @@
 video_title: Justyn-Henry Malloy's RBI triple Justyn-Henry Malloy's RBI triple Justyn-Henry Malloy's RBI triple Justyn-Henry Malloy triples on a fly ball to right field, extending the Tigers' lead to 3-0 in the bottom of the 2nd inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/12/c3c3c5f5-81ac7c41-d25e5687-csvm-diamondx64-asset_1280x720_59_4000K.mp4
 source_id: MLB_746450_james-paxton-in-play-run-s-to-justyn-henry-malloy
-clip_id: MLB_746450_james-paxton-in-play-run-s-to-justyn-henry-malloy_auto1_19p620_26p620
+clip_id: MLB_746450_james-paxton-in-play-run-s-to-justyn-henry-malloy_reclean_19p635_27p261
 source_path: raw_sources\MLB_746450_james-paxton-in-play-run-s-to-justyn-henry-malloy_Justyn-Henry_Malloy_s_RBI_triple_Justyn-Henry_Malloy_s_RBI_triple_Justyn-Henry_Malloy_s_RBI_triple_Justyn-Hen.mp4
-clip_start_time: 19.620
-clip_end_time: 26.620
+clip_start_time: 19.635
+clip_end_time: 27.261

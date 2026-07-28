@@ -1,7 +1,7 @@
 video_title: Spencer Steer's RBI single Spencer Steer's RBI single Spencer Steer's RBI single Spencer Steer singles on a line drive to center field, putting the Reds on the board in the 2nd inning
 video_url: https://bdata-producedclips.mlb.com/e510bced-763d-413e-80b3-01219e2fdfc3.mp4
 source_id: MLB_823363_spencer-steer-singles-on-a-line-drive-to-center-fielder-jake-mangum-n
-clip_id: MLB_823363_spencer-steer-singles-on-a-line-drive-to-center-fielder-jake-mangum-n_head_0p000_7p000
+clip_id: MLB_823363_spencer-steer-singles-on-a-line-drive-to-center-fielder-jake-mangum-n_reclean_2p785_16p785
 source_path: raw_sources\MLB_823363_spencer-steer-singles-on-a-line-drive-to-center-fielder-jake-mangum-n_Spencer_Steer_s_RBI_single_Spencer_Steer_s_RBI_single_Spencer_Steer_s_RBI_single.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000
+clip_start_time: 2.785
+clip_end_time: 16.785

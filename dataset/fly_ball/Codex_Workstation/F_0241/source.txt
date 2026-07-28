@@ -1,7 +1,7 @@
 video_title: Edgar Quero drives in Vargas on a sacrifice fly Edgar Quero drives in Vargas on a sacrifice fly Edgar Quero drives in Vargas on a sacrifice fly Edgar Quero lifts a fly ball to left field, allowing Miguel Vargas to score and extend the lead to 4-1 in the 8th inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/07/b8283271-becabb19-a9c6a5a1-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_777606_trevor-richards-in-play-out-s-to-edgar-quero
-clip_id: MLB_777606_trevor-richards-in-play-out-s-to-edgar-quero_auto1_0p280_7p280
+clip_id: MLB_777606_trevor-richards-in-play-out-s-to-edgar-quero_reclean_0p000_12p785
 source_path: raw_sources\MLB_777606_trevor-richards-in-play-out-s-to-edgar-quero_Edgar_Quero_drives_in_Vargas_on_a_sacrifice_fly_Edgar_Quero_drives_in_Vargas_on_a_sacrifice_fly_Edgar_Quero_drives.mp4
-clip_start_time: 0.280
-clip_end_time: 7.280
+clip_start_time: 0.000
+clip_end_time: 12.785

@@ -1,7 +1,7 @@
 video_title: Kyle Stowers' sac fly in the 9th Kyle Stowers' sac fly in the 9th Kyle Stowers' sac fly in the 9th Kyle Stowers lifts a sacrifice fly ball to right field in the 9th, narrowing the deficit to 5-4
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/22/836549da-d63a15e8-2b9d0dbb-csvm-diamondx64-asset_1280x720_59_4000K.mp4
 source_id: MLB_745173_ryan-fernandez-in-play-run-s-to-kyle-stowers
-clip_id: MLB_745173_ryan-fernandez-in-play-run-s-to-kyle-stowers_auto1_5p700_12p700
+clip_id: MLB_745173_ryan-fernandez-in-play-run-s-to-kyle-stowers_reclean_3p795_17p795
 source_path: raw_sources\MLB_745173_ryan-fernandez-in-play-run-s-to-kyle-stowers_Kyle_Stowers_sac_fly_in_the_9th_Kyle_Stowers_sac_fly_in_the_9th_Kyle_Stowers_sac.mp4
-clip_start_time: 5.700
-clip_end_time: 12.700
+clip_start_time: 3.795
+clip_end_time: 17.795

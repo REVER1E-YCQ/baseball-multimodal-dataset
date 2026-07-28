@@ -1,7 +1,7 @@
 video_title: Eric Wagaman's sac fly Eric Wagaman's sac fly Eric Wagaman's sac fly Eric Wagaman lifts a fly ball to right field, scoring Agustín Ramírez and opening the scoring for the Nationals 1-0 in the top of the 1st inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/15/0ff3eb69-d0b4933c-2b438668-csvm-diamondgcp-asset-4000K.mp4
 source_id: MLB_777503_mackenzie-gore-in-play-run-s-to-eric-wagaman
-clip_id: MLB_777503_mackenzie-gore-in-play-run-s-to-eric-wagaman_auto1_1p440_8p440
+clip_id: MLB_777503_mackenzie-gore-in-play-run-s-to-eric-wagaman_reclean_1p475_15p475
 source_path: raw_sources\MLB_777503_mackenzie-gore-in-play-run-s-to-eric-wagaman_Eric_Wagaman_s_sac_fly_Eric_Wagaman_s_sac_fly_Eric_Wagaman_s_sac_fly_Eric_Wagaman_lifts_a_fly_ball_to_right_field_.mp4
-clip_start_time: 1.440
-clip_end_time: 8.440
+clip_start_time: 1.475
+clip_end_time: 15.475

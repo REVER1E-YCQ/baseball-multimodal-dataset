@@ -1,7 +1,7 @@
 video_title: Luis Rengifo's sacrifice fly Luis Rengifo's sacrifice fly Luis Rengifo's sacrifice fly Luis Rengifo hits a fly ball deep enough for Jorge Soler to tag up and score, extending the Angels' lead to 6-0 in the bottom of the 6th inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/23/9487caa0-6b5f46f5-a1b86ae4-csvm-diamondgcp-asset-4000K.mp4
 source_id: MLB_777798_lake-bachar-in-play-run-s-to-luis-rengifo
-clip_id: MLB_777798_lake-bachar-in-play-run-s-to-luis-rengifo_auto1_1p420_8p420
+clip_id: MLB_777798_lake-bachar-in-play-run-s-to-luis-rengifo_reclean_1p435_15p435
 source_path: raw_sources\MLB_777798_lake-bachar-in-play-run-s-to-luis-rengifo_Luis_Rengifo_s_sacrifice_fly_Luis_Rengifo_s_sacrifice_fly_Luis_Rengifo_s_sacrifice_fly_Luis_Rengifo_hits_a_fly_ball_d.mp4
-clip_start_time: 1.420
-clip_end_time: 8.420
+clip_start_time: 1.435
+clip_end_time: 15.435

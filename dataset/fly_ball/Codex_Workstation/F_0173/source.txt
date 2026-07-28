@@ -1,7 +1,7 @@
 video_title: Jazz Chisholm Jr.'s diving catch Jazz Chisholm Jr.'s diving catch Jazz Chisholm Jr.'s diving catch Jazz Chisholm Jr. charges a fly ball and lays out to nab Will Smith for the first out of the 3rd inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/06/65c2e0a8-28d8cf63-c9959c65-csvm-diamondx64-asset_1280x720_59_4000K.mp4
 source_id: MLB_746149_will-smith-lines-out-to-center-fielder-jazz-chisholm-jr
-clip_id: MLB_746149_will-smith-lines-out-to-center-fielder-jazz-chisholm-jr_auto1_2p560_9p560
+clip_id: MLB_746149_will-smith-lines-out-to-center-fielder-jazz-chisholm-jr_reclean_0p585_13p647
 source_path: raw_sources\MLB_746149_will-smith-lines-out-to-center-fielder-jazz-chisholm-jr_Jazz_Chisholm_Jr._s_diving_catch_Jazz_Chisholm_Jr._s_diving_catch_Jazz_Chisholm_.mp4
-clip_start_time: 2.560
-clip_end_time: 9.560
+clip_start_time: 0.585
+clip_end_time: 13.647

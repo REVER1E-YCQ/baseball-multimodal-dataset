@@ -1,7 +1,7 @@
 video_title: Twins' center field collision Twins' center field collision Twins' center field collision Austin Martin and Edouard Julien collide in center field after attempting to catch a fly ball hit by Mitch Haniger in the 2nd inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/09/6be13846-4dc8ed31-95a81219-csvm-diamondx64-asset_1280x720_59_4000K.mp4
 source_id: MLB_745910_pablo-lopez-in-play-no-out-to-mitch-haniger
-clip_id: MLB_745910_pablo-lopez-in-play-no-out-to-mitch-haniger_auto1_0p000_7p000
+clip_id: MLB_745910_pablo-lopez-in-play-no-out-to-mitch-haniger_reclean_0p000_13p065
 source_path: raw_sources\MLB_745910_pablo-lopez-in-play-no-out-to-mitch-haniger_Twins_center_field_collision_Twins_center_field_collision_Twins_center_field_col.mp4
 clip_start_time: 0.000
-clip_end_time: 7.000
+clip_end_time: 13.065

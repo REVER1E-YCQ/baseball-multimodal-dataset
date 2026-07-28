@@ -1,7 +1,7 @@
 video_title: Taylor Ward goes yard (12) Taylor Ward goes yard (12) Taylor Ward goes yard (12) Taylor Ward homers on a fly ball to left field, trimming the Angels' deficit to 5-3 in the 6th inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/11/ab7b126e-0456f6cb-b48efd1a-csvm-diamondx64-asset_1280x720_59_4000K.mp4
 source_id: MLB_747190_taylor-ward-homers-12-on-a-fly-ball-to-left-field-660pjr
-clip_id: MLB_747190_taylor-ward-homers-12-on-a-fly-ball-to-left-field-660pjr_auto1_18p959_25p959
+clip_id: MLB_747190_taylor-ward-homers-12-on-a-fly-ball-to-left-field-660pjr_reclean_17p374_25p959
 source_path: raw_sources\MLB_747190_taylor-ward-homers-12-on-a-fly-ball-to-left-field-660pjr_Taylor_Ward_goes_yard_12_Taylor_Ward_goes_yard_12_Taylor_Ward_goes_yard_12_Taylo.mp4
-clip_start_time: 18.959
+clip_start_time: 17.374
 clip_end_time: 25.959

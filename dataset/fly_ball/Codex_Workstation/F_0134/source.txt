@@ -1,7 +1,7 @@
 video_title: Kerry Carpenter's sliding catch Kerry Carpenter's sliding catch Kerry Carpenter's sliding catch Kerry Carpenter tracks a fly ball to make a beautiful sliding catch to take away a hit from Teoscar Hernández in the bottom of the 2nd inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-03/28/0368453d-cbf0e9ee-8f34f06f-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_778544_teoscar-hernandez-flies-out-to-right-fielder-kerry-carpenter
-clip_id: MLB_778544_teoscar-hernandez-flies-out-to-right-fielder-kerry-carpenter_auto1_5p540_12p540
+clip_id: MLB_778544_teoscar-hernandez-flies-out-to-right-fielder-kerry-carpenter_reclean_3p615_17p615
 source_path: raw_sources\MLB_778544_teoscar-hernandez-flies-out-to-right-fielder-kerry-carpenter_Kerry_Carpenter_s_sliding_catch_Kerry_Carpenter_s_sliding_catch_Kerry_Carpenter_.mp4
-clip_start_time: 5.540
-clip_end_time: 12.540
+clip_start_time: 3.615
+clip_end_time: 17.615

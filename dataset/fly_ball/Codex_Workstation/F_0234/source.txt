@@ -1,7 +1,7 @@
 video_title: Connor Joe makes a leaping grab Connor Joe makes a leaping grab Connor Joe makes a leaping grab Connor Joe leaps to snare a line drive off the bat of Nick Castellanos
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/20/7faa6e95-301b0685-c14f0ea1-csvm-diamondx64-asset_1280x720_59_4000K.mp4
 source_id: MLB_745478_nick-castellanos-lines-out-to-first-baseman-connor-joe
-clip_id: MLB_745478_nick-castellanos-lines-out-to-first-baseman-connor-joe_auto1_13p280_20p280
+clip_id: MLB_745478_nick-castellanos-lines-out-to-first-baseman-connor-joe_reclean_11p585_23p774
 source_path: raw_sources\MLB_745478_nick-castellanos-lines-out-to-first-baseman-connor-joe_Connor_Joe_makes_a_leaping_grab_Connor_Joe_makes_a_leaping_grab_Connor_Joe_makes_a_leaping_grab_Connor_J.mp4
-clip_start_time: 13.280
-clip_end_time: 20.280
+clip_start_time: 11.585
+clip_end_time: 23.774

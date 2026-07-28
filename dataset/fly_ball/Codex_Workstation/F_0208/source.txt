@@ -1,7 +1,7 @@
 video_title: Brenton Doyle squeezes final out of Rockies' win Brenton Doyle squeezes final out of Rockies' win Brenton Doyle squeezes final out of Rockies' win Brenton Doyle catches a line drive off the bat of Enrique Hernández to seal the Rockies' win over the Dodgers
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/01/5af5f126-1b178e33-08915695-csvm-diamondx64-asset-4000K.mp4
 source_id: MLB_746140_jalen-beeks-in-play-out-s-to-enrique-hernandez
-clip_id: MLB_746140_jalen-beeks-in-play-out-s-to-enrique-hernandez_auto1_4p820_11p820
+clip_id: MLB_746140_jalen-beeks-in-play-out-s-to-enrique-hernandez_reclean_4p025_18p025
 source_path: raw_sources\MLB_746140_jalen-beeks-in-play-out-s-to-enrique-hernandez_Brenton_Doyle_squeezes_final_out_of_Rockies_win_Brenton_Doyle_squeezes_final_out.mp4
-clip_start_time: 4.820
-clip_end_time: 11.820
+clip_start_time: 4.025
+clip_end_time: 18.025

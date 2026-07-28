@@ -1,7 +1,7 @@
 video_title: Donovan Solano's sacrifice fly Donovan Solano's sacrifice fly Donovan Solano's sacrifice fly Donovan Solano hits a fly ball to right, deep enough for Luis Arraez to tag up and score in the 5th inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/08/9d7ee576-93110433-8401043c-csvm-diamondx64-asset-4000K.mp4
 source_id: MLB_745410_donovan-solano-out-on-a-sacrifice-fly-to-right-fielder-jake-mccarthy-
-clip_id: MLB_745410_donovan-solano-out-on-a-sacrifice-fly-to-right-fielder-jake-mccarthy-_auto1_11p380_18p380
+clip_id: MLB_745410_donovan-solano-out-on-a-sacrifice-fly-to-right-fielder-jake-mccarthy-_reclean_11p255_20p499
 source_path: raw_sources\MLB_745410_donovan-solano-out-on-a-sacrifice-fly-to-right-fielder-jake-mccarthy-_Donovan_Solano_s_sacrifice_fly_Donovan_Solano_s_sacrifice_fly_Donovan_Solano_s_s.mp4
-clip_start_time: 11.380
-clip_end_time: 18.380
+clip_start_time: 11.255
+clip_end_time: 20.499

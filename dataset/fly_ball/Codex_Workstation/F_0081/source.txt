@@ -1,7 +1,7 @@
 video_title: Ceddanne Rafaela's RBI single Ceddanne Rafaela's RBI single Ceddanne Rafaela's RBI single Ceddanne Rafaela singles on a fly ball to right field, cutting the Phillies' lead to 2-1 in the 7th inning
 video_url: https://bdata-producedclips.mlb.com/6fabf187-34aa-4397-a645-347626f9d995.mp4
 source_id: MLB_824764_zack-wheeler-in-play-run-s-to-ceddanne-rafaela
-clip_id: MLB_824764_zack-wheeler-in-play-run-s-to-ceddanne-rafaela_head_0p000_7p000
+clip_id: MLB_824764_zack-wheeler-in-play-run-s-to-ceddanne-rafaela_reclean_2p795_16p795
 source_path: raw_sources\MLB_824764_zack-wheeler-in-play-run-s-to-ceddanne-rafaela_Ceddanne_Rafaela_s_RBI_single_Ceddanne_Rafaela_s_RBI_single_Ceddanne_Rafaela_s_R.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000
+clip_start_time: 2.795
+clip_end_time: 16.795

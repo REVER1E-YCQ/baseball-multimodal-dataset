@@ -1,7 +1,7 @@
-video_title: Jorge Soler's sliding basket catch in foul territory Jorge Soler's sliding basket catch in foul territory Jorge Soler's sliding basket catch in foul territory Jorge Soler races for a fly ball from Justyn-Henry Malloy in foul territory and slides to make an outstanding underhanded grab for the first 
+video_title: Jorge Soler's sliding basket catch in foul territory Jorge Soler's sliding basket catch in foul territory Jorge Soler's sliding basket catch in foul territory Jorge Soler races for a fly ball from Justyn-Henry Malloy in foul territory and slides to make an outstanding underhanded grab for the first
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/01/5ede3c19-2b9849e1-339a5372-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_778101_justyn-henry-malloy-flies-out-to-right-fielder-jorge-soler-in-foul-te
-clip_id: MLB_778101_justyn-henry-malloy-flies-out-to-right-fielder-jorge-soler-in-foul-te_auto1_0p040_7p040
+clip_id: MLB_778101_justyn-henry-malloy-flies-out-to-right-fielder-jorge-soler-in-foul-te_reclean_0p055_14p055
 source_path: raw_sources\MLB_778101_justyn-henry-malloy-flies-out-to-right-fielder-jorge-soler-in-foul-te_Jorge_Soler_s_sliding_basket_catch_in_foul_territory_Jorge_Soler_s_sliding_basket_catch_i.mp4
-clip_start_time: 0.040
-clip_end_time: 7.040
+clip_start_time: 0.055
+clip_end_time: 14.055

@@ -1,7 +1,7 @@
 video_title: Isiah Kiner-Falefa's two-run triple Isiah Kiner-Falefa's two-run triple Isiah Kiner-Falefa's two-run triple Isiah Kiner-Falefa hits a fly ball off the wall in right field for a two-run triple to make it 4-0 Pirates
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-08/04/b7663d8b-9f4356f4-cde6bdb5-csvm-diamondx64-asset_1280x720_59_4000K.mp4
 source_id: MLB_745468_ryne-nelson-in-play-run-s-to-isiah-kiner-falefa
-clip_id: MLB_745468_ryne-nelson-in-play-run-s-to-isiah-kiner-falefa_auto1_9p620_16p620
+clip_id: MLB_745468_ryne-nelson-in-play-run-s-to-isiah-kiner-falefa_reclean_9p575_23p575
 source_path: raw_sources\MLB_745468_ryne-nelson-in-play-run-s-to-isiah-kiner-falefa_Isiah_Kiner-Falefa_s_two-run_triple_Isiah_Kiner-Falefa_s_two-run_triple_Isiah_Kiner-Falefa_s_two-run_triple_Isi.mp4
-clip_start_time: 9.620
-clip_end_time: 16.620
+clip_start_time: 9.575
+clip_end_time: 23.575

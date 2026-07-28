@@ -1,7 +1,7 @@
 video_title: Spencer Steer snags line drive to seal victory Spencer Steer snags line drive to seal victory Spencer Steer snags line drive to seal victory
 video_url: https://bdata-producedclips.mlb.com/d94d5356-bd9e-49c4-b7c3-596cd3fadd41.mp4
 source_id: MLB_823364_chase-petty-in-play-out-s-to-ryan-o-hearn
-clip_id: MLB_823364_chase-petty-in-play-out-s-to-ryan-o-hearn_head_0p000_7p000
+clip_id: MLB_823364_chase-petty-in-play-out-s-to-ryan-o-hearn_reclean_1p225_10p942
 source_path: raw_sources\MLB_823364_chase-petty-in-play-out-s-to-ryan-o-hearn_Spencer_Steer_snags_line_drive_to_seal_victory_Spencer_Steer_snags_line_drive_to.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000
+clip_start_time: 1.225
+clip_end_time: 10.942

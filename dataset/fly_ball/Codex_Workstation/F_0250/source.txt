@@ -1,7 +1,7 @@
 video_title: Andrew Benintendi's sacrifice fly Andrew Benintendi's sacrifice fly Andrew Benintendi's sacrifice fly Andrew Benintendi hits a fly ball deep enough for Josh Rojas to score, making the score 2-0 in the bottom of the 3rd inning for the White Sox
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/23/1215562e-f13cfdf2-1d40039c-csvm-diamondgcp-asset-4000K.mp4
 source_id: MLB_777805_tyler-mahle-in-play-run-s-to-andrew-benintendi
-clip_id: MLB_777805_tyler-mahle-in-play-run-s-to-andrew-benintendi_auto1_2p480_9p480
+clip_id: MLB_777805_tyler-mahle-in-play-run-s-to-andrew-benintendi_reclean_1p555_15p555
 source_path: raw_sources\MLB_777805_tyler-mahle-in-play-run-s-to-andrew-benintendi_Andrew_Benintendi_s_sacrifice_fly_Andrew_Benintendi_s_sacrifice_fly_Andrew_Benintendi_s_sacrifice_fly_Andrew_Ben.mp4
-clip_start_time: 2.480
-clip_end_time: 9.480
+clip_start_time: 1.555
+clip_end_time: 15.555
