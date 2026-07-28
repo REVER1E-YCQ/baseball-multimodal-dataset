@@ -1,7 +1,0 @@
-video_title: Elly De La Cruz's unassisted double play Elly De La Cruz's unassisted double play Elly De La Cruz's unassisted double play  Elly De La Cruz catches a line drive up the middle and tags Corbin Carroll for an unassisted double play
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/09/a02b1b76-0d7c48a3-d8f24d3d-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_746715_hunter-greene-in-play-out-s-to-ketel-marte
-clip_id: MLB_746715_hunter-greene-in-play-out-s-to-ketel-marte_auto1_1p400_8p400
-source_path: raw_sources\MLB_746715_hunter-greene-in-play-out-s-to-ketel-marte_Elly_De_La_Cruz_s_unassisted_double_play_Elly_De_La_Cruz_s_unassisted_double_pla.mp4
-clip_start_time: 1.400
-clip_end_time: 8.400

@@ -1,7 +1,0 @@
-video_title: Brice Turang's RBI double Brice Turang's RBI double Brice Turang's RBI double Brice Turang doubles on a sharp line drive to right field and Gary Sánchez scores to cut the Brewers' deficit to 6-3 in the 9th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/08/6b9d190d-26ed01a4-35436153-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_746312_tyler-duffey-in-play-run-s-to-brice-turang
-clip_id: MLB_746312_tyler-duffey-in-play-run-s-to-brice-turang_auto1_18p125_25p125
-source_path: raw_sources\MLB_746312_tyler-duffey-in-play-run-s-to-brice-turang_Brice_Turang_s_RBI_double_Brice_Turang_s_RBI_double_Brice_Turang_s_RBI_double_Br.mp4
-clip_start_time: 18.125
-clip_end_time: 25.125

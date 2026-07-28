@@ -5,3 +5,5 @@ clip_id: MLB_823039_max-rajcic-in-play-run-s-to-jakob-marsee_head_0p000_7p000
 source_path: raw_sources\MLB_823039_max-rajcic-in-play-run-s-to-jakob-marsee_Jakob_Marsee_s_two-run_double_Jakob_Marsee_s_two-run_double_Jakob_Marsee_s_two-r.mp4
 clip_start_time: 0.000
 clip_end_time: 7.000
+
+review_variant: original

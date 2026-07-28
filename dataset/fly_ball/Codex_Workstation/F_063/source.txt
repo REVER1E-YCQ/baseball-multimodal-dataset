@@ -5,3 +5,5 @@ clip_id: MLB_824043_josh-lowe-flies-out-to-right-fielder-carson-benge_head_0p000
 source_path: raw_sources\MLB_824043_josh-lowe-flies-out-to-right-fielder-carson-benge_Carson_Benge_s_leaping_catch_at_the_wall_Carson_Benge_s_leaping_catch_at_the_wal.mp4
 clip_start_time: 0.000
 clip_end_time: 7.000
+
+review_variant: original

@@ -1,7 +1,0 @@
-video_title: Andrés Giménez's RBI single Andrés Giménez's RBI single Andrés Giménez's RBI single Andrés Giménez's singles on a line drive to right field, extending the Blue Jays lead 5-1 in the 3rd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/06/ee21761f-398225b1-812d7928-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_822808_kyle-bradish-in-play-run-s-to-andres-gimenez
-clip_id: MLB_822808_kyle-bradish-in-play-run-s-to-andres-gimenez_head_0p000_7p000
-source_path: raw_sources\MLB_822808_kyle-bradish-in-play-run-s-to-andres-gimenez_Andr_s_Gim_nez_s_RBI_single_Andr_s_Gim_nez_s_RBI_single_Andr_s_Gim_nez_s_RBI_sin.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000

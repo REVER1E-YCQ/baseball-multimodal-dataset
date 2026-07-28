@@ -1,7 +1,0 @@
-video_title: Jamie Westbrook's go-ahead sacrifice fly in extras Jamie Westbrook's go-ahead sacrifice fly in extras Jamie Westbrook's go-ahead sacrifice fly in extras Jamie Westbrook lifts a fly ball to right field, driving in the go-ahead run for the Red Sox in extra innings for a 5-4 lead
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/09/45b91496-47bdef42-b30640f8-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_746787_michael-soroka-in-play-run-s-to-jamie-westbrook
-clip_id: MLB_746787_michael-soroka-in-play-run-s-to-jamie-westbrook_auto1_1p720_8p720
-source_path: raw_sources\MLB_746787_michael-soroka-in-play-run-s-to-jamie-westbrook_Jamie_Westbrook_s_go-ahead_sacrifice_fly_in_extras_Jamie_Westbrook_s_go-ahead_sa.mp4
-clip_start_time: 1.720
-clip_end_time: 8.720

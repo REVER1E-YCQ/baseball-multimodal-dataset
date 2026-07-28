@@ -5,3 +5,5 @@ clip_id: MLB_824026_oswald-peraza-flies-out-to-second-baseman-willi-castro_head_
 source_path: raw_sources\MLB_824026_oswald-peraza-flies-out-to-second-baseman-willi-castro_Willi_Castro_s_spectacular_reaching_grab_Willi_Castro_s_spectacular_reaching_gra.mp4
 clip_start_time: 0.000
 clip_end_time: 7.000
+
+review_variant: recut_complete

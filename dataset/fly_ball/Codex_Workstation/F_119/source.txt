@@ -1,7 +1,0 @@
-video_title: Nick Sogard's first career triple Nick Sogard's first career triple Nick Sogard's first career triple Nick Sogard hits his first career triple on a line drive to left field
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/24/06dddbb5-3416db1e-28a809b7-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_824759_nick-sogard-triples-1-on-a-line-drive-to-right-fielder-austin-martin
-clip_id: MLB_824759_nick-sogard-triples-1-on-a-line-drive-to-right-fielder-austin-martin_head_0p000_7p000
-source_path: raw_sources\MLB_824759_nick-sogard-triples-1-on-a-line-drive-to-right-fielder-austin-martin_Nick_Sogard_s_first_career_triple_Nick_Sogard_s_first_career_triple_Nick_Sogard_.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000

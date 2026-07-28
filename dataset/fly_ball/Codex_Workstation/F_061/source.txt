@@ -5,3 +5,5 @@ clip_id: MLB_823875_chris-paddack-in-play-out-s-to-trea-turner-95qrcu_head_0p000
 source_path: raw_sources\MLB_823875_chris-paddack-in-play-out-s-to-trea-turner-95qrcu_Kyle_Stowers_sliding_catch_Kyle_Stowers_sliding_catch_Kyle_Stowers_sliding_catch.mp4
 clip_start_time: 0.000
 clip_end_time: 7.000
+
+review_variant: recut_partial_context

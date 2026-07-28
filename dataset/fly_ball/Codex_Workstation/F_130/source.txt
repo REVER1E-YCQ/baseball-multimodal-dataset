@@ -5,3 +5,5 @@ clip_id: MLB_824936_chris-paddack-in-play-run-s-to-ozzie-albies_auto1_0p000_7p00
 source_path: raw_sources\MLB_824936_chris-paddack-in-play-run-s-to-ozzie-albies_Ozzie_Albies_solo_home_run_4_Ozzie_Albies_solo_home_run_4_Ozzie_Albies_solo_home.mp4
 clip_start_time: 0.000
 clip_end_time: 7.000
+
+review_variant: original

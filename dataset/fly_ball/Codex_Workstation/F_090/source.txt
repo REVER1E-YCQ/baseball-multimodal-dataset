@@ -5,3 +5,5 @@ clip_id: MLB_824517_elly-de-la-cruz-singles-on-a-line-drive-to-left-fielder-dayl
 source_path: raw_sources\MLB_824517_elly-de-la-cruz-singles-on-a-line-drive-to-left-fielder-daylen-lile_Elly_De_La_Cruz_s_line_drive_single_Elly_De_La_Cruz_s_line_drive_single_Elly_De_.mp4
 clip_start_time: 0.000
 clip_end_time: 7.000
+
+review_variant: original

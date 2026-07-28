@@ -5,3 +5,5 @@ clip_id: MLB_745098_mike-clevinger-in-play-no-out-to-josh-lowe_auto1_0p000_7p000
 source_path: raw_sources\MLB_745098_mike-clevinger-in-play-no-out-to-josh-lowe_Josh_Lowe_singles_in_his_first_at-bat_of_2024_Josh_Lowe_singles_in_his_first_at-.mp4
 clip_start_time: 0.000
 clip_end_time: 7.000
+
+review_variant: original

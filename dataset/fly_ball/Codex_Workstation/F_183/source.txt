@@ -1,7 +1,0 @@
-video_title: Matt Strahm induces fly ball, escapes jam Matt Strahm induces fly ball, escapes jam Matt Strahm induces fly ball, escapes jam Matt Strahm induces a fly ball to center field from Gary Sánchez, escaping the jam and keeping the game tied in the top of the 9th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/04/67b94c63-2850ffbc-beff9fec-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_745568_gary-sanchez-flies-out-to-center-fielder-johan-rojas-1b8e19
-clip_id: MLB_745568_gary-sanchez-flies-out-to-center-fielder-johan-rojas-1b8e19_auto1_11p420_18p420
-source_path: raw_sources\MLB_745568_gary-sanchez-flies-out-to-center-fielder-johan-rojas-1b8e19_Matt_Strahm_induces_fly_ball_escapes_jam_Matt_Strahm_induces_fly_ball_escapes_ja.mp4
-clip_start_time: 11.420
-clip_end_time: 18.420

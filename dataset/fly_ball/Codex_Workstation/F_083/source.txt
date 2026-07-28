@@ -5,3 +5,5 @@ clip_id: MLB_824604_bryan-hudson-in-play-out-s-to-salvador-perez_head_0p000_7p00
 source_path: raw_sources\MLB_824604_bryan-hudson-in-play-out-s-to-salvador-perez_Derek_Hill_s_running_catch_seals_6-5_win_Derek_Hill_s_running_catch_seals_6-5_wi.mp4
 clip_start_time: 0.000
 clip_end_time: 7.000
+
+review_variant: recut_complete

@@ -5,3 +5,5 @@ clip_id: MLB_822962_victor-mesa-jr-lines-out-sharply-to-right-fielder-corbin-car
 source_path: raw_sources\MLB_822962_victor-mesa-jr-lines-out-sharply-to-right-fielder-corbin-carroll_Corbin_Carroll_s_sliding_catch_in_the_bottom_of_the_2nd_Corbin_Carroll_s_sliding.mp4
 clip_start_time: 0.000
 clip_end_time: 7.000
+
+review_variant: original

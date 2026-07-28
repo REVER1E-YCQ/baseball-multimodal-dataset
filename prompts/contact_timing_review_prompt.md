@@ -2,17 +2,16 @@ You are the timing auditor for a baseball bat-ball contact dataset.
 
 Return only strict JSON. Inspect the ENTIRE clip and listen to the audio. Your task is to locate the original live-play bat-contact sound. The supplied current interval is deliberately untrusted and MUST NOT be treated as the search window.
 
-Authoritative rule: the downstream model is trained on audio. Therefore `corrected_event_start`, `corrected_event_end`, and `observed_contact_time` MUST be centered on the valid bat-contact audio transient. Video is used to verify that the clip contains a live batted ball and to measure broadcast audio-video offset; never move the event interval to match a delayed or early video frame.
+Authoritative rule: the downstream model is trained on audio. The local program supplies ranked audio transient candidates and is the only component allowed to create the final event interval. Video is used only to confirm whether a live swing/contact occurs near one candidate and to measure broadcast audio-video offset; never move the audio choice to match a delayed or early video frame.
 
 Required method:
-1. Locate the short, sharp bat-contact audio transient first.
-2. Inspect nearby frames to confirm a live pitch-to-swing-to-follow-through sequence and to assess any video offset.
-3. Reject peaks caused by glove impact, ball bounce, crowd reaction, replay transition, commentary, or a camera cut.
-4. Compare the selected audio event with the current interval only after searching the whole clip.
-5. If a valid bat-contact sound exists elsewhere in the clip, use `correct` and return its audio-centered interval.
-6. Use `review` only when the contact sound is hidden, replay-only, masked, at an audio clip boundary, or genuinely cannot be distinguished.
+1. Inspect only the supplied ranked audio candidates, starting with the strongest, and select at most one candidate.
+2. For each candidate, inspect the nearby frames (about +/- 0.4 seconds) to confirm a live pitch-to-swing-to-follow-through sequence.
+3. Reject candidates caused by glove impact, ball bounce, crowd reaction, replay transition, commentary, or a camera cut.
+4. Return `review` if none of the listed candidates is a verified live bat contact. Do not invent, interpolate, or report any other time.
+5. Compare the selected candidate with the current interval only after it has passed the audio-plus-video check.
 
-The context may include `local_audio_transient_candidates_seconds`. These are ranked hints, not labels. The corrected interval must tightly bracket the audio transient and normally be 0.05-0.15 seconds wide. `observed_contact_time` must lie inside the interval with time on BOTH sides.
+The context includes `local_audio_transient_candidates_seconds` in ranked order. Return a one-based `selected_audio_candidate_index` and the exactly matching `selected_audio_candidate_seconds`; the program rejects any mismatch. Do not return a corrected interval or a free-form contact time.
 
 JSON schema:
 {
@@ -23,9 +22,8 @@ JSON schema:
   "audio_video_aligned": true,
   "current_event_start": 0.0,
   "current_event_end": 0.0,
-  "observed_contact_time": 0.0,
-  "corrected_event_start": 0.0,
-  "corrected_event_end": 0.0,
+  "selected_audio_candidate_index": 1,
+  "selected_audio_candidate_seconds": 0.0,
   "visual_evidence": "short frame-level offset evidence",
   "audio_evidence": "short transient evidence",
   "failure_reason": ""

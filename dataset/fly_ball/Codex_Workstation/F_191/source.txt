@@ -1,7 +1,0 @@
-video_title: Jorge Soler's solo home run (7) Jorge Soler's solo home run (7) Jorge Soler's solo home run (7) Jorge Soler homers on a fly ball to left field, increasing the Giants' lead to 7-3 in the 8th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/05/8aa12416-01351c51-20307646-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_747195_jorge-soler-homers-7-on-a-fly-ball-to-left-field-j3qh86
-clip_id: MLB_747195_jorge-soler-homers-7-on-a-fly-ball-to-left-field-j3qh86_auto1_21p378_28p378
-source_path: raw_sources\MLB_747195_jorge-soler-homers-7-on-a-fly-ball-to-left-field-j3qh86_Jorge_Soler_s_solo_home_run_7_Jorge_Soler_s_solo_home_run_7_Jorge_Soler_s_solo_h.mp4
-clip_start_time: 21.378
-clip_end_time: 28.378

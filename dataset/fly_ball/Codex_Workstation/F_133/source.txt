@@ -5,3 +5,5 @@ clip_id: MLB_778533_jake-rogers-triples-1-on-a-fly-ball-to-center-fielder-andy-p
 source_path: raw_sources\MLB_778533_jake-rogers-triples-1-on-a-fly-ball-to-center-fielder-andy-pages-defl_Jake_Rogers_triples_after_review_Jake_Rogers_triples_after_review_Jake_Rogers_tr.mp4
 clip_start_time: 0.000
 clip_end_time: 7.000
+
+review_variant: recut_complete

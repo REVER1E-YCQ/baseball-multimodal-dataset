@@ -1,7 +1,0 @@
-video_title: Ceddanne Rafaela's leaping catch Ceddanne Rafaela's leaping catch Ceddanne Rafaela's leaping catch Ceddanne Rafaela tracks down a liner in center field to make a leaping catch, robbing Drake Baldwin of an extra-base hit
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/17/47de4a8a-f091e695-8437acf9-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_824923_ceddanne-rafaela-s-leaping-catch
-clip_id: MLB_824923_ceddanne-rafaela-s-leaping-catch_head_0p000_7p000
-source_path: raw_sources\MLB_824923_ceddanne-rafaela-s-leaping-catch_Ceddanne_Rafaela_s_leaping_catch_Ceddanne_Rafaela_s_leaping_catch_Ceddanne_Rafae.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000

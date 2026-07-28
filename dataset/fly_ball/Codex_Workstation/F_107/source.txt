@@ -1,7 +1,0 @@
-video_title: Nolan Schanuel leaps to snag a line drive Nolan Schanuel leaps to snag a line drive Nolan Schanuel leaps to snag a line drive Nolan Schanuel leaps to snag a line drive and record the first out in the top of the 2nd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/18/7bbcebe5-ab26fabd-743635b1-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_824035_walbert-urena-in-play-out-s-to-tyler-soderstrom
-clip_id: MLB_824035_walbert-urena-in-play-out-s-to-tyler-soderstrom_head_0p000_7p000
-source_path: raw_sources\MLB_824035_walbert-urena-in-play-out-s-to-tyler-soderstrom_Nolan_Schanuel_leaps_to_snag_a_line_drive_Nolan_Schanuel_leaps_to_snag_a_line_dr.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000

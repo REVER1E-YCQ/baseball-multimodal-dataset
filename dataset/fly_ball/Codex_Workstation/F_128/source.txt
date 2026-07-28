@@ -1,7 +1,0 @@
-video_title: Manny Machado's leaping catch Manny Machado's leaping catch Manny Machado's leaping catch Manny Machado perfectly times a leaping catch on a line drive at third base to get the first out in the top of the 3rd
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-07/10/a212aaf2-e6e9c24a-d3925855-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_823278_jp-sears-in-play-out-s-to-luis-urias
-clip_id: MLB_823278_jp-sears-in-play-out-s-to-luis-urias_head_0p000_7p000
-source_path: raw_sources\MLB_823278_jp-sears-in-play-out-s-to-luis-urias_Manny_Machado_s_leaping_catch_Manny_Machado_s_leaping_catch_Manny_Machado_s_leap.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000

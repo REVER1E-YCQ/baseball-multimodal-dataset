@@ -1,7 +1,0 @@
-video_title: Jacob Young's sliding catch Jacob Young's sliding catch Jacob Young's sliding catch Jacob Young charges a fly ball and makes a sliding catch to rob Sean Murphy for the second out of the 5th frame
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/06/64678bab-925918cf-501d8520-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_744844_mitchell-parker-in-play-out-s-to-sean-murphy-bcnz3n
-clip_id: MLB_744844_mitchell-parker-in-play-out-s-to-sean-murphy-bcnz3n_auto1_13p140_20p140
-source_path: raw_sources\MLB_744844_mitchell-parker-in-play-out-s-to-sean-murphy-bcnz3n_Jacob_Young_s_sliding_catch_Jacob_Young_s_sliding_catch_Jacob_Young_s_sliding_ca.mp4
-clip_start_time: 13.140
-clip_end_time: 20.140

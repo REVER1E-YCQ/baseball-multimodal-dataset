@@ -1,7 +1,0 @@
-video_title: Jake Fraley pops out to shortstop Andrés Giménez. Jake Fraley pops out to shortstop Andrés Giménez. Jake Fraley pops out to shortstop Andrés Giménez. Jake Fraley pops out to shortstop Andrés Giménez.
-video_url: https://bdata-producedclips.mlb.com/d394f273-61fd-44ab-ab44-81c75c09c0fa.mp4
-source_id: MLB_822815_jake-fraley-pops-out-to-shortstop-andres-gimenez
-clip_id: MLB_822815_jake-fraley-pops-out-to-shortstop-andres-gimenez_head_0p000_7p000
-source_path: raw_sources\MLB_822815_jake-fraley-pops-out-to-shortstop-andres-gimenez_Jake_Fraley_pops_out_to_shortstop_Andr_s_Gim_nez._Jake_Fraley_pops_out_to_shorts.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000

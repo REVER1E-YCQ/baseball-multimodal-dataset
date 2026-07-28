@@ -1,7 +1,0 @@
-video_title: Tyler Nevin's sliding catch Tyler Nevin's sliding catch Tyler Nevin's sliding catch Tyler Nevin makes a great sliding catch on a fly ball by Marcus Semien for the first out in the top of the 6th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/06/f081b25f-41210eb9-0fb0d7b5-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_745669_alex-wood-in-play-out-s-to-marcus-semien-zftrkm
-clip_id: MLB_745669_alex-wood-in-play-out-s-to-marcus-semien-zftrkm_auto1_9p060_16p060
-source_path: raw_sources\MLB_745669_alex-wood-in-play-out-s-to-marcus-semien-zftrkm_Tyler_Nevin_s_sliding_catch_Tyler_Nevin_s_sliding_catch_Tyler_Nevin_s_sliding_ca.mp4
-clip_start_time: 9.060
-clip_end_time: 16.060

@@ -5,3 +5,5 @@ clip_id: MLB_823542_slade-cecconi-in-play-run-s-to-jazz-chisholm-jr_head_0p000_7
 source_path: raw_sources\MLB_823542_slade-cecconi-in-play-run-s-to-jazz-chisholm-jr_Jazz_Chisholm_Jr._s_sac_fly_Jazz_Chisholm_Jr._s_sac_fly_Jazz_Chisholm_Jr._s_sac_.mp4
 clip_start_time: 0.000
 clip_end_time: 7.000
+
+review_variant: original

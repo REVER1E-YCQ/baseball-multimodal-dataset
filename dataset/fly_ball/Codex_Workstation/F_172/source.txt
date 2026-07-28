@@ -1,7 +1,0 @@
-video_title: Nick Gordon's solo home run (5) Nick Gordon's solo home run (5) Nick Gordon's solo home run (5) Nick Gordon homers on a fly ball to right field, tying the game at 3 in the 2nd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/06/b76c5598-b604f159-338f7268-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_746149_nick-gordon-homers-5-on-a-fly-ball-to-right-field
-clip_id: MLB_746149_nick-gordon-homers-5-on-a-fly-ball-to-right-field_auto1_6p960_13p960
-source_path: raw_sources\MLB_746149_nick-gordon-homers-5-on-a-fly-ball-to-right-field_Nick_Gordon_s_solo_home_run_5_Nick_Gordon_s_solo_home_run_5_Nick_Gordon_s_solo_h.mp4
-clip_start_time: 6.960
-clip_end_time: 13.960

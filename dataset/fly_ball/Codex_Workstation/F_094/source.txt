@@ -5,3 +5,5 @@ clip_id: MLB_822739_james-wood-flies-out-sharply-to-center-fielder-colton-cowser
 source_path: raw_sources\MLB_822739_james-wood-flies-out-sharply-to-center-fielder-colton-cowser_Colton_Cowser_s_leaping_grab_Colton_Cowser_s_leaping_grab_Colton_Cowser_s_leapin.mp4
 clip_start_time: 0.000
 clip_end_time: 7.000
+
+review_variant: recut_partial_context

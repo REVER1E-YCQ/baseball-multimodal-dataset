@@ -1,7 +1,0 @@
-video_title: Jacob Young secures the Nationals' victory Jacob Young secures the Nationals' victory Jacob Young secures the Nationals' victory Jacob Young catches Marcus Semien's line drive to seal the Nationals' 8-4 victory
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/20/fc55f1cd-b25d9823-0e0b944d-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_822735_andrew-alvarez-in-play-out-s-to-marcus-semien-urqe0e
-clip_id: MLB_822735_andrew-alvarez-in-play-out-s-to-marcus-semien-urqe0e_head_0p000_7p000
-source_path: raw_sources\MLB_822735_andrew-alvarez-in-play-out-s-to-marcus-semien-urqe0e_Jacob_Young_secures_the_Nationals_victory_Jacob_Young_secures_the_Nationals_vict.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000

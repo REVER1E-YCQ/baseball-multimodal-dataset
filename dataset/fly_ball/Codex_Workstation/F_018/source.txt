@@ -5,3 +5,5 @@ clip_id: MLB_825068_royce-lewis-flies-out-to-right-fielder-corbin-carroll_head_0
 source_path: raw_sources\MLB_825068_royce-lewis-flies-out-to-right-fielder-corbin-carroll_Zac_Gallen_escapes_bases-loaded_jam_in_the_4th_Zac_Gallen_escapes_bases-loaded_j.mp4
 clip_start_time: 0.000
 clip_end_time: 7.000
+
+review_variant: recut_partial_context

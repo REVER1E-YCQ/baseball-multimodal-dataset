@@ -37,6 +37,13 @@ def sample_dirs(root: Path) -> list[Path]:
     return sorted(path for path in root.glob("*/*/*") if (path / "sample.csv").exists())
 
 
+def review_records(paths: list[Path]) -> dict[tuple[str, str], dict[str, Any]]:
+    combined: dict[tuple[str, str], dict[str, Any]] = {}
+    for path in paths:
+        combined.update(successful_records(path))
+    return combined
+
+
 def read_sample(path: Path) -> tuple[list[str], dict[str, str]]:
     with (path / "sample.csv").open("r", newline="", encoding="utf-8-sig") as fh:
         reader = csv.DictReader(fh)
@@ -216,7 +223,7 @@ def explicit_rejection(timing: dict[str, Any], semantics: dict[str, Any], adjudi
 def main() -> int:
     parser = argparse.ArgumentParser(description="Reconcile strict Qwen dataset review into sample CSV files.")
     parser.add_argument("--dataset-root", type=Path, default=repo_path("dataset"))
-    parser.add_argument("--review", type=Path, default=repo_path("reports", "qwen_dataset_review.jsonl"))
+    parser.add_argument("--review", type=Path, nargs="+", default=[repo_path("reports", "qwen_dataset_review.jsonl")])
     parser.add_argument(
         "--manual-decisions",
         type=Path,
@@ -233,7 +240,7 @@ def main() -> int:
     parser.add_argument("--apply", action="store_true")
     args = parser.parse_args()
 
-    records = successful_records(args.review)
+    records = review_records(args.review)
     manual = manual_decisions(args.manual_decisions)
     report: list[dict[str, str]] = []
     for path in sample_dirs(args.dataset_root.resolve()):
@@ -258,6 +265,10 @@ def main() -> int:
                     new = current
                     status = "incomplete"
                     reason = "missing timing or semantics stage"
+                elif not timing_evidence_passes(timing):
+                    new = current
+                    status = "manual_review"
+                    reason = "audio-candidate timing evidence gate failed"
                 elif explicit_rejection(timing, semantics, adjudication):
                     new = current
                     status = "permissive_reject"

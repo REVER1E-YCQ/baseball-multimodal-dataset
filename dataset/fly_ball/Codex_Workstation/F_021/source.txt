@@ -1,7 +1,0 @@
-video_title: Tyler Callihan's RBI single Tyler Callihan's RBI single Tyler Callihan's RBI single Tyler Callihan singles on a line drive to right field scoring Nick Gonzales, extending the Pirates' lead to 4-1 in the top of the 6th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/21/00209714-5b47a823-2ce635c8-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_824343_juan-mejia-in-play-run-s-to-tyler-callihan
-clip_id: MLB_824343_juan-mejia-in-play-run-s-to-tyler-callihan_head_0p000_7p000
-source_path: raw_sources\MLB_824343_juan-mejia-in-play-run-s-to-tyler-callihan_Tyler_Callihan_s_RBI_single_Tyler_Callihan_s_RBI_single_Tyler_Callihan_s_RBI_sin.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000

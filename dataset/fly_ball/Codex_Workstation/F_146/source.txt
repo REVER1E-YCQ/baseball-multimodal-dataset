@@ -1,7 +1,0 @@
-video_title: Jurickson Profar's two-run single Jurickson Profar's two-run single Jurickson Profar puts Padres on the board with single Jurickson Profar singles on a line drive to left field and two runs score, giving the Padres a 2-1 lead in the 4th frame
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/01/8ae72d82-33548707-6e4cfef9-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_745423_graham-ashcraft-in-play-run-s-to-jurickson-profar
-clip_id: MLB_745423_graham-ashcraft-in-play-run-s-to-jurickson-profar_auto1_1p820_8p820
-source_path: raw_sources\MLB_745423_graham-ashcraft-in-play-run-s-to-jurickson-profar_Jurickson_Profar_s_two-run_single_Jurickson_Profar_s_two-run_single_Jurickson_Pr.mp4
-clip_start_time: 1.820
-clip_end_time: 8.820

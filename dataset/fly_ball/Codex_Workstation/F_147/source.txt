@@ -5,3 +5,5 @@ clip_id: MLB_745423_spencer-steer-homers-4-on-a-fly-ball-to-left-center-field_au
 source_path: raw_sources\MLB_745423_spencer-steer-homers-4-on-a-fly-ball-to-left-center-field_Spencer_Steer_s_solo_home_run_4_Spencer_Steer_s_solo_home_run_4_Spencer_Steer_hi.mp4
 clip_start_time: 10.780
 clip_end_time: 17.780
+
+review_variant: recut_partial_context

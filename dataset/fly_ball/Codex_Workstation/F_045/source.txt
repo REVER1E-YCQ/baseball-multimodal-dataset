@@ -5,3 +5,5 @@ clip_id: MLB_823542_jose-ramirez-lines-out-to-third-baseman-ryan-mcmahon-ahks4v_
 source_path: raw_sources\MLB_823542_jose-ramirez-lines-out-to-third-baseman-ryan-mcmahon-ahks4v_Ryan_McMahon_s_smooth_snag_at_the_hot_corner_Ryan_McMahon_s_smooth_snag_at_the_h.mp4
 clip_start_time: 0.000
 clip_end_time: 7.000
+
+review_variant: original

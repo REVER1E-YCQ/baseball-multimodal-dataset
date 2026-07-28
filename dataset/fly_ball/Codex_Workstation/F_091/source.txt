@@ -5,3 +5,5 @@ clip_id: MLB_825008_victor-scott-ii-homers-2-on-a-fly-ball-to-right-field-38a874
 source_path: raw_sources\MLB_825008_victor-scott-ii-homers-2-on-a-fly-ball-to-right-field-38a874_Victor_Scott_II_s_solo_home_run_2_Victor_Scott_II_s_solo_home_run_2_Victor_Scott.mp4
 clip_start_time: 0.000
 clip_end_time: 7.000
+
+review_variant: recut_complete

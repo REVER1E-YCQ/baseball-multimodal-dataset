@@ -5,3 +5,5 @@ clip_id: MLB_824679_ian-happ-pops-out-to-first-baseman-christian-walker_head_0p0
 source_path: raw_sources\MLB_824679_ian-happ-pops-out-to-first-baseman-christian-walker_Bryan_King_closes_out_4-2_win_Bryan_King_closes_out_4-2_win_Bryan_King_closes_ou.mp4
 clip_start_time: 0.000
 clip_end_time: 7.000
+
+review_variant: recut_partial_context

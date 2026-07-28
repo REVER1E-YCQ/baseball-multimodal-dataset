@@ -5,3 +5,5 @@ clip_id: MLB_746312_gary-sanchez-homers-5-on-a-fly-ball-to-right-center-field_au
 source_path: raw_sources\MLB_746312_gary-sanchez-homers-5-on-a-fly-ball-to-right-center-field_Gary_S_nchez_s_solo_home_run_5_Gary_S_nchez_s_solo_home_run_5_Gary_S_nchez_s_sol.mp4
 clip_start_time: 14.900
 clip_end_time: 21.900
+
+review_variant: recut_partial_context

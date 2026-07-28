@@ -5,3 +5,5 @@ clip_id: MLB_823285_rodolfo-duran-s-rbi-double_head_0p000_7p000
 source_path: raw_sources\MLB_823285_rodolfo-duran-s-rbi-double_Rodolfo_Dur_n_s_RBI_double_Rodolfo_Dur_n_s_RBI_double_Rodolfo_Dur_n_s_RBI_double.mp4
 clip_start_time: 0.000
 clip_end_time: 7.000
+
+review_variant: recut_complete

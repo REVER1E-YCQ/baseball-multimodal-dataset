@@ -5,3 +5,5 @@ clip_id: MLB_745989_jared-triolo-lines-out-sharply-to-center-fielder-sal-frelick
 source_path: raw_sources\MLB_745989_jared-triolo-lines-out-sharply-to-center-fielder-sal-frelick_Sal_Frelick_s_diving_grab_Sal_Frelick_s_diving_grab_Sal_Frelick_s_diving_grab_Sa.mp4
 clip_start_time: 1.400
 clip_end_time: 8.400
+
+review_variant: original

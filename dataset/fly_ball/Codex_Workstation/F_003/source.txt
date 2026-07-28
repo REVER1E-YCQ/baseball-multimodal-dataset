@@ -1,7 +1,0 @@
-video_title: Nick Kurtz's leaping catch Nick Kurtz's leaping catch Nick Kurtz's leaping catch Nick Kurtz shows off his defense at first base, leaping to make a smooth snag on a hard hit line drive to retire the side
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-07/03/1ca68bfa-5ff58acc-7f2819cb-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_824982_griffin-conine-lines-out-to-first-baseman-nick-kurtz
-clip_id: MLB_824982_griffin-conine-lines-out-to-first-baseman-nick-kurtz_head_0p000_7p000
-source_path: raw_sources\MLB_824982_griffin-conine-lines-out-to-first-baseman-nick-kurtz_Nick_Kurtz_s_leaping_catch_Nick_Kurtz_s_leaping_catch_Nick_Kurtz_s_leaping_catch.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000

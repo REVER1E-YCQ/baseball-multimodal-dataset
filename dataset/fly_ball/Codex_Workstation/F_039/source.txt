@@ -1,7 +1,0 @@
-video_title: Luis Rengifo's leaping catch Luis Rengifo's leaping catch Luis Rengifo's leaping catch Luis Rengifo rises up to make a stellar catch on a hard-hit line drive, and the first out of the top of the 5th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/03/7cfd73ea-510c01df-459f537d-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_823780_robert-gasser-in-play-out-s-to-casey-schmitt-ke9jpz
-clip_id: MLB_823780_robert-gasser-in-play-out-s-to-casey-schmitt-ke9jpz_head_0p000_7p000
-source_path: raw_sources\MLB_823780_robert-gasser-in-play-out-s-to-casey-schmitt-ke9jpz_Luis_Rengifo_s_leaping_catch_Luis_Rengifo_s_leaping_catch_Luis_Rengifo_s_leaping.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000

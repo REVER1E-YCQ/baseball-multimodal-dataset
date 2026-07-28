@@ -5,3 +5,5 @@ clip_id: MLB_824333_tyler-mahle-in-play-no-out-to-jake-mccarthy_head_0p000_7p000
 source_path: raw_sources\MLB_824333_tyler-mahle-in-play-no-out-to-jake-mccarthy_Jake_McCarthy_s_triple_Jake_McCarthy_s_triple_Jake_McCarthy_triples_6_to_right-c.mp4
 clip_start_time: 0.000
 clip_end_time: 7.000
+
+review_variant: recut_complete

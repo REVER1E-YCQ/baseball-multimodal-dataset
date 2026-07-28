@@ -5,3 +5,5 @@ clip_id: MLB_824195_j-p-crawford-homers-5-on-a-fly-ball-to-right-field-7prgpm_he
 source_path: raw_sources\MLB_824195_j-p-crawford-homers-5-on-a-fly-ball-to-right-field-7prgpm_J.P._Crawford_s_leadoff_homer_5_J.P._Crawford_s_leadoff_homer_5_J.P._Crawford_ho.mp4
 clip_start_time: 0.000
 clip_end_time: 7.000
+
+review_variant: recut_complete

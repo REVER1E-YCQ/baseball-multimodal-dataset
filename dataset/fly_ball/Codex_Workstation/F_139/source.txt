@@ -5,3 +5,5 @@ clip_id: MLB_746251_chase-silseth-in-play-run-s-to-rafael-devers_auto1_7p800_14p
 source_path: raw_sources\MLB_746251_chase-silseth-in-play-run-s-to-rafael-devers_Rafael_Devers_solo_home_run_2_Rafael_Devers_solo_home_run_2_Rafael_Devers_clobbe.mp4
 clip_start_time: 7.800
 clip_end_time: 14.800
+
+review_variant: original

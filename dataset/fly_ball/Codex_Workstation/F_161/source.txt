@@ -1,7 +1,0 @@
-video_title: Mike Yastrzemski nabs Jeimer Candelario Mike Yastrzemski nabs Jeimer Candelario Mike Yastrzemski nabs Jeimer Candelario Mike Yastrzemski fields a line drive cleanly and throws out Jeimer Candelario at second base to end the top of the 6th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/11/a57ca36a-22892611-c231cc97-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_745344_mike-yastrzemski-nabs-jeimer-candelario
-clip_id: MLB_745344_mike-yastrzemski-nabs-jeimer-candelario_auto1_4p160_11p160
-source_path: raw_sources\MLB_745344_mike-yastrzemski-nabs-jeimer-candelario_Mike_Yastrzemski_nabs_Jeimer_Candelario_Mike_Yastrzemski_nabs_Jeimer_Candelario_.mp4
-clip_start_time: 4.160
-clip_end_time: 11.160

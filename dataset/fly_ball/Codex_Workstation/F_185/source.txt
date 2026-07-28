@@ -1,7 +1,0 @@
-video_title: Ryne Stanek gets the save Ryne Stanek gets the save Ryne Stanek gets the save Ryne Stanek secures the win in the bottom of the 9th inning after JJ Bleday pops out to Dylan Moore
-video_url: https://bdata-producedclips.mlb.com/cd6cb1ce-f036-44b5-891d-bc0fd9d0be22.mp4
-source_id: MLB_745657_ryne-stanek-in-play-out-s-to-jj-bleday-9b0cpg
-clip_id: MLB_745657_ryne-stanek-in-play-out-s-to-jj-bleday-9b0cpg_auto1_5p480_12p480
-source_path: raw_sources\MLB_745657_ryne-stanek-in-play-out-s-to-jj-bleday-9b0cpg_Ryne_Stanek_gets_the_save_Ryne_Stanek_gets_the_save_Ryne_Stanek_gets_the_save_Ry.mp4
-clip_start_time: 5.480
-clip_end_time: 12.480

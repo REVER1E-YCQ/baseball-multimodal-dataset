@@ -5,3 +5,5 @@ clip_id: MLB_822974_griffin-jax-in-play-out-s-to-hao-yu-lee-j7r3k9_head_0p000_7p
 source_path: raw_sources\MLB_822974_griffin-jax-in-play-out-s-to-hao-yu-lee-j7r3k9_Chandler_Simpson_makes_the_running_catch_Chandler_Simpson_makes_the_running_catc.mp4
 clip_start_time: 0.000
 clip_end_time: 7.000
+
+review_variant: original

@@ -5,3 +5,5 @@ clip_id: MLB_824043_brooks-raley-in-play-out-s-to-vaughn-grissom-od6ajn_head_0p0
 source_path: raw_sources\MLB_824043_brooks-raley-in-play-out-s-to-vaughn-grissom-od6ajn_Carson_Benge_s_ABSURD_diving_catch_Carson_Benge_s_ABSURD_diving_catch_Carson_Ben.mp4
 clip_start_time: 0.000
 clip_end_time: 7.000
+
+review_variant: original
