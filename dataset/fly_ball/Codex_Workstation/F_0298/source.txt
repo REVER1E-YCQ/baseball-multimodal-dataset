@@ -1,7 +1,7 @@
 video_title: Bryce Teodosio's home run robbery Bryce Teodosio's home run robbery Bryce Teodosio's home run robbery Bryce Teodosio tracks a fly ball to the warning track and makes an unbelievable leaping catch to take away a home run from Ian Happ in the 4th inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/22/5555572e-0070b7b7-986e05c5-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_776640_tyler-anderson-in-play-out-s-to-ian-happ-4te5du
-clip_id: MLB_776640_tyler-anderson-in-play-out-s-to-ian-happ-4te5du_reclean_15p945_29p945
+clip_id: MLB_776640_tyler-anderson-in-play-out-s-to-ian-happ-4te5du_auto1_15p920_22p920
 source_path: raw_sources\MLB_776640_tyler-anderson-in-play-out-s-to-ian-happ-4te5du_Bryce_Teodosio_s_home_run_robbery_Bryce_Teodosio_s_home_run_robbery_Bryce_Teodosio_s_home_run_robbery_Bryce_Teo.mp4
-clip_start_time: 15.945
-clip_end_time: 29.945
+clip_start_time: 15.920
+clip_end_time: 22.920

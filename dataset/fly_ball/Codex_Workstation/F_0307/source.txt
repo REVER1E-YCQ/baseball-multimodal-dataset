@@ -1,7 +1,7 @@
 video_title: Danny Jansen's solo home run (6) Danny Jansen's solo home run (6) Danny Jansen's solo home run (6) Danny Jansen homers on a fly ball to left field, putting the Blue Jays ahead 3-0 in the top of the 1st
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/11/4e5f404e-7785efd9-49674428-csvm-diamondx64-asset_1280x720_59_4000K.mp4
 source_id: MLB_745313_danny-jansen-homers-6-on-a-fly-ball-to-left-field
-clip_id: MLB_745313_danny-jansen-homers-6-on-a-fly-ball-to-left-field_reclean_3p095_17p095
+clip_id: MLB_745313_danny-jansen-homers-6-on-a-fly-ball-to-left-field_auto1_3p520_10p520
 source_path: raw_sources\MLB_745313_danny-jansen-homers-6-on-a-fly-ball-to-left-field_Danny_Jansen_s_solo_home_run_6_Danny_Jansen_s_solo_home_run_6_Danny_Jansen_s_solo_home_run_6_Danny_Jansen_hom.mp4
-clip_start_time: 3.095
-clip_end_time: 17.095
+clip_start_time: 3.520
+clip_end_time: 10.520

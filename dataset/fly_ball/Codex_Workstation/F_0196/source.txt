@@ -1,7 +1,7 @@
 video_title: Iván Herrera's solo home run (2) Iván Herrera's solo home run (2) Iván Herrera's solo home run (2) Iván Herrera homers on a fly ball to left-center field, putting the Cardinals on the board, 2-1, in the 7th frame
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-04/08/1a9d76f5-bd589fb4-9f7294e5-csvm-diamondx64-asset_1280x720_59_4000K.mp4
 source_id: MLB_745194_ivan-herrera-homers-2-on-a-fly-ball-to-left-center-field-mpbc4z
-clip_id: MLB_745194_ivan-herrera-homers-2-on-a-fly-ball-to-left-center-field-mpbc4z_reclean_3p985_17p985
+clip_id: MLB_745194_ivan-herrera-homers-2-on-a-fly-ball-to-left-center-field-mpbc4z_auto1_0p000_7p000
 source_path: raw_sources\MLB_745194_ivan-herrera-homers-2-on-a-fly-ball-to-left-center-field-mpbc4z_Iv_n_Herrera_s_solo_home_run_2_Iv_n_Herrera_s_solo_home_run_2_Iv_n_Herrera_s_sol.mp4
-clip_start_time: 3.985
-clip_end_time: 17.985
+clip_start_time: 0.000
+clip_end_time: 7.000

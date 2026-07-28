@@ -1,7 +1,7 @@
 video_title: William Contreras' RBI double William Contreras' RBI double William Contreras' RBI double William Contreras doubles on a sharp line drive to center field, driving in Brice Turang to give the Brewers a 1-0 lead in the 1st
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/07/760cf457-87e13445-7ce4a498-csvm-diamondx64-asset_1280x720_59_4000K.mp4
 source_id: MLB_746312_william-contreras-doubles-11-on-a-sharp-line-drive-to-center-fielder-
-clip_id: MLB_746312_william-contreras-doubles-11-on-a-sharp-line-drive-to-center-fielder-_reclean_8p635_22p635
+clip_id: MLB_746312_william-contreras-doubles-11-on-a-sharp-line-drive-to-center-fielder-_auto1_10p440_17p440
 source_path: raw_sources\MLB_746312_william-contreras-doubles-11-on-a-sharp-line-drive-to-center-fielder-_William_Contreras_RBI_double_William_Contreras_RBI_double_William_Contreras_RBI_.mp4
-clip_start_time: 8.635
-clip_end_time: 22.635
+clip_start_time: 10.440
+clip_end_time: 17.440

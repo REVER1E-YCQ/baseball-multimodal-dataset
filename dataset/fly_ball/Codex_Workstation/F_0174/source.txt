@@ -1,7 +1,7 @@
 video_title: Kerry Carpenter's sacrifice fly Kerry Carpenter's sacrifice fly Kerry Carpenter's sacrifice fly Kerry Carpenter hits a deep fly ball to the left-center-field wall for a sacrifice fly
 video_url: https://bdata-producedclips.mlb.com/df9456fc-e0ae-45a9-bf71-6d115df747bb.mp4
 source_id: MLB_746307_kerry-carpenter-out-on-a-sacrifice-fly-to-center-fielder-kyle-isbel-r
-clip_id: MLB_746307_kerry-carpenter-out-on-a-sacrifice-fly-to-center-fielder-kyle-isbel-r_reclean_27p115_40p830
+clip_id: MLB_746307_kerry-carpenter-out-on-a-sacrifice-fly-to-center-fielder-kyle-isbel-r_auto1_28p900_35p900
 source_path: raw_sources\MLB_746307_kerry-carpenter-out-on-a-sacrifice-fly-to-center-fielder-kyle-isbel-r_Kerry_Carpenter_s_sacrifice_fly_Kerry_Carpenter_s_sacrifice_fly_Kerry_Carpenter_.mp4
-clip_start_time: 27.115
-clip_end_time: 40.830
+clip_start_time: 28.900
+clip_end_time: 35.900

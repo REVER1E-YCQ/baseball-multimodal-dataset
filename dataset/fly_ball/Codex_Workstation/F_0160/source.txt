@@ -1,7 +1,7 @@
 video_title: Shohei Ohtani's solo home run (12) Shohei Ohtani's solo home run (12) Shohei Ohtani's solo home run (12) Shohei Ohtani homers on a fly ball to right-center field, giving the Dodgers a 1-0 lead in the 4th inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/14/1254f26a-374268e0-2f52ce00-csvm-diamondx64-asset_1280x720_59_4000K.mp4
 source_id: MLB_745342_shohei-ohtani-homers-12-on-a-fly-ball-to-right-center-field
-clip_id: MLB_745342_shohei-ohtani-homers-12-on-a-fly-ball-to-right-center-field_reclean_1p875_15p875
+clip_id: MLB_745342_shohei-ohtani-homers-12-on-a-fly-ball-to-right-center-field_auto1_3p200_10p200
 source_path: raw_sources\MLB_745342_shohei-ohtani-homers-12-on-a-fly-ball-to-right-center-field_Shohei_Ohtani_s_solo_home_run_12_Shohei_Ohtani_s_solo_home_run_12_Shohei_Ohtani_.mp4
-clip_start_time: 1.875
-clip_end_time: 15.875
+clip_start_time: 3.200
+clip_end_time: 10.200

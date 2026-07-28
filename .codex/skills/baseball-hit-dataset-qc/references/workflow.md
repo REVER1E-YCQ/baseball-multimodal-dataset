@@ -40,6 +40,20 @@ Reject the response if the timestamp is not one of the supplied candidates or
 if audible and visual contact are not both confirmed. Program code, not the
 model, writes the final interval.
 
+After the whole-clip response passes, extract an approximately 1.4-second clip
+centered on its bound audio candidate. A different Qwen model must adjudicate
+this clip from scratch. It must reject outfielder-only, ball-flight, catch,
+runner, celebration, replay, and no-batter excerpts. A confirmation requires:
+
+- visible live pitch, swing, contact, and immediate follow-through
+- a plausible bat-contact sound at the expected relative candidate time
+- numeric visual contact within 0.30 seconds of the centered candidate
+- confidence of at least 0.80
+- specific visual and audio evidence rather than placeholder wording
+
+The second pass checks contact and timing only. It must not automatically
+overwrite trajectory metadata.
+
 `full_play_visible` is the final visual completeness gate. A recut that misses
 the preferred numeric context target may still pass when Qwen or a human
 confirms that the complete pitch, contact, and fly-ball result are visible.
@@ -53,6 +67,8 @@ The batch CSV and Markdown report must state:
   counts
 - complete-context and partial-context recut counts
 - replay/slow-motion and semantic correction counts
+- independent contact-gate pass/reject counts
+- no-visible-contact, no-live-sequence, no-bat-sound, and replay rejection counts
 - source recovery success and failure counts
 - every changed sample with before/after timestamp and duration
 - every unresolved sample and the exact reason

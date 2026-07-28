@@ -1,7 +1,7 @@
 video_title: Dansby Swanson's solo home run (4)  Dansby Swanson's solo home run (4)  Dansby Swanson's solo home run (4) Dansby Swanson homers on a fly ball to left field to put the Cubs on the board
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/08/2e7c4b8a-bfba68ca-30f8773c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_778401_dansby-swanson-homers-4-on-a-fly-ball-to-left-field
-clip_id: MLB_778401_dansby-swanson-homers-4-on-a-fly-ball-to-left-field_reclean_19p485_30p414
+clip_id: MLB_778401_dansby-swanson-homers-4-on-a-fly-ball-to-left-field_auto1_20p360_27p360
 source_path: raw_sources\MLB_778401_dansby-swanson-homers-4-on-a-fly-ball-to-left-field_Dansby_Swanson_s_solo_home_run_4_Dansby_Swanson_s_solo_home_run_4_Dansby_Swanson.mp4
-clip_start_time: 19.485
-clip_end_time: 30.414
+clip_start_time: 20.360
+clip_end_time: 27.360

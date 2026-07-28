@@ -1,7 +1,7 @@
 video_title: Kyle Tucker makes catch, collides with Nico Hoerner Kyle Tucker makes catch, collides with Nico Hoerner Kyle Tucker makes catch, collides with Nico Hoerner Kyle Tucker races for a fly ball from Christian Moore and makes a great catch before colliding with Nico Hoerner in the 3rd inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/22/4eab3c22-10468a07-c4de295b-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_776640_christian-moore-flies-out-to-right-fielder-kyle-tucker-in-foul-territ
-clip_id: MLB_776640_christian-moore-flies-out-to-right-fielder-kyle-tucker-in-foul-territ_reclean_0p000_13p085
+clip_id: MLB_776640_christian-moore-flies-out-to-right-fielder-kyle-tucker-in-foul-territ_auto1_0p000_7p000
 source_path: raw_sources\MLB_776640_christian-moore-flies-out-to-right-fielder-kyle-tucker-in-foul-territ_Kyle_Tucker_makes_catch_collides_with_Nico_Hoerner_Kyle_Tucker_makes_catch_collides_with_.mp4
 clip_start_time: 0.000
-clip_end_time: 13.085
+clip_end_time: 7.000

@@ -1,7 +1,7 @@
 video_title: Spencer Steer's solo home run (4) Spencer Steer's solo home run (4) Spencer Steer hits solo home run in the 1st inning Spencer Steer homers on a fly ball to left-center field and opens the scoring at 1-0 in the 1st inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/01/ac2b4c91-6e0dbdfb-19cc029b-csvm-diamondx64-asset_1280x720_59_4000K.mp4
 source_id: MLB_745423_spencer-steer-homers-4-on-a-fly-ball-to-left-center-field
-clip_id: MLB_745423_spencer-steer-homers-4-on-a-fly-ball-to-left-center-field_reclean_8p865_22p865
+clip_id: MLB_745423_spencer-steer-homers-4-on-a-fly-ball-to-left-center-field_auto1_10p780_17p780
 source_path: raw_sources\MLB_745423_spencer-steer-homers-4-on-a-fly-ball-to-left-center-field_Spencer_Steer_s_solo_home_run_4_Spencer_Steer_s_solo_home_run_4_Spencer_Steer_hi.mp4
-clip_start_time: 8.865
-clip_end_time: 22.865
+clip_start_time: 10.780
+clip_end_time: 17.780

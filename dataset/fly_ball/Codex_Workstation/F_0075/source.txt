@@ -1,7 +1,7 @@
 video_title: Eli White's jumping catch Eli White's jumping catch Eli White's jumping catch Eli White reads the liner perfectly and makes the jumping catch in right field in the bottom of the 2nd inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/09/9f78623c-1ac5cd8c-9daf2590-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_823955_spencer-strider-in-play-out-s-to-max-muncy
-clip_id: MLB_823955_spencer-strider-in-play-out-s-to-max-muncy_reclean_1p635_15p635
+clip_id: MLB_823955_spencer-strider-in-play-out-s-to-max-muncy_head_0p000_7p000
 source_path: raw_sources\MLB_823955_spencer-strider-in-play-out-s-to-max-muncy_Eli_White_s_jumping_catch_Eli_White_s_jumping_catch_Eli_White_s_jumping_catch_El.mp4
-clip_start_time: 1.635
-clip_end_time: 15.635
+clip_start_time: 0.000
+clip_end_time: 7.000

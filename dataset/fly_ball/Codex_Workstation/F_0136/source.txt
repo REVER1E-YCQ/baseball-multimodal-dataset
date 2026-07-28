@@ -1,7 +1,7 @@
 video_title: Nationals turn 8-3 double play to retire the side Nationals turn 8-3 double play to retire the side Nationals turn 8-3 double play to retire the side Jacob Young snags a Bryce Harper line drive, then throws to first in time to get Kyle Schwarber for an inning-ending double play in the 3rd
 video_url: https://bdata-producedclips.mlb.com/c4eff668-6ecd-4ddf-87b4-41c0bc041b95.mp4
 source_id: MLB_744871_mackenzie-gore-in-play-out-s-to-bryce-harper-sms01u
-clip_id: MLB_744871_mackenzie-gore-in-play-out-s-to-bryce-harper-sms01u_reclean_1p565_15p565
+clip_id: MLB_744871_mackenzie-gore-in-play-out-s-to-bryce-harper-sms01u_auto1_2p820_9p820
 source_path: raw_sources\MLB_744871_mackenzie-gore-in-play-out-s-to-bryce-harper-sms01u_Nationals_turn_8-3_double_play_to_retire_the_side_Nationals_turn_8-3_double_play.mp4
-clip_start_time: 1.565
-clip_end_time: 15.565
+clip_start_time: 2.820
+clip_end_time: 9.820

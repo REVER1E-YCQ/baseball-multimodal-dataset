@@ -42,9 +42,13 @@ def sha256(path: Path) -> str:
     return digest.hexdigest()
 
 
-def git_changed_sample_dirs() -> set[str]:
+def git_changed_sample_dirs(base_ref: str = "") -> set[str]:
+    command = ["git", "diff", "--name-only"]
+    if base_ref:
+        command.append(base_ref)
+    command.extend(["--", "dataset/fly_ball"])
     completed = subprocess.run(
-        ["git", "diff", "--name-only", "--", "dataset/fly_ball"],
+        command,
         cwd=REPO_ROOT,
         capture_output=True,
         check=True,
@@ -62,6 +66,11 @@ def main() -> int:
     parser = argparse.ArgumentParser(description="Verify an applied fly-ball batch against its reconciliation CSV.")
     parser.add_argument("--changes", type=Path, required=True)
     parser.add_argument("--output-json", type=Path, required=True)
+    parser.add_argument(
+        "--base-ref",
+        default="",
+        help="Compare dataset changes with this Git ref instead of the current index.",
+    )
     args = parser.parse_args()
 
     rows = read_csv(args.changes)
@@ -109,7 +118,7 @@ def main() -> int:
             if source.get("clip_end_time") != row["source_clip_end_after"]:
                 errors.append({"sample_id": row["sample_id"], "error": "source_clip_end_mismatch"})
 
-    changed_dirs = git_changed_sample_dirs()
+    changed_dirs = git_changed_sample_dirs(args.base_ref)
     accepted_dirs = {row["main_relative_path"] for row in accepted}
     unresolved_dirs = {row["main_relative_path"] for row in unresolved}
     for path in sorted(changed_dirs - accepted_dirs):
@@ -124,6 +133,7 @@ def main() -> int:
         "accepted_changed_rows": len(accepted),
         "unresolved_unchanged_rows": len(unresolved),
         "git_changed_sample_dirs": len(changed_dirs),
+        "git_base_ref": args.base_ref or "index",
         "verification_errors": len(errors),
         "errors": errors,
     }

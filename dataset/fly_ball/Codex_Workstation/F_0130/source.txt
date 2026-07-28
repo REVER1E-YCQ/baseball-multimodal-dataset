@@ -1,7 +1,7 @@
 video_title: Ozzie Albies' solo home run (4) Ozzie Albies' solo home run (4) Ozzie Albies' solo home run (4) Ozzie Albies flies a solo home run to right-center field, giving the Braves a 1-0 lead in the bottom of the 2nd inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/15/78f8aa70-d836e49f-5d08a5b4-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_824936_chris-paddack-in-play-run-s-to-ozzie-albies
-clip_id: MLB_824936_chris-paddack-in-play-run-s-to-ozzie-albies_reclean_1p845_15p845
+clip_id: MLB_824936_chris-paddack-in-play-run-s-to-ozzie-albies_auto1_0p000_7p000
 source_path: raw_sources\MLB_824936_chris-paddack-in-play-run-s-to-ozzie-albies_Ozzie_Albies_solo_home_run_4_Ozzie_Albies_solo_home_run_4_Ozzie_Albies_solo_home.mp4
-clip_start_time: 1.845
-clip_end_time: 15.845
+clip_start_time: 0.000
+clip_end_time: 7.000

@@ -1,7 +1,7 @@
 video_title: Michael Lorenzen escapes jam Michael Lorenzen escapes jam Michael Lorenzen escapes jam Michael Lorenzen escapes a jam by forcing Tyler Soderstrom into a pop fly in the top of the 5th inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/14/8e0b7e15-2c272f49-d7a22cf4-csvm-diamondgcp-asset-4000K.mp4
 source_id: MLB_777511_tyler-soderstrom-lines-out-to-left-fielder-mark-canha
-clip_id: MLB_777511_tyler-soderstrom-lines-out-to-left-fielder-mark-canha_reclean_1p485_10p543
+clip_id: MLB_777511_tyler-soderstrom-lines-out-to-left-fielder-mark-canha_auto1_1p460_8p460
 source_path: raw_sources\MLB_777511_tyler-soderstrom-lines-out-to-left-fielder-mark-canha_Michael_Lorenzen_escapes_jam_Michael_Lorenzen_escapes_jam_Michael_Lorenzen_escapes_jam_Michael_Lorenzen_e.mp4
-clip_start_time: 1.485
-clip_end_time: 10.543
+clip_start_time: 1.460
+clip_end_time: 8.460

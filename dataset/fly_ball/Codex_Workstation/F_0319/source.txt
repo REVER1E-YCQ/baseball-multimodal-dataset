@@ -1,7 +1,7 @@
 video_title: Jonny DeLuca makes a nice leaping catch Jonny DeLuca makes a nice leaping catch Jonny DeLuca makes a nice leaping catch Jonny DeLuca chases down a hard line drive to rob Jake Meyers of extra bases
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-08/02/03ce058a-dbd477c9-4d4b48cc-csvm-diamondx64-asset-4000K.mp4
 source_id: MLB_746354_jonny-deluca-makes-a-nice-running-catch
-clip_id: MLB_746354_jonny-deluca-makes-a-nice-running-catch_reclean_17p165_23p140
+clip_id: MLB_746354_jonny-deluca-makes-a-nice-running-catch_auto1_16p140_23p140
 source_path: raw_sources\MLB_746354_jonny-deluca-makes-a-nice-running-catch_Jonny_DeLuca_makes_a_nice_leaping_catch_Jonny_DeLuca_makes_a_nice_leaping_catch_Jonny_DeLuca_makes_a_nice_leaping_catch.mp4
-clip_start_time: 17.165
+clip_start_time: 16.140
 clip_end_time: 23.140

@@ -48,7 +48,14 @@ For each batch:
    it must not invent an unrestricted final timestamp.
 7. Bind the accepted result to one supplied audio candidate. Derive a narrow
    0.05 to 0.15 second event interval in code.
-8. Preserve the source URL, source path, source offset, before/after values,
+8. Create a second, candidate-centered excerpt of roughly 1.4 seconds. Give it
+   to an independent Qwen model without trusting the first response. Require a
+   visible live pitch, batter swing, contact/follow-through, and a matching bat
+   sound near the center candidate.
+9. Reject the second pass when it shows only ball flight, an outfielder, catch,
+   runner, celebration, replay, or generic evidence. Restore an already
+   published failed sample to its pre-batch version before further recovery.
+10. Preserve the source URL, source path, source offset, before/after values,
    model response, and decision evidence.
 
 ## Hard Rules
@@ -57,6 +64,12 @@ For each batch:
   occurs near the audio candidate.
 - Do not accept crowd noise, commentary, glove pops, edits, or replay audio as
   contact merely because they are high-energy sounds.
+- Do not publish a first-pass Qwen acceptance without the independent,
+  candidate-centered contact gate.
+- Do not accept placeholder or generic model evidence. Evidence must describe
+  the visible batter/pitch/swing/contact and the specific candidate sound.
+- Do not let the contact-timing model automatically change trajectory metadata;
+  route proposed fly, line-drive, or pop-fly changes to a separate review.
 - Do not replace unresolved data with an empty directory or placeholder.
 - Do not silently drop a sample. Keep it unchanged and mark it unresolved until
   source recovery and review are complete.
@@ -71,7 +84,8 @@ Before publishing a batch:
 1. Verify schema and all required files.
 2. Verify audio and video are readable and synchronized.
 3. Verify the final event interval is bound to a local audio candidate.
-4. Verify Qwen or manual evidence places live visual contact near that candidate.
+4. Verify both Qwen passes place live visual contact near that candidate, and
+   verify that the second pass used a different model from the first.
 5. Verify fly-ball semantics and reject replay-only footage.
 6. Reconcile every queue row to exactly one outcome: replaced, metadata-only
    correction, unchanged unresolved, or confirmed unusable with evidence.

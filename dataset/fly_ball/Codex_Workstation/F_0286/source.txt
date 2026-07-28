@@ -1,7 +1,7 @@
 video_title: Yankees get a forceout on a strange play in the 10th Yankees get a forceout on a strange play in the 10th Yankees get a forceout on a strange play in the 10th Amed Rosario runs into the wall trying to catch Yainer Diaz's fly ball and the Yankees get a forceout at second in the confusion
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/08/4b2b3126-9dd6e54a-f1369fe3-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_776835_devin-williams-in-play-out-s-to-yainer-diaz
-clip_id: MLB_776835_devin-williams-in-play-out-s-to-yainer-diaz_reclean_0p000_13p385
+clip_id: MLB_776835_devin-williams-in-play-out-s-to-yainer-diaz_auto1_0p000_7p000
 source_path: raw_sources\MLB_776835_devin-williams-in-play-out-s-to-yainer-diaz_Yankees_get_a_forceout_on_a_strange_play_in_the_10th_Yankees_get_a_forceout_on_a_strange_play_in_the_10th_Yankees_g.mp4
 clip_start_time: 0.000
-clip_end_time: 13.385
+clip_end_time: 7.000

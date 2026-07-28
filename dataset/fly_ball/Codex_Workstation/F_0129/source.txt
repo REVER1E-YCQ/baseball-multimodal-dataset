@@ -1,7 +1,7 @@
 video_title: Nolan Schanuel's game-tying single Nolan Schanuel's game-tying single Nolan Schanuel's game-tying single Nolan Schanuel singles on a line drive to left, scoring Zach Neto and tying the game at 3 against the Twins in the top of the 7th inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-07/11/1a3addc5-384ed43e-f2e1dcd4-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_823682_nolan-schanuel-singles-on-a-line-drive-to-left-fielder-trevor-larnach
-clip_id: MLB_823682_nolan-schanuel-singles-on-a-line-drive-to-left-fielder-trevor-larnach_reclean_0p000_12p565
+clip_id: MLB_823682_nolan-schanuel-singles-on-a-line-drive-to-left-fielder-trevor-larnach_head_0p000_7p000
 source_path: raw_sources\MLB_823682_nolan-schanuel-singles-on-a-line-drive-to-left-fielder-trevor-larnach_Nolan_Schanuel_s_game-tying_single_Nolan_Schanuel_s_game-tying_single_Nolan_Scha.mp4
 clip_start_time: 0.000
-clip_end_time: 12.565
+clip_end_time: 7.000

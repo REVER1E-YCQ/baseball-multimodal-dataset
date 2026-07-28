@@ -8,6 +8,7 @@ import json
 import mimetypes
 import os
 import re
+import subprocess
 import time
 import urllib.error
 import urllib.request
@@ -82,7 +83,9 @@ def load_env(path: Path) -> None:
         if not line or line.startswith("#") or "=" not in line:
             continue
         name, value = line.split("=", 1)
-        os.environ.setdefault(name.strip(), value.strip().strip('"').strip("'"))
+        # An explicitly supplied env file must override stale desktop-session
+        # variables so usage accounting and model rotation target that account.
+        os.environ[name.strip()] = value.strip().strip('"').strip("'")
 
 
 def read_csv(path: Path) -> list[dict[str, str]]:
@@ -151,6 +154,57 @@ def data_url(path: Path) -> str:
     mime = mimetypes.guess_type(path.name)[0] or "video/mp4"
     encoded = base64.b64encode(path.read_bytes()).decode("ascii")
     return f"data:{mime};base64,{encoded}"
+
+
+def upload_video_path(
+    video_path: Path,
+    *,
+    cache_root: Path,
+    ffmpeg: str,
+    max_source_bytes: int,
+) -> Path:
+    if video_path.stat().st_size <= max_source_bytes:
+        return video_path
+    fingerprint = hashlib.sha256(
+        f"{video_path.resolve()}:{video_path.stat().st_size}:{video_path.stat().st_mtime_ns}".encode(
+            "utf-8"
+        )
+    ).hexdigest()[:20]
+    cache_root.mkdir(parents=True, exist_ok=True)
+    preview = cache_root / f"{video_path.parent.name}_{fingerprint}.mp4"
+    if preview.is_file() and preview.stat().st_size <= max_source_bytes:
+        return preview
+    subprocess.run(
+        [
+            ffmpeg,
+            "-hide_banner",
+            "-loglevel",
+            "error",
+            "-i",
+            str(video_path),
+            "-vf",
+            "scale=-2:min(480\\,ih)",
+            "-c:v",
+            "libx264",
+            "-preset",
+            "veryfast",
+            "-crf",
+            "28",
+            "-c:a",
+            "aac",
+            "-b:a",
+            "96k",
+            "-movflags",
+            "+faststart",
+            "-y",
+            str(preview),
+        ],
+        check=True,
+        timeout=300,
+    )
+    if not preview.is_file() or preview.stat().st_size > max_source_bytes:
+        raise RuntimeError("Qwen preview transcode did not meet the upload size limit.")
+    return preview
 
 
 def extract_json(text: str) -> dict[str, Any]:
@@ -435,6 +489,17 @@ def main() -> int:
     parser.add_argument("--env-file", type=Path, default=REPO_ROOT / ".env")
     parser.add_argument("--limit", type=int, default=0)
     parser.add_argument("--sample-id", action="append", default=[])
+    parser.add_argument("--ffmpeg", default="ffmpeg")
+    parser.add_argument(
+        "--preview-cache",
+        type=Path,
+        default=Path(os.getenv("QWEN_PREVIEW_CACHE", str(REPO_ROOT / ".qwen_preview_cache"))),
+    )
+    parser.add_argument(
+        "--max-upload-video-bytes",
+        type=int,
+        default=14 * 1024 * 1024,
+    )
     args = parser.parse_args()
 
     load_env(args.env_file)
@@ -524,6 +589,22 @@ def main() -> int:
             float(row["review_event_start"]) + float(row["review_event_end"])
         ) / 2.0
         candidates = candidates_for_audio(audio_path, anchor_time)
+        try:
+            api_video_path = upload_video_path(
+                video_path,
+                cache_root=args.preview_cache,
+                ffmpeg=args.ffmpeg,
+                max_source_bytes=args.max_upload_video_bytes,
+            )
+        except Exception as exc:
+            record = {
+                **base_record,
+                "binding_status": "preview_transcode_error",
+                "error": f"{type(exc).__name__}: {exc}",
+                "audio_candidates": candidates,
+            }
+            append_jsonl(args.output_jsonl, record)
+            continue
         context = {
             "sample_id": row["sample_id"],
             "current_untrusted_event_start": row["review_event_start"],
@@ -554,7 +635,7 @@ def main() -> int:
                 try:
                     result, used_usage = call_qwen(
                         model=model,
-                        video_path=video_path,
+                        video_path=api_video_path,
                         prompt=prompt,
                         base_url=base_url,
                         api_key=api_key,
@@ -641,6 +722,8 @@ def main() -> int:
             "usage": used_usage,
             "elapsed_seconds": round(time.time() - started, 3),
             "audio_candidates": candidates,
+            "api_video_path": str(api_video_path),
+            "api_video_bytes": api_video_path.stat().st_size,
             "raw_result": result,
         }
         append_jsonl(args.output_jsonl, record)

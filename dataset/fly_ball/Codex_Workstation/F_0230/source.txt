@@ -1,7 +1,7 @@
 video_title: Mike Yastrzemski's RBI triple Mike Yastrzemski's RBI triple Mike Yastrzemski's RBI triple Mike Yastrzemski triples on a sharp fly ball to right field and sends home Jorge Soler to give the Giants a 1-0 lead in the 4th frame
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/17/0840f6bf-45a7b4a9-0c4908b0-csvm-diamondx64-asset_1280x720_59_4000K.mp4
 source_id: MLB_746868_javier-assad-in-play-run-s-to-mike-yastrzemski
-clip_id: MLB_746868_javier-assad-in-play-run-s-to-mike-yastrzemski_reclean_22p558_26p293
+clip_id: MLB_746868_javier-assad-in-play-run-s-to-mike-yastrzemski_auto1_19p293_26p293
 source_path: sources\MLB_746868_javier-assad-in-play-run-s-to-mike-yastrzemski_Mike_Yastrzemski_s_RBI_triple_Mike_Yastrzemski_s_RBI_triple_Mike_Yastrzemski_s_R.mp4
-clip_start_time: 22.558
+clip_start_time: 19.293
 clip_end_time: 26.293

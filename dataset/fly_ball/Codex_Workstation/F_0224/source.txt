@@ -1,7 +1,7 @@
 video_title: Josh Lowe's run-scoring knock Josh Lowe's run-scoring knock Josh Lowe's run-scoring knock Josh Lowe singles on a sharp line drive to right field, scoring Yandy Díaz to give the Rays a 4-0 lead in the 3rd
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/18/af1339c0-37346704-a3498ce6-csvm-diamondx64-asset_1280x720_59_4000K.mp4
 source_id: MLB_745893_josh-lowe-singles-on-a-sharp-line-drive-to-right-fielder-max-kepler-y
-clip_id: MLB_745893_josh-lowe-singles-on-a-sharp-line-drive-to-right-fielder-max-kepler-y_reclean_1p415_15p415
+clip_id: MLB_745893_josh-lowe-singles-on-a-sharp-line-drive-to-right-fielder-max-kepler-y_auto1_3p100_10p100
 source_path: raw_sources\MLB_745893_josh-lowe-singles-on-a-sharp-line-drive-to-right-fielder-max-kepler-y_Josh_Lowe_s_run-scoring_knock_Josh_Lowe_s_run-scoring_knock_Josh_Lowe_s_run-scoring_knock.mp4
-clip_start_time: 1.415
-clip_end_time: 15.415
+clip_start_time: 3.100
+clip_end_time: 10.100

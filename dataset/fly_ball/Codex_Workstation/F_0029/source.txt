@@ -1,7 +1,7 @@
 video_title: Tyler Stephenson's RBI single Tyler Stephenson's RBI single Tyler Stephenson's RBI single Tyler Stephenson singles on a line drive to right field, giving the Reds an early lead in the 2nd inning
 video_url: https://bdata-producedclips.mlb.com/383ac222-b3de-40b9-86c6-86443c77cac8.mp4
 source_id: MLB_823363_paul-skenes-in-play-run-s-to-tyler-stephenson
-clip_id: MLB_823363_paul-skenes-in-play-run-s-to-tyler-stephenson_reclean_1p235_15p235
+clip_id: MLB_823363_paul-skenes-in-play-run-s-to-tyler-stephenson_head_0p000_7p000
 source_path: raw_sources\MLB_823363_paul-skenes-in-play-run-s-to-tyler-stephenson_Tyler_Stephenson_s_RBI_single_Tyler_Stephenson_s_RBI_single_Tyler_Stephenson_s_R.mp4
-clip_start_time: 1.235
-clip_end_time: 15.235
+clip_start_time: 0.000
+clip_end_time: 7.000

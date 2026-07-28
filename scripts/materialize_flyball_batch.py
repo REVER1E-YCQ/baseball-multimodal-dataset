@@ -115,7 +115,11 @@ def update_source_txt(
     os.replace(temporary, path)
 
 
-def acceptance_reason(row: dict[str, str], minimum_confidence: float) -> tuple[bool, str]:
+def acceptance_reason(
+    row: dict[str, str],
+    contact_gate: dict[str, str] | None,
+    minimum_confidence: float,
+) -> tuple[bool, str]:
     if row.get("binding_status") != "audio_candidate_bound":
         return False, row.get("binding_status") or "missing_qwen_result"
     required_true = [
@@ -136,6 +140,24 @@ def acceptance_reason(row: dict[str, str], minimum_confidence: float) -> tuple[b
         return False, "qwen_confidence_below_threshold"
     if not row.get("final_event_start") or not row.get("final_event_end"):
         return False, "missing_bound_event_interval"
+    if contact_gate is None:
+        return False, "missing_contact_gate_result"
+    if contact_gate.get("contact_gate_status") != "contact_gate_pass":
+        return False, contact_gate.get("contact_gate_status") or "contact_gate_not_passed"
+    if contact_gate.get("model") == row.get("model"):
+        return False, "contact_gate_not_independent"
+    if (
+        abs(
+            float_value(contact_gate.get("selected_candidate_time"))
+            - float_value(row.get("selected_candidate_time"))
+        )
+        > 0.030
+    ):
+        return False, "contact_gate_candidate_mismatch"
+    if float_value(contact_gate.get("relative_audio_visual_offset"), 999.0) > 0.30:
+        return False, "contact_gate_audio_visual_mismatch"
+    if float_value(contact_gate.get("confidence")) < minimum_confidence:
+        return False, "contact_gate_confidence_below_threshold"
     return True, ""
 
 
@@ -144,6 +166,7 @@ def main() -> int:
     parser.add_argument("--queue", type=Path, required=True)
     parser.add_argument("--recut-manifest", type=Path, required=True)
     parser.add_argument("--qwen-summary", type=Path, required=True)
+    parser.add_argument("--contact-gate-summary", type=Path, required=True)
     parser.add_argument("--output-csv", type=Path, required=True)
     parser.add_argument("--output-md", type=Path, required=True)
     parser.add_argument("--minimum-confidence", type=float, default=0.80)
@@ -157,6 +180,10 @@ def main() -> int:
     qwen = {
         row["main_relative_path"]: row for row in read_csv(args.qwen_summary)
     }
+    contact_gate = {
+        row["main_relative_path"]: row
+        for row in read_csv(args.contact_gate_summary)
+    }
     reconciled: list[dict[str, Any]] = []
 
     for row in queue:
@@ -164,18 +191,25 @@ def main() -> int:
         sample_dir = REPO_ROOT / relative_path
         recut = recuts.get(relative_path)
         review = qwen.get(relative_path)
+        gate = contact_gate.get(relative_path)
         if review is None:
             accepted, reason = False, "missing_qwen_result"
         else:
-            accepted, reason = acceptance_reason(review, args.minimum_confidence)
+            accepted, reason = acceptance_reason(
+                review,
+                gate,
+                args.minimum_confidence,
+            )
         before_video = sample_dir / "video.mp4"
         before_audio = sample_dir / "audio.wav"
         before_video_hash = sha256(before_video) if before_video.is_file() else ""
         before_audio_hash = sha256(before_audio) if before_audio.is_file() else ""
         before_trajectory = row.get("trajectory_type", "")
-        after_trajectory = (
-            review.get("trajectory_type", "") if accepted and review else before_trajectory
-        )
+        proposed_trajectory = review.get("trajectory_type", "") if review else ""
+        # The contact gate verifies timing and live contact, not ball-flight
+        # semantics. Preserve existing trajectory metadata unless it receives a
+        # separate manual or dedicated trajectory adjudication.
+        after_trajectory = before_trajectory
         if accepted and recut:
             recut_video = Path(recut["video_path"])
             recut_audio = Path(recut["audio_path"])
@@ -252,12 +286,35 @@ def main() -> int:
                 "source_clip_end_after": recut.get("new_clip_end", "") if accepted and recut else "",
                 "before_trajectory": before_trajectory,
                 "after_trajectory": after_trajectory if accepted else "",
-                "trajectory_changed": (
-                    "yes" if accepted and after_trajectory != before_trajectory else "no"
+                "trajectory_changed": "no",
+                "qwen_proposed_trajectory": proposed_trajectory,
+                "trajectory_change_suppressed": (
+                    "yes"
+                    if accepted
+                    and proposed_trajectory
+                    and proposed_trajectory != before_trajectory
+                    else "no"
                 ),
                 "qwen_binding_status": review.get("binding_status", "") if review else "",
                 "qwen_confidence": review.get("confidence", "") if review else "",
                 "qwen_model": review.get("model", "") if review else "",
+                "contact_gate_status": gate.get("contact_gate_status", "") if gate else "",
+                "contact_gate_decision": gate.get("decision", "") if gate else "",
+                "contact_gate_contact_visible": gate.get("contact_visible", "") if gate else "",
+                "contact_gate_live_pitch_and_swing_visible": (
+                    gate.get("live_pitch_and_swing_visible", "") if gate else ""
+                ),
+                "contact_gate_candidate_sound_is_bat_contact": (
+                    gate.get("candidate_sound_is_bat_contact", "") if gate else ""
+                ),
+                "contact_gate_replay_or_slow_motion": (
+                    gate.get("replay_or_slow_motion", "") if gate else ""
+                ),
+                "contact_gate_confidence": gate.get("confidence", "") if gate else "",
+                "contact_gate_model": gate.get("model", "") if gate else "",
+                "contact_gate_visual_evidence": gate.get("visual_evidence", "") if gate else "",
+                "contact_gate_audio_evidence": gate.get("audio_evidence", "") if gate else "",
+                "contact_gate_failure_reason": gate.get("failure_reason", "") if gate else "",
                 "before_video_sha256": before_video_hash,
                 "before_audio_sha256": before_audio_hash,
                 "after_video_sha256": after_video_hash,
@@ -270,7 +327,35 @@ def main() -> int:
     result_counts = Counter(row["result"] for row in reconciled)
     error_counts = Counter(row["primary_error"] for row in reconciled)
     changed_count = sum(row["changed"] == "yes" for row in reconciled)
-    trajectory_count = sum(row["trajectory_changed"] == "yes" for row in reconciled)
+    trajectory_suppressed_count = sum(
+        row["trajectory_change_suppressed"] == "yes" for row in reconciled
+    )
+    contact_gate_pass_count = sum(
+        row["contact_gate_status"] == "contact_gate_pass" for row in reconciled
+    )
+    contact_gate_reject_count = sum(
+        row["contact_gate_status"] == "contact_gate_reject" for row in reconciled
+    )
+    gate_no_visual_contact = sum(
+        row["contact_gate_status"] == "contact_gate_reject"
+        and not bool_value(row["contact_gate_contact_visible"])
+        for row in reconciled
+    )
+    gate_no_live_sequence = sum(
+        row["contact_gate_status"] == "contact_gate_reject"
+        and not bool_value(row["contact_gate_live_pitch_and_swing_visible"])
+        for row in reconciled
+    )
+    gate_no_bat_sound = sum(
+        row["contact_gate_status"] == "contact_gate_reject"
+        and not bool_value(row["contact_gate_candidate_sound_is_bat_contact"])
+        for row in reconciled
+    )
+    gate_replay = sum(
+        row["contact_gate_status"] == "contact_gate_reject"
+        and bool_value(row["contact_gate_replay_or_slow_motion"])
+        for row in reconciled
+    )
     complete_recut = sum(
         row["result"] == "recut_and_retime" and row["recut_status"] == "recut_complete"
         for row in reconciled
@@ -281,25 +366,31 @@ def main() -> int:
         for row in reconciled
     )
     lines = [
-        "# Fly Ball Batch Materialization Report",
+        "# Fly Ball 批次写入报告",
         "",
-        f"- Mode: {'applied' if args.apply else 'dry run'}",
-        f"- Queue rows: {len(reconciled)}",
-        f"- Changed samples: {changed_count}",
-        f"- Recut and retimed: {result_counts['recut_and_retime']}",
-        f"- Retime or metadata only: {result_counts['retime_or_metadata_only']}",
-        f"- Unchanged unresolved: {result_counts['unchanged_unresolved']}",
-        f"- Complete-context recuts accepted: {complete_recut}",
-        f"- Partial-context recuts accepted after visual gate: {partial_recut}",
-        f"- Trajectory corrections: {trajectory_count}",
+        f"- 模式：{'已写入' if args.apply else '仅检查'}",
+        f"- 队列总数：{len(reconciled)}",
+        f"- 实际修改：{changed_count}",
+        f"- 重新剪辑并校时：{result_counts['recut_and_retime']}",
+        f"- 仅校时或修改元数据：{result_counts['retime_or_metadata_only']}",
+        f"- 保持原样、等待后续处理：{result_counts['unchanged_unresolved']}",
+        f"- 完整上下文复剪通过：{complete_recut}",
+        f"- 部分上下文经画面复核后通过：{partial_recut}",
+        f"- 千问提出但未自动写入的球路变化：{trajectory_suppressed_count}",
+        f"- 独立击球短片复核通过：{contact_gate_pass_count}",
+        f"- 独立击球短片复核拒绝：{contact_gate_reject_count}",
+        f"- 拒绝原因包含无可见击球：{gate_no_visual_contact}",
+        f"- 拒绝原因包含无完整现场投球/挥棒：{gate_no_live_sequence}",
+        f"- 拒绝原因包含无球棒击球声：{gate_no_bat_sound}",
+        f"- 拒绝原因包含回放或慢动作：{gate_replay}",
         "",
-        "## Original Error Categories",
+        "## 原始错误分类",
         "",
         *[f"- {name}: {count}" for name, count in error_counts.most_common()],
         "",
-        "## Changed Samples",
+        "## 已修改样本",
         "",
-        "| sample | result | before event | after event | before duration | after duration | trajectory |",
+        "| 样本 | 结果 | 修改前击球区间 | 修改后击球区间 | 原时长 | 新时长 | 球路 |",
         "| --- | --- | --- | --- | ---: | ---: | --- |",
     ]
     for row in reconciled:
@@ -314,9 +405,9 @@ def main() -> int:
     lines.extend(
         [
             "",
-            "## Unresolved Samples",
+            "## 保持原样、等待后续处理的样本",
             "",
-            "| sample | primary error | reason |",
+            "| 样本 | 原始错误 | 当前原因 |",
             "| --- | --- | --- |",
         ]
     )

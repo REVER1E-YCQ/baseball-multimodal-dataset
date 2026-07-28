@@ -1,7 +1,7 @@
 video_title: Nasim Nuñez's unassisted DP  Nasim Nuñez's unassisted DP  Nasim Nuñez's unassisted DP  Nasim Nuñez catches a line drive from Andrew Vaughn, completing inning-ending double play
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/15/cac9bd47-3621859b-771f909b-csvm-diamondx64-asset_1280x720_59_4000K.mp4
 source_id: MLB_746795_patrick-corbin-in-play-out-s-to-andrew-vaughn-rg19ug
-clip_id: MLB_746795_patrick-corbin-in-play-out-s-to-andrew-vaughn-rg19ug_reclean_0p000_10p260
+clip_id: MLB_746795_patrick-corbin-in-play-out-s-to-andrew-vaughn-rg19ug_auto1_0p480_7p480
 source_path: raw_sources\MLB_746795_patrick-corbin-in-play-out-s-to-andrew-vaughn-rg19ug_Nasim_Nu_ez_s_unassisted_DP_Nasim_Nu_ez_s_unassisted_DP_Nasim_Nu_ez_s_unassisted.mp4
-clip_start_time: 0.000
-clip_end_time: 10.260
+clip_start_time: 0.480
+clip_end_time: 7.480

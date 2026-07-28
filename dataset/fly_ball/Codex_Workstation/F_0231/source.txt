@@ -1,7 +1,7 @@
 video_title: Corbin Carroll's RBI triple Corbin Carroll's RBI triple Corbin Carroll's RBI triple Corbin Carroll triples on a sharp line drive to right-center field, scoring Randal Grichuk to give the D-backs a 1-0 lead in the 2nd inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/11/a4a04b83-e048f4ba-90285b02-csvm-diamondx64-asset_1280x720_59_4000K.mp4
 source_id: MLB_747190_jose-suarez-in-play-run-s-to-corbin-carroll
-clip_id: MLB_747190_jose-suarez-in-play-run-s-to-corbin-carroll_reclean_5p225_19p225
+clip_id: MLB_747190_jose-suarez-in-play-run-s-to-corbin-carroll_auto1_6p340_13p340
 source_path: sources\MLB_747190_jose-suarez-in-play-run-s-to-corbin-carroll_Corbin_Carroll_s_RBI_triple_Corbin_Carroll_s_RBI_triple_Corbin_Carroll_s_RBI_tri.mp4
-clip_start_time: 5.225
-clip_end_time: 19.225
+clip_start_time: 6.340
+clip_end_time: 13.340

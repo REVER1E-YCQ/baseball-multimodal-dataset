@@ -1,7 +1,7 @@
 video_title: Joey Wiemer's three-run home run (3) Joey Wiemer's three-run home run (3) Joey Wiemer's three-run home run (3) Joey Wiemer hits a home run on a fly ball to left field, bringing in three more runs for the Marlins in the bottom of the 6th inning
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/12/9090d356-8f099351-8384146d-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_776366_joey-wiemer-homers-3-on-a-fly-ball-to-left-field-heriberto-hernandez-
-clip_id: MLB_776366_joey-wiemer-homers-3-on-a-fly-ball-to-left-field-heriberto-hernandez-_reclean_2p505_16p505
+clip_id: MLB_776366_joey-wiemer-homers-3-on-a-fly-ball-to-left-field-heriberto-hernandez-_auto1_2p480_9p480
 source_path: raw_sources\MLB_776366_joey-wiemer-homers-3-on-a-fly-ball-to-left-field-heriberto-hernandez-_Joey_Wiemer_s_three-run_home_run_3_Joey_Wiemer_s_three-run_home_run_3_Joey_Wiemer_s_three.mp4
-clip_start_time: 2.505
-clip_end_time: 16.505
+clip_start_time: 2.480
+clip_end_time: 9.480

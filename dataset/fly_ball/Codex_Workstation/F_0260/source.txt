@@ -1,7 +1,7 @@
 video_title: LaMonte Wade Jr.'s sliding catch LaMonte Wade Jr.'s sliding catch LaMonte Wade Jr.'s sliding catch LaMonte Wade Jr. charges into shallow right field to make a difficult sliding grab on a fly ball from  for the
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/27/c4928293-da741291-da361cc3-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_777331_hector-neris-in-play-out-s-to-luis-garcia-jr
-clip_id: MLB_777331_hector-neris-in-play-out-s-to-luis-garcia-jr_reclean_0p255_14p255
+clip_id: MLB_777331_hector-neris-in-play-out-s-to-luis-garcia-jr_auto1_0p220_7p220
 source_path: raw_sources\MLB_777331_hector-neris-in-play-out-s-to-luis-garcia-jr_LaMonte_Wade_Jr._s_sliding_catch_LaMonte_Wade_Jr._s_sliding_catch_LaMonte_Wade_Jr._s_sliding_catch_LaMonte_Wade_Jr.mp4
-clip_start_time: 0.255
-clip_end_time: 14.255
+clip_start_time: 0.220
+clip_end_time: 7.220

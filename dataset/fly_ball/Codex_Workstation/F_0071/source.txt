@@ -1,7 +1,7 @@
 video_title: Louis Varland seals save, Blue Jays' 2-0 victory Louis Varland seals save, Blue Jays' 2-0 victory Louis Varland seals save, Blue Jays' 2-0 victory Louis Varland induces a fly ball to left field, securing the Blue Jays' 2-0 victory over the Angels and sealing the save
 video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/06/9b0fee7c-4eb5f95a-fa602844-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
 source_id: MLB_822822_louis-varland-in-play-out-s-to-yoan-moncada
-clip_id: MLB_822822_louis-varland-in-play-out-s-to-yoan-moncada_reclean_3p145_17p145
+clip_id: MLB_822822_louis-varland-in-play-out-s-to-yoan-moncada_head_0p000_7p000
 source_path: raw_sources\MLB_822822_louis-varland-in-play-out-s-to-yoan-moncada_Louis_Varland_seals_save_Blue_Jays_2-0_victory_Louis_Varland_seals_save_Blue_Jay.mp4
-clip_start_time: 3.145
-clip_end_time: 17.145
+clip_start_time: 0.000
+clip_end_time: 7.000
