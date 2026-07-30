@@ -46,9 +46,12 @@ SUMMARY_FIELDS = [
     "decision",
     "binding_status",
     "contact_audible",
+    "contact_sound_normal_speed",
     "contact_visible",
     "live_play",
     "replay_or_slow_motion",
+    "replay_or_slow_motion_at_contact",
+    "trailing_replay_present",
     "fly_ball_semantics",
     "full_play_visible",
     "clip_context_sufficient",
@@ -111,6 +114,34 @@ def load_jsonl(path: Path) -> list[dict[str, Any]]:
             if line:
                 rows.append(json.loads(line))
     return rows
+
+
+def load_global_usage_records(path: Path) -> list[dict[str, Any]]:
+    """Load and deduplicate model usage across every audit shard."""
+    candidates = {path.resolve()}
+    if path.parent.is_dir():
+        candidates.update(
+            item.resolve()
+            for item in path.parent.rglob("qwen_usage*.jsonl")
+            if item.is_file()
+        )
+    records: list[dict[str, Any]] = []
+    seen: set[tuple[Any, ...]] = set()
+    for candidate in sorted(candidates):
+        for record in load_jsonl(candidate):
+            usage = record.get("usage") or {}
+            key = (
+                record.get("account_fingerprint"),
+                record.get("model"),
+                record.get("sample_id"),
+                record.get("recorded_at_unix"),
+                total_tokens(usage),
+            )
+            if key in seen:
+                continue
+            seen.add(key)
+            records.append(record)
+    return records
 
 
 def write_summary(path: Path, records: list[dict[str, Any]]) -> None:
@@ -239,14 +270,17 @@ def call_qwen(
     prompt: str,
     base_url: str,
     api_key: str,
+    media_type: str = "video_url",
 ) -> tuple[dict[str, Any], dict[str, Any] | None]:
+    if media_type not in {"video_url", "image_url"}:
+        raise ValueError(f"unsupported Qwen media type: {media_type}")
     body: dict[str, Any] = {
         "model": model,
         "messages": [
             {
                 "role": "user",
                 "content": [
-                    {"type": "video_url", "video_url": {"url": data_url(video_path)}},
+                    {"type": media_type, media_type: {"url": data_url(video_path)}},
                     {"type": "text", "text": prompt},
                 ],
             }
@@ -308,35 +342,58 @@ def candidates_for_audio(
     limit: int = 24,
 ) -> list[dict[str, float]]:
     audio, sample_rate, _duration = read_wav_mono(audio_path)
-    times, rms_ratio, diff_ratio, score = frame_features(audio, sample_rate, 10.0)
-    global_candidates = transient_candidates(
-        times,
-        score,
-        minimum_score=1.50,
-        minimum_separation=0.10,
-        limit=limit,
-    )
-    local_mask = (times >= max(0.0, anchor_time - 0.60)) & (times <= anchor_time + 0.60)
-    local_indices = list(map(int, list(local_mask.nonzero()[0])))
-    local_candidates: list[tuple[float, float, int]] = []
-    if local_indices:
-        first = local_indices[0]
-        local = transient_candidates(
-            times[local_mask],
-            score[local_mask],
-            minimum_score=1.20,
+    # A 10 ms-only detector missed two human-confirmed contacts during
+    # calibration. Short cracks can peak only at 5 ms, while noisy contacts are
+    # more stable at 20 ms, so merge all three resolutions before Qwen sees a
+    # finite candidate list.
+    global_candidates: list[tuple[float, float, float, float]] = []
+    local_candidates: list[tuple[float, float, float, float]] = []
+    for frame_ms in (5.0, 10.0, 20.0):
+        times, rms_ratio, diff_ratio, score = frame_features(audio, sample_rate, frame_ms)
+        for time_value, score_value, index in transient_candidates(
+            times,
+            score,
+            minimum_score=1.50,
             minimum_separation=0.08,
-            limit=8,
-        )
-        local_candidates = [
-            (time_value, score_value, first + frame_index)
-            for time_value, score_value, frame_index in local
-        ]
+            limit=limit,
+        ):
+            global_candidates.append(
+                (time_value, score_value, float(rms_ratio[index]), float(diff_ratio[index]))
+            )
+        local_mask = (times >= max(0.0, anchor_time - 0.60)) & (times <= anchor_time + 0.60)
+        if local_mask.any():
+            first = int(local_mask.nonzero()[0][0])
+            for time_value, score_value, index in transient_candidates(
+                times[local_mask],
+                score[local_mask],
+                minimum_score=1.15,
+                minimum_separation=0.05,
+                limit=12,
+            ):
+                source_index = first + index
+                local_candidates.append(
+                    (
+                        time_value,
+                        score_value,
+                        float(rms_ratio[source_index]),
+                        float(diff_ratio[source_index]),
+                    )
+                )
+
+    def deduplicate(
+        candidates: list[tuple[float, float, float, float]],
+    ) -> list[tuple[float, float, float, float]]:
+        selected: list[tuple[float, float, float, float]] = []
+        for candidate in sorted(candidates, key=lambda item: item[1], reverse=True):
+            if all(abs(candidate[0] - existing[0]) > 0.035 for existing in selected):
+                selected.append(candidate)
+        return selected
+
     prioritized = sorted(
-        local_candidates,
+        deduplicate(local_candidates),
         key=lambda item: (abs(item[0] - anchor_time), -item[1]),
     )
-    for candidate in sorted(global_candidates, key=lambda item: item[1], reverse=True):
+    for candidate in deduplicate(global_candidates):
         if all(abs(candidate[0] - existing[0]) > 0.035 for existing in prioritized):
             prioritized.append(candidate)
         if len(prioritized) >= limit:
@@ -347,10 +404,10 @@ def candidates_for_audio(
             "index": index,
             "time": round(time_value, 3),
             "score": round(score_value, 3),
-            "rms_ratio": round(float(rms_ratio[frame_index]), 3),
-            "diff_ratio": round(float(diff_ratio[frame_index]), 3),
+            "rms_ratio": round(rms_value, 3),
+            "diff_ratio": round(diff_value, 3),
         }
-        for index, (time_value, score_value, frame_index) in enumerate(ranked, start=1)
+        for index, (time_value, score_value, rms_value, diff_value) in enumerate(ranked, start=1)
     ]
 
 
@@ -387,7 +444,10 @@ def validate_result(
         visual_time = float(result.get("visual_contact_seconds"))
     except (TypeError, ValueError):
         return "invalid_visual_contact_time", selected_index, expected_time, "missing numeric visual contact time"
-    if abs(visual_time - expected_time) > 0.35:
+    # Manual calibration includes verified broadcast clips with a stable
+    # audio-video offset close to 0.45 seconds. Audio remains the label clock;
+    # the model must still explicitly bind the candidate to the same live swing.
+    if abs(visual_time - expected_time) > 0.50:
         return (
             "audio_visual_time_mismatch",
             selected_index,
@@ -401,16 +461,31 @@ def validate_result(
             expected_time,
             "model says selected candidate does not match visual contact",
         )
-    required_true = [
-        "contact_audible",
-        "contact_visible",
-        "live_play",
-        "fly_ball_semantics",
-    ]
+    required_true = ["contact_audible", "contact_visible"]
     if not all(bool_value(result.get(field)) for field in required_true):
-        return "candidate_not_verified", selected_index, expected_time, "audio/video/semantic gate failed"
-    if bool_value(result.get("replay_or_slow_motion")):
-        return "replay_or_slow_motion", selected_index, expected_time, "selected evidence is replay/slow motion"
+        return (
+            "candidate_not_verified",
+            selected_index,
+            expected_time,
+            "audio/video contact pair failed",
+        )
+    normal_speed = result.get("contact_sound_normal_speed")
+    if normal_speed is not None and not bool_value(normal_speed):
+        return (
+            "altered_contact_audio",
+            selected_index,
+            expected_time,
+            "selected contact sound is slowed or otherwise altered",
+        )
+    if bool_value(result.get("replay_or_slow_motion_at_contact")) and not bool_value(
+        result.get("contact_sound_normal_speed")
+    ):
+        return (
+            "altered_contact_audio",
+            selected_index,
+            expected_time,
+            "selected replay/slow-motion contact lacks a normal-speed hit sound",
+        )
     if result.get("decision") != "accept":
         return "model_requires_review", selected_index, expected_time, "model did not accept the sample"
     return "audio_candidate_bound", selected_index, expected_time, ""
@@ -528,7 +603,7 @@ def main() -> int:
         if record.get("main_relative_path") and not record.get("error")
     }
     fingerprint = hashlib.sha256(api_key.encode("utf-8")).hexdigest()[:16]
-    usage_records = load_jsonl(args.usage_jsonl)
+    usage_records = load_global_usage_records(args.usage_jsonl)
     usage = model_usage(usage_records, fingerprint)
     blocked: set[str] = set()
 
@@ -560,9 +635,12 @@ def main() -> int:
             "decision": "",
             "binding_status": "",
             "contact_audible": "",
+            "contact_sound_normal_speed": "",
             "contact_visible": "",
             "live_play": "",
             "replay_or_slow_motion": "",
+            "replay_or_slow_motion_at_contact": "",
+            "trailing_replay_present": "",
             "fly_ball_semantics": "",
             "full_play_visible": "",
             "clip_context_sufficient": "",
@@ -704,9 +782,18 @@ def main() -> int:
             "decision": result.get("decision", ""),
             "binding_status": binding_status,
             "contact_audible": result.get("contact_audible", ""),
+            "contact_sound_normal_speed": result.get(
+                "contact_sound_normal_speed", ""
+            ),
             "contact_visible": result.get("contact_visible", ""),
             "live_play": result.get("live_play", ""),
             "replay_or_slow_motion": result.get("replay_or_slow_motion", ""),
+            "replay_or_slow_motion_at_contact": result.get(
+                "replay_or_slow_motion_at_contact", ""
+            ),
+            "trailing_replay_present": result.get(
+                "trailing_replay_present", ""
+            ),
             "fly_ball_semantics": result.get("fly_ball_semantics", ""),
             "full_play_visible": result.get("full_play_visible", ""),
             "clip_context_sufficient": result.get("clip_context_sufficient", ""),

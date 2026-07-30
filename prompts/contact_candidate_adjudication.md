@@ -10,13 +10,16 @@ Confirm the candidate only when all of the following are true:
    and immediate follow-through.
 3. The candidate sound is a plausible bat-ball crack, not commentary, crowd
    noise, glove impact, ball bounce, a cut, or another broadcast sound.
-4. The footage is live play, not replay, slow motion, a highlight insert, or an
-   aftermath shot.
+4. A replay after the verified contact is harmless. Reject only when the
+   selected contact itself is slowed/replayed with altered audio and no
+   normal-speed contact pair is available, or the excerpt is only aftermath.
 5. The visual swing/contact time is close to the expected relative candidate
-   time supplied in the context.
+   time supplied in the context. A stable audio-video offset up to 0.5 seconds
+   is allowed only when the excerpt visibly contains the same live pitch,
+   swing, contact, and follow-through; describe that offset in the evidence.
 
 Reject when the excerpt shows only an outfielder, ball flight, catch, runner,
-celebration, dugout, replayed batter, fielding aftermath, or no batter at all.
+celebration, dugout, fielding aftermath, or no batter at all.
 Do not infer that contact happened earlier merely because the later play is a
 fly ball.
 

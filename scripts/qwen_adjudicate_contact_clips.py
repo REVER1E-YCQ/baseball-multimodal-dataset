@@ -187,7 +187,9 @@ def validate_result(
         return "contact_gate_reject", visual_time, "candidate sound is not bat contact"
     if bool_value(result.get("replay_or_slow_motion")):
         return "contact_gate_reject", visual_time, "excerpt is replay or slow motion"
-    if abs(visual_time - expected_relative) > 0.30:
+    # Preserve audio-centered labels when a verified broadcast offset exists.
+    # Larger separations are not close enough to establish the same contact.
+    if abs(visual_time - expected_relative) > 0.50:
         return (
             "contact_gate_time_mismatch",
             visual_time,
