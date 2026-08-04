@@ -1,0 +1,17 @@
+[
+  {
+    "metadata": "source_domain",
+    "accuracy": 0.5766423357664233,
+    "balanced_accuracy": 0.5958668061035319
+  },
+  {
+    "metadata": "source_domain_plus_collector",
+    "accuracy": 0.6167883211678832,
+    "balanced_accuracy": 0.6372759899225174
+  },
+  {
+    "metadata": "domain_collector_plus_review_route",
+    "accuracy": 0.7092457420924574,
+    "balanced_accuracy": 0.6904145077720207
+  }
+]

@@ -37,3 +37,13 @@ Run the pretrained raw-waveform control:
 ```powershell
 .\.venv\Scripts\python.exe experiments\binary_classifier\pretrained_wav2vec_experiment.py
 ```
+
+Run the audio-only 75% study:
+
+```powershell
+.\.venv\Scripts\python.exe experiments\binary_classifier\audio_context_experiment.py
+.\.venv\Scripts\python.exe experiments\binary_classifier\audio_context_cnn.py
+.\.venv\Scripts\python.exe experiments\binary_classifier\audio_multiscale_experiment.py
+.\.venv\Scripts\python.exe experiments\binary_classifier\audio_multiscale_nested_selection.py
+.\.venv\Scripts\python.exe experiments\binary_classifier\audio_metadata_bias_check.py
+```

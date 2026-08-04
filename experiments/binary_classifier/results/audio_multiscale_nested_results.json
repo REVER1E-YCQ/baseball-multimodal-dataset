@@ -1,0 +1,78 @@
+{
+  "protocol": "5-fold source-grouped outer test with inner feature and parameter selection",
+  "accuracy": 0.7652068126520681,
+  "balanced_accuracy": 0.7642605884869516,
+  "macro_f1": 0.7642994994673762,
+  "roc_auc": 0.8436742406236631,
+  "fold_accuracy_mean": 0.7652475979305248,
+  "fold_accuracy_std": 0.03761794419927522,
+  "fold_balanced_accuracy_mean": 0.7643086798259212,
+  "selected_feature_counts": {
+    "full_map": 0,
+    "full_plus_4s": 2,
+    "full_plus_contact": 0,
+    "full_plus_4s_plus_contact": 3
+  },
+  "folds": [
+    {
+      "fold": 1,
+      "selected_feature": "full_plus_4s_plus_contact",
+      "selected_params": {
+        "C": 3.0,
+        "gamma": "scale"
+      },
+      "accuracy": 0.7575757575757576,
+      "balanced_accuracy": 0.7564935064935066,
+      "macro_f1": 0.7564935064935066,
+      "roc_auc": 0.8592089728453365
+    },
+    {
+      "fold": 2,
+      "selected_feature": "full_plus_4s_plus_contact",
+      "selected_params": {
+        "C": 3.0,
+        "gamma": "scale"
+      },
+      "accuracy": 0.7393939393939394,
+      "balanced_accuracy": 0.7382847038019451,
+      "macro_f1": 0.7384331797235023,
+      "roc_auc": 0.8342175066312998
+    },
+    {
+      "fold": 3,
+      "selected_feature": "full_plus_4s_plus_contact",
+      "selected_params": {
+        "C": 1.0,
+        "gamma": "scale"
+      },
+      "accuracy": 0.8048780487804879,
+      "balanced_accuracy": 0.8063890132855651,
+      "macro_f1": 0.8047619047619048,
+      "roc_auc": 0.883713987162263
+    },
+    {
+      "fold": 4,
+      "selected_feature": "full_plus_4s",
+      "selected_params": {
+        "C": 3.0,
+        "gamma": "scale"
+      },
+      "accuracy": 0.8109756097560976,
+      "balanced_accuracy": 0.8128825197790714,
+      "macro_f1": 0.8109123368170491,
+      "roc_auc": 0.8541573369159576
+    },
+    {
+      "fold": 5,
+      "selected_feature": "full_plus_4s",
+      "selected_params": {
+        "C": 3.0,
+        "gamma": "scale"
+      },
+      "accuracy": 0.7134146341463414,
+      "balanced_accuracy": 0.7074936557695178,
+      "macro_f1": 0.7076648841354723,
+      "roc_auc": 0.7923570682191372
+    }
+  ]
+}

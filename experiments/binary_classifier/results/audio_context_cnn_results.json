@@ -1,0 +1,58 @@
+{
+  "model": "small_2d_cnn",
+  "input": "full-clip 64x96 Log-Mel map",
+  "protocol": "5-fold source-grouped outer test with inner epoch selection",
+  "accuracy": 0.6204379562043796,
+  "balanced_accuracy": 0.615166135855873,
+  "macro_f1": 0.6145021645021644,
+  "roc_auc": 0.632439273660693,
+  "fold_balanced_accuracy_mean": 0.615509777578743,
+  "fold_balanced_accuracy_std": 0.09555358625396279,
+  "folds": [
+    {
+      "fold": 1,
+      "selected_epoch": 30,
+      "validation_balanced_accuracy": 0.7462422634836428,
+      "accuracy": 0.5333333333333333,
+      "balanced_accuracy": 0.5,
+      "macro_f1": 0.34782608695652173,
+      "roc_auc": 0.6186540731995278
+    },
+    {
+      "fold": 2,
+      "selected_epoch": 17,
+      "validation_balanced_accuracy": 0.7402597402597403,
+      "accuracy": 0.5272727272727272,
+      "balanced_accuracy": 0.5,
+      "macro_f1": 0.34523809523809523,
+      "roc_auc": 0.631005010315355
+    },
+    {
+      "fold": 3,
+      "selected_epoch": 10,
+      "validation_balanced_accuracy": 0.6663961038961039,
+      "accuracy": 0.6829268292682927,
+      "balanced_accuracy": 0.6989102851171817,
+      "macro_f1": 0.666875,
+      "roc_auc": 0.8529631288251979
+    },
+    {
+      "fold": 4,
+      "selected_epoch": 15,
+      "validation_balanced_accuracy": 0.7402597402597403,
+      "accuracy": 0.7073170731707317,
+      "balanced_accuracy": 0.7129422301836095,
+      "macro_f1": 0.7066189624329159,
+      "roc_auc": 0.8116136736826391
+    },
+    {
+      "fold": 5,
+      "selected_epoch": 15,
+      "validation_balanced_accuracy": 0.7694805194805194,
+      "accuracy": 0.6524390243902439,
+      "balanced_accuracy": 0.6656963725929244,
+      "macro_f1": 0.6412204951065055,
+      "roc_auc": 0.7945962083893119
+    }
+  ]
+}
