@@ -1,0 +1,64 @@
+{
+  "protocol": "5-fold source-grouped outer test; fusion architecture selected by inner validation",
+  "video_window": "contact frame through +0.45 seconds, including first frame difference",
+  "scores": {
+    "video": 0.6005728003042259,
+    "audio": 0.6304309074487807,
+    "multimodal": 0.6586549888292057
+  },
+  "deltas": {
+    "multimodal_minus_video": {
+      "point": 0.058082188524979816,
+      "ci95": [
+        0.02125956647810997,
+        0.09456552740409752
+      ],
+      "probability_positive": 0.9992
+    },
+    "multimodal_minus_audio": {
+      "point": 0.02822408138042498,
+      "ci95": [
+        -0.001783613395446142,
+        0.05856942529828402
+      ],
+      "probability_positive": 0.968
+    }
+  },
+  "folds": [
+    {
+      "fold": 1,
+      "selected_method": "late_fusion",
+      "video_balanced_accuracy": 0.6038961038961039,
+      "audio_balanced_accuracy": 0.6298701298701299,
+      "multimodal_balanced_accuracy": 0.6972402597402598
+    },
+    {
+      "fold": 2,
+      "selected_method": "feature_concat",
+      "video_balanced_accuracy": 0.5660919540229885,
+      "audio_balanced_accuracy": 0.6399204244031831,
+      "multimodal_balanced_accuracy": 0.6474358974358974
+    },
+    {
+      "fold": 3,
+      "selected_method": "feature_concat",
+      "video_balanced_accuracy": 0.6602477981788326,
+      "audio_balanced_accuracy": 0.6247947454844006,
+      "multimodal_balanced_accuracy": 0.6507687714584266
+    },
+    {
+      "fold": 4,
+      "selected_method": "late_fusion",
+      "video_balanced_accuracy": 0.5378414688759516,
+      "audio_balanced_accuracy": 0.6055381400208986,
+      "multimodal_balanced_accuracy": 0.5853112404836542
+    },
+    {
+      "fold": 5,
+      "selected_method": "late_fusion",
+      "video_balanced_accuracy": 0.6357665323182564,
+      "audio_balanced_accuracy": 0.6515151515151515,
+      "multimodal_balanced_accuracy": 0.7124944021495745
+    }
+  ]
+}

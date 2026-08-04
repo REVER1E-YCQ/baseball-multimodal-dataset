@@ -1,0 +1,470 @@
+[
+  {
+    "setting": "contact_frame_only_t0",
+    "protocol": "5-fold source-grouped outer test with inner validation",
+    "video_balanced_accuracy": 0.5599063554689356,
+    "audio_balanced_accuracy": 0.6187728763606978,
+    "fusion_balanced_accuracy": 0.606378048200789,
+    "fusion_minus_video": 0.046471692731853365,
+    "fusion_minus_audio": -0.012394828159908777,
+    "paired_bootstrap": {
+      "fusion_minus_video_ci95": [
+        0.01361782217046164,
+        0.07877192565479862
+      ],
+      "fusion_minus_video_probability_positive": 0.9979,
+      "fusion_minus_audio_ci95": [
+        -0.04492679564576696,
+        0.019204259162428076
+      ],
+      "fusion_minus_audio_probability_positive": 0.2287
+    },
+    "video_correct": 460,
+    "audio_correct": 509,
+    "fusion_correct": 507,
+    "folds_fusion_beats_video": 4,
+    "folds": [
+      {
+        "fold": 1,
+        "video_balanced_accuracy": 0.5170454545454546,
+        "audio_balanced_accuracy": 0.6298701298701299,
+        "fusion_balanced_accuracy": 0.5665584415584416,
+        "fusion": {
+          "method": "weighted_probability",
+          "audio_name": "contact_minus_background",
+          "audio_weight": 0.5,
+          "threshold": 0.6,
+          "validation_metrics": {
+            "accuracy": 0.6280487804878049,
+            "balanced_accuracy": 0.6210628452007763,
+            "macro_f1": 0.619199878192684,
+            "roc_auc": 0.6224809673085535
+          }
+        }
+      },
+      {
+        "fold": 2,
+        "video_balanced_accuracy": 0.5046419098143236,
+        "audio_balanced_accuracy": 0.6385941644562334,
+        "fusion_balanced_accuracy": 0.5652077807250221,
+        "fusion": {
+          "method": "weighted_probability",
+          "audio_name": "contact_minus_background",
+          "audio_weight": 0.4,
+          "threshold": 0.59,
+          "validation_metrics": {
+            "accuracy": 0.6909090909090909,
+            "balanced_accuracy": 0.6785714285714286,
+            "macro_f1": 0.6735968348783988,
+            "roc_auc": 0.6943624557260921
+          }
+        }
+      },
+      {
+        "fold": 3,
+        "video_balanced_accuracy": 0.6277802657113002,
+        "audio_balanced_accuracy": 0.567845947156292,
+        "fusion_balanced_accuracy": 0.6223316912972086,
+        "fusion": {
+          "method": "weighted_probability",
+          "audio_name": "contact_minus_background",
+          "audio_weight": 0.4,
+          "threshold": 0.6,
+          "validation_metrics": {
+            "accuracy": 0.7151515151515152,
+            "balanced_accuracy": 0.7102272727272727,
+            "macro_f1": 0.7109040074557316,
+            "roc_auc": 0.7409976387249114
+          }
+        }
+      },
+      {
+        "fold": 4,
+        "video_balanced_accuracy": 0.5148529631288252,
+        "audio_balanced_accuracy": 0.6055381400208986,
+        "fusion_balanced_accuracy": 0.5928496790565756,
+        "fusion": {
+          "method": "weighted_probability",
+          "audio_name": "contact_minus_background",
+          "audio_weight": 0.4,
+          "threshold": 0.5700000000000001,
+          "validation_metrics": {
+            "accuracy": 0.7333333333333333,
+            "balanced_accuracy": 0.7256493506493507,
+            "macro_f1": 0.7259963768115942,
+            "roc_auc": 0.7594451003541912
+          }
+        }
+      },
+      {
+        "fold": 5,
+        "video_balanced_accuracy": 0.6365129123749813,
+        "audio_balanced_accuracy": 0.6515151515151515,
+        "fusion_balanced_accuracy": 0.6857739961188236,
+        "fusion": {
+          "method": "weighted_probability",
+          "audio_name": "contact_minus_background",
+          "audio_weight": 0.45,
+          "threshold": 0.54,
+          "validation_metrics": {
+            "accuracy": 0.6606060606060606,
+            "balanced_accuracy": 0.6595932802829354,
+            "macro_f1": 0.6595932802829354,
+            "roc_auc": 0.6430887120542292
+          }
+        }
+      }
+    ]
+  },
+  {
+    "setting": "early_video_t0_to_0p45",
+    "protocol": "5-fold source-grouped outer test with inner validation",
+    "video_balanced_accuracy": 0.5708216475733232,
+    "audio_balanced_accuracy": 0.6187728763606978,
+    "fusion_balanced_accuracy": 0.6347863288491705,
+    "fusion_minus_video": 0.06396468127584731,
+    "fusion_minus_audio": 0.016013452488472746,
+    "paired_bootstrap": {
+      "fusion_minus_video_ci95": [
+        0.033405428530683956,
+        0.09405511717450202
+      ],
+      "fusion_minus_video_probability_positive": 0.9999,
+      "fusion_minus_audio_ci95": [
+        -0.01991728858677566,
+        0.05198682678138516
+      ],
+      "fusion_minus_audio_probability_positive": 0.8113
+    },
+    "video_correct": 469,
+    "audio_correct": 509,
+    "fusion_correct": 524,
+    "folds_fusion_beats_video": 5,
+    "folds": [
+      {
+        "fold": 1,
+        "video_balanced_accuracy": 0.5698051948051948,
+        "audio_balanced_accuracy": 0.6298701298701299,
+        "fusion_balanced_accuracy": 0.6006493506493507,
+        "fusion": {
+          "method": "weighted_probability",
+          "audio_name": "contact_minus_background",
+          "audio_weight": 0.47500000000000003,
+          "threshold": 0.59,
+          "validation_metrics": {
+            "accuracy": 0.6036585365853658,
+            "balanced_accuracy": 0.597327959396925,
+            "macro_f1": 0.5957067546554405,
+            "roc_auc": 0.6172563069114794
+          }
+        }
+      },
+      {
+        "fold": 2,
+        "video_balanced_accuracy": 0.5232095490716181,
+        "audio_balanced_accuracy": 0.6385941644562334,
+        "fusion_balanced_accuracy": 0.615605658709107,
+        "fusion": {
+          "method": "weighted_probability",
+          "audio_name": "contact_minus_background",
+          "audio_weight": 0.45,
+          "threshold": 0.46,
+          "validation_metrics": {
+            "accuracy": 0.6666666666666666,
+            "balanced_accuracy": 0.6696428571428572,
+            "macro_f1": 0.6666666666666666,
+            "roc_auc": 0.6884592680047226
+          }
+        }
+      },
+      {
+        "fold": 3,
+        "video_balanced_accuracy": 0.616286012837737,
+        "audio_balanced_accuracy": 0.567845947156292,
+        "fusion_balanced_accuracy": 0.6989849231228542,
+        "fusion": {
+          "method": "weighted_probability",
+          "audio_name": "contact_minus_background",
+          "audio_weight": 0.25,
+          "threshold": 0.5,
+          "validation_metrics": {
+            "accuracy": 0.7212121212121212,
+            "balanced_accuracy": 0.7207792207792207,
+            "macro_f1": 0.7203801945181256,
+            "roc_auc": 0.7455726092089728
+          }
+        }
+      },
+      {
+        "fold": 4,
+        "video_balanced_accuracy": 0.5450813554261831,
+        "audio_balanced_accuracy": 0.6055381400208986,
+        "fusion_balanced_accuracy": 0.593819973130318,
+        "fusion": {
+          "method": "weighted_probability",
+          "audio_name": "contact_minus_background",
+          "audio_weight": 0.325,
+          "threshold": 0.53,
+          "validation_metrics": {
+            "accuracy": 0.7212121212121212,
+            "balanced_accuracy": 0.7199675324675325,
+            "macro_f1": 0.7199675324675325,
+            "roc_auc": 0.7474911452184179
+          }
+        }
+      },
+      {
+        "fold": 5,
+        "video_balanced_accuracy": 0.6005373936408419,
+        "audio_balanced_accuracy": 0.6515151515151515,
+        "fusion_balanced_accuracy": 0.664278250485147,
+        "fusion": {
+          "method": "weighted_probability",
+          "audio_name": "contact_minus_background",
+          "audio_weight": 0.5,
+          "threshold": 0.59,
+          "validation_metrics": {
+            "accuracy": 0.6242424242424243,
+            "balanced_accuracy": 0.6224580017683465,
+            "macro_f1": 0.622564935064935,
+            "roc_auc": 0.6128794577070439
+          }
+        }
+      }
+    ]
+  },
+  {
+    "setting": "early_video_t0_to_0p45_with_motion",
+    "protocol": "5-fold source-grouped outer test with inner validation",
+    "video_balanced_accuracy": 0.5999786091172696,
+    "audio_balanced_accuracy": 0.6187728763606978,
+    "fusion_balanced_accuracy": 0.6456184341873841,
+    "fusion_minus_video": 0.04563982507011444,
+    "fusion_minus_audio": 0.026845557826686295,
+    "paired_bootstrap": {
+      "fusion_minus_video_ci95": [
+        0.012595813328896747,
+        0.07753600798592952
+      ],
+      "fusion_minus_video_probability_positive": 0.9966,
+      "fusion_minus_audio_ci95": [
+        -0.006898559680562855,
+        0.06077981651376152
+      ],
+      "fusion_minus_audio_probability_positive": 0.9395
+    },
+    "video_correct": 493,
+    "audio_correct": 509,
+    "fusion_correct": 535,
+    "folds_fusion_beats_video": 4,
+    "folds": [
+      {
+        "fold": 1,
+        "video_balanced_accuracy": 0.5957792207792207,
+        "audio_balanced_accuracy": 0.6298701298701299,
+        "fusion_balanced_accuracy": 0.5892857142857143,
+        "fusion": {
+          "method": "weighted_probability",
+          "audio_name": "contact_minus_background",
+          "audio_weight": 0.15000000000000002,
+          "threshold": 0.41000000000000003,
+          "validation_metrics": {
+            "accuracy": 0.6585365853658537,
+            "balanced_accuracy": 0.6639796984624571,
+            "macro_f1": 0.6577221228384019,
+            "roc_auc": 0.6554709658157934
+          }
+        }
+      },
+      {
+        "fold": 2,
+        "video_balanced_accuracy": 0.5660919540229885,
+        "audio_balanced_accuracy": 0.6385941644562334,
+        "fusion_balanced_accuracy": 0.617816091954023,
+        "fusion": {
+          "method": "weighted_probability",
+          "audio_name": "contact_minus_background",
+          "audio_weight": 0.275,
+          "threshold": 0.54,
+          "validation_metrics": {
+            "accuracy": 0.6909090909090909,
+            "balanced_accuracy": 0.6834415584415584,
+            "macro_f1": 0.6830389091867867,
+            "roc_auc": 0.7007083825265644
+          }
+        }
+      },
+      {
+        "fold": 3,
+        "video_balanced_accuracy": 0.6507687714584266,
+        "audio_balanced_accuracy": 0.567845947156292,
+        "fusion_balanced_accuracy": 0.6922675026123302,
+        "fusion": {
+          "method": "weighted_probability",
+          "audio_name": "contact_minus_background",
+          "audio_weight": 0.325,
+          "threshold": 0.58,
+          "validation_metrics": {
+            "accuracy": 0.7272727272727273,
+            "balanced_accuracy": 0.7207792207792207,
+            "macro_f1": 0.7213779128672746,
+            "roc_auc": 0.7520661157024793
+          }
+        }
+      },
+      {
+        "fold": 4,
+        "video_balanced_accuracy": 0.5378414688759516,
+        "audio_balanced_accuracy": 0.6055381400208986,
+        "fusion_balanced_accuracy": 0.6115838184803702,
+        "fusion": {
+          "method": "weighted_probability",
+          "audio_name": "contact_minus_background",
+          "audio_weight": 0.5,
+          "threshold": 0.58,
+          "validation_metrics": {
+            "accuracy": 0.7272727272727273,
+            "balanced_accuracy": 0.7215909090909091,
+            "macro_f1": 0.7223364870423694,
+            "roc_auc": 0.7559031877213696
+          }
+        }
+      },
+      {
+        "fold": 5,
+        "video_balanced_accuracy": 0.6502463054187192,
+        "audio_balanced_accuracy": 0.6515151515151515,
+        "fusion_balanced_accuracy": 0.718987908643081,
+        "fusion": {
+          "method": "weighted_probability",
+          "audio_name": "contact_minus_background",
+          "audio_weight": 0.375,
+          "threshold": 0.53,
+          "validation_metrics": {
+            "accuracy": 0.6666666666666666,
+            "balanced_accuracy": 0.6693191865605659,
+            "macro_f1": 0.6666176848756474,
+            "roc_auc": 0.6613616268788682
+          }
+        }
+      }
+    ]
+  },
+  {
+    "setting": "full_video_t0_to_1p35_with_motion",
+    "protocol": "5-fold source-grouped outer test with inner validation",
+    "video_balanced_accuracy": 0.7601190759138661,
+    "audio_balanced_accuracy": 0.6187728763606978,
+    "fusion_balanced_accuracy": 0.763220753909778,
+    "fusion_minus_video": 0.003101677995911878,
+    "fusion_minus_audio": 0.14444787754908017,
+    "paired_bootstrap": {
+      "fusion_minus_video_ci95": [
+        -0.016880971621428875,
+        0.02293577981651374
+      ],
+      "fusion_minus_video_probability_positive": 0.6185,
+      "fusion_minus_audio_ci95": [
+        0.10477967390787668,
+        0.18388538646194802
+      ],
+      "fusion_minus_audio_probability_positive": 1.0
+    },
+    "video_correct": 625,
+    "audio_correct": 509,
+    "fusion_correct": 629,
+    "folds_fusion_beats_video": 2,
+    "folds": [
+      {
+        "fold": 1,
+        "video_balanced_accuracy": 0.7767857142857143,
+        "audio_balanced_accuracy": 0.6298701298701299,
+        "fusion_balanced_accuracy": 0.7694805194805194,
+        "fusion": {
+          "method": "weighted_probability",
+          "audio_name": "contact_minus_background",
+          "audio_weight": 0.375,
+          "threshold": 0.6,
+          "validation_metrics": {
+            "accuracy": 0.7987804878048781,
+            "balanced_accuracy": 0.7954172264517092,
+            "macro_f1": 0.7965948810463412,
+            "roc_auc": 0.8371398716226303
+          }
+        }
+      },
+      {
+        "fold": 2,
+        "video_balanced_accuracy": 0.7690097259062776,
+        "audio_balanced_accuracy": 0.6385941644562334,
+        "fusion_balanced_accuracy": 0.7612732095490716,
+        "fusion": {
+          "method": "weighted_probability",
+          "audio_name": "contact_minus_background",
+          "audio_weight": 0.25,
+          "threshold": 0.56,
+          "validation_metrics": {
+            "accuracy": 0.8181818181818182,
+            "balanced_accuracy": 0.8133116883116883,
+            "macro_f1": 0.8151881720430108,
+            "roc_auc": 0.8555194805194805
+          }
+        }
+      },
+      {
+        "fold": 3,
+        "video_balanced_accuracy": 0.7666815942678011,
+        "audio_balanced_accuracy": 0.567845947156292,
+        "fusion_balanced_accuracy": 0.77444394685774,
+        "fusion": {
+          "method": "weighted_probability",
+          "audio_name": "contact_minus_background",
+          "audio_weight": 0.25,
+          "threshold": 0.6,
+          "validation_metrics": {
+            "accuracy": 0.793939393939394,
+            "balanced_accuracy": 0.7913961038961039,
+            "macro_f1": 0.7922222222222222,
+            "roc_auc": 0.856995277449823
+          }
+        }
+      },
+      {
+        "fold": 4,
+        "video_balanced_accuracy": 0.7054784296163606,
+        "audio_balanced_accuracy": 0.6055381400208986,
+        "fusion_balanced_accuracy": 0.7314524555903866,
+        "fusion": {
+          "method": "weighted_probability",
+          "audio_name": "contact_minus_background",
+          "audio_weight": 0.5,
+          "threshold": 0.51,
+          "validation_metrics": {
+            "accuracy": 0.8121212121212121,
+            "balanced_accuracy": 0.8133116883116883,
+            "macro_f1": 0.8118724484166391,
+            "roc_auc": 0.8603896103896104
+          }
+        }
+      },
+      {
+        "fold": 5,
+        "video_balanced_accuracy": 0.7826541274817137,
+        "audio_balanced_accuracy": 0.6515151515151515,
+        "fusion_balanced_accuracy": 0.7791461412151067,
+        "fusion": {
+          "method": "weighted_probability",
+          "audio_name": "contact_minus_background",
+          "audio_weight": 0.225,
+          "threshold": 0.4,
+          "validation_metrics": {
+            "accuracy": 0.793939393939394,
+            "balanced_accuracy": 0.7999557913351016,
+            "macro_f1": 0.7930194805194806,
+            "roc_auc": 0.8443854995579134
+          }
+        }
+      }
+    ]
+  }
+]

@@ -22,3 +22,18 @@ Then run the video-only and early-fusion comparison on the identical split:
 ```powershell
 .\.venv\Scripts\python.exe experiments\binary_classifier\multimodal_baseline.py
 ```
+
+Run the source-grouped late-fusion and early-decision experiments:
+
+```powershell
+.\.venv\Scripts\python.exe experiments\binary_classifier\late_fusion_experiment.py
+.\.venv\Scripts\python.exe experiments\binary_classifier\crossval_late_fusion.py
+.\.venv\Scripts\python.exe experiments\binary_classifier\temporal_ablation_experiment.py
+.\.venv\Scripts\python.exe experiments\binary_classifier\early_multimodal_architecture.py
+```
+
+Run the pretrained raw-waveform control:
+
+```powershell
+.\.venv\Scripts\python.exe experiments\binary_classifier\pretrained_wav2vec_experiment.py
+```

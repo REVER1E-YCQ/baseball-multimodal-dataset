@@ -1,0 +1,178 @@
+{
+  "overall": {
+    "protocol": "5-fold stratified source-group cross-validation with inner validation",
+    "samples": 822,
+    "video_metrics": {
+      "accuracy": 0.7639902676399026,
+      "balanced_accuracy": 0.763262347292865,
+      "macro_f1": 0.7631827497104161,
+      "roc_auc": 0.8363597471122308
+    },
+    "fusion_metrics": {
+      "accuracy": 0.7664233576642335,
+      "balanced_accuracy": 0.7649617340875601
+    },
+    "video_correct": 628,
+    "fusion_correct": 630,
+    "net_correct_change": 2,
+    "folds_improved": 2,
+    "folds_tied": 0
+  },
+  "folds": [
+    {
+      "fold": 1,
+      "test_size": 165,
+      "video_C": 0.003,
+      "selected_audio": "contact_minus_background",
+      "audio_C": 0.01,
+      "fusion": {
+        "method": "weighted_probability",
+        "audio_name": "contact_minus_background",
+        "audio_weight": 0.30000000000000004,
+        "threshold": 0.58,
+        "validation_metrics": {
+          "accuracy": 0.8545454545454545,
+          "balanced_accuracy": 0.8507957559681698,
+          "macro_f1": 0.8525908278737344,
+          "roc_auc": 0.8751842027704096
+        }
+      },
+      "video_metrics": {
+        "accuracy": 0.7878787878787878,
+        "balanced_accuracy": 0.7873376623376623,
+        "macro_f1": 0.7870967741935484,
+        "roc_auc": 0.8578807556080283
+      },
+      "fusion_metrics": {
+        "accuracy": 0.7818181818181819,
+        "balanced_accuracy": 0.7767857142857143,
+        "macro_f1": 0.7782258064516129,
+        "roc_auc": 0.8829693034238489
+      }
+    },
+    {
+      "fold": 2,
+      "test_size": 165,
+      "video_C": 0.003,
+      "selected_audio": "transient_contrast",
+      "audio_C": 0.01,
+      "fusion": {
+        "method": "confidence_gate",
+        "audio_name": "transient_contrast",
+        "audio_min_confidence": 0.55,
+        "video_max_confidence": 0.6499999999999999,
+        "validation_metrics": {
+          "accuracy": 0.8292682926829268,
+          "balanced_accuracy": 0.8286311389759666,
+          "macro_f1": 0.8286311389759666,
+          "roc_auc": 0.8602776533811017
+        }
+      },
+      "video_metrics": {
+        "accuracy": 0.7696969696969697,
+        "balanced_accuracy": 0.7690097259062776,
+        "macro_f1": 0.7690097259062776,
+        "roc_auc": 0.8521956970232832
+      },
+      "fusion_metrics": {
+        "accuracy": 0.7454545454545455,
+        "balanced_accuracy": 0.743368700265252,
+        "macro_f1": 0.7438645771732703,
+        "roc_auc": 0.8222811671087533
+      }
+    },
+    {
+      "fold": 3,
+      "test_size": 164,
+      "video_C": 0.003,
+      "selected_audio": "contact_minus_background",
+      "audio_C": 0.003,
+      "fusion": {
+        "method": "weighted_probability",
+        "audio_name": "contact_minus_background",
+        "audio_weight": 0.4,
+        "threshold": 0.5,
+        "validation_metrics": {
+          "accuracy": 0.8,
+          "balanced_accuracy": 0.7997347480106101,
+          "macro_f1": 0.7995287360553736,
+          "roc_auc": 0.8476274683171235
+        }
+      },
+      "video_metrics": {
+        "accuracy": 0.774390243902439,
+        "balanced_accuracy": 0.7716823406478579,
+        "macro_f1": 0.7724869708672342,
+        "roc_auc": 0.8532616808478878
+      },
+      "fusion_metrics": {
+        "accuracy": 0.7987804878048781,
+        "balanced_accuracy": 0.796909986565159,
+        "macro_f1": 0.7975081378381412,
+        "roc_auc": 0.8589341692789969
+      }
+    },
+    {
+      "fold": 4,
+      "test_size": 164,
+      "video_C": 0.003,
+      "selected_audio": "contact_minus_background",
+      "audio_C": 0.003,
+      "fusion": {
+        "method": "weighted_probability",
+        "audio_name": "contact_minus_background",
+        "audio_weight": 0.42500000000000004,
+        "threshold": 0.5,
+        "validation_metrics": {
+          "accuracy": 0.8,
+          "balanced_accuracy": 0.8043831168831168,
+          "macro_f1": 0.7999706109253885,
+          "roc_auc": 0.8596517119244392
+        }
+      },
+      "video_metrics": {
+        "accuracy": 0.7073170731707317,
+        "balanced_accuracy": 0.7054784296163606,
+        "macro_f1": 0.7057416267942584,
+        "roc_auc": 0.7747424988804299
+      },
+      "fusion_metrics": {
+        "accuracy": 0.7378048780487805,
+        "balanced_accuracy": 0.7371995820271682,
+        "macro_f1": 0.7370128659332462,
+        "roc_auc": 0.7892222719808927
+      }
+    },
+    {
+      "fold": 5,
+      "test_size": 164,
+      "video_C": 0.003,
+      "selected_audio": "center_waveform",
+      "audio_C": 1.0,
+      "fusion": {
+        "method": "weighted_probability",
+        "audio_name": "center_waveform",
+        "audio_weight": 0.1,
+        "threshold": 0.48,
+        "validation_metrics": {
+          "accuracy": 0.7878787878787878,
+          "balanced_accuracy": 0.7882404951370469,
+          "macro_f1": 0.7875979256316893,
+          "roc_auc": 0.8166814028882994
+        }
+      },
+      "video_metrics": {
+        "accuracy": 0.7804878048780488,
+        "balanced_accuracy": 0.7826541274817137,
+        "macro_f1": 0.7804551539491298,
+        "roc_auc": 0.8468428123600537
+      },
+      "fusion_metrics": {
+        "accuracy": 0.7682926829268293,
+        "balanced_accuracy": 0.7704134945514256,
+        "macro_f1": 0.7682582180574149,
+        "roc_auc": 0.8466935363487087
+      }
+    }
+  ]
+}

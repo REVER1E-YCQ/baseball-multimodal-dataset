@@ -1,0 +1,42 @@
+{
+  "audio_encoder": "torchaudio.pipelines.WAV2VEC2_BASE",
+  "input": "one-second 16 kHz raw waveform centered on verified contact",
+  "selection_policy": "layer, regularization, and fusion selected on validation only",
+  "audio_C_by_layer": {
+    "wav2vec_layer4": 0.003,
+    "wav2vec_layer8": 0.03,
+    "wav2vec_layer12": 0.01
+  },
+  "selected_fusion": {
+    "method": "weighted_probability",
+    "audio_name": "wav2vec_layer4",
+    "audio_weight": 0.30000000000000004,
+    "threshold": 0.56,
+    "validation_metrics": {
+      "accuracy": 0.8409090909090909,
+      "balanced_accuracy": 0.8407834101382489,
+      "macro_f1": 0.8404604316546762,
+      "roc_auc": 0.8585253456221198
+    }
+  },
+  "test": {
+    "video_only": {
+      "accuracy": 0.7575757575757576,
+      "balanced_accuracy": 0.7556818181818181,
+      "macro_f1": 0.7560615020697812,
+      "roc_auc": 0.8327922077922079
+    },
+    "pretrained_audio_only": {
+      "accuracy": 0.5878787878787879,
+      "balanced_accuracy": 0.5827922077922078,
+      "macro_f1": 0.5823406789755807,
+      "roc_auc": 0.5807260920897285
+    },
+    "pretrained_audio_video": {
+      "accuracy": 0.7575757575757576,
+      "balanced_accuracy": 0.7548701298701299,
+      "macro_f1": 0.7555555555555555,
+      "roc_auc": 0.8159681227863046
+    }
+  }
+}

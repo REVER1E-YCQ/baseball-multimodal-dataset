@@ -1,2 +1,4 @@
 audio_features.npz
 video_features.npz
+raw_contact_waveforms.npz
+wav2vec_features.npz

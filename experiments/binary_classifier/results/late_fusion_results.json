@@ -1,0 +1,43 @@
+{
+  "selection_policy": "all representation and fusion choices made on validation only",
+  "video_C": 0.3,
+  "audio_C_by_representation": {
+    "contact_logmel": 0.003,
+    "contact_minus_background": 0.01,
+    "transient_contrast": 0.3,
+    "center_waveform": 0.003,
+    "center_spectrum": 0.003
+  },
+  "selected_fusion": {
+    "method": "weighted_probability",
+    "audio_name": "contact_minus_background",
+    "audio_weight": 0.5,
+    "threshold": 0.48,
+    "validation_metrics": {
+      "accuracy": 0.8636363636363636,
+      "balanced_accuracy": 0.8631336405529955,
+      "macro_f1": 0.8631336405529955,
+      "roc_auc": 0.8960829493087558
+    }
+  },
+  "test": {
+    "video_only": {
+      "accuracy": 0.7575757575757576,
+      "balanced_accuracy": 0.7556818181818181,
+      "macro_f1": 0.7560615020697812,
+      "roc_auc": 0.8327922077922079
+    },
+    "selected_audio_only": {
+      "accuracy": 0.5757575757575758,
+      "balanced_accuracy": 0.5771103896103895,
+      "macro_f1": 0.5756172839506173,
+      "roc_auc": 0.6363636363636364
+    },
+    "late_fusion": {
+      "accuracy": 0.7636363636363637,
+      "balanced_accuracy": 0.7637987012987013,
+      "macro_f1": 0.7630794153381687,
+      "roc_auc": 0.8234946871310508
+    }
+  }
+}
