@@ -1,0 +1,58 @@
+{
+  "models": {
+    "audio_contact": {
+      "balanced_accuracy": 0.5982142857142857,
+      "ci95": [
+        0.5219155844155844,
+        0.6696428571428572
+      ]
+    },
+    "video_combined": {
+      "balanced_accuracy": 0.7556818181818181,
+      "ci95": [
+        0.6883116883116883,
+        0.8181818181818182
+      ]
+    },
+    "audio_video": {
+      "balanced_accuracy": 0.7321428571428572,
+      "ci95": [
+        0.663961038961039,
+        0.7987012987012987
+      ]
+    },
+    "background_audio_video": {
+      "balanced_accuracy": 0.7646103896103896,
+      "ci95": [
+        0.6980316558441558,
+        0.8262987012987013
+      ]
+    }
+  },
+  "paired_deltas": {
+    "video_combined_minus_audio_contact": {
+      "mean": 0.15750543831168834,
+      "ci95": [
+        0.0665584415584416,
+        0.24756493506493504
+      ],
+      "probability_positive": 0.9997
+    },
+    "audio_video_minus_video_combined": {
+      "mean": -0.023425811688311687,
+      "ci95": [
+        -0.07954545454545459,
+        0.031655844155844215
+      ],
+      "probability_positive": 0.2041
+    },
+    "background_audio_video_minus_video_combined": {
+      "mean": 0.009090503246753251,
+      "ci95": [
+        -0.05275974025974017,
+        0.07061688311688319
+      ],
+      "probability_positive": 0.6106
+    }
+  }
+}

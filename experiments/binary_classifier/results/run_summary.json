@@ -1,0 +1,26 @@
+{
+  "seed": 20260804,
+  "sample_rate": 16000,
+  "window_seconds": 1.0,
+  "samples": 822,
+  "source_groups": 802,
+  "split_counts": {
+    "train": 525,
+    "val": 132,
+    "test": 165
+  },
+  "split_label_counts": {
+    "train": {
+      "fly_ball": 247,
+      "ground_ball": 278
+    },
+    "val": {
+      "fly_ball": 62,
+      "ground_ball": 70
+    },
+    "test": {
+      "fly_ball": 77,
+      "ground_ball": 88
+    }
+  }
+}

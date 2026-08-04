@@ -1,0 +1,97 @@
+[
+  {
+    "feature_set": "video_appearance",
+    "selected_C": 0.01,
+    "validation_macro_f1": 0.8175115207373271,
+    "accuracy": 0.7212121212121212,
+    "balanced_accuracy": 0.7199675324675325,
+    "macro_f1": 0.7199675324675325,
+    "roc_auc": 0.8068181818181819,
+    "confusion_matrix_ground_fly": [
+      [
+        65,
+        23
+      ],
+      [
+        23,
+        54
+      ]
+    ]
+  },
+  {
+    "feature_set": "video_motion",
+    "selected_C": 0.01,
+    "validation_macro_f1": 0.795442805487,
+    "accuracy": 0.7333333333333333,
+    "balanced_accuracy": 0.734577922077922,
+    "macro_f1": 0.7330882352941177,
+    "roc_auc": 0.801357733175915,
+    "confusion_matrix_ground_fly": [
+      [
+        63,
+        25
+      ],
+      [
+        19,
+        58
+      ]
+    ]
+  },
+  {
+    "feature_set": "video_combined",
+    "selected_C": 1.0,
+    "validation_macro_f1": 0.8180147058823529,
+    "accuracy": 0.7575757575757576,
+    "balanced_accuracy": 0.7556818181818181,
+    "macro_f1": 0.7560615020697812,
+    "roc_auc": 0.8322018890200709,
+    "confusion_matrix_ground_fly": [
+      [
+        69,
+        19
+      ],
+      [
+        21,
+        56
+      ]
+    ]
+  },
+  {
+    "feature_set": "audio_video_early_fusion",
+    "selected_C": 0.01,
+    "validation_macro_f1": 0.8483455882352942,
+    "accuracy": 0.7333333333333333,
+    "balanced_accuracy": 0.7321428571428572,
+    "macro_f1": 0.7321428571428572,
+    "roc_auc": 0.8003246753246753,
+    "confusion_matrix_ground_fly": [
+      [
+        66,
+        22
+      ],
+      [
+        22,
+        55
+      ]
+    ]
+  },
+  {
+    "feature_set": "background_audio_video_control",
+    "selected_C": 0.1,
+    "validation_macro_f1": 0.8631336405529955,
+    "accuracy": 0.7636363636363637,
+    "balanced_accuracy": 0.7646103896103896,
+    "macro_f1": 0.7633234028467395,
+    "roc_auc": 0.8357438016528926,
+    "confusion_matrix_ground_fly": [
+      [
+        66,
+        22
+      ],
+      [
+        17,
+        60
+      ]
+    ]
+  }
+]
