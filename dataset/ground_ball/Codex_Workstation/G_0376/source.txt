@@ -1,7 +1,0 @@
-video_title: Kyle Schwarber's two-run single Kyle Schwarber's two-run single Kyle Schwarber's two-run single Kyle Schwarber grounds a single to center field, plating J.T. Realmuto and Whit Merrifield to put the Phillies on the board in the 2nd
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/01/350ba361-39513c8d-70c39429-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_746238_patrick-sandoval-in-play-run-s-to-kyle-schwarber
-clip_id: MLB_746238_patrick-sandoval-in-play-run-s-to-kyle-schwarber_auto1_2p360_8p360
-source_path: raw_sources\MLB_746238_patrick-sandoval-in-play-run-s-to-kyle-schwarber_Kyle_Schwarber_s_two-run_single_Kyle_Schwarber_s_two-run_single_Kyle_Schwarber_s.mp4
-clip_start_time: 2.360
-clip_end_time: 8.360

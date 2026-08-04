@@ -1,7 +1,0 @@
-video_title: Gabriel Moreno's RBI single  Gabriel Moreno's RBI single  Gabriel Moreno grounds an RBI single to center field
-video_url: https://bdata-producedclips.mlb.com/2398614d-7dce-4a2d-adf8-5e3b37b0b865.mp4
-source_id: MLB_747209_stephen-kolek-in-play-run-s-to-gabriel-moreno
-clip_id: MLB_747209_stephen-kolek-in-play-run-s-to-gabriel-moreno_auto1_4p660_10p660
-source_path: raw_sources\MLB_747209_stephen-kolek-in-play-run-s-to-gabriel-moreno_Gabriel_Moreno_s_RBI_single_Gabriel_Moreno_s_RBI_single_Gabriel_Moreno_grounds_a.mp4
-clip_start_time: 4.660
-clip_end_time: 10.660

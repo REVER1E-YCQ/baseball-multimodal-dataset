@@ -1,7 +1,0 @@
-video_title: Lawrence Butler's three-run home run (21) Lawrence Butler's three-run home run (21) Lawrence Butler's three-run home run (21) Lawrence Butler crushes a three-run home run to right-center field, putting the A's ahead 4-3 in the bottom of the 5th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/19/26bbc387-56f8a561-02f9fd8c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776266_lawrence-butler-homers-21-on-a-fly-ball-to-right-center-field-carlos-
-clip_id: MLB_776266_lawrence-butler-homers-21-on-a-fly-ball-to-right-center-field-carlos-_auto1_4p560_11p560
-source_path: raw_sources\MLB_776266_lawrence-butler-homers-21-on-a-fly-ball-to-right-center-field-carlos-_Lawrence_Butler_s_three-run_home_run_21_Lawrence_Butler_s_three-run_home_run_21_Lawrence_.mp4
-clip_start_time: 4.560
-clip_end_time: 11.560

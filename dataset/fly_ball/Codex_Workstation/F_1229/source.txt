@@ -1,7 +1,0 @@
-video_title: Tyler Nevin's leaping catch Tyler Nevin's leaping catch Tyler Nevin's leaping catch Tyler Nevin leaps to snare a line drive and rob Logan O'Hoppe of a hit
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/24/bc2ecab3-c352f19f-33530cf2-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_746218_aaron-brooks-in-play-out-s-to-logan-o-hoppe
-clip_id: MLB_746218_aaron-brooks-in-play-out-s-to-logan-o-hoppe_auto1_0p000_7p000
-source_path: raw_sources\MLB_746218_aaron-brooks-in-play-out-s-to-logan-o-hoppe_Tyler_Nevin_s_leaping_catch_Tyler_Nevin_s_leaping_catch_Tyler_Nevin_s_leaping_catch_Tyler_Nevin_leaps_to_snare_a_li.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000

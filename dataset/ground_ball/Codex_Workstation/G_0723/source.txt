@@ -1,7 +1,0 @@
-video_title: Juan Soto's single Juan Soto's single Juan Soto's single Juan Soto singles on a ground ball in the bottom of the 1st inning vs. Pirates
-video_url: https://bdata-producedclips.mlb.com/53d3c39c-f6df-4935-93ef-04bd4f06b5f9.mp4
-source_id: MLB_777943_juan-soto-s-single-x7565
-clip_id: MLB_777943_juan-soto-s-single-x7565_auto1_14p107_20p107
-source_path: raw_sources\MLB_777943_juan-soto-s-single-x7565_Juan_Soto_s_single_Juan_Soto_s_single_Juan_Soto_s_single_Juan_Soto_singles_on_a_ground_ball_in_the_bottom_of_the_1st_inning_vs._Pirate.mp4
-clip_start_time: 14.107
-clip_end_time: 20.107

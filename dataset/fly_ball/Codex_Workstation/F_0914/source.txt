@@ -1,7 +1,0 @@
-video_title: Nico Hoerner's solo home run (7) Nico Hoerner's solo home run (7) Nico Hoerner's solo home run (7) Nico Hoerner crushes a 412-foot home run to center field to give the Cubs an early 1-0 lead
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/26/91e1adec-476cd2c6-a7357101-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776167_nico-hoerner-homers-7-on-a-fly-ball-to-center-field
-clip_id: MLB_776167_nico-hoerner-homers-7-on-a-fly-ball-to-center-field_auto1_3p580_10p580
-source_path: raw_sources\MLB_776167_nico-hoerner-homers-7-on-a-fly-ball-to-center-field_Nico_Hoerner_s_solo_home_run_7_Nico_Hoerner_s_solo_home_run_7_Nico_Hoerner_s_solo_home_run_7_Nico_Hoerner_c.mp4
-clip_start_time: 3.580
-clip_end_time: 10.580

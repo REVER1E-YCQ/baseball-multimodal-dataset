@@ -1,7 +1,0 @@
-video_title: Pete Crow-Armstrong's two RBIs, two hits in win Pete Crow-Armstrong's two RBIs, two hits in win Pete Crow-Armstrong's two RBIs, two hits in win Pete Crow-Armstrong records two RBIs on sacrifice flies, plus singles twice and steals a base in the Cubs' 11-5 win
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/05/6c1873f0-33085aef-15e6b239-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776455_pete-crow-armstrong-s-two-rbis-two-hits-in-win
-clip_id: MLB_776455_pete-crow-armstrong-s-two-rbis-two-hits-in-win_auto1_2p100_9p100
-source_path: raw_sources\MLB_776455_pete-crow-armstrong-s-two-rbis-two-hits-in-win_Pete_Crow-Armstrong_s_two_RBIs_two_hits_in_win_Pete_Crow-Armstrong_s_two_RBIs_two_hits_in_win_Pete_Crow-Armstron.mp4
-clip_start_time: 2.100
-clip_end_time: 9.100

@@ -1,7 +1,0 @@
-video_title: Brian Fitzpatrick seals' the Brewers' win Brian Fitzpatrick seals' the Brewers' win Brian Fitzpatrick seals' the Brewers' win Brian Fitzpatrick induces a game-ending groundout to secure the Brewers' 7-1 win over the Padres
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/14/e29d914d-b8f39089-2054f8ae-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_823789_brian-fitzpatrick-in-play-out-s-to-fernando-tatis-jr
-clip_id: MLB_823789_brian-fitzpatrick-in-play-out-s-to-fernando-tatis-jr_head_0p000_6p000
-source_path: raw_sources\MLB_823789_brian-fitzpatrick-in-play-out-s-to-fernando-tatis-jr_Brian_Fitzpatrick_seals_the_Brewers_win_Brian_Fitzpatrick_seals_the_Brewers_win_.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

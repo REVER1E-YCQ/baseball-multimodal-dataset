@@ -1,7 +1,0 @@
-video_title: Luis Torrens' three-run homer (5) Luis Torrens' three-run homer (5) Luis Torrens' three-run homer (5) Luis Torrens launches a three-run home run off the pole in right field, extending the Mets' lead to 6-2 in the top of the 4th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/02/29bcc3e9-61489b00-be0d72b8-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776490_sawyer-gipson-long-in-play-run-s-to-luis-torrens
-clip_id: MLB_776490_sawyer-gipson-long-in-play-run-s-to-luis-torrens_auto1_1p320_8p320
-source_path: raw_sources\MLB_776490_sawyer-gipson-long-in-play-run-s-to-luis-torrens_Luis_Torrens_three-run_homer_5_Luis_Torrens_three-run_homer_5_Luis_Torrens_three-run_homer_5_Luis_Torrens_laun.mp4
-clip_start_time: 1.320
-clip_end_time: 8.320

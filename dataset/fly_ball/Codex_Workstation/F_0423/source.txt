@@ -1,7 +1,0 @@
-video_title: Ben Williamson's RBI single Ben Williamson's RBI single Ben Williamson's RBI single Ben Williamson brings the Mariners back in the game with a line drive RBI single in the bottom of the 5th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/01/9808319f-069e48a6-9090e423-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_777281_michael-lorenzen-in-play-run-s-to-ben-williamson
-clip_id: MLB_777281_michael-lorenzen-in-play-run-s-to-ben-williamson_auto1_8p460_15p460
-source_path: raw_sources\MLB_777281_michael-lorenzen-in-play-run-s-to-ben-williamson_Ben_Williamson_s_RBI_single_Ben_Williamson_s_RBI_single_Ben_Williamson_s_RBI_single_Ben_Williamson_brings_the_.mp4
-clip_start_time: 8.460
-clip_end_time: 15.460

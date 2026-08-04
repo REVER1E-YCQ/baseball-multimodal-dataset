@@ -1,7 +1,0 @@
-video_title: Brice Turang's leaping catch Brice Turang's leaping catch Brice Turang's leaping catch Brice Turang leaps to make an impressive catch off Yasmani Grandal's liner for the first out of the top of the 3rd
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/11/b36d358a-3ac2d362-b4e37aa3-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_745967_yasmani-grandal-lines-out-to-second-baseman-brice-turang
-clip_id: MLB_745967_yasmani-grandal-lines-out-to-second-baseman-brice-turang_auto1_3p720_10p720
-source_path: raw_sources\MLB_745967_yasmani-grandal-lines-out-to-second-baseman-brice-turang_Brice_Turang_s_leaping_catch_Brice_Turang_s_leaping_catch_Brice_Turang_s_leaping_catch_Brice_Turang_le.mp4
-clip_start_time: 3.720
-clip_end_time: 10.720

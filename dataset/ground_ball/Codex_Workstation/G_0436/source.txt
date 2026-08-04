@@ -1,7 +1,0 @@
-video_title: Mookie Betts' smooth play Mookie Betts' smooth play Mookie Betts makes a smooth play at shortstop Mookie Betts snags a grounder with the backhand and makes the throw to first base for the out
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/06/2d6aa7ed-ffaf996d-62ddcc73-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_745495_nick-gonzales-grounds-out-shortstop-mookie-betts-to-first-baseman-enr
-clip_id: MLB_745495_nick-gonzales-grounds-out-shortstop-mookie-betts-to-first-baseman-enr_auto1_3p600_9p600
-source_path: raw_sources\MLB_745495_nick-gonzales-grounds-out-shortstop-mookie-betts-to-first-baseman-enr_Mookie_Betts_smooth_play_Mookie_Betts_smooth_play_Mookie_Betts_makes_a_smooth_pl.mp4
-clip_start_time: 3.600
-clip_end_time: 9.600

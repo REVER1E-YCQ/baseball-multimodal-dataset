@@ -1,7 +1,0 @@
-video_title: Shohei Ohtani grounds out, second baseman Luis Arraez to first baseman Casey Schmitt. Shohei Ohtani grounds out, second baseman Luis Arraez to first baseman Casey Schmitt. Shohei Ohtani grounds out, second baseman Luis Arraez to first baseman Casey Schmitt. Shohei Ohtani grounds out, second baseman
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/12/a6c7b712-1dee1c0f-c2d891be-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_823953_matt-gage-in-play-out-s-to-shohei-ohtani
-clip_id: MLB_823953_matt-gage-in-play-out-s-to-shohei-ohtani_head_0p000_6p000
-source_path: raw_sources\MLB_823953_matt-gage-in-play-out-s-to-shohei-ohtani_Shohei_Ohtani_grounds_out_second_baseman_Luis_Arraez_to_first_baseman_Casey_Schm.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

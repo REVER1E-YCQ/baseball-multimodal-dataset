@@ -1,7 +1,0 @@
-video_title: Nico Hoerner's game-tying sacrifice fly Nico Hoerner's game-tying sacrifice fly Nico Hoerner's game-tying sacrifice fly Nico Hoerner hits a fly ball deep enough for Pete Crow-Armstrong to score, tying the game up for the Cubs with a score of 4-4 in the bottom of the 9th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/04/2e9da610-be8642e6-cca35d97-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_824684_emilio-pagan-in-play-run-s-to-nico-hoerner
-clip_id: MLB_824684_emilio-pagan-in-play-run-s-to-nico-hoerner_head_0p000_7p000
-source_path: raw_sources\MLB_824684_emilio-pagan-in-play-run-s-to-nico-hoerner_Nico_Hoerner_s_game-tying_sacrifice_fly_Nico_Hoerner_s_game-tying_sacrifice_fly_.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000

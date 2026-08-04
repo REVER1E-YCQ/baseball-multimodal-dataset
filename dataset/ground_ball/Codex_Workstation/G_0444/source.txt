@@ -1,7 +1,0 @@
-video_title: Aaron Judge's RBI groundout Aaron Judge's RBI groundout Aaron Judge's RBI groundout
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/05/8533e1f4-ff8a6eab-994d0d9c-csvm-diamondx64-asset-4000K.mp4
-source_id: MLB_745740_chris-paddack-in-play-run-s-to-aaron-judge
-clip_id: MLB_745740_chris-paddack-in-play-run-s-to-aaron-judge_auto1_4p660_10p660
-source_path: raw_sources\MLB_745740_chris-paddack-in-play-run-s-to-aaron-judge_Aaron_Judge_s_RBI_groundout_Aaron_Judge_s_RBI_groundout_Aaron_Judge_s_RBI_ground.mp4
-clip_start_time: 4.660
-clip_end_time: 10.660

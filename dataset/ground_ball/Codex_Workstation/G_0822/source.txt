@@ -1,7 +1,0 @@
-video_title: Gleyber Torres' slick diving stop Gleyber Torres' slick diving stop Gleyber Torres' slick diving stop Gleyber Torres lays out to snag a 102.9 mph ground ball from Brett Baty, throwing to first for the out in the 7th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/01/beed05a6-ccc89203-cfa70965-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776501_troy-melton-in-play-run-s-to-brett-baty-x0687
-clip_id: MLB_776501_troy-melton-in-play-run-s-to-brett-baty-x0687_auto1_6p720_12p720
-source_path: raw_sources\MLB_776501_troy-melton-in-play-run-s-to-brett-baty-x0687_Gleyber_Torres_slick_diving_stop_Gleyber_Torres_slick_diving_stop_Gleyber_Torres_slick_diving_stop_Gleyber_Torres.mp4
-clip_start_time: 6.720
-clip_end_time: 12.720

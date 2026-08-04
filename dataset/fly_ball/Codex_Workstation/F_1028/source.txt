@@ -1,7 +1,0 @@
-video_title: Seiya Suzuki's solo home run Seiya Suzuki's solo home run Seiya Suzuki's solo home run Seiya Suzuki belts a home run in his fifth straight game, a solo smash to tie the game at 1 in the bottom of the 5th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/30/12c2953c-60dc107d-49d4c05a-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_813066_seiya-suzuki-homers-1-on-a-line-drive-to-center-field-egtigt
-clip_id: MLB_813066_seiya-suzuki-homers-1-on-a-line-drive-to-center-field-egtigt_auto1_2p260_9p260
-source_path: raw_sources\MLB_813066_seiya-suzuki-homers-1-on-a-line-drive-to-center-field-egtigt_Seiya_Suzuki_s_solo_home_run_Seiya_Suzuki_s_solo_home_run_Seiya_Suzuki_s_solo_home_run_Seiya_Suzuk.mp4
-clip_start_time: 2.260
-clip_end_time: 9.260

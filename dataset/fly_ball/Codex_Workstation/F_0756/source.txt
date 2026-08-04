@@ -1,7 +1,0 @@
-video_title: Jo Adell's two-run homer (31)  Jo Adell's two-run homer (31)  Jo Adell's two-run homer (31)  Jo Adell hits a two-run home run to left field, scoring Mike Trout as the Angels take a 3-2 lead in the 4th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/01/ee7e378c-a3895eb5-5590a3b4-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776499_jo-adell-homers-31-on-a-fly-ball-to-left-field-mike-trout-scores
-clip_id: MLB_776499_jo-adell-homers-31-on-a-fly-ball-to-left-field-mike-trout-scores_auto1_0p040_7p040
-source_path: raw_sources\MLB_776499_jo-adell-homers-31-on-a-fly-ball-to-left-field-mike-trout-scores_Jo_Adell_s_two-run_homer_31_Jo_Adell_s_two-run_homer_31_Jo_Adell_s_two-run_homer_31_Jo_Adell_h.mp4
-clip_start_time: 0.040
-clip_end_time: 7.040

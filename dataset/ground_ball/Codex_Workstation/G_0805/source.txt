@@ -1,7 +1,0 @@
-video_title: Manny Machado starts double play with spin-throw Manny Machado starts double play with spin-throw Manny Machado starts double play with spin-throw Manny Machado snags a hard-hit grounder from Hunter Goodman, spinning to make the throw and begin an inning-ending 5-4-3 double play
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/11/e785623a-bc489a9a-0fb48e5f-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776365_hunter-goodman-grounds-into-a-double-play-third-baseman-manny-machado
-clip_id: MLB_776365_hunter-goodman-grounds-into-a-double-play-third-baseman-manny-machado_auto1_4p360_10p360
-source_path: raw_sources\MLB_776365_hunter-goodman-grounds-into-a-double-play-third-baseman-manny-machado_Manny_Machado_starts_double_play_with_spin-throw_Manny_Machado_starts_double_play_with_sp.mp4
-clip_start_time: 4.360
-clip_end_time: 10.360

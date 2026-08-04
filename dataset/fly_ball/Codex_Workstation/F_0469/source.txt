@@ -1,7 +1,0 @@
-video_title: George Kirby struck by line drive George Kirby struck by line drive George Kirby struck by line drive George Kirby gets struck by a line drive that deflects to first base for the final out in the top of the 5th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/03/33c7f405-1678f154-b5a874b3-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_777655_george-kirby-in-play-out-s-to-ramon-urias
-clip_id: MLB_777655_george-kirby-in-play-out-s-to-ramon-urias_auto1_0p400_7p400
-source_path: raw_sources\MLB_777655_george-kirby-in-play-out-s-to-ramon-urias_George_Kirby_struck_by_line_drive_George_Kirby_struck_by_line_drive_George_Kirby_struck_by_line_drive_George_Kirby_ge.mp4
-clip_start_time: 0.400
-clip_end_time: 7.400

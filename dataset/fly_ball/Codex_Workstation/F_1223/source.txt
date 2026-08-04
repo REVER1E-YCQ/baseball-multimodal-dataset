@@ -1,7 +1,0 @@
-video_title: Freddie Freeman's game-tying double Freddie Freeman's game-tying double Freddie Freeman's game-tying double Freddie Freeman doubles on a line drive to right field and Will Smith scores, tying the game at 5-5 in the 9th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/02/d2c2ca61-08ae027c-42c3746a-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_746133_freddie-freeman-doubles-25-on-a-line-drive-to-right-fielder-corbin-ca
-clip_id: MLB_746133_freddie-freeman-doubles-25-on-a-line-drive-to-right-fielder-corbin-ca_auto1_1p900_8p900
-source_path: raw_sources\MLB_746133_freddie-freeman-doubles-25-on-a-line-drive-to-right-fielder-corbin-ca_Freddie_Freeman_s_game-tying_double_Freddie_Freeman_s_game-tying_double_Freddie_Freeman_s.mp4
-clip_start_time: 1.900
-clip_end_time: 8.900

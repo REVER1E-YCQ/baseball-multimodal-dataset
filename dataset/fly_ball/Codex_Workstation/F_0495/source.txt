@@ -1,7 +1,0 @@
-video_title: Trea Turner's RBI sac fly Trea Turner's RBI sac fly Trea Turner's RBI sac fly Trea Turner hits a fly ball deep enough for Alec Bohm to score from third base to tie the game up with a score of 3-3 in the top of the 5th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/25/1d75135c-cd6d8951-85038c87-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_777765_trea-turner-out-on-a-sacrifice-fly-to-center-fielder-denzel-clarke-al
-clip_id: MLB_777765_trea-turner-out-on-a-sacrifice-fly-to-center-fielder-denzel-clarke-al_auto1_8p360_15p360
-source_path: raw_sources\MLB_777765_trea-turner-out-on-a-sacrifice-fly-to-center-fielder-denzel-clarke-al_Trea_Turner_s_RBI_sac_fly_Trea_Turner_s_RBI_sac_fly_Trea_Turner_s_RBI_sac_fly_Trea_Turner.mp4
-clip_start_time: 8.360
-clip_end_time: 15.360

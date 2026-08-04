@@ -1,7 +1,0 @@
-video_title: Bobby Witt Jr.'s phenomenal diving snag Bobby Witt Jr.'s phenomenal diving snag Bobby Witt Jr.'s phenomenal diving snag Bobby Witt Jr. hustles to his right to make an impressive diving catch on a line drive from Patrick Bailey in the 6th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/20/add9e0ea-55d2f739-04b4d3ab-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_777836_patrick-bailey-lines-out-to-shortstop-bobby-witt-jr
-clip_id: MLB_777836_patrick-bailey-lines-out-to-shortstop-bobby-witt-jr_auto1_2p440_9p440
-source_path: raw_sources\MLB_777836_patrick-bailey-lines-out-to-shortstop-bobby-witt-jr_Bobby_Witt_Jr._s_phenomenal_diving_snag_Bobby_Witt_Jr._s_phenomenal_diving_snag_Bobby_Witt_Jr._s_phenomenal.mp4
-clip_start_time: 2.440
-clip_end_time: 9.440

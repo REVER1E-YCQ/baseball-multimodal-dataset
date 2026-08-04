@@ -1,7 +1,0 @@
-video_title: Jon Singleton's RBI groundout  Jon Singleton's RBI groundout  Jon Singleton's RBI groundout 
-video_url: https://bdata-producedclips.mlb.com/bd3f1de3-5bc8-4a3d-808f-f45e1ce56a38.mp4
-source_id: MLB_746392_jon-singleton-grounds-out-second-baseman-brice-turang-to-first-basema
-clip_id: MLB_746392_jon-singleton-grounds-out-second-baseman-brice-turang-to-first-basema_auto1_4p100_10p100
-source_path: raw_sources\MLB_746392_jon-singleton-grounds-out-second-baseman-brice-turang-to-first-basema_Jon_Singleton_s_RBI_groundout_Jon_Singleton_s_RBI_groundout_Jon_Singleton_s_RBI_.mp4
-clip_start_time: 4.100
-clip_end_time: 10.100

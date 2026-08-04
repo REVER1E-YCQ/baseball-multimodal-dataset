@@ -1,7 +1,0 @@
-video_title: Seiya Suzuki on WC Game 1 homer, playoff atmosphere Seiya Suzuki on WC Game 1 homer, playoff atmosphere Seiya Suzuki on WC Game 1 homer, playoff atmosphere Seiya Suzuki speaks after the Cubs' Game 1 victory, discussing his clutch home run, his recent hot streak, the playoff atmosphere, and more
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/30/8ee5bbee-856fdd24-7af00d56-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_813066_seiya-suzuki-on-wc-game-1-homer-playoff-atmosphere
-clip_id: MLB_813066_seiya-suzuki-on-wc-game-1-homer-playoff-atmosphere_auto1_0p180_7p180
-source_path: raw_sources\MLB_813066_seiya-suzuki-on-wc-game-1-homer-playoff-atmosphere_Seiya_Suzuki_on_WC_Game_1_homer_playoff_atmosphere_Seiya_Suzuki_on_WC_Game_1_homer_playoff_atmosphere_Seiya_.mp4
-clip_start_time: 0.180
-clip_end_time: 7.180

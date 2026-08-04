@@ -1,7 +1,0 @@
-video_title: George Valera's two-run home run (2) George Valera's two-run home run (2) George Valera's two-run home run (2) George Valera hits a two-run home run to right-center field, giving the Guardians a 2-1 lead over the Tigers in the 3rd
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/24/187c04f9-b1f4b016-0ed76c82-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776204_jack-flaherty-in-play-run-s-to-george-valera-iovi7n
-clip_id: MLB_776204_jack-flaherty-in-play-run-s-to-george-valera-iovi7n_auto1_5p380_12p380
-source_path: raw_sources\MLB_776204_jack-flaherty-in-play-run-s-to-george-valera-iovi7n_George_Valera_s_two-run_home_run_2_George_Valera_s_two-run_home_run_2_George_Valera_s_two-run_home_run_2_Ge.mp4
-clip_start_time: 5.380
-clip_end_time: 12.380

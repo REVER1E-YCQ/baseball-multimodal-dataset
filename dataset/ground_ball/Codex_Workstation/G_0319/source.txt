@@ -1,7 +1,0 @@
-video_title: Brandon Lowe's RBI groundout Brandon Lowe's RBI groundout Brandon Lowe's RBI groundout Brandon Lowe grounds out to Jake Burger and Ben Rortvedt scores, cutting the Rays' deficit to 3-2 in the top of the 8th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/06/2564762a-136637b9-384a68a0-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_778420_marc-church-in-play-run-s-to-brandon-lowe
-clip_id: MLB_778420_marc-church-in-play-run-s-to-brandon-lowe_auto1_0p000_6p000
-source_path: raw_sources\MLB_778420_marc-church-in-play-run-s-to-brandon-lowe_Brandon_Lowe_s_RBI_groundout_Brandon_Lowe_s_RBI_groundout_Brandon_Lowe_s_RBI_gro.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

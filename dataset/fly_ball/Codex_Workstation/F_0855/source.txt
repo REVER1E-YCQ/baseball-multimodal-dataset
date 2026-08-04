@@ -1,7 +1,0 @@
-video_title: Andrew Benintendi's sacrifice fly Andrew Benintendi's sacrifice fly Andrew Benintendi's sacrifice fly Andrew Benintendi hits a sacrifice fly to center field, scoring Lenyn Sosa to give the White Sox the lead in the 7th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/04/352e06d6-1a215ed9-0936d26b-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_776462_genesis-cabrera-in-play-run-s-to-andrew-benintendi
-clip_id: MLB_776462_genesis-cabrera-in-play-run-s-to-andrew-benintendi_auto1_11p680_18p680
-source_path: raw_sources\MLB_776462_genesis-cabrera-in-play-run-s-to-andrew-benintendi_Andrew_Benintendi_s_sacrifice_fly_Andrew_Benintendi_s_sacrifice_fly_Andrew_Benintendi_s_sacrifice_fly_Andrew.mp4
-clip_start_time: 11.680
-clip_end_time: 18.680

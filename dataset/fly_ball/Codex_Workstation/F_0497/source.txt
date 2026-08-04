@@ -1,7 +1,0 @@
-video_title: Seiya Suzuki's double Seiya Suzuki's double Seiya Suzuki's double Seiya Suzuki doubles on a sharp line drive to center fielder TJ Friedl in the top of the 8th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/24/1f9cb13f-18537bf9-1d037fcd-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_777791_seiya-suzuki-doubles-13-on-a-sharp-line-drive-to-center-fielder-tj-fr
-clip_id: MLB_777791_seiya-suzuki-doubles-13-on-a-sharp-line-drive-to-center-fielder-tj-fr_auto1_7p080_14p080
-source_path: raw_sources\MLB_777791_seiya-suzuki-doubles-13-on-a-sharp-line-drive-to-center-fielder-tj-fr_Seiya_Suzuki_s_double_Seiya_Suzuki_s_double_Seiya_Suzuki_s_double_Seiya_Suzuki_doubles_on.mp4
-clip_start_time: 7.080
-clip_end_time: 14.080

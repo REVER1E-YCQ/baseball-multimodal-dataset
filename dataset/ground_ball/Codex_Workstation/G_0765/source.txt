@@ -1,7 +1,0 @@
-video_title: Jose Corniell's nice play sends game to extras Jose Corniell's nice play sends game to extras Jose Corniell's nice play sends game to extras Jose Corniell fields George Valera's grounder after it ricochets off his leg, throwing to first to end the 9th and send the game to extras
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/28/8f4afbc0-8a119a91-b221afeb-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_776147_jose-corniell-in-play-out-s-to-george-valera
-clip_id: MLB_776147_jose-corniell-in-play-out-s-to-george-valera_auto1_4p480_10p480
-source_path: raw_sources\MLB_776147_jose-corniell-in-play-out-s-to-george-valera_Jose_Corniell_s_nice_play_sends_game_to_extras_Jose_Corniell_s_nice_play_sends_game_to_extras_Jose_Corniell_s_nice.mp4
-clip_start_time: 4.480
-clip_end_time: 10.480

@@ -1,7 +1,0 @@
-video_title: José Ramírez's two-run single José Ramírez's two-run single José Ramírez's two-run single José Ramírez grounds a two-run single up the middle, giving the Guardians two insurance runs in the bottom of the 8th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/19/e21c3245-b435b098-a73493bd-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_746618_jose-ramirez-s-two-run-single
-clip_id: MLB_746618_jose-ramirez-s-two-run-single_auto1_13p920_19p920
-source_path: raw_sources\MLB_746618_jose-ramirez-s-two-run-single_Jos_Ram_rez_s_two-run_single_Jos_Ram_rez_s_two-run_single_Jos_Ram_rez_s_two-run_single_Jos_Ram_rez_grounds_a_two-run_single_up_th.mp4
-clip_start_time: 13.920
-clip_end_time: 19.920

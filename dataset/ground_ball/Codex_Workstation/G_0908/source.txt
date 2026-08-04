@@ -1,7 +1,0 @@
-video_title: Pete Crow-Armstrong's RBI double Pete Crow-Armstrong's RBI double Pete Crow-Armstrong's RBI double Pete Crow-Armstrong rips a ground ball through the right side and slide in for a double, scoring Kyle Tucker to put the Cubs ahead 2-1 in the top of the 3rd
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/30/fdea899a-184f8b5a-130d87b7-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776929_freddy-peralta-in-play-run-s-to-pete-crow-armstrong
-clip_id: MLB_776929_freddy-peralta-in-play-run-s-to-pete-crow-armstrong_auto1_4p940_10p940
-source_path: raw_sources\MLB_776929_freddy-peralta-in-play-run-s-to-pete-crow-armstrong_Pete_Crow-Armstrong_s_RBI_double_Pete_Crow-Armstrong_s_RBI_double_Pete_Crow-Armstrong_s_RBI_double_Pete_Cro.mp4
-clip_start_time: 4.940
-clip_end_time: 10.940

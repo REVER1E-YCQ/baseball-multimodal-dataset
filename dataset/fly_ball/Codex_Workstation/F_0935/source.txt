@@ -1,7 +1,0 @@
-video_title: James Wood's pair of 430-foot home runs James Wood's pair of 430-foot home runs James Wood's pair of 430-foot home runs Statcast measures the distance, exit velocity, and bat speed of James Wood's 445 and 436-foot homers with exit velocities of over 109 mph
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/24/b6351add-1c5d934b-a87330ce-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776200_james-wood-s-pair-of-430-foot-home-runs
-clip_id: MLB_776200_james-wood-s-pair-of-430-foot-home-runs_auto1_1p260_8p260
-source_path: raw_sources\MLB_776200_james-wood-s-pair-of-430-foot-home-runs_James_Wood_s_pair_of_430-foot_home_runs_James_Wood_s_pair_of_430-foot_home_runs_James_Wood_s_pair_of_430-foot_home_runs.mp4
-clip_start_time: 1.260
-clip_end_time: 8.260

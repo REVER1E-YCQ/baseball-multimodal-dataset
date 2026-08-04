@@ -1,7 +1,0 @@
-video_title: Royals hit back-to-back homers in the 7th Royals hit back-to-back homers in the 7th Royals hit back-to-back homers in the 7th Mike Yastrzemski and Carter Jensen hit back-to-back home runs in the top of the 7th inning, pushing the Royals' lead over the A's to 6-0
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/28/b70b12ed-54a06b80-24594d57-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776138_royals-hit-back-to-back-homers-in-the-7th
-clip_id: MLB_776138_royals-hit-back-to-back-homers-in-the-7th_auto1_3p080_10p080
-source_path: raw_sources\MLB_776138_royals-hit-back-to-back-homers-in-the-7th_Royals_hit_back-to-back_homers_in_the_7th_Royals_hit_back-to-back_homers_in_the_7th_Royals_hit_back-to-back_homers_in.mp4
-clip_start_time: 3.080
-clip_end_time: 10.080

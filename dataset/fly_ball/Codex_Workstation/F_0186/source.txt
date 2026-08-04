@@ -1,7 +1,0 @@
-video_title: Paul DeJong's sacrifice fly to right Paul DeJong's sacrifice fly to right Paul DeJong's sacrifice fly to right Paul DeJong lifts a fly ball to right field deep enough for Corey Julks to tag up and score for the White Sox in the 1st inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/02/e374d4b8-b2b28c4d-d09052b9-csvm-diamondx64-asset-4000K.mp4
-source_id: MLB_745984_freddy-peralta-in-play-run-s-to-paul-dejong-isaszc
-clip_id: MLB_745984_freddy-peralta-in-play-run-s-to-paul-dejong-isaszc_auto1_6p160_13p160
-source_path: raw_sources\MLB_745984_freddy-peralta-in-play-run-s-to-paul-dejong-isaszc_Paul_DeJong_s_sacrifice_fly_to_right_Paul_DeJong_s_sacrifice_fly_to_right_Paul_D.mp4
-clip_start_time: 6.160
-clip_end_time: 13.160

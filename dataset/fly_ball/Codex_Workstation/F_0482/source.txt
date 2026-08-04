@@ -1,7 +1,0 @@
-video_title: Yainer Diaz's walk-off homer (7) Yainer Diaz's walk-off homer (7) Yainer Diaz homers (7) on a fly ball to right field. Yainer Diaz crushes a walk-off homer to right field in the bottom of the 9th inning to give the Astros the 2-1 victory
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/30/fd1e305e-b1e1ce6f-ee19a702-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_777714_yainer-diaz-homers-7-on-a-fly-ball-to-right-field
-clip_id: MLB_777714_yainer-diaz-homers-7-on-a-fly-ball-to-right-field_auto1_28p936_35p936
-source_path: raw_sources\MLB_777714_yainer-diaz-homers-7-on-a-fly-ball-to-right-field_Yainer_Diaz_s_walk-off_homer_7_Yainer_Diaz_s_walk-off_homer_7_Yainer_Diaz_homers_7_on_a_fly_ball_to_right_fie.mp4
-clip_start_time: 28.936
-clip_end_time: 35.936

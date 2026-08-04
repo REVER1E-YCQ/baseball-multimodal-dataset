@@ -1,7 +1,0 @@
-video_title: Seiya Suzuki's basket catch Seiya Suzuki's basket catch Seiya Suzuki's basket catch Seiya Suzuki runs down a short fly ball and makes a basket catch to retire Zach Neto
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/06/0584e956-8eb9d664-a99355cf-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_746856_zach-neto-flies-out-to-right-fielder-seiya-suzuki-yw4fr0
-clip_id: MLB_746856_zach-neto-flies-out-to-right-fielder-seiya-suzuki-yw4fr0_auto1_10p760_17p760
-source_path: raw_sources\MLB_746856_zach-neto-flies-out-to-right-fielder-seiya-suzuki-yw4fr0_Seiya_Suzuki_s_basket_catch_Seiya_Suzuki_s_basket_catch_Seiya_Suzuki_s_basket_catch_Seiya_Suzuki_runs_.mp4
-clip_start_time: 10.760
-clip_end_time: 17.760

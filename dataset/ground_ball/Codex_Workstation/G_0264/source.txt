@@ -1,7 +1,0 @@
-video_title: Chase Meidroth makes a diving stop Chase Meidroth makes a diving stop Chase Meidroth makes a diving stop Chase Meidroth makes a play on a ground ball to retire Vinnie Pasquantino and end the inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/09/760c492d-bee8c5c6-e02eb7a2-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_824130_vinnie-pasquantino-grounds-out-second-baseman-chase-meidroth-to-first
-clip_id: MLB_824130_vinnie-pasquantino-grounds-out-second-baseman-chase-meidroth-to-first_auto1_2p640_8p640
-source_path: raw_sources\MLB_824130_vinnie-pasquantino-grounds-out-second-baseman-chase-meidroth-to-first_Chase_Meidroth_makes_a_diving_stop_Chase_Meidroth_makes_a_diving_stop_Chase_Meid.mp4
-clip_start_time: 2.640
-clip_end_time: 8.640

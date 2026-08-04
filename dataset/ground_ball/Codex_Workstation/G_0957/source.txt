@@ -1,7 +1,0 @@
-video_title: Ryne Stanek's barehanded grab Ryne Stanek's barehanded grab Ryne Stanek's barehanded grab Ryne Stanek uses his bare hand to grab James Wood's grounder, then throws to first in time for the first out in the bottom of the 9th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/19/4c73b8b0-0b2a7989-c4c97bb6-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776678_james-wood-grounds-out-softly-pitcher-ryne-stanek-to-first-baseman-pe
-clip_id: MLB_776678_james-wood-grounds-out-softly-pitcher-ryne-stanek-to-first-baseman-pe_auto1_6p180_12p180
-source_path: raw_sources\MLB_776678_james-wood-grounds-out-softly-pitcher-ryne-stanek-to-first-baseman-pe_Ryne_Stanek_s_barehanded_grab_Ryne_Stanek_s_barehanded_grab_Ryne_Stanek_s_barehanded_grab.mp4
-clip_start_time: 6.180
-clip_end_time: 12.180

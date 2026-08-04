@@ -1,7 +1,0 @@
-video_title: Iván Herrera's two-run homer (18)  Iván Herrera's two-run homer (18)  Iván Herrera's two-run homer (18)  Iván Herrera crushes a two-run home run to center field, tying the game at four in the top of the 5th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/22/189c2fbb-c7d43c06-b9493894-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776220_ivan-herrera-homers-18-on-a-fly-ball-to-center-field-lars-nootbaar-sc
-clip_id: MLB_776220_ivan-herrera-homers-18-on-a-fly-ball-to-center-field-lars-nootbaar-sc_auto1_4p840_11p840
-source_path: raw_sources\MLB_776220_ivan-herrera-homers-18-on-a-fly-ball-to-center-field-lars-nootbaar-sc_Iv_n_Herrera_s_two-run_homer_18_Iv_n_Herrera_s_two-run_homer_18_Iv_n_Herrera_s_two-run_ho.mp4
-clip_start_time: 4.840
-clip_end_time: 11.840

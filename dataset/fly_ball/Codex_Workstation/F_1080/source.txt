@@ -1,7 +1,0 @@
-video_title: Wenceel Pérez's sacrifice fly Wenceel Pérez's sacrifice fly Wenceel Pérez's sacrifice fly Wenceel Pérez hits a sacrifice fly to center field to cut the Tigers' deficit to 3-2 in the 3rd
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/20/e2ed995f-3f0da6fe-e537abec-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776258_joey-wentz-in-play-run-s-to-wenceel-perez
-clip_id: MLB_776258_joey-wentz-in-play-run-s-to-wenceel-perez_auto1_3p900_10p900
-source_path: raw_sources\MLB_776258_joey-wentz-in-play-run-s-to-wenceel-perez_Wenceel_P_rez_s_sacrifice_fly_Wenceel_P_rez_s_sacrifice_fly_Wenceel_P_rez_s_sacrifice_fly_Wenceel_P_rez_hits_a_sacrif.mp4
-clip_start_time: 3.900
-clip_end_time: 10.900

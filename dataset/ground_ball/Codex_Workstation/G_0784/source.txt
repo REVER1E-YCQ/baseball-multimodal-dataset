@@ -1,7 +1,0 @@
-video_title: Hunter Brown gets hit by a comebacker, makes the play Hunter Brown gets hit by a comebacker, makes the play Hunter Brown gets hit by a comebacker, makes the play Hunter Brown gets struck in the leg on a hard-hit ground ball from J.P. Crawford and recovers to make an underhand toss to first for the o
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/19/e78ee749-aeed165d-d0ad0f55-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776262_j-p-crawford-grounds-out-pitcher-hunter-brown-to-first-baseman-christ
-clip_id: MLB_776262_j-p-crawford-grounds-out-pitcher-hunter-brown-to-first-baseman-christ_auto1_3p320_9p320
-source_path: raw_sources\MLB_776262_j-p-crawford-grounds-out-pitcher-hunter-brown-to-first-baseman-christ_Hunter_Brown_gets_hit_by_a_comebacker_makes_the_play_Hunter_Brown_gets_hit_by_a_comebacke.mp4
-clip_start_time: 3.320
-clip_end_time: 9.320

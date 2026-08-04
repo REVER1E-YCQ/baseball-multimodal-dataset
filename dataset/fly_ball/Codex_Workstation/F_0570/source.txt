@@ -1,7 +1,0 @@
-video_title: Jonah Heim's two-run single Jonah Heim's two-run single Jonah Heim's two-run single Jonah Heim singles on a sharp line drive to right field to give the Rangers a 2-0 lead against the Cubs
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/08/fe7e71a7-7238582b-3bf3fa47-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_778401_jonah-heim-singles-on-a-sharp-line-drive-to-right-fielder-kyle-tucker
-clip_id: MLB_778401_jonah-heim-singles-on-a-sharp-line-drive-to-right-fielder-kyle-tucker_auto1_10p760_17p760
-source_path: raw_sources\MLB_778401_jonah-heim-singles-on-a-sharp-line-drive-to-right-fielder-kyle-tucker_Jonah_Heim_s_two-run_single_Jonah_Heim_s_two-run_single_Jonah_Heim_s_two-run_single_Jonah.mp4
-clip_start_time: 10.760
-clip_end_time: 17.760

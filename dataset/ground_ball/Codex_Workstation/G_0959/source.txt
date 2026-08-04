@@ -1,7 +1,0 @@
-video_title: Vladimir Guerrero Jr.'s gorgeous sliding stop Vladimir Guerrero Jr.'s gorgeous sliding stop Vladimir Guerrero Jr.'s gorgeous sliding stop Vladimir Guerrero Jr. slides to backhand a sharp ground ball and tosses to first, taking away a hit from Josh Smith in the 7th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/15/fa0c5c55-45f917e5-2a644c85-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776735_yariel-rodriguez-in-play-out-s-to-josh-smith
-clip_id: MLB_776735_yariel-rodriguez-in-play-out-s-to-josh-smith_auto1_17p400_23p400
-source_path: raw_sources\MLB_776735_yariel-rodriguez-in-play-out-s-to-josh-smith_Vladimir_Guerrero_Jr._s_gorgeous_sliding_stop_Vladimir_Guerrero_Jr._s_gorgeous_sliding_stop_Vladimir_Guerrero_Jr._.mp4
-clip_start_time: 17.400
-clip_end_time: 23.400

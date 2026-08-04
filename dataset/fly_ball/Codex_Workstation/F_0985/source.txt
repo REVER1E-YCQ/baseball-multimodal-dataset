@@ -1,7 +1,0 @@
-video_title: Elly De La Cruz's solo home run (20) Elly De La Cruz's solo home run (20) Elly De La Cruz's solo home run (20) Elly De La Cruz goes back-to-back with Spencer Steer, belting a solo home run and extending the Reds' lead to 7-4
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/19/e9b05d9b-982e3332-511bad62-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776267_elly-de-la-cruz-homers-20-on-a-fly-ball-to-left-center-field
-clip_id: MLB_776267_elly-de-la-cruz-homers-20-on-a-fly-ball-to-left-center-field_auto1_0p400_7p400
-source_path: raw_sources\MLB_776267_elly-de-la-cruz-homers-20-on-a-fly-ball-to-left-center-field_Elly_De_La_Cruz_s_solo_home_run_20_Elly_De_La_Cruz_s_solo_home_run_20_Elly_De_La_Cruz_s_solo_home_.mp4
-clip_start_time: 0.400
-clip_end_time: 7.400

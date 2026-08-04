@@ -1,7 +1,0 @@
-video_title: Colson Montgomery's two-run homer (21) Colson Montgomery's two-run homer (21) Colson Montgomery's two-run homer (21) Colson Montgomery hits a two-run home run to right field, giving the White Sox a 2-0 lead in the 4th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/27/f5e045ed-d0eeb31a-fa815c11-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776160_colson-montgomery-homers-21-on-a-fly-ball-to-right-field-kyle-teel-sc
-clip_id: MLB_776160_colson-montgomery-homers-21-on-a-fly-ball-to-right-field-kyle-teel-sc_auto1_4p200_11p200
-source_path: raw_sources\MLB_776160_colson-montgomery-homers-21-on-a-fly-ball-to-right-field-kyle-teel-sc_Colson_Montgomery_s_two-run_homer_21_Colson_Montgomery_s_two-run_homer_21_Colson_Montgome.mp4
-clip_start_time: 4.200
-clip_end_time: 11.200

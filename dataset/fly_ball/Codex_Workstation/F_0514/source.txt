@@ -1,7 +1,0 @@
-video_title: Anthony Santander's impressive play at the track Anthony Santander's impressive play at the track Anthony Santander's impressive play at the track Anthony Santander tracks a fly ball hit by Jo Adell to the warning track and makes a nice leaping grab, taking an extra-base hit away
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/08/fe23774e-b920eef7-f5ee909b-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_778000_jo-adell-flies-out-sharply-to-right-fielder-anthony-santander
-clip_id: MLB_778000_jo-adell-flies-out-sharply-to-right-fielder-anthony-santander_auto1_11p720_18p720
-source_path: raw_sources\MLB_778000_jo-adell-flies-out-sharply-to-right-fielder-anthony-santander_Anthony_Santander_s_impressive_play_at_the_track_Anthony_Santander_s_impressive_play_at_the_track.mp4
-clip_start_time: 11.720
-clip_end_time: 18.720

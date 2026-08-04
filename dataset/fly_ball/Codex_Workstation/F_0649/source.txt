@@ -1,7 +1,0 @@
-video_title: James Outman's solo home run (4) James Outman's solo home run (4) James Outman's solo home run (4) James Outman lines a solo home run to right field to give the Twins a 1-0 lead in the top of the 3rd
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/10/b3f8a1a6-ea9e3387-2618834b-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776376_james-outman-homers-4-on-a-fly-ball-to-right-field
-clip_id: MLB_776376_james-outman-homers-4-on-a-fly-ball-to-right-field_auto1_3p020_10p020
-source_path: raw_sources\MLB_776376_james-outman-homers-4-on-a-fly-ball-to-right-field_James_Outman_s_solo_home_run_4_James_Outman_s_solo_home_run_4_James_Outman_s_solo_home_run_4_James_Outman_li.mp4
-clip_start_time: 3.020
-clip_end_time: 10.020

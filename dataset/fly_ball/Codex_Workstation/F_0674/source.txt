@@ -1,7 +1,0 @@
-video_title: Royce Lewis' two-run home run (11) Royce Lewis' two-run home run (11) Royce Lewis' two-run home run (11) In his return home to Anaheim, Royce Lewis belts a two-run home run to center field and gives the Twins an early 2-0 lead in the 2nd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/08/368bdf16-66a82a35-6f9aa714-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776411_royce-lewis-homers-11-on-a-fly-ball-to-center-field-trevor-larnach-sc
-clip_id: MLB_776411_royce-lewis-homers-11-on-a-fly-ball-to-center-field-trevor-larnach-sc_auto1_17p140_24p140
-source_path: raw_sources\MLB_776411_royce-lewis-homers-11-on-a-fly-ball-to-center-field-trevor-larnach-sc_Royce_Lewis_two-run_home_run_11_Royce_Lewis_two-run_home_run_11_Royce_Lewis_two-run_home_.mp4
-clip_start_time: 17.140
-clip_end_time: 24.140

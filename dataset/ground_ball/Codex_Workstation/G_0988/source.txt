@@ -1,7 +1,0 @@
-video_title: Camilo Doval records out in debut for the Yankees Camilo Doval records out in debut for the Yankees Camilo Doval records out in debut for the Yankees Camilo Doval induces a ground ball to first base, recording the first out in the bottom of the 9th inning during his debut for the Yankees
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/01/07bdf21c-918616ff-6bfbe870-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_776925_camilo-doval-in-play-out-s-to-graham-pauley
-clip_id: MLB_776925_camilo-doval-in-play-out-s-to-graham-pauley_auto1_4p835_10p835
-source_path: raw_sources\MLB_776925_camilo-doval-in-play-out-s-to-graham-pauley_Camilo_Doval_records_out_in_debut_for_the_Yankees_Camilo_Doval_records_out_in_debut_for_the_Yankees_Camilo_Doval_re.mp4
-clip_start_time: 4.835
-clip_end_time: 10.835

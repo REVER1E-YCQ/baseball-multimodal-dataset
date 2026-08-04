@@ -1,7 +1,0 @@
-video_title: Sal Stewart's first career home run Sal Stewart's first career home run Sal Stewart's first career home run Sal Stewart connects with a two-run home run to center field, the first homer of his career, giving the Reds a 2-0 lead in the bottom of the 2nd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/06/ae35e211-17603d10-5b771edf-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776439_sal-stewart-homers-1-on-a-fly-ball-to-center-field-spencer-steer-scor
-clip_id: MLB_776439_sal-stewart-homers-1-on-a-fly-ball-to-center-field-spencer-steer-scor_auto1_11p340_18p340
-source_path: raw_sources\MLB_776439_sal-stewart-homers-1-on-a-fly-ball-to-center-field-spencer-steer-scor_Sal_Stewart_s_first_career_home_run_Sal_Stewart_s_first_career_home_run_Sal_Stewart_s_fir.mp4
-clip_start_time: 11.340
-clip_end_time: 18.340

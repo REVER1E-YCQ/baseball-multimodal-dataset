@@ -1,7 +1,0 @@
-video_title: Jonathan Loáisiga induces flyout, escapes jam Jonathan Loáisiga induces flyout, escapes jam Jonathan Loáisiga induces flyout, escapes jam Jonathan Loáisiga induces a fly ball into foul territory, ending the top of the 8th inning and curbing the Rays' threat
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/29/2d438f6b-8a009353-10e7c799-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_776949_jonathan-loaisiga-in-play-out-s-to-chandler-simpson
-clip_id: MLB_776949_jonathan-loaisiga-in-play-out-s-to-chandler-simpson_auto1_5p640_12p640
-source_path: raw_sources\MLB_776949_jonathan-loaisiga-in-play-out-s-to-chandler-simpson_Jonathan_Lo_isiga_induces_flyout_escapes_jam_Jonathan_Lo_isiga_induces_flyout_escapes_jam_Jonathan_Lo_isiga.mp4
-clip_start_time: 5.640
-clip_end_time: 12.640

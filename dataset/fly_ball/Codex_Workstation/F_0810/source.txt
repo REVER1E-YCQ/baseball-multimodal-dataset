@@ -1,7 +1,0 @@
-video_title: Field View: Joey Weimer's three-run home run Field View: Joey Weimer's three-run home run Field View: Joey Weimer's three-run home run Check out this unique angle of Joey Weimer's three-run home run against the Tigers
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/13/2afc3620-526021c8-4c7efe7f-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776366_field-view-joey-weimer-s-three-run-home-run
-clip_id: MLB_776366_field-view-joey-weimer-s-three-run-home-run_auto1_10p840_17p840
-source_path: raw_sources\MLB_776366_field-view-joey-weimer-s-three-run-home-run_Field_View_Joey_Weimer_s_three-run_home_run_Field_View_Joey_Weimer_s_three-run_home_run_Field_View_Joey_Weimer_s_th.mp4
-clip_start_time: 10.840
-clip_end_time: 17.840

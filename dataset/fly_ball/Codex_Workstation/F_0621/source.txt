@@ -1,7 +1,0 @@
-video_title: Troy Johnston's solo homer (2) Troy Johnston's solo homer (2) Troy Johnston's solo homer (2) Troy Johnston crushes a solo home run to right-center field for his 2nd home run of the season, tying the game at 3-3 in the 6th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/13/52c5426d-b2641211-b0137666-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776347_troy-johnston-homers-2-on-a-fly-ball-to-right-center-field-f9cxuo
-clip_id: MLB_776347_troy-johnston-homers-2-on-a-fly-ball-to-right-center-field-f9cxuo_auto1_4p240_11p240
-source_path: raw_sources\MLB_776347_troy-johnston-homers-2-on-a-fly-ball-to-right-center-field-f9cxuo_Troy_Johnston_s_solo_homer_2_Troy_Johnston_s_solo_homer_2_Troy_Johnston_s_solo_homer_2_Troy_J.mp4
-clip_start_time: 4.240
-clip_end_time: 11.240

@@ -1,7 +1,0 @@
-video_title: Pete Alonso's solo homer (32) Pete Alonso's solo homer (32) Pete Alonso's solo homer (32) Pete Alonso crushes a solo home run to center field to give the Mets an early 1-0 lead in the top of the 1st
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/02/b606c6dd-69af883f-3c6d7cb4-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776490_sawyer-gipson-long-in-play-run-s-to-pete-alonso
-clip_id: MLB_776490_sawyer-gipson-long-in-play-run-s-to-pete-alonso_auto1_9p540_16p540
-source_path: raw_sources\MLB_776490_sawyer-gipson-long-in-play-run-s-to-pete-alonso_Pete_Alonso_s_solo_homer_32_Pete_Alonso_s_solo_homer_32_Pete_Alonso_s_solo_homer_32_Pete_Alonso_crushes_a_solo_.mp4
-clip_start_time: 9.540
-clip_end_time: 16.540

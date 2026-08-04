@@ -1,7 +1,0 @@
-video_title: Trea Turner RBI groundout Trea Turner RBI groundout Trea Turner RBI groundout
-video_url: https://bdata-producedclips.mlb.com/c0b48000-de7d-4b68-a7ea-94657d8f0971.mp4
-source_id: MLB_823237_adrian-houser-in-play-run-s-to-trea-turner
-clip_id: MLB_823237_adrian-houser-in-play-run-s-to-trea-turner_auto1_4p160_10p160
-source_path: raw_sources\MLB_823237_adrian-houser-in-play-run-s-to-trea-turner_Trea_Turner_RBI_groundout_Trea_Turner_RBI_groundout_Trea_Turner_RBI_groundout.mp4
-clip_start_time: 4.160
-clip_end_time: 10.160

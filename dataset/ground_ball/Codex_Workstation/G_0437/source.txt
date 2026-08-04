@@ -1,7 +1,0 @@
-video_title: Andruw Monasterio's RBI groundout Andruw Monasterio's RBI groundout Andruw Monasterio's RBI groundout Andruw Monasterio hits an RBI groundout to third base, giving the Brewers a 1-0 lead in the top of the 3rd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/04/882da76e-028fb83c-72eef545-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_745568_cristopher-sanchez-in-play-run-s-to-andruw-monasterio
-clip_id: MLB_745568_cristopher-sanchez-in-play-run-s-to-andruw-monasterio_auto1_3p880_9p880
-source_path: raw_sources\MLB_745568_cristopher-sanchez-in-play-run-s-to-andruw-monasterio_Andruw_Monasterio_s_RBI_groundout_Andruw_Monasterio_s_RBI_groundout_Andruw_Monas.mp4
-clip_start_time: 3.880
-clip_end_time: 9.880

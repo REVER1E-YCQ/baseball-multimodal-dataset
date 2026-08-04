@@ -1,7 +1,0 @@
-video_title: Chirinos escapes the jam with a grounder Chirinos escapes the jam with a grounder Chirinos escapes the jam with a grounder
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/20/f1fd8b39-dca8b7af-cc73cb47-csvm-diamondx64-asset-4000K.mp4
-source_id: MLB_746050_masyn-winn-grounds-out-second-baseman-otto-lopez-to-first-baseman-jos
-clip_id: MLB_746050_masyn-winn-grounds-out-second-baseman-otto-lopez-to-first-baseman-jos_auto1_4p890_10p890
-source_path: raw_sources\MLB_746050_masyn-winn-grounds-out-second-baseman-otto-lopez-to-first-baseman-jos_Chirinos_escapes_the_jam_with_a_grounder_Chirinos_escapes_the_jam_with_a_grounder_Chirino.mp4
-clip_start_time: 4.890
-clip_end_time: 10.890

@@ -1,7 +1,0 @@
-video_title: Brady House's sliding stop Brady House's sliding stop Brady House's sliding stop Brady House slides to field Casey Schmitt's grounder, then pops up to make the throw to first in time for the out in the bottom of the 8th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/08/e602e086-8e391710-f3a51a39-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776822_shinnosuke-ogasawara-in-play-out-s-to-casey-schmitt
-clip_id: MLB_776822_shinnosuke-ogasawara-in-play-out-s-to-casey-schmitt_auto1_4p540_10p540
-source_path: raw_sources\MLB_776822_shinnosuke-ogasawara-in-play-out-s-to-casey-schmitt_Brady_House_s_sliding_stop_Brady_House_s_sliding_stop_Brady_House_s_sliding_stop_Brady_House_slides_to_fiel.mp4
-clip_start_time: 4.540
-clip_end_time: 10.540

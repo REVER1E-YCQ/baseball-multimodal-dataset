@@ -1,7 +1,0 @@
-video_title: Ramón Laureano's RBI groundout Ramón Laureano's RBI groundout Ramón Laureano's RBI groundout Ramón Laureano grounds into a forceout and Matt Olson scores, putting the Braves on the board with a 1-0 lead in the top of the 2nd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/26/273ec79d-499b49b1-2e0fed08-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_745157_kyle-gibson-in-play-run-s-to-ramon-laureano-axnvoe
-clip_id: MLB_745157_kyle-gibson-in-play-run-s-to-ramon-laureano-axnvoe_auto1_22p912_28p912
-source_path: raw_sources\MLB_745157_kyle-gibson-in-play-run-s-to-ramon-laureano-axnvoe_Ram_n_Laureano_s_RBI_groundout_Ram_n_Laureano_s_RBI_groundout_Ram_n_Laureano_s_RBI_groundout_Ram_n_Laureano_.mp4
-clip_start_time: 22.912
-clip_end_time: 28.912

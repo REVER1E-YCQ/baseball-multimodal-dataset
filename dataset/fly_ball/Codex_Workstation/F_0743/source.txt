@@ -1,7 +1,0 @@
-video_title: Juan Soto, Pete Alonso go back to back in Detroit Juan Soto, Pete Alonso go back to back in Detroit Juan Soto, Pete Alonso go back to back in Detroit Juan Soto and Pete Alonso mash back-to-back home runs in the 7th inning of the Mets' 12-5 win over the Tigers #CurtainCall
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/02/630f9020-cdfd0f4f-6054a3c3-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776490_juan-soto-pete-alonso-go-back-to-back-in-detroit
-clip_id: MLB_776490_juan-soto-pete-alonso-go-back-to-back-in-detroit_auto1_9p220_16p220
-source_path: raw_sources\MLB_776490_juan-soto-pete-alonso-go-back-to-back-in-detroit_Juan_Soto_Pete_Alonso_go_back_to_back_in_Detroit_Juan_Soto_Pete_Alonso_go_back_to_back_in_Detroit_Juan_Soto_Pe.mp4
-clip_start_time: 9.220
-clip_end_time: 16.220

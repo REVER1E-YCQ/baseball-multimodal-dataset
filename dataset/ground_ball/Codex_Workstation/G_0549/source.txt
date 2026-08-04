@@ -1,7 +1,0 @@
-video_title: Beau Brieske throws out Manuel Margot after a review Beau Brieske throws out Manuel Margot after a review Beau Brieske throws out Manuel Margot after a review After the call was overturned, Beau Brieske retires Manuel Margot on a grounder in the bottom of the 7th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/02/01503b1d-52f00a49-a64930c6-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_745886_beau-brieske-throws-out-manuel-margot-after-a-review
-clip_id: MLB_745886_beau-brieske-throws-out-manuel-margot-after-a-review_auto1_13p520_19p520
-source_path: raw_sources\MLB_745886_beau-brieske-throws-out-manuel-margot-after-a-review_Beau_Brieske_throws_out_Manuel_Margot_after_a_review_Beau_Brieske_throws_out_Manuel_Margot_after_a_review_.mp4
-clip_start_time: 13.520
-clip_end_time: 19.520

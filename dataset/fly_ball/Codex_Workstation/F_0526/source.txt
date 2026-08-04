@@ -1,7 +1,0 @@
-video_title: Jarren Duran's second great catch of the game Jarren Duran's second great catch of the game Jarren Duran's second great catch of the game Jarren Duran makes a nice leaping grab off of a liner hit by Mickey Gasper to the warning track in left for the first out in the 3rd
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/02/de780bac-fa0c77fa-db9c5850-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_778089_mickey-gasper-lines-out-to-left-fielder-jarren-duran
-clip_id: MLB_778089_mickey-gasper-lines-out-to-left-fielder-jarren-duran_auto1_4p720_11p720
-source_path: raw_sources\MLB_778089_mickey-gasper-lines-out-to-left-fielder-jarren-duran_Jarren_Duran_s_second_great_catch_of_the_game_Jarren_Duran_s_second_great_catch_of_the_game_Jarren_Duran_s.mp4
-clip_start_time: 4.720
-clip_end_time: 11.720

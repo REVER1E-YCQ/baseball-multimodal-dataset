@@ -1,7 +1,0 @@
-video_title: Drake Baldwin's two-run homer (18) Drake Baldwin's two-run homer (18) Drake Baldwin's two-run homer (18) Drake Baldwin crushes a two-run home run to right-center field to give the Braves a 3-1 lead in the 3rd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/20/1497acce-bbfd1997-9c9a1df6-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776258_keider-montero-in-play-run-s-to-drake-baldwin
-clip_id: MLB_776258_keider-montero-in-play-run-s-to-drake-baldwin_auto1_19p600_26p600
-source_path: raw_sources\MLB_776258_keider-montero-in-play-run-s-to-drake-baldwin_Drake_Baldwin_s_two-run_homer_18_Drake_Baldwin_s_two-run_homer_18_Drake_Baldwin_s_two-run_homer_18_Drake_Baldwin_.mp4
-clip_start_time: 19.600
-clip_end_time: 26.600

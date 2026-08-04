@@ -1,7 +1,0 @@
-video_title: Kyle Schwarber's solo home run, 130th RBI (54) Kyle Schwarber's solo home run, 130th RBI (54) Kyle Schwarber's solo home run, 130th RBI (54) Kyle Schwarber hits a solo home run to right field, giving the Phillies a 1-0 lead and recording his 130th RBI of the season
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/23/3fb8eb39-0c4bdec6-4dd03f84-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776215_kyle-schwarber-homers-54-on-a-fly-ball-to-right-field
-clip_id: MLB_776215_kyle-schwarber-homers-54-on-a-fly-ball-to-right-field_auto1_2p040_9p040
-source_path: raw_sources\MLB_776215_kyle-schwarber-homers-54-on-a-fly-ball-to-right-field_Kyle_Schwarber_s_solo_home_run_130th_RBI_54_Kyle_Schwarber_s_solo_home_run_130th_RBI_54_Kyle_Schwarber_s_.mp4
-clip_start_time: 2.040
-clip_end_time: 9.040

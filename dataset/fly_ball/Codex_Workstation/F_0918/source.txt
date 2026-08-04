@@ -1,7 +1,0 @@
-video_title: Giancarlo Stanton's two-run home run (22) Giancarlo Stanton's two-run home run (22) Giancarlo Stanton's two-run home run (22) Giancarlo Stanton slams a two-run home run to right-center field, giving the Yankees an early 2-0 lead in the bottom of the 1st
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/26/a42f0ef1-6476dcd3-4fbc9f53-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776174_giancarlo-stanton-homers-22-on-a-fly-ball-to-right-center-field-cody-
-clip_id: MLB_776174_giancarlo-stanton-homers-22-on-a-fly-ball-to-right-center-field-cody-_auto1_2p600_9p600
-source_path: raw_sources\MLB_776174_giancarlo-stanton-homers-22-on-a-fly-ball-to-right-center-field-cody-_Giancarlo_Stanton_s_two-run_home_run_22_Giancarlo_Stanton_s_two-run_home_run_22_Giancarlo.mp4
-clip_start_time: 2.600
-clip_end_time: 9.600

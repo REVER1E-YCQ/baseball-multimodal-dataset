@@ -1,7 +1,0 @@
-video_title: Brett Baty's RBI single Brett Baty's RBI single Brett Baty's RBI single Brett Baty hits a hard ground ball through the infield for an RBI single to give the Mets an insurance run
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/19/c14aea7f-4b4ac940-16019941-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_746064_anthony-bender-in-play-run-s-to-brett-baty
-clip_id: MLB_746064_anthony-bender-in-play-run-s-to-brett-baty_auto1_10p400_16p400
-source_path: raw_sources\MLB_746064_anthony-bender-in-play-run-s-to-brett-baty_Brett_Baty_s_RBI_single_Brett_Baty_s_RBI_single_Brett_Baty_s_RBI_single_Brett_Ba.mp4
-clip_start_time: 10.400
-clip_end_time: 16.400

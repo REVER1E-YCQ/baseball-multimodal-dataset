@@ -1,7 +1,0 @@
-video_title: J.D. Davis turns two to end 10th J.D. Davis turns two to end 10th J.D. Davis turns two to end 10th J.D. Davis snags a hard-hit line drive and steps on first base to turn a double play and end the top of the 10th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/23/8a402f4d-a665c839-4e7440e4-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_745660_mason-miller-in-play-out-s-to-elias-diaz
-clip_id: MLB_745660_mason-miller-in-play-out-s-to-elias-diaz_auto1_1p280_8p280
-source_path: raw_sources\MLB_745660_mason-miller-in-play-out-s-to-elias-diaz_J.D._Davis_turns_two_to_end_10th_J.D._Davis_turns_two_to_end_10th_J.D._Davis_tur.mp4
-clip_start_time: 1.280
-clip_end_time: 8.280

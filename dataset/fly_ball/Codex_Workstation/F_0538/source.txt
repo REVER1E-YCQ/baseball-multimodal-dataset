@@ -1,7 +1,0 @@
-video_title: Brandon Nimmo's spectacular leaping catch Brandon Nimmo's spectacular leaping catch Brandon Nimmo's spectacular leaping catch Brandon Nimmo jumps to make an incredible catch on a hard line drive to rob Alec Bohm of extra bases in the 6th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/23/94f9a8ba-a49f9a69-bbd615a2-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_778203_david-peterson-in-play-out-s-to-alec-bohm-s5k0an
-clip_id: MLB_778203_david-peterson-in-play-out-s-to-alec-bohm-s5k0an_auto1_6p000_13p000
-source_path: raw_sources\MLB_778203_david-peterson-in-play-out-s-to-alec-bohm-s5k0an_Brandon_Nimmo_s_spectacular_leaping_catch_Brandon_Nimmo_s_spectacular_leaping_catch_Brandon_Nimmo_s_spectacula.mp4
-clip_start_time: 6.000
-clip_end_time: 13.000

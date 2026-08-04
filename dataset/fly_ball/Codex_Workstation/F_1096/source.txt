@@ -1,7 +1,0 @@
-video_title: Pete Alonso discusses the Mets' success vs. Padres Pete Alonso discusses the Mets' success vs. Padres Pete Alonso discusses the Mets' success vs. Padres Pete Alonso talks about Jonah Tong's great bounce-back start and his home run following the Mets' 6-1 win
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/18/e500fe64-157f87c6-66b0b72c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776276_pete-alonso-discusses-the-mets-success-vs-padres
-clip_id: MLB_776276_pete-alonso-discusses-the-mets-success-vs-padres_auto1_12p400_19p400
-source_path: raw_sources\MLB_776276_pete-alonso-discusses-the-mets-success-vs-padres_Pete_Alonso_discusses_the_Mets_success_vs._Padres_Pete_Alonso_discusses_the_Mets_success_vs._Padres_Pete_Alons.mp4
-clip_start_time: 12.400
-clip_end_time: 19.400

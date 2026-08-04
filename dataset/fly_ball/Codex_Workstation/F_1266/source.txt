@@ -1,7 +1,0 @@
-video_title: Johan Rojas makes a diving grab Johan Rojas makes a diving grab Johan Rojas makes a diving grab Johan Rojas dives to make the catch on a fly ball hit by Kris Bryant in the bottom of the 1st inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/26/a9d9dbd2-9210359b-5f319de7-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_746557_kris-bryant-flies-out-to-center-fielder-johan-rojas
-clip_id: MLB_746557_kris-bryant-flies-out-to-center-fielder-johan-rojas_auto1_3p660_10p660
-source_path: raw_sources\MLB_746557_kris-bryant-flies-out-to-center-fielder-johan-rojas_Johan_Rojas_makes_a_diving_grab_Johan_Rojas_makes_a_diving_grab_Johan_Rojas_make.mp4
-clip_start_time: 3.660
-clip_end_time: 10.660

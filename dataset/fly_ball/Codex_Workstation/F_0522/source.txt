@@ -1,7 +1,0 @@
-video_title: Trevor Story's run-saving diving catch Trevor Story's run-saving diving catch Trevor Story's run-saving diving catch Trevor Story lays out at shortstop to snag a Kody Clemens line drive, robbing a hit and a run to end the top of the 2nd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/03/9cbb084d-67ca6822-0f5236cd-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_778073_hunter-dobbins-in-play-out-s-to-kody-clemens
-clip_id: MLB_778073_hunter-dobbins-in-play-out-s-to-kody-clemens_auto1_2p260_9p260
-source_path: raw_sources\MLB_778073_hunter-dobbins-in-play-out-s-to-kody-clemens_Trevor_Story_s_run-saving_diving_catch_Trevor_Story_s_run-saving_diving_catch_Trevor_Story_s_run-saving_diving_cat.mp4
-clip_start_time: 2.260
-clip_end_time: 9.260

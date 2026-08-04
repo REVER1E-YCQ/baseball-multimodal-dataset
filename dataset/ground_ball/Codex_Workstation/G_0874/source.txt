@@ -1,7 +1,0 @@
-video_title: Brewers turn a double play to end the inning Brewers turn a double play to end the inning Brewers turn a double play to end the inning Caleb Durbin starts a 5-4-3 double play on Andrew McCutchen's grounder to end the top of the 4th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/12/ea9021f1-f2828caf-ab711f16-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_776771_freddy-peralta-in-play-out-s-to-andrew-mccutchen-bt0h63
-clip_id: MLB_776771_freddy-peralta-in-play-out-s-to-andrew-mccutchen-bt0h63_auto1_5p880_11p880
-source_path: raw_sources\MLB_776771_freddy-peralta-in-play-out-s-to-andrew-mccutchen-bt0h63_Brewers_turn_a_double_play_to_end_the_inning_Brewers_turn_a_double_play_to_end_the_inning_Brewers_turn_.mp4
-clip_start_time: 5.880
-clip_end_time: 11.880

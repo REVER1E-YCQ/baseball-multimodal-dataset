@@ -1,7 +1,0 @@
-video_title: Kerry Carpenter's two-run home run (25) Kerry Carpenter's two-run home run (25) Kerry Carpenter's two-run home run (25) Kerry Carpenter crushes a two-run home run to right-center field for his 25th homer of the season, tying the game at 2-2 in the 3rd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/13/ad86f68e-0673f521-7cd8ef62-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776347_kerry-carpenter-homers-25-on-a-fly-ball-to-right-center-field-gleyber
-clip_id: MLB_776347_kerry-carpenter-homers-25-on-a-fly-ball-to-right-center-field-gleyber_auto1_23p460_30p460
-source_path: raw_sources\MLB_776347_kerry-carpenter-homers-25-on-a-fly-ball-to-right-center-field-gleyber_Kerry_Carpenter_s_two-run_home_run_25_Kerry_Carpenter_s_two-run_home_run_25_Kerry_Carpent.mp4
-clip_start_time: 23.460
-clip_end_time: 30.460

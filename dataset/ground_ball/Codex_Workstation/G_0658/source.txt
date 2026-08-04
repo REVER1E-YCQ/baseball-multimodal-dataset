@@ -1,7 +1,0 @@
-video_title: Josh Hader secures final out Josh Hader secures final out Josh Hader secures final out Andrew McCutchen grounds out to Jose Altuve for the final out of the game
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/31/1ba9023e-cf2963cb-3893c596-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_746363_andrew-mccutchen-grounds-out-second-baseman-jose-altuve-to-first-base
-clip_id: MLB_746363_andrew-mccutchen-grounds-out-second-baseman-jose-altuve-to-first-base_auto1_4p180_10p180
-source_path: raw_sources\MLB_746363_andrew-mccutchen-grounds-out-second-baseman-jose-altuve-to-first-base_Josh_Hader_secures_final_out_Josh_Hader_secures_final_out_Josh_Hader_secures_final_out_An.mp4
-clip_start_time: 4.180
-clip_end_time: 10.180

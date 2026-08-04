@@ -1,7 +1,0 @@
-video_title: Aaron Boone discusses Yankees' 11-7 loss Aaron Boone discusses Yankees' 11-7 loss Aaron Boone discusses Yankees' 11-7 loss Aaron Boone talks about the wind's impact on fly balls, Shea Langeliers' big game, Carlos Rodón's outing and more after an 11-7 loss
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/10/7791bd56-1c18c8a9-f1b1f647-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_777972_aaron-boone-discusses-yankees-11-7-loss
-clip_id: MLB_777972_aaron-boone-discusses-yankees-11-7-loss_auto1_50p980_57p980
-source_path: raw_sources\MLB_777972_aaron-boone-discusses-yankees-11-7-loss_Aaron_Boone_discusses_Yankees_11-7_loss_Aaron_Boone_discusses_Yankees_11-7_loss_Aaron_Boone_discusses_Yankees_11-7_loss.mp4
-clip_start_time: 50.980
-clip_end_time: 57.980

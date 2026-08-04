@@ -1,7 +1,0 @@
-video_title: Jackson Holliday's smooth barehanded play  Jackson Holliday's smooth barehanded play  Jackson Holliday's smooth barehanded play  Jackson Holliday charges a slow rolling ground ball and makes a barehanded play to retire Nico Hoerner in the bottom of the 1st inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/01/1ad5ffec-4d9f2344-08419cb5-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776915_trevor-rogers-in-play-out-s-to-nico-hoerner
-clip_id: MLB_776915_trevor-rogers-in-play-out-s-to-nico-hoerner_auto1_3p560_9p560
-source_path: raw_sources\MLB_776915_trevor-rogers-in-play-out-s-to-nico-hoerner_Jackson_Holliday_s_smooth_barehanded_play_Jackson_Holliday_s_smooth_barehanded_play_Jackson_Holliday_s_smooth_bareh.mp4
-clip_start_time: 3.560
-clip_end_time: 9.560

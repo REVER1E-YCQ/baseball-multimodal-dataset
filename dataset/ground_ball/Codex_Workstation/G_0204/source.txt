@@ -1,7 +1,0 @@
-video_title: Sterlin Thompson's RBI groundout Sterlin Thompson's RBI groundout Sterlin Thompson's RBI groundout Sterlin Thompson grounds out, Troy Johnston scores in the top of the 6th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/23/bf0f4bf6-faa19608-c4a98364-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_825080_brandon-pfaadt-in-play-out-s-to-sterlin-thompson
-clip_id: MLB_825080_brandon-pfaadt-in-play-out-s-to-sterlin-thompson_head_0p000_6p000
-source_path: raw_sources\MLB_825080_brandon-pfaadt-in-play-out-s-to-sterlin-thompson_Sterlin_Thompson_s_RBI_groundout_Sterlin_Thompson_s_RBI_groundout_Sterlin_Thomps.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

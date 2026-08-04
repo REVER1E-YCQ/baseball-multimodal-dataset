@@ -1,7 +1,0 @@
-video_title: Brandon Marsh's RBI groundout Brandon Marsh's RBI groundout Brandon Marsh's RBI groundout Brandon Marsh's RBI groundout plates Nick Castellanos, extending the Phillies' lead to 3-0 in the bottom of the 7th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/04/931474b2-bc7d3bc3-03e461e3-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_778459_kirby-yates-in-play-run-s-to-brandon-marsh
-clip_id: MLB_778459_kirby-yates-in-play-run-s-to-brandon-marsh_auto1_6p260_12p260
-source_path: raw_sources\MLB_778459_kirby-yates-in-play-run-s-to-brandon-marsh_Brandon_Marsh_s_RBI_groundout_Brandon_Marsh_s_RBI_groundout_Brandon_Marsh_s_RBI_.mp4
-clip_start_time: 6.260
-clip_end_time: 12.260

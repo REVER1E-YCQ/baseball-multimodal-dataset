@@ -1,7 +1,0 @@
-video_title: Eli White's RBI triple Eli White's RBI triple Eli White's RBI triple Eli White triples on a fly ball to right field, scoring Adam Duvall to extend the Braves' lead to 6-2 in the 8th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/09/3b682091-7883b124-4fb29252-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_747180_eli-white-triples-1-on-a-fly-ball-to-center-fielder-alek-thomas-adam-
-clip_id: MLB_747180_eli-white-triples-1-on-a-fly-ball-to-center-fielder-alek-thomas-adam-_auto1_6p520_13p520
-source_path: raw_sources\MLB_747180_eli-white-triples-1-on-a-fly-ball-to-center-fielder-alek-thomas-adam-_Eli_White_s_RBI_triple_Eli_White_s_RBI_triple_Eli_White_s_RBI_triple_Eli_White_triples_on.mp4
-clip_start_time: 6.520
-clip_end_time: 13.520

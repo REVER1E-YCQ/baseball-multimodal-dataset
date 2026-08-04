@@ -1,7 +1,0 @@
-video_title: Matt Shaw's RBI sac fly Matt Shaw's RBI sac fly Matt Shaw's RBI sac fly Matt Shaw hits a sacrifice fly to center field to plate Nico Hoerner and cut the Cubs' deficit to 3-1 in the top of the 7th
-video_url: https://bdata-producedclips.mlb.com/46f12f2a-f3b7-4ae1-a2f2-52399184fa50.mp4
-source_id: MLB_776412_pierce-johnson-in-play-run-s-to-matt-shaw
-clip_id: MLB_776412_pierce-johnson-in-play-run-s-to-matt-shaw_auto1_9p126_16p126
-source_path: raw_sources\MLB_776412_pierce-johnson-in-play-run-s-to-matt-shaw_Matt_Shaw_s_RBI_sac_fly_Matt_Shaw_s_RBI_sac_fly_Matt_Shaw_s_RBI_sac_fly_Matt_Shaw_hits_a_sacrifice_fly_to_center_fiel.mp4
-clip_start_time: 9.126
-clip_end_time: 16.126

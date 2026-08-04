@@ -1,7 +1,0 @@
-video_title: Alex Vesia seals the save and Dodgers' 8-5 victory Alex Vesia seals the save and Dodgers' 8-5 victory Alex Vesia seals the save and Dodgers' 8-5 victory Alex Vesia induces a line drive to third base, securing the save and Dodgers' 8-5 victory over the Yankees
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/31/59406ff7-d90b850e-8b6330bc-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_777708_alex-vesia-seals-the-save-and-dodgers-8-5-victory
-clip_id: MLB_777708_alex-vesia-seals-the-save-and-dodgers-8-5-victory_auto1_1p120_8p120
-source_path: raw_sources\MLB_777708_alex-vesia-seals-the-save-and-dodgers-8-5-victory_Alex_Vesia_seals_the_save_and_Dodgers_8-5_victory_Alex_Vesia_seals_the_save_and_Dodgers_8-5_victory_Alex_Vesi.mp4
-clip_start_time: 1.120
-clip_end_time: 8.120

@@ -1,7 +1,0 @@
-video_title: Jerar Encarnacion exits with hamstring injury Jerar Encarnacion exits with hamstring injury Jerar Encarnacion exits with hamstring injury Jerar Encarnacion suffers a hamstring injury after running out a ground ball and leaves the game during the 7th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/06/0fd866a0-21a1dca5-41589aaa-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776844_jerar-encarnacion-grounds-out-second-baseman-nick-gonzales-to-first-b
-clip_id: MLB_776844_jerar-encarnacion-grounds-out-second-baseman-nick-gonzales-to-first-b_auto1_5p480_11p480
-source_path: raw_sources\MLB_776844_jerar-encarnacion-grounds-out-second-baseman-nick-gonzales-to-first-b_Jerar_Encarnacion_exits_with_hamstring_injury_Jerar_Encarnacion_exits_with_hamstring_inju.mp4
-clip_start_time: 5.480
-clip_end_time: 11.480

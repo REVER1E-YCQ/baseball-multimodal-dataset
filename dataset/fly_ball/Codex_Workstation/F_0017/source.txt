@@ -1,7 +1,0 @@
-video_title: Vladimir Guerrero Jr.'s game-tying RBI single Vladimir Guerrero Jr.'s game-tying RBI single Vladimir Guerrero Jr.'s game-tying RBI single Vladimir Guerrero Jr. ties the game for the Blue Jays on a line drive to center field in the top of the 8th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/20/a141aed4-5049c512-81cc5936-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_824665_jacob-webb-in-play-run-s-to-vladimir-guerrero-jr
-clip_id: MLB_824665_jacob-webb-in-play-run-s-to-vladimir-guerrero-jr_head_0p000_7p000
-source_path: raw_sources\MLB_824665_jacob-webb-in-play-run-s-to-vladimir-guerrero-jr_Vladimir_Guerrero_Jr._s_game-tying_RBI_single_Vladimir_Guerrero_Jr._s_game-tying.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000

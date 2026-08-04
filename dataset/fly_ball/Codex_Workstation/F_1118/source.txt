@@ -1,7 +1,0 @@
-video_title: Shohei Ohtani on his two homers, pitching in 10-5 win Shohei Ohtani on his two homers, pitching in 10-5 win Shohei Ohtani on his two homers, pitching in 10-5 win Shohei Ohtani breaks down his two-home run performance, when he is available to pitch in this series, and more following the win in Game 1
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/30/f2bcd35e-14b50b58-223c0e82-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_813069_shohei-ohtani-on-his-two-homers-pitching-in-10-5-win
-clip_id: MLB_813069_shohei-ohtani-on-his-two-homers-pitching-in-10-5-win_auto1_0p180_7p180
-source_path: raw_sources\MLB_813069_shohei-ohtani-on-his-two-homers-pitching-in-10-5-win_Shohei_Ohtani_on_his_two_homers_pitching_in_10-5_win_Shohei_Ohtani_on_his_two_homers_pitching_in_10-5_win_.mp4
-clip_start_time: 0.180
-clip_end_time: 7.180

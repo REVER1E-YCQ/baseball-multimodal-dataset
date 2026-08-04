@@ -1,7 +1,0 @@
-video_title: Jahmai Jones' leadoff home run (5) Jahmai Jones' leadoff home run (5) Jahmai Jones' leadoff home run (5) Jahmai Jones belts the first pitch he sees over the fence in left field, giving the Tigers an early 1-0 lead in the 1st
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/01/4ec48dc2-ec37425d-a5ed14fe-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776501_sean-manaea-in-play-run-s-to-jahmai-jones
-clip_id: MLB_776501_sean-manaea-in-play-run-s-to-jahmai-jones_auto1_21p545_28p545
-source_path: raw_sources\MLB_776501_sean-manaea-in-play-run-s-to-jahmai-jones_Jahmai_Jones_leadoff_home_run_5_Jahmai_Jones_leadoff_home_run_5_Jahmai_Jones_leadoff_home_run_5_Jahmai_Jones_belts_th.mp4
-clip_start_time: 21.545
-clip_end_time: 28.545

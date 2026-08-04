@@ -1,7 +1,0 @@
-video_title: Jake Fraley's RBI groundout Jake Fraley's RBI groundout Jake Fraley's RBI groundout
-video_url: https://bdata-producedclips.mlb.com/cc7404f0-1c3f-4279-a2c9-f50225093a99.mp4
-source_id: MLB_746548_josh-rogers-in-play-out-s-to-jake-fraley
-clip_id: MLB_746548_josh-rogers-in-play-out-s-to-jake-fraley_auto1_5p140_11p140
-source_path: raw_sources\MLB_746548_josh-rogers-in-play-out-s-to-jake-fraley_Jake_Fraley_s_RBI_groundout_Jake_Fraley_s_RBI_groundout_Jake_Fraley_s_RBI_ground.mp4
-clip_start_time: 5.140
-clip_end_time: 11.140

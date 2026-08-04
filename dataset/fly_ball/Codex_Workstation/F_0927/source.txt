@@ -1,7 +1,0 @@
-video_title: Shohei Ohtani's two-run homer (54) Shohei Ohtani's two-run homer (54) Shohei Ohtani's two-run homer (54)  Shohei Ohtani hits a two-run home run to right-center field in top of the 4th, driving home his 101st RBI of the year and extending his hit streak to 10 games
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/25/8b757d4a-e08878f8-551a5eba-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776185_shohei-ohtani-homers-54-on-a-fly-ball-to-right-center-field-enrique-h
-clip_id: MLB_776185_shohei-ohtani-homers-54-on-a-fly-ball-to-right-center-field-enrique-h_auto1_2p500_9p500
-source_path: raw_sources\MLB_776185_shohei-ohtani-homers-54-on-a-fly-ball-to-right-center-field-enrique-h_Shohei_Ohtani_s_two-run_homer_54_Shohei_Ohtani_s_two-run_homer_54_Shohei_Ohtani_s_two-run.mp4
-clip_start_time: 2.500
-clip_end_time: 9.500

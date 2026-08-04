@@ -1,7 +1,0 @@
-video_title: Dansby Swanson's solo home run (23) Dansby Swanson's solo home run (23) Dansby Swanson's solo home run (23) Dansby Swanson ties the game for the Cubs with a solo home run to center field in the 2nd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/19/162eb6a7-64c29cd4-178ca5af-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776267_nick-lodolo-in-play-run-s-to-dansby-swanson
-clip_id: MLB_776267_nick-lodolo-in-play-run-s-to-dansby-swanson_auto1_3p440_10p440
-source_path: raw_sources\MLB_776267_nick-lodolo-in-play-run-s-to-dansby-swanson_Dansby_Swanson_s_solo_home_run_23_Dansby_Swanson_s_solo_home_run_23_Dansby_Swanson_s_solo_home_run_23_Dansby_Swanso.mp4
-clip_start_time: 3.440
-clip_end_time: 10.440

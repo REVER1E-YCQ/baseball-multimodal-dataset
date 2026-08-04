@@ -1,7 +1,0 @@
-video_title: Heliot Ramos throws out Gabriel Arias at home Heliot Ramos throws out Gabriel Arias at home Heliot Ramos throws out Gabriel Arias at home Heliot Ramos catches the fly ball and throws to Logan Porter, who tags Gabriel Arias out at home after the Guardians' challenge is upheld
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/17/1d148cc3-90aa598f-1204f28d-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_777472_angel-martinez-flies-into-a-double-play-left-fielder-heliot-ramos-to-
-clip_id: MLB_777472_angel-martinez-flies-into-a-double-play-left-fielder-heliot-ramos-to-_auto1_5p340_12p340
-source_path: raw_sources\MLB_777472_angel-martinez-flies-into-a-double-play-left-fielder-heliot-ramos-to-_Heliot_Ramos_throws_out_Gabriel_Arias_at_home_Heliot_Ramos_throws_out_Gabriel_Arias_at_ho.mp4
-clip_start_time: 5.340
-clip_end_time: 12.340

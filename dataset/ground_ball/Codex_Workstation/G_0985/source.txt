@@ -1,7 +1,0 @@
-video_title: Graham Pauley's diving stop  Graham Pauley's diving stop  Graham Pauley's diving stop  Graham Pauley makes a dazzling diving stop on a hard-hit ground ball and makes the throw to retire Giancarlo Stanton
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/02/d962b687-cf73737f-756b5aa0-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776910_giancarlo-stanton-grounds-out-third-baseman-graham-pauley-to-first-ba
-clip_id: MLB_776910_giancarlo-stanton-grounds-out-third-baseman-graham-pauley-to-first-ba_auto1_23p813_29p813
-source_path: raw_sources\MLB_776910_giancarlo-stanton-grounds-out-third-baseman-graham-pauley-to-first-ba_Graham_Pauley_s_diving_stop_Graham_Pauley_s_diving_stop_Graham_Pauley_s_diving_stop_Graha.mp4
-clip_start_time: 23.813
-clip_end_time: 29.813

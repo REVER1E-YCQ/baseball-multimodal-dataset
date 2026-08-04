@@ -1,7 +1,0 @@
-video_title: Alexis Díaz secures the Reds' win Alexis Díaz secures the Reds' win Alexis Díaz secures the Reds' win Spencer Steer catches Seiya Suzuki's fly ball in left field, clinching the Reds' 6-3 win over the Cubs
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/30/4dd405f8-db70b9ff-da381469-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_746683_seiya-suzuki-flies-out-to-left-fielder-spencer-steer
-clip_id: MLB_746683_seiya-suzuki-flies-out-to-left-fielder-spencer-steer_auto1_17p660_24p660
-source_path: raw_sources\MLB_746683_seiya-suzuki-flies-out-to-left-fielder-spencer-steer_Alexis_D_az_secures_the_Reds_win_Alexis_D_az_secures_the_Reds_win_Alexis_D_az_secures_the_Reds_win_Spencer.mp4
-clip_start_time: 17.660
-clip_end_time: 24.660

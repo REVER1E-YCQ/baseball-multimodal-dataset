@@ -1,7 +1,0 @@
-video_title: Juan Soto's RBI single  Juan Soto's RBI single  Juan Soto's RBI single  Juan Soto grounds an RBI single to right field, scoring Oswaldo Cabrera and collecting his first Yankees hit in the Bronx
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-04/06/ac162f14-c6901768-0eec41e0-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_745766_juan-soto-singles-on-a-sharp-ground-ball-to-right-fielder-george-spri
-clip_id: MLB_745766_juan-soto-singles-on-a-sharp-ground-ball-to-right-fielder-george-spri_auto1_21p800_27p800
-source_path: raw_sources\MLB_745766_juan-soto-singles-on-a-sharp-ground-ball-to-right-fielder-george-spri_Juan_Soto_s_RBI_single_Juan_Soto_s_RBI_single_Juan_Soto_s_RBI_single_Juan_Soto_g.mp4
-clip_start_time: 21.800
-clip_end_time: 27.800

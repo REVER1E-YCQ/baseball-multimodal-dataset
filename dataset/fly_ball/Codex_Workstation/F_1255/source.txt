@@ -1,7 +1,0 @@
-video_title: Jason Foley seals Tigers' win Jason Foley seals Tigers' win Jason Foley seals Tigers' win Bryson Stott flies out to Riley Greene, sealing the Tigers' 4-1 win against the Phillies
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/25/fd6b7f3f-9cd527f9-78a46e32-csvm-diamondx64-asset-4000K.mp4
-source_id: MLB_746454_bryson-stott-flies-out-to-left-fielder-riley-greene
-clip_id: MLB_746454_bryson-stott-flies-out-to-left-fielder-riley-greene_auto1_6p204_13p204
-source_path: raw_sources\MLB_746454_bryson-stott-flies-out-to-left-fielder-riley-greene_Jason_Foley_seals_Tigers_win_Jason_Foley_seals_Tigers_win_Jason_Foley_seals_Tigers_win_Bryson_Stott_flies_o.mp4
-clip_start_time: 6.204
-clip_end_time: 13.204

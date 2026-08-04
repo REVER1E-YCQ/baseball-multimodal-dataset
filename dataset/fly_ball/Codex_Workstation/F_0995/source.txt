@@ -1,7 +1,0 @@
-video_title: Liam Hicks' two-run homer (6) Liam Hicks' two-run homer (6) Liam Hicks' two-run homer (6) Liam Hicks gives the Marlins a 3-2 lead with a two-run home run in the top of the 3rd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/18/3c27f41e-6b1efb57-095806f0-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776270_liam-hicks-homers-6-on-a-fly-ball-to-right-center-field-agustin-ramir
-clip_id: MLB_776270_liam-hicks-homers-6-on-a-fly-ball-to-right-center-field-agustin-ramir_auto1_4p460_11p460
-source_path: raw_sources\MLB_776270_liam-hicks-homers-6-on-a-fly-ball-to-right-center-field-agustin-ramir_Liam_Hicks_two-run_homer_6_Liam_Hicks_two-run_homer_6_Liam_Hicks_two-run_homer_6_Liam_Hic.mp4
-clip_start_time: 4.460
-clip_end_time: 11.460

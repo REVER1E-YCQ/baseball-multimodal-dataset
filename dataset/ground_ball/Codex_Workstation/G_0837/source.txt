@@ -1,7 +1,0 @@
-video_title: Pete Crow-Armstrong's single Pete Crow-Armstrong's single Pete Crow-Armstrong's single Pete Crow-Armstrong singles on a ground ball to right, sending Ian Happ to third in the 1st
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/28/c0dc72f4-5901c536-8cfcd25b-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_776550_logan-webb-in-play-no-out-to-pete-crow-armstrong
-clip_id: MLB_776550_logan-webb-in-play-no-out-to-pete-crow-armstrong_auto1_5p500_11p500
-source_path: raw_sources\MLB_776550_logan-webb-in-play-no-out-to-pete-crow-armstrong_Pete_Crow-Armstrong_s_single_Pete_Crow-Armstrong_s_single_Pete_Crow-Armstrong_s_single_Pete_Crow-Armstrong_sin.mp4
-clip_start_time: 5.500
-clip_end_time: 11.500

@@ -1,7 +1,0 @@
-video_title: Ramón Urías' phenomenal snag Ramón Urías' phenomenal snag Ramón Urías' lays out for a sensational catch Ramón Urías dives to his left to field a hard-hit grounder then gets the runner at first for the second out of the bottom of the 8th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/03/51caabd6-5f6f3aad-9321fd48-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_744930_yennier-cano-in-play-out-s-to-vladimir-guerrero-jr-js6cw3
-clip_id: MLB_744930_yennier-cano-in-play-out-s-to-vladimir-guerrero-jr-js6cw3_auto1_4p560_10p560
-source_path: raw_sources\MLB_744930_yennier-cano-in-play-out-s-to-vladimir-guerrero-jr-js6cw3_Ram_n_Ur_as_phenomenal_snag_Ram_n_Ur_as_phenomenal_snag_Ram_n_Ur_as_lays_out_for.mp4
-clip_start_time: 4.560
-clip_end_time: 10.560

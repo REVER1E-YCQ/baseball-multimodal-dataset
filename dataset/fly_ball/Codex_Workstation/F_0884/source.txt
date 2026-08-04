@@ -1,7 +1,0 @@
-video_title: Brooks Baldwin's solo home run (11) Brooks Baldwin's solo home run (11) Brooks Baldwin's solo home run (11) Brooks Baldwin crushes a 423-foot solo home run to right-center field, extending the White Sox lead to 3-0 in the 4th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/28/d2c347c5-145e2f42-e32b1774-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776143_brooks-baldwin-homers-11-on-a-fly-ball-to-right-center-field
-clip_id: MLB_776143_brooks-baldwin-homers-11-on-a-fly-ball-to-right-center-field_auto1_3p640_10p640
-source_path: raw_sources\MLB_776143_brooks-baldwin-homers-11-on-a-fly-ball-to-right-center-field_Brooks_Baldwin_s_solo_home_run_11_Brooks_Baldwin_s_solo_home_run_11_Brooks_Baldwin_s_solo_home_run.mp4
-clip_start_time: 3.640
-clip_end_time: 10.640

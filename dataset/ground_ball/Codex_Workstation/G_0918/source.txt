@@ -1,7 +1,0 @@
-video_title: Alex Bregman's fantastic barehanded play Alex Bregman's fantastic barehanded play Alex Bregman's fantastic barehanded play Alex Bregman charges Christopher Morel's grounder and grabs it with his bare hand, then throws to first in time for the out in the 4th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/20/b1b9874c-1e66f0e5-6b58fb7d-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776247_kyle-harrison-in-play-out-s-to-christopher-morel
-clip_id: MLB_776247_kyle-harrison-in-play-out-s-to-christopher-morel_auto1_10p967_16p967
-source_path: raw_sources\MLB_776247_kyle-harrison-in-play-out-s-to-christopher-morel_Alex_Bregman_s_fantastic_barehanded_play_Alex_Bregman_s_fantastic_barehanded_play_Alex_Bregman_s_fantastic_bar.mp4
-clip_start_time: 10.967
-clip_end_time: 16.967

@@ -1,7 +1,0 @@
-video_title: Christian Vázquez's sliding catch Christian Vázquez's sliding catch Christian Vázquez makes a sliding basket catch Christian Vázquez pops up from behind the plate and makes a sliding basket catch to retire Travis Jankowski
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/24/c1339015-0832ee5b-380eca0f-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_745905_steven-okert-in-play-out-s-to-travis-jankowski
-clip_id: MLB_745905_steven-okert-in-play-out-s-to-travis-jankowski_auto1_3p220_10p220
-source_path: raw_sources\MLB_745905_steven-okert-in-play-out-s-to-travis-jankowski_Christian_V_zquez_s_sliding_catch_Christian_V_zquez_s_sliding_catch_Christian_V_.mp4
-clip_start_time: 3.220
-clip_end_time: 10.220

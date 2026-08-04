@@ -1,7 +1,0 @@
-video_title: Michael Harris II's two-homer game Michael Harris II's two-homer game Michael Harris II's two-homer game Michael Harris II crushes a pair of solo home runs to right-center field to help the Braves win their 10th straight game
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/23/72f6961c-8f5835a2-5d911f89-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776219_michael-harris-ii-s-two-homer-game-x9185
-clip_id: MLB_776219_michael-harris-ii-s-two-homer-game-x9185_auto1_1p020_8p020
-source_path: raw_sources\MLB_776219_michael-harris-ii-s-two-homer-game-x9185_Michael_Harris_II_s_two-homer_game_Michael_Harris_II_s_two-homer_game_Michael_Harris_II_s_two-homer_game_Michael_Harri.mp4
-clip_start_time: 1.020
-clip_end_time: 8.020

@@ -1,7 +1,0 @@
-video_title:  Elly De La Cruz's backhanded stop and throw  Elly De La Cruz's backhanded stop and throw  Elly De La Cruz's backhanded stop and throw Elly De La Cruz makes a backhanded stop on William Contreras' grounder, then fires a two-hop throw to first in time for the out
-video_url: https://bdata-producedclips.mlb.com/e532a7f4-4ae9-458d-b763-417ec77dc98d.mp4
-source_id: MLB_778453_nick-martinez-in-play-out-s-to-william-contreras-ccuxlx
-clip_id: MLB_778453_nick-martinez-in-play-out-s-to-william-contreras-ccuxlx_auto1_5p900_11p900
-source_path: raw_sources\MLB_778453_nick-martinez-in-play-out-s-to-william-contreras-ccuxlx_Elly_De_La_Cruz_s_backhanded_stop_and_throw_Elly_De_La_Cruz_s_backhanded_stop_an.mp4
-clip_start_time: 5.900
-clip_end_time: 11.900

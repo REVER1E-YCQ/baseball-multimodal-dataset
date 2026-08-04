@@ -1,7 +1,0 @@
-video_title: Freddy Fermin throws out Josh Naylor at first Freddy Fermin throws out Josh Naylor at first Freddy Fermin throws out Josh Naylor at first Freddy Fermin fields a grounder with lots of backspin from Josh Naylor, leaving runners at the corners in the bottom of the 7th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/27/fe5eddb1-adaa003a-560ab6d3-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_776561_josh-naylor-grounds-out-softly-catcher-freddy-fermin-to-first-baseman
-clip_id: MLB_776561_josh-naylor-grounds-out-softly-catcher-freddy-fermin-to-first-baseman_auto1_3p160_9p160
-source_path: raw_sources\MLB_776561_josh-naylor-grounds-out-softly-catcher-freddy-fermin-to-first-baseman_Freddy_Fermin_throws_out_Josh_Naylor_at_first_Freddy_Fermin_throws_out_Josh_Naylor_at_fir.mp4
-clip_start_time: 3.160
-clip_end_time: 9.160

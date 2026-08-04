@@ -1,7 +1,0 @@
-video_title: Yandy Díaz's 1,000th career hit Yandy Díaz's 1,000th career hit Yandy Díaz's 1,000th career hit Yandy Díaz hits a ground-rule double on a line drive to right field, making this his 1,000th career hit in the top of the 9th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/07/9115d0d5-bc883a6c-fa9c1882-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_824767_ryan-watson-in-play-no-out-to-yandy-diaz
-clip_id: MLB_824767_ryan-watson-in-play-no-out-to-yandy-diaz_head_0p000_7p000
-source_path: raw_sources\MLB_824767_ryan-watson-in-play-no-out-to-yandy-diaz_Yandy_D_az_s_1_000th_career_hit_Yandy_D_az_s_1_000th_career_hit_Yandy_D_az_s_1_0.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000

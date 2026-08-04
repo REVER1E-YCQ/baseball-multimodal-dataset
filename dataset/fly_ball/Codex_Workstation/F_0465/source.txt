@@ -1,7 +1,0 @@
-video_title: Mike Tauchman plates Josh Rojas on sac fly Mike Tauchman plates Josh Rojas on sac fly Mike Tauchman plates Josh Rojas on sac fly Mike Tauchman sends a fly ball to left field, scoring Josh Rojas from third base, giving the White Sox a 1-0 lead over the Tigers in the 4th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/05/834f3a91-ed0cfd8c-24175af2-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_777634_casey-mize-in-play-run-s-to-mike-tauchman
-clip_id: MLB_777634_casey-mize-in-play-run-s-to-mike-tauchman_auto1_10p252_17p252
-source_path: raw_sources\MLB_777634_casey-mize-in-play-run-s-to-mike-tauchman_Mike_Tauchman_plates_Josh_Rojas_on_sac_fly_Mike_Tauchman_plates_Josh_Rojas_on_sac_fly_Mike_Tauchman_plates_Josh_Rojas.mp4
-clip_start_time: 10.252
-clip_end_time: 17.252

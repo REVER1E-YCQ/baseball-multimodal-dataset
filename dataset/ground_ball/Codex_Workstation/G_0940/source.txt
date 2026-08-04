@@ -1,7 +1,0 @@
-video_title: Geraldo Perdomo fields the final out Geraldo Perdomo fields the final out Geraldo Perdomo fields the final out Geraldo Perdomo fields a grounder, then tosses to first to get the out as the D-backs defeat the Dodgers, 6-1
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/30/fec7a955-c63ecbd7-0f96d20d-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776523_jake-woodford-in-play-out-s-to-miguel-rojas
-clip_id: MLB_776523_jake-woodford-in-play-out-s-to-miguel-rojas_auto1_19p425_25p425
-source_path: raw_sources\MLB_776523_jake-woodford-in-play-out-s-to-miguel-rojas_Geraldo_Perdomo_fields_the_final_out_Geraldo_Perdomo_fields_the_final_out_Geraldo_Perdomo_fields_the_final_out_Gera.mp4
-clip_start_time: 19.425
-clip_end_time: 25.425

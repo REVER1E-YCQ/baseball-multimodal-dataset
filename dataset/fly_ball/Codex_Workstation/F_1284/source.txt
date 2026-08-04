@@ -1,7 +1,0 @@
-video_title: Paul Goldschmidt's solo home run (17) Paul Goldschmidt's solo home run (17) Paul Goldschmidt's solo home run (17) Paul Goldschmidt homers on a fly ball to center field, giving the Cardinals a 1-0 lead in the top of the 1st
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-08/01/3e4d3a02-7afa47a8-f24816e7-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_746849_paul-goldschmidt-homers-17-on-a-fly-ball-to-center-field
-clip_id: MLB_746849_paul-goldschmidt-homers-17-on-a-fly-ball-to-center-field_auto1_5p180_12p180
-source_path: raw_sources\MLB_746849_paul-goldschmidt-homers-17-on-a-fly-ball-to-center-field_Paul_Goldschmidt_s_solo_home_run_17_Paul_Goldschmidt_s_solo_home_run_17_Paul_Goldschmidt_s_solo_home_r.mp4
-clip_start_time: 5.180
-clip_end_time: 12.180

@@ -1,7 +1,0 @@
-video_title: Evan Phillips induces groundout, Dodgers win 4-3 Evan Phillips induces groundout, Dodgers win 4-3 Evan Phillips induces groundout, Dodgers win 4-3 Evan Phillips gets Eloy Jiménez to ground out at third base, giving the Dodgers a 4-3 win over the White Sox
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/25/37f8fedb-71c58a36-6569226c-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_746775_evan-phillips-in-play-out-s-to-eloy-jimenez-u9jnht
-clip_id: MLB_746775_evan-phillips-in-play-out-s-to-eloy-jimenez-u9jnht_auto1_7p320_13p320
-source_path: raw_sources\MLB_746775_evan-phillips-in-play-out-s-to-eloy-jimenez-u9jnht_Evan_Phillips_induces_groundout_Dodgers_win_4-3_Evan_Phillips_induces_groundout_Dodgers_win_4-3_Evan_Phillip.mp4
-clip_start_time: 7.320
-clip_end_time: 13.320

@@ -1,7 +1,0 @@
-video_title: Pages, Freeman hit back-to-back homers in the 2nd Pages, Freeman hit back-to-back homers in the 2nd Pages, Freeman hit back-to-back homers in the 2nd Andy Pages and Freddie Freeman hit back-to-back home runs in the top of the 2nd inning vs. D-backs
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/25/8dab10bb-f44e2758-f73fa6e8-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776185_pages-freeman-hit-back-to-back-homers-in-the-2nd
-clip_id: MLB_776185_pages-freeman-hit-back-to-back-homers-in-the-2nd_auto1_3p600_10p600
-source_path: raw_sources\MLB_776185_pages-freeman-hit-back-to-back-homers-in-the-2nd_Pages_Freeman_hit_back-to-back_homers_in_the_2nd_Pages_Freeman_hit_back-to-back_homers_in_the_2nd_Pages_Freema.mp4
-clip_start_time: 3.600
-clip_end_time: 10.600

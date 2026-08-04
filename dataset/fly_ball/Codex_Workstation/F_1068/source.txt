@@ -1,7 +1,0 @@
-video_title: Four-run 5th inning leads Cardinals to win Four-run 5th inning leads Cardinals to win Four-run 5th inning leads Cardinals to win Led by a two-run home run from Iván Herrera, the Cardinals plate four runs in the 5th in their 6-5 win over the Giants #CurtainCall
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/22/88a2e617-98c98584-56382b37-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776220_four-run-5th-inning-leads-cardinals-to-win
-clip_id: MLB_776220_four-run-5th-inning-leads-cardinals-to-win_auto1_1p000_8p000
-source_path: raw_sources\MLB_776220_four-run-5th-inning-leads-cardinals-to-win_Four-run_5th_inning_leads_Cardinals_to_win_Four-run_5th_inning_leads_Cardinals_to_win_Four-run_5th_inning_leads_Card.mp4
-clip_start_time: 1.000
-clip_end_time: 8.000

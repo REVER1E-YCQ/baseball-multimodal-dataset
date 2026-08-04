@@ -1,7 +1,0 @@
-video_title: Jackson Chourio throws out Michael Toglia at second Jackson Chourio throws out Michael Toglia at second Jackson Chourio throws out Michael Toglia at second Jackson Chourio fields Michael Toglia's line drive off the right-field wall and makes a perfect throw to second to cut him down and end the 6th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/05/3da00a1e-7626c99a-5b0c9646-csvm-diamondx64-asset-4000K.mp4
-source_id: MLB_746532_tobias-myers-in-play-out-s-to-michael-toglia-ryrvsr
-clip_id: MLB_746532_tobias-myers-in-play-out-s-to-michael-toglia-ryrvsr_auto1_8p960_15p960
-source_path: raw_sources\MLB_746532_tobias-myers-in-play-out-s-to-michael-toglia-ryrvsr_Jackson_Chourio_throws_out_Michael_Toglia_at_second_Jackson_Chourio_throws_out_Michael_Toglia_at_second_Jac.mp4
-clip_start_time: 8.960
-clip_end_time: 15.960

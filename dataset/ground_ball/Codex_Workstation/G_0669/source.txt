@@ -1,7 +1,0 @@
-video_title: Matt Chapman's smooth backhanded play Matt Chapman's smooth backhanded play Matt Chapman's smooth backhanded play Matt Chapman makes a backhanded snag on Nick Castellanos' grounder down the third-base line, then fires a long throw to first in time for the out
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/14/1ba7f593-27a83872-ef2bb700-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_778320_landen-roupp-in-play-out-s-to-nick-castellanos
-clip_id: MLB_778320_landen-roupp-in-play-out-s-to-nick-castellanos_auto1_5p760_11p760
-source_path: raw_sources\MLB_778320_landen-roupp-in-play-out-s-to-nick-castellanos_Matt_Chapman_s_smooth_backhanded_play_Matt_Chapman_s_smooth_backhanded_play_Matt_Chapman_s_smooth_backhanded_pla.mp4
-clip_start_time: 5.760
-clip_end_time: 11.760

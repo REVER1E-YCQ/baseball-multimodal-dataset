@@ -1,7 +1,0 @@
-video_title: Shohei Ohtani's second homer of the game Shohei Ohtani's second homer of the game Shohei Ohtani's second homer of the game Shohei Ohtani drills a two-run home run 454 feet to right for his second of the game, while driving in Enrique Hernández and giving the Dodgers an 8-0 lead in the 6th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/30/815cdb41-fef4dcbd-d08eb7db-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_813069_shohei-ohtani-homers-2-on-a-fly-ball-to-right-center-field-enrique-he
-clip_id: MLB_813069_shohei-ohtani-homers-2-on-a-fly-ball-to-right-center-field-enrique-he_auto1_5p460_12p460
-source_path: raw_sources\MLB_813069_shohei-ohtani-homers-2-on-a-fly-ball-to-right-center-field-enrique-he_Shohei_Ohtani_s_second_homer_of_the_game_Shohei_Ohtani_s_second_homer_of_the_game_Shohei_.mp4
-clip_start_time: 5.460
-clip_end_time: 12.460

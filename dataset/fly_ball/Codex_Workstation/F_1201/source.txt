@@ -1,7 +1,0 @@
-video_title: Jose Siri's ridiculous throw completes double play Jose Siri's ridiculous throw completes double play Jose Siri's ridiculous throw completes double play Jose Siri snags a fly ball and makes a perfect throw to third in time for José Caballero to tag out Royce Lewis
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/20/d5ff0ff0-35a82f35-c1449aa2-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_745889_pete-fairbanks-in-play-out-s-to-carlos-correa
-clip_id: MLB_745889_pete-fairbanks-in-play-out-s-to-carlos-correa_auto1_9p220_16p220
-source_path: raw_sources\MLB_745889_pete-fairbanks-in-play-out-s-to-carlos-correa_Jose_Siri_s_ridiculous_throw_completes_double_play_Jose_Siri_s_ridiculous_throw_completes_double_play_Jose_Siri_s.mp4
-clip_start_time: 9.220
-clip_end_time: 16.220

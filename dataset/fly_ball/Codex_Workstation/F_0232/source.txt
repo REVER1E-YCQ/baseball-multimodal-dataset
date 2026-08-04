@@ -1,7 +1,0 @@
-video_title: Daulton Varsho's leaping grab Daulton Varsho's leaping grab Daulton Varsho's leaping grab Daulton Varsho leaps into the wall to make a great catch on José Caballero's fly ball to end the top of the 5th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/24/bccfd213-58e7bd03-7f9bcdaf-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_744905_yariel-rodriguez-in-play-out-s-to-jose-caballero-sfm53h
-clip_id: MLB_744905_yariel-rodriguez-in-play-out-s-to-jose-caballero-sfm53h_auto1_8p980_15p980
-source_path: raw_sources\MLB_744905_yariel-rodriguez-in-play-out-s-to-jose-caballero-sfm53h_Daulton_Varsho_s_leaping_grab_Daulton_Varsho_s_leaping_grab_Daulton_Varsho_s_leaping_grab_Daulton_Varsh.mp4
-clip_start_time: 8.980
-clip_end_time: 15.980

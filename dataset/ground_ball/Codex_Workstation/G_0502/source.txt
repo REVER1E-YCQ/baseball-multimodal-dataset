@@ -1,7 +1,0 @@
-video_title: Wyatt Langford's RBI fielder's choice Wyatt Langford's RBI fielder's choice Wyatt Langford's RBI fielder's choice Wyatt Langford hits a ground ball down the third-base line, allowing Leody Taveras to score
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/31/d3d12d02-3ffeb1ac-223358fd-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_746059_declan-cronin-in-play-run-s-to-wyatt-langford
-clip_id: MLB_746059_declan-cronin-in-play-run-s-to-wyatt-langford_auto1_16p400_22p400
-source_path: raw_sources\MLB_746059_declan-cronin-in-play-run-s-to-wyatt-langford_Wyatt_Langford_s_RBI_fielder_s_choice_Wyatt_Langford_s_RBI_fielder_s_choice_Wyat.mp4
-clip_start_time: 16.400
-clip_end_time: 22.400

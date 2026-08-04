@@ -1,7 +1,0 @@
-video_title: Josh Bell's double Josh Bell's double Josh Bell's double Josh Bell splits the gap in right-center field with a line drive for a double in the top of the 4th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/09/820fc4bb-7e685937-11b6fb9a-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_777178_josh-bell-s-double-f499e6
-clip_id: MLB_777178_josh-bell-s-double-f499e6_auto1_16p172_23p172
-source_path: raw_sources\MLB_777178_josh-bell-s-double-f499e6_Josh_Bell_s_double_Josh_Bell_s_double_Josh_Bell_s_double_Josh_Bell_splits_the_gap_in_right-center_field_with_a_line_drive_for_a_doubl.mp4
-clip_start_time: 16.172
-clip_end_time: 23.172

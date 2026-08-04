@@ -1,7 +1,0 @@
-video_title: Bryce Harper's two-run double Bryce Harper's two-run double Bryce Harper's two-run double Bryce Harper doubles on a line drive to left field and scores two, putting the Phillies ahead by 5 over the A's in the 8th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/13/a8faf43b-ce2362b6-dc887b77-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_745549_bryce-harper-doubles-21-on-a-line-drive-to-left-fielder-miguel-anduja
-clip_id: MLB_745549_bryce-harper-doubles-21-on-a-line-drive-to-left-fielder-miguel-anduja_auto1_5p440_12p440
-source_path: raw_sources\MLB_745549_bryce-harper-doubles-21-on-a-line-drive-to-left-fielder-miguel-anduja_Bryce_Harper_s_two-run_double_Bryce_Harper_s_two-run_double_Bryce_Harper_s_two-run_double.mp4
-clip_start_time: 5.440
-clip_end_time: 12.440

@@ -1,7 +1,0 @@
-video_title: Spencer Horwitz's solo home run (3) Spencer Horwitz's solo home run (3) Spencer Horwitz's solo home run (3) Spencer Horwitz homers on a fly ball to right field, extending the Blue Jays' lead to 2-0 in the bottom of the 3rd
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/02/1f271cea-339e120b-34acdcf0-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_744913_spencer-horwitz-homers-3-on-a-fly-ball-to-right-field
-clip_id: MLB_744913_spencer-horwitz-homers-3-on-a-fly-ball-to-right-field_auto1_5p860_12p860
-source_path: raw_sources\MLB_744913_spencer-horwitz-homers-3-on-a-fly-ball-to-right-field_Spencer_Horwitz_s_solo_home_run_3_Spencer_Horwitz_s_solo_home_run_3_Spencer_Horwitz_s_solo_home_run_3_Spe.mp4
-clip_start_time: 5.860
-clip_end_time: 12.860

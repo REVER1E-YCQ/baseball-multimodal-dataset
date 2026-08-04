@@ -1,7 +1,0 @@
-video_title: Luis García Jr.'s three-run home run (6) Luis García Jr.'s three-run home run (6) Luis García Jr.'s three-run home run (6) Luis García Jr. lifts a fly ball just over the right-field wall for a three-run home run to give the Nationals a 5-0 lead
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/21/fd9dadcf-c59728c2-c050fed9-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_746540_luis-garcia-jr-homers-6-on-a-fly-ball-to-right-field-eddie-rosario-sc
-clip_id: MLB_746540_luis-garcia-jr-homers-6-on-a-fly-ball-to-right-field-eddie-rosario-sc_auto1_3p840_10p840
-source_path: raw_sources\MLB_746540_luis-garcia-jr-homers-6-on-a-fly-ball-to-right-field-eddie-rosario-sc_Luis_Garc_a_Jr._s_three-run_home_run_6_Luis_Garc_a_Jr._s_three-run_home_run_6_Luis_Garc_a.mp4
-clip_start_time: 3.840
-clip_end_time: 10.840

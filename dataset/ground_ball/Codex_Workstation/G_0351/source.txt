@@ -1,7 +1,0 @@
-video_title: Brice Turang's RBI groundout Brice Turang's RBI groundout Brice Turang hits an RBI groundout in the 4th
-video_url: https://bdata-producedclips.mlb.com/d8c66981-45e2-40d0-a625-d8c549f27688.mp4
-source_id: MLB_746003_tayler-saucedo-in-play-run-s-to-brice-turang
-clip_id: MLB_746003_tayler-saucedo-in-play-run-s-to-brice-turang_auto1_1p400_7p400
-source_path: raw_sources\MLB_746003_tayler-saucedo-in-play-run-s-to-brice-turang_Brice_Turang_s_RBI_groundout_Brice_Turang_s_RBI_groundout_Brice_Turang_hits_an_R.mp4
-clip_start_time: 1.400
-clip_end_time: 7.400

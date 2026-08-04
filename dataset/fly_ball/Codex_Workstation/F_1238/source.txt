@@ -1,7 +1,0 @@
-video_title: Gleyber Torres' sliding play Gleyber Torres' sliding play Gleyber Torres' sliding play Gleyber Torres slides to stop a line drive and throws to first base from his knees, recording the second out in the bottom of the 3rd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/12/eec4d2ca-7d38e201-3ba084f2-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_746294_cody-poteet-in-play-out-s-to-kyle-isbel
-clip_id: MLB_746294_cody-poteet-in-play-out-s-to-kyle-isbel_auto1_14p860_21p860
-source_path: raw_sources\MLB_746294_cody-poteet-in-play-out-s-to-kyle-isbel_Gleyber_Torres_sliding_play_Gleyber_Torres_sliding_play_Gleyber_Torres_sliding_p.mp4
-clip_start_time: 14.860
-clip_end_time: 21.860

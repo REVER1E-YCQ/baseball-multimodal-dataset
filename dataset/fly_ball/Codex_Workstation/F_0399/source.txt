@@ -1,7 +1,0 @@
-video_title: Ronald Acuña Jr. unleashes perfect throw to turn two Ronald Acuña Jr. unleashes perfect throw to turn two Ronald Acuña Jr. unleashes perfect throw to turn two Ronald Acuña Jr. catches a fly ball in deep right and unleashes a perfect throw to third, turning an inning-ending double play #CurtainCall
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/18/0d60c4c3-1aa622c5-67ce49a6-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_777114_ronald-acuna-jr-unleashes-perfect-throw-to-turn-two
-clip_id: MLB_777114_ronald-acuna-jr-unleashes-perfect-throw-to-turn-two_auto1_3p340_10p340
-source_path: raw_sources\MLB_777114_ronald-acuna-jr-unleashes-perfect-throw-to-turn-two_Ronald_Acu_a_Jr._unleashes_perfect_throw_to_turn_two_Ronald_Acu_a_Jr._unleashes_perfect_throw_to_turn_two_R.mp4
-clip_start_time: 3.340
-clip_end_time: 10.340

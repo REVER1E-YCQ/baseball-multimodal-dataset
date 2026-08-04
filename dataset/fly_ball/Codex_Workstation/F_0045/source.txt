@@ -1,7 +1,0 @@
-video_title: Ryan McMahon's smooth snag at the hot corner Ryan McMahon's smooth snag at the hot corner Ryan McMahon's smooth snag at the hot corner Ryan McMahon shows off his defense at the hot corner, making a stellar catch on a hard hit line drive to rob José Ramírez of a base hit in the 6th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/04/9824b5fa-88c12d28-8dda3840-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_823542_jose-ramirez-lines-out-to-third-baseman-ryan-mcmahon-ahks4v
-clip_id: MLB_823542_jose-ramirez-lines-out-to-third-baseman-ryan-mcmahon-ahks4v_head_0p000_7p000
-source_path: raw_sources\MLB_823542_jose-ramirez-lines-out-to-third-baseman-ryan-mcmahon-ahks4v_Ryan_McMahon_s_smooth_snag_at_the_hot_corner_Ryan_McMahon_s_smooth_snag_at_the_h.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000

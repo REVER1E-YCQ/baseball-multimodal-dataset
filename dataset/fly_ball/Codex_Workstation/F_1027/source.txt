@@ -1,7 +1,0 @@
-video_title: Seiya Suzuki, Carson Kelly go back to back Seiya Suzuki, Carson Kelly go back to back Seiya Suzuki, Carson Kelly go back to back Seiya Suzuki and Carson Kelly crush back-to-back home runs to left-center field in the 5th inning, putting the Cubs ahead, 2-1
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/30/9dd8cea8-ac839d2a-ad73cd06-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_813066_seiya-suzuki-carson-kelly-go-back-to-back
-clip_id: MLB_813066_seiya-suzuki-carson-kelly-go-back-to-back_auto1_2p260_9p260
-source_path: raw_sources\MLB_813066_seiya-suzuki-carson-kelly-go-back-to-back_Seiya_Suzuki_Carson_Kelly_go_back_to_back_Seiya_Suzuki_Carson_Kelly_go_back_to_back_Seiya_Suzuki_Carson_Kelly_go_back.mp4
-clip_start_time: 2.260
-clip_end_time: 9.260

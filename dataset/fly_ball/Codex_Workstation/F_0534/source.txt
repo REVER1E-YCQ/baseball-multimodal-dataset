@@ -1,7 +1,0 @@
-video_title: Angel Martínez's diving catch Angel Martínez's diving catch Angel Martínez's diving catch Angel Martínez makes the catch on a line drive from Ceddanne Rafaela in the top of the 3rd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/26/b12ef37e-f484a6b3-8af2c902-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_778169_ceddanne-rafaela-lines-out-to-center-fielder-angel-martinez
-clip_id: MLB_778169_ceddanne-rafaela-lines-out-to-center-fielder-angel-martinez_auto1_2p560_9p560
-source_path: raw_sources\MLB_778169_ceddanne-rafaela-lines-out-to-center-fielder-angel-martinez_Angel_Mart_nez_s_diving_catch_Angel_Mart_nez_s_diving_catch_Angel_Mart_nez_s_diving_catch_Angel_Mar.mp4
-clip_start_time: 2.560
-clip_end_time: 9.560

@@ -1,7 +1,0 @@
-video_title: Freddie Freeman's solo homer (22) Freddie Freeman's solo homer (22) Freddie Freeman's solo homer (22) Freddie Freeman hits a solo home run to right-center field in the top of the 2nd inning to make it 1-0 Dodgers
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/25/374bcfe1-253a9429-f2f0bd9c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776185_freddie-freeman-homers-22-on-a-line-drive-to-right-center-field
-clip_id: MLB_776185_freddie-freeman-homers-22-on-a-line-drive-to-right-center-field_auto1_3p600_10p600
-source_path: raw_sources\MLB_776185_freddie-freeman-homers-22-on-a-line-drive-to-right-center-field_Freddie_Freeman_s_solo_homer_22_Freddie_Freeman_s_solo_homer_22_Freddie_Freeman_s_solo_homer_22.mp4
-clip_start_time: 3.600
-clip_end_time: 10.600

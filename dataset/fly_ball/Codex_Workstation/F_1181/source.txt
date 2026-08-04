@@ -1,7 +1,0 @@
-video_title: Johan Rojas' great diving catch Johan Rojas' great diving catch Johan Rojas' great diving catch Johan Rojas charges a soft liner and lays out to dive and make the grab, robbing Nick Gonzales of an RBI base hit
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/20/aaa18f8f-1738be6e-e5d3f61b-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_745478_cristopher-sanchez-in-play-out-s-to-nick-gonzales-nnn5ut
-clip_id: MLB_745478_cristopher-sanchez-in-play-out-s-to-nick-gonzales-nnn5ut_auto1_5p540_12p540
-source_path: raw_sources\MLB_745478_cristopher-sanchez-in-play-out-s-to-nick-gonzales-nnn5ut_Johan_Rojas_great_diving_catch_Johan_Rojas_great_diving_catch_Johan_Rojas_great_diving_catch_Johan_Roj.mp4
-clip_start_time: 5.540
-clip_end_time: 12.540

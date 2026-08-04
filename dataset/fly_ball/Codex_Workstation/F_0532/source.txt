@@ -1,7 +1,0 @@
-video_title: Joc Pederson's first triple of the season Joc Pederson's first triple of the season Joc Pederson's first triple of the season Joc Pederson triples on a fly ball to right field to lead off the top of the sixth inning.
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/27/ce3582d9-ada8ac6b-91c8a1d8-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_778151_hayden-birdsong-in-play-no-out-to-joc-pederson
-clip_id: MLB_778151_hayden-birdsong-in-play-no-out-to-joc-pederson_auto1_5p820_12p820
-source_path: raw_sources\MLB_778151_hayden-birdsong-in-play-no-out-to-joc-pederson_Joc_Pederson_s_first_triple_of_the_season_Joc_Pederson_s_first_triple_of_the_season_Joc_Pederson_s_first_triple_.mp4
-clip_start_time: 5.820
-clip_end_time: 12.820

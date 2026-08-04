@@ -1,7 +1,0 @@
-video_title: Ozzie Albies' RBI groundout Ozzie Albies' RBI groundout Ozzie Albies' RBI groundout Ozzie Albies drives in the game's first run with an RBI groundout in the bottom of the 2nd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/09/0ba0ee19-1d3b86ed-00830def-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_778431_ozzie-albies-rbi-groundout-x8928
-clip_id: MLB_778431_ozzie-albies-rbi-groundout-x8928_auto1_12p060_18p060
-source_path: raw_sources\MLB_778431_ozzie-albies-rbi-groundout-x8928_Ozzie_Albies_RBI_groundout_Ozzie_Albies_RBI_groundout_Ozzie_Albies_RBI_groundout.mp4
-clip_start_time: 12.060
-clip_end_time: 18.060

@@ -1,7 +1,0 @@
-video_title: Mike Yastrzemski's two-homer game Mike Yastrzemski's two-homer game Mike Yastrzemski's two-homer game Mike Yastrzemski hits two solo home runs to end his season with a two-homer game
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/28/c08cbc83-3d97a3b5-ed272f45-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776138_mike-yastrzemski-s-two-homer-game-x6593
-clip_id: MLB_776138_mike-yastrzemski-s-two-homer-game-x6593_auto1_3p080_10p080
-source_path: raw_sources\MLB_776138_mike-yastrzemski-s-two-homer-game-x6593_Mike_Yastrzemski_s_two-homer_game_Mike_Yastrzemski_s_two-homer_game_Mike_Yastrzemski_s_two-homer_game_Mike_Yastrzemski_.mp4
-clip_start_time: 3.080
-clip_end_time: 10.080

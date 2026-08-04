@@ -1,7 +1,0 @@
-video_title: Eugenio Suárez scores in the 8th Eugenio Suárez scores in the 8th Eugenio Suárez scores in the 8th Dominic Canzone's grounder results in a double play, but Eugenio Suárez scores to cut the Mariners' deficit to 7-5
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/17/7a740615-6ebeec55-d9c8eef8-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_776289_carlos-estevez-in-play-run-s-to-dominic-canzone
-clip_id: MLB_776289_carlos-estevez-in-play-run-s-to-dominic-canzone_auto1_6p440_12p440
-source_path: raw_sources\MLB_776289_carlos-estevez-in-play-run-s-to-dominic-canzone_Eugenio_Su_rez_scores_in_the_8th_Eugenio_Su_rez_scores_in_the_8th_Eugenio_Su_rez_scores_in_the_8th_Dominic_Canz.mp4
-clip_start_time: 6.440
-clip_end_time: 12.440

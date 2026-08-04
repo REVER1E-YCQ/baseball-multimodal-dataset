@@ -1,7 +1,0 @@
-video_title: Byron Buxton's leadoff homer (33) Byron Buxton's leadoff homer (33) Byron Buxton's leadoff homer (33) Byron Buxton hits his second consecutive leadoff home run to left-center field, giving the Twins an early 1-0 lead
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/25/defabf92-bfc9c6b4-fe795a28-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776183_byron-buxton-homers-33-on-a-fly-ball-to-center-field
-clip_id: MLB_776183_byron-buxton-homers-33-on-a-fly-ball-to-center-field_auto1_10p000_17p000
-source_path: raw_sources\MLB_776183_byron-buxton-homers-33-on-a-fly-ball-to-center-field_Byron_Buxton_s_leadoff_homer_33_Byron_Buxton_s_leadoff_homer_33_Byron_Buxton_s_leadoff_homer_33_Byron_Buxt.mp4
-clip_start_time: 10.000
-clip_end_time: 17.000

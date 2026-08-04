@@ -1,7 +1,0 @@
-video_title: Logan O'Hoppe's RBI single Logan O'Hoppe's RBI single Logan O'Hoppe's RBI single Logan O'Hoppe singles on a line drive to left fielder Riley Greene. Luis Rengifo scores.
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/10/c7a3a117-d8ed8e53-4654a386-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_776806_logan-o-hoppe-singles-on-a-line-drive-to-left-fielder-riley-greene-lu
-clip_id: MLB_776806_logan-o-hoppe-singles-on-a-line-drive-to-left-fielder-riley-greene-lu_auto1_6p980_13p980
-source_path: raw_sources\MLB_776806_logan-o-hoppe-singles-on-a-line-drive-to-left-fielder-riley-greene-lu_Logan_O_Hoppe_s_RBI_single_Logan_O_Hoppe_s_RBI_single_Logan_O_Hoppe_s_RBI_single_Logan_O_.mp4
-clip_start_time: 6.980
-clip_end_time: 13.980

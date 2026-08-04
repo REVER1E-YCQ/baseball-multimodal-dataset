@@ -1,7 +1,0 @@
-video_title: Tyler Soderstrom's sliding catch Tyler Soderstrom's sliding catch Tyler Soderstrom's sliding catch Tyler Soderstrom slides and makes a nice catch on Rafael Devers' fly ball ending the top of the 1st inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/04/d9d5f3f1-6d929747-fcad3f7e-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_777244_rafael-devers-flies-out-to-left-fielder-tyler-soderstrom
-clip_id: MLB_777244_rafael-devers-flies-out-to-left-fielder-tyler-soderstrom_auto1_4p640_11p640
-source_path: raw_sources\MLB_777244_rafael-devers-flies-out-to-left-fielder-tyler-soderstrom_Tyler_Soderstrom_s_sliding_catch_Tyler_Soderstrom_s_sliding_catch_Tyler_Soderstrom_s_sliding_catch_Tyl.mp4
-clip_start_time: 4.640
-clip_end_time: 11.640

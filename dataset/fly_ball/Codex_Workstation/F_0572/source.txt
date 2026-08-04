@@ -1,7 +1,0 @@
-video_title: Ronald Acuña Jr. exits with Achilles tightness Ronald Acuña Jr. exits with Achilles tightness Ronald Acuña Jr. exits with Achilles tightness Ronald Acuña Jr. exits the game with Achilles tightness after appearing to be in pain while chasing down two fly balls in the 6th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/29/7915b056-645dc266-fefdeef6-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776955_ronald-acuna-jr-exits-the-game-in-6th-inning
-clip_id: MLB_776955_ronald-acuna-jr-exits-the-game-in-6th-inning_auto1_3p760_10p760
-source_path: raw_sources\MLB_776955_ronald-acuna-jr-exits-the-game-in-6th-inning_Ronald_Acu_a_Jr._exits_with_Achilles_tightness_Ronald_Acu_a_Jr._exits_with_Achilles_tightness_Ronald_Acu_a_Jr._exi.mp4
-clip_start_time: 3.760
-clip_end_time: 10.760

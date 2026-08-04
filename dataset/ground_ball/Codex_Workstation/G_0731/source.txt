@@ -1,7 +1,0 @@
-video_title: Rhys Hoskins' diving stop Rhys Hoskins' diving stop Rhys Hoskins' diving stop Rhys Hoskins lunges at a sharp ground ball for a terrific grab and steps on first to close out the 3rd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/02/1bacba8a-a8b61b29-84063272-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_777276_brett-baty-grounds-out-sharply-to-first-baseman-rhys-hoskins
-clip_id: MLB_777276_brett-baty-grounds-out-sharply-to-first-baseman-rhys-hoskins_auto1_0p000_6p000
-source_path: raw_sources\MLB_777276_brett-baty-grounds-out-sharply-to-first-baseman-rhys-hoskins_Rhys_Hoskins_diving_stop_Rhys_Hoskins_diving_stop_Rhys_Hoskins_diving_stop_Rhys_Hoskins_lunges_at_.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

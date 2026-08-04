@@ -1,7 +1,0 @@
-video_title: Jackson Chourio's three-run home run (13) Jackson Chourio's three-run home run (13) Jackson Chourio's three-run home run (13) Jackson Chourio put the Brewers up big with a line drive opposite-field home run in the bottom of the 4th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/27/89f73dca-60de8f1d-10d3bb51-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_777339_jackson-chourio-homers-13-on-a-fly-ball-to-right-field-brice-turang-s
-clip_id: MLB_777339_jackson-chourio-homers-13-on-a-fly-ball-to-right-field-brice-turang-s_auto1_5p260_12p260
-source_path: raw_sources\MLB_777339_jackson-chourio-homers-13-on-a-fly-ball-to-right-field-brice-turang-s_Jackson_Chourio_s_three-run_home_run_13_Jackson_Chourio_s_three-run_home_run_13_Jackson_C.mp4
-clip_start_time: 5.260
-clip_end_time: 12.260

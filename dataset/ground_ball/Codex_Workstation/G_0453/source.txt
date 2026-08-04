@@ -1,7 +1,0 @@
-video_title: Nick Loftin's nice spinning play Nick Loftin's nice spinning play Nick Loftin's nice spinning play Nick Loftin spins while fielding the ground ball to get the out at first base to end the inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/08/638468f2-88f10cef-eb5621eb-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_746300_josh-rojas-grounds-out-second-baseman-nick-loftin-to-first-baseman-vi
-clip_id: MLB_746300_josh-rojas-grounds-out-second-baseman-nick-loftin-to-first-baseman-vi_auto1_3p020_9p020
-source_path: raw_sources\MLB_746300_josh-rojas-grounds-out-second-baseman-nick-loftin-to-first-baseman-vi_Nick_Loftin_s_nice_spinning_play_Nick_Loftin_s_nice_spinning_play_Nick_Loftin_s_.mp4
-clip_start_time: 3.020
-clip_end_time: 9.020

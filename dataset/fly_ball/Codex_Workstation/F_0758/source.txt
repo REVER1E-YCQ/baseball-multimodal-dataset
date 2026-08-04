@@ -1,7 +1,0 @@
-video_title: Zach Neto's solo home run (25) Zach Neto's solo home run (25) Zach Neto's solo home run (25) Zach Neto laces a solo home run to left field, cutting the Angels' deficit to 2-1 in the top of the 4th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/01/974f90f7-b609e7ba-9d607b22-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776499_luis-garcia-foul-to-zach-neto-3jjikl
-clip_id: MLB_776499_luis-garcia-foul-to-zach-neto-3jjikl_auto1_0p000_7p000
-source_path: raw_sources\MLB_776499_luis-garcia-foul-to-zach-neto-3jjikl_Zach_Neto_s_solo_home_run_25_Zach_Neto_s_solo_home_run_25_Zach_Neto_s_solo_home_run_25_Zach_Neto_laces_a_solo_home_run_to_.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000

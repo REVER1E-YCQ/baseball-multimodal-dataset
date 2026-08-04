@@ -1,7 +1,0 @@
-video_title: Nasim Nuñez's second home run of the game (2) Nasim Nuñez's second home run of the game (2) Nasim Nuñez's second home run of the game (2) Nasim Nuñez hits a two-run home run, his second homer of the game, to left-center field to give the Nationals a 10-5 lead in the bottom of the 8th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/03/018702b9-4d8243b6-f0fa36da-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776477_nasim-nunez-homers-2-on-a-fly-ball-to-left-center-field-brady-house-s
-clip_id: MLB_776477_nasim-nunez-homers-2-on-a-fly-ball-to-left-center-field-brady-house-s_auto1_0p000_7p000
-source_path: raw_sources\MLB_776477_nasim-nunez-homers-2-on-a-fly-ball-to-left-center-field-brady-house-s_Nasim_Nu_ez_s_second_home_run_of_the_game_2_Nasim_Nu_ez_s_second_home_run_of_the_game_2_N.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000

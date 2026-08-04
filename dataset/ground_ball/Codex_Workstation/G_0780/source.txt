@@ -1,7 +1,0 @@
-video_title: Kody Clemens ruled out on interference call Kody Clemens ruled out on interference call Kody Clemens ruled out on interference call Kody Clemens is ruled out on an interference call after running in the baseline on a ground ball to the pitcher in the 1st inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/21/95605036-8144ded8-2d8d6c23-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776225_joey-cantillo-in-play-out-s-to-kody-clemens
-clip_id: MLB_776225_joey-cantillo-in-play-out-s-to-kody-clemens_auto1_1p920_7p920
-source_path: raw_sources\MLB_776225_joey-cantillo-in-play-out-s-to-kody-clemens_Kody_Clemens_ruled_out_on_interference_call_Kody_Clemens_ruled_out_on_interference_call_Kody_Clemens_ruled_out_on_i.mp4
-clip_start_time: 1.920
-clip_end_time: 7.920

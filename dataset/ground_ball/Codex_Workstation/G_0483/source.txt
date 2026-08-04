@@ -1,7 +1,0 @@
-video_title: Anthony Rizzo's RBI single Anthony Rizzo's RBI single Anthony Rizzo grounds an RBI single to right field
-video_url: https://bdata-producedclips.mlb.com/035981c8-98fd-4b91-9377-b2eea8517a63.mp4
-source_id: MLB_745411_dylan-cease-in-play-run-s-to-anthony-rizzo
-clip_id: MLB_745411_dylan-cease-in-play-run-s-to-anthony-rizzo_auto1_6p040_12p040
-source_path: raw_sources\MLB_745411_dylan-cease-in-play-run-s-to-anthony-rizzo_Anthony_Rizzo_s_RBI_single_Anthony_Rizzo_s_RBI_single_Anthony_Rizzo_grounds_an_R.mp4
-clip_start_time: 6.040
-clip_end_time: 12.040

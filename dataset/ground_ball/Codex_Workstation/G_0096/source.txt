@@ -1,7 +1,0 @@
-video_title: Xavier Edwards' RBI groundout Xavier Edwards' RBI groundout Xavier Edwards' RBI groundout
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/07/7d40b92d-7eca9380-a95eca4d-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_823872_grant-wolfram-in-play-run-s-to-xavier-edwards
-clip_id: MLB_823872_grant-wolfram-in-play-run-s-to-xavier-edwards_head_0p000_6p000
-source_path: raw_sources\MLB_823872_grant-wolfram-in-play-run-s-to-xavier-edwards_Xavier_Edwards_RBI_groundout_Xavier_Edwards_RBI_groundout_Xavier_Edwards_RBI_gro.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

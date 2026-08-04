@@ -1,7 +1,0 @@
-video_title: Steven Kwan's catch in foul territory Steven Kwan's catch in foul territory Steven Kwan's catch in foul territory Steven Kwan tracks Colton Cowser's fly ball down the left-field line and reaches out to make the catch in front of the wall in foul territory
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/22/016cfd71-0bd10c73-0846b4e4-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_777056_erik-sabrowski-in-play-out-s-to-colton-cowser
-clip_id: MLB_777056_erik-sabrowski-in-play-out-s-to-colton-cowser_auto1_6p900_13p900
-source_path: raw_sources\MLB_777056_erik-sabrowski-in-play-out-s-to-colton-cowser_Steven_Kwan_s_catch_in_foul_territory_Steven_Kwan_s_catch_in_foul_territory_Steven_Kwan_s_catch_in_foul_territory.mp4
-clip_start_time: 6.900
-clip_end_time: 13.900

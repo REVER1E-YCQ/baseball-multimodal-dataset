@@ -1,7 +1,0 @@
-video_title: William Contreras and Brice Turang turn a double play William Contreras and Brice Turang turn a double play William Contreras and Brice Turang turn a double play William Contreras fields a grounder in front of home plate and throws to Brice Turang at second, who makes a quick throw to first for an i
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/11/7cb4dd9d-da996e18-5bed5c92-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_776786_joey-bart-grounds-into-a-double-play-catcher-william-contreras-to-sec
-clip_id: MLB_776786_joey-bart-grounds-into-a-double-play-catcher-william-contreras-to-sec_auto1_6p100_12p100
-source_path: raw_sources\MLB_776786_joey-bart-grounds-into-a-double-play-catcher-william-contreras-to-sec_William_Contreras_and_Brice_Turang_turn_a_double_play_William_Contreras_and_Brice_Turang_.mp4
-clip_start_time: 6.100
-clip_end_time: 12.100

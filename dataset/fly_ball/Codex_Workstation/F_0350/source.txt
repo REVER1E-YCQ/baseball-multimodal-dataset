@@ -1,7 +1,0 @@
-video_title: Michael Harris II makes a nice running catch Michael Harris II makes a nice running catch Michael Harris II makes a nice running catch Michael Harris II uses his speed to track fly a fly ball in the top of the 3rd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/10/1906f19e-dbde8089-b4eea479-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_776803_joey-wentz-in-play-out-s-to-otto-lopez-w8vmlf
-clip_id: MLB_776803_joey-wentz-in-play-out-s-to-otto-lopez-w8vmlf_auto1_4p831_11p831
-source_path: raw_sources\MLB_776803_joey-wentz-in-play-out-s-to-otto-lopez-w8vmlf_Michael_Harris_II_makes_a_nice_running_catch_Michael_Harris_II_makes_a_nice_running_catch_Michael_Harris_II_makes.mp4
-clip_start_time: 4.831
-clip_end_time: 11.831

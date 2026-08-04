@@ -1,7 +1,0 @@
-video_title: Luke Keaschall's sliding stop Luke Keaschall's sliding stop Luke Keaschall's sliding stop Luke Keaschall slides to field Colby Thomas' hard-hit grounder up the middle, then throws to first in time to end the top of the 6th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/20/6f646567-0471ffa1-832ef4b5-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_776665_kody-funderburk-in-play-out-s-to-colby-thomas
-clip_id: MLB_776665_kody-funderburk-in-play-out-s-to-colby-thomas_auto1_4p020_10p020
-source_path: raw_sources\MLB_776665_kody-funderburk-in-play-out-s-to-colby-thomas_Luke_Keaschall_s_sliding_stop_Luke_Keaschall_s_sliding_stop_Luke_Keaschall_s_sliding_stop_Luke_Keaschall_slides_t.mp4
-clip_start_time: 4.020
-clip_end_time: 10.020

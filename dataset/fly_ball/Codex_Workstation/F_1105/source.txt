@@ -1,7 +1,0 @@
-video_title: Kerry Carpenter's game-tying home run (26) Kerry Carpenter's game-tying home run (26) Kerry Carpenter's game-tying home run (26) Kerry Carpenter comes in to pinch hit and ties the game in the bottom of the 9th inning with a solo home run to center field
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/16/03cced0e-3145187e-d3613b19-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776303_kerry-carpenter-homers-26-on-a-fly-ball-to-center-field
-clip_id: MLB_776303_kerry-carpenter-homers-26-on-a-fly-ball-to-center-field_auto1_6p680_13p680
-source_path: raw_sources\MLB_776303_kerry-carpenter-homers-26-on-a-fly-ball-to-center-field_Kerry_Carpenter_s_game-tying_home_run_26_Kerry_Carpenter_s_game-tying_home_run_26_Kerry_Carpenter_s_gam.mp4
-clip_start_time: 6.680
-clip_end_time: 13.680

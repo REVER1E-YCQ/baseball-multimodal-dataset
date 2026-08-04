@@ -1,7 +1,0 @@
-video_title: Raisel Iglesias finishes the Braves' 7-2 win Raisel Iglesias finishes the Braves' 7-2 win Raisel Iglesias finishes the Braves' 7-2 win Raisel Iglesias induces a fly ball to finish the Braves' 7-2 win over the Dodgers
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/10/2b7f75db-84840b9b-a31f2512-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_823954_raisel-iglesias-finishes-the-braves-7-2-win
-clip_id: MLB_823954_raisel-iglesias-finishes-the-braves-7-2-win_head_0p000_7p000
-source_path: raw_sources\MLB_823954_raisel-iglesias-finishes-the-braves-7-2-win_Raisel_Iglesias_finishes_the_Braves_7-2_win_Raisel_Iglesias_finishes_the_Braves_.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000

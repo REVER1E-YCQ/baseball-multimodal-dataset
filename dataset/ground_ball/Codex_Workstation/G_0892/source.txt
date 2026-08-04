@@ -1,7 +1,0 @@
-video_title: Dansby Swanson's spinning play Dansby Swanson's spinning play Dansby Swanson's spinning play Dansby Swanson ranges to his left, fields a ground ball, spins, and throws to first to take a single away in the top of the 8th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/06/508469a2-c6c5fffb-8eace171-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776847_brad-keller-in-play-out-s-to-ke-bryan-hayes
-clip_id: MLB_776847_brad-keller-in-play-out-s-to-ke-bryan-hayes_auto1_0p000_6p000
-source_path: raw_sources\MLB_776847_brad-keller-in-play-out-s-to-ke-bryan-hayes_Dansby_Swanson_s_spinning_play_Dansby_Swanson_s_spinning_play_Dansby_Swanson_s_spinning_play_Dansby_Swanson_ranges_.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

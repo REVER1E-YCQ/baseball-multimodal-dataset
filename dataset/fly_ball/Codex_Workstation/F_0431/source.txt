@@ -1,7 +1,0 @@
-video_title: Nimmo makes catch and nabs Cruz at second Nimmo makes catch and nabs Cruz at second Nimmo makes catch and nabs Cruz at second Brandon Nimmo makes the catch on a line drive and makes a strong throw to second base to double off Oneil Cruz
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/28/ec0b0e7b-b5d26632-633a55a6-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_777325_jose-butto-in-play-out-s-to-ke-bryan-hayes-13befs
-clip_id: MLB_777325_jose-butto-in-play-out-s-to-ke-bryan-hayes-13befs_auto1_7p080_14p080
-source_path: raw_sources\MLB_777325_jose-butto-in-play-out-s-to-ke-bryan-hayes-13befs_Nimmo_makes_catch_and_nabs_Cruz_at_second_Nimmo_makes_catch_and_nabs_Cruz_at_second_Nimmo_makes_catch_and_nab.mp4
-clip_start_time: 7.080
-clip_end_time: 14.080

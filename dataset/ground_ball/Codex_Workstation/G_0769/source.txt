@@ -1,7 +1,0 @@
-video_title: Brett Baty's sensational barehanded play Brett Baty's sensational barehanded play Brett Baty's sensational barehanded play Brett Baty surges forward and fields a slow grounder barehanded, then gets the runner at first for the final out of the bottom of the 3rd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/25/e8d35838-55178c76-076394c3-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776187_nolan-mclean-in-play-out-s-to-nico-hoerner
-clip_id: MLB_776187_nolan-mclean-in-play-out-s-to-nico-hoerner_auto1_5p240_11p240
-source_path: raw_sources\MLB_776187_nolan-mclean-in-play-out-s-to-nico-hoerner_Brett_Baty_s_sensational_barehanded_play_Brett_Baty_s_sensational_barehanded_play_Brett_Baty_s_sensational_barehande.mp4
-clip_start_time: 5.240
-clip_end_time: 11.240

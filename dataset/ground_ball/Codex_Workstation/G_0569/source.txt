@@ -1,7 +1,0 @@
-video_title: Shohei Ohtani's RBI groundout Shohei Ohtani's RBI groundout Shohei Ohtani's RBI groundout
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/20/41def6af-595f2c2b-98e8a006-csvm-diamondx64-asset-4000K.mp4
-source_id: MLB_746542_shohei-ohtani-grounds-out-to-first-baseman-michael-toglia-chris-taylo
-clip_id: MLB_746542_shohei-ohtani-grounds-out-to-first-baseman-michael-toglia-chris-taylo_auto1_4p080_10p080
-source_path: raw_sources\MLB_746542_shohei-ohtani-grounds-out-to-first-baseman-michael-toglia-chris-taylo_Shohei_Ohtani_s_RBI_groundout_Shohei_Ohtani_s_RBI_groundout_Shohei_Ohtani_s_RBI_groundout.mp4
-clip_start_time: 4.080
-clip_end_time: 10.080

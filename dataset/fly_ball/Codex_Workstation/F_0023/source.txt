@@ -1,7 +1,0 @@
-video_title: J.T. Realmuto's bases-clearing double J.T. Realmuto's bases-clearing double J.T. Realmuto's bases-clearing double J.T. Realmuto gives the Phillies the lead in the top of the 8th inning with a line drive to right field
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/23/0ddc6e57-b14ae30e-e2fed003-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_822718_clayton-beeter-in-play-run-s-to-j-t-realmuto
-clip_id: MLB_822718_clayton-beeter-in-play-run-s-to-j-t-realmuto_head_0p000_7p000
-source_path: raw_sources\MLB_822718_clayton-beeter-in-play-run-s-to-j-t-realmuto_J.T._Realmuto_s_bases-clearing_double_J.T._Realmuto_s_bases-clearing_double_J.T..mp4
-clip_start_time: 0.000
-clip_end_time: 7.000

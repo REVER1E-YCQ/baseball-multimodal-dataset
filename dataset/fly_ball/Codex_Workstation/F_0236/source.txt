@@ -1,7 +1,0 @@
-video_title: Kevin Newman's leaping catch Kevin Newman's leaping catch Kevin Newman's leaping catch Kevin Newman reacts quickly to a hard-hit line drive and leaps to make a terrific catch in the bottom of the 5th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/13/2ed0e136-75c82143-0355589c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_778329_reid-detmers-in-play-out-s-to-yordan-alvarez-aclzhq
-clip_id: MLB_778329_reid-detmers-in-play-out-s-to-yordan-alvarez-aclzhq_auto1_7p998_14p998
-source_path: raw_sources\MLB_778329_reid-detmers-in-play-out-s-to-yordan-alvarez-aclzhq_Kevin_Newman_s_leaping_catch_Kevin_Newman_s_leaping_catch_Kevin_Newman_s_leaping_catch_Kevin_Newman_reacts_.mp4
-clip_start_time: 7.998
-clip_end_time: 14.998

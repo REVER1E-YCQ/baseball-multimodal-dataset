@@ -1,7 +1,0 @@
-video_title: Darell Hernaiz's sliding stop Darell Hernaiz's sliding stop Darell Hernaiz's sliding stop Darell Hernaiz makes an excellent sliding stop on Junior Caminero's grounder, then throws to second from one knee to get a forceout
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/13/8cbe60c0-b27bd3a3-3688e1d6-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776762_tyler-ferguson-in-play-out-s-to-junior-caminero
-clip_id: MLB_776762_tyler-ferguson-in-play-out-s-to-junior-caminero_auto1_13p570_19p570
-source_path: raw_sources\MLB_776762_tyler-ferguson-in-play-out-s-to-junior-caminero_Darell_Hernaiz_s_sliding_stop_Darell_Hernaiz_s_sliding_stop_Darell_Hernaiz_s_sliding_stop_Darell_Hernaiz_makes_.mp4
-clip_start_time: 13.570
-clip_end_time: 19.570

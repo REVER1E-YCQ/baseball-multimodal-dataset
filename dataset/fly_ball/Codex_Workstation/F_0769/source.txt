@@ -1,7 +1,0 @@
-video_title: Trevor Story homers following review Trevor Story homers following review Trevor Story homers following review After the call on the field is overturned, Trevor Story hits a solo home run to extend the Red Sox lead to 6-3
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/01/d158bc7b-c6521dcf-e51e9f68-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776505_trevor-story-homers-following-review
-clip_id: MLB_776505_trevor-story-homers-following-review_auto1_5p960_12p960
-source_path: raw_sources\MLB_776505_trevor-story-homers-following-review_Trevor_Story_homers_following_review_Trevor_Story_homers_following_review_Trevor_Story_homers_following_review_After_the_c.mp4
-clip_start_time: 5.960
-clip_end_time: 12.960

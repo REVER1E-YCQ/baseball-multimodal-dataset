@@ -1,7 +1,0 @@
-video_title: Jorge Polanco's nice snag Jorge Polanco's nice snag Jorge Polanco's nice snag Jorge Polanco makes a sprawling snag on a sharp line drive to take a hit away from Carlos Santana
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/28/99878a77-2b6f94a8-39c477da-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_745238_carlos-santana-lines-out-sharply-to-second-baseman-jorge-polanco
-clip_id: MLB_745238_carlos-santana-lines-out-sharply-to-second-baseman-jorge-polanco_auto1_0p160_7p160
-source_path: raw_sources\MLB_745238_carlos-santana-lines-out-sharply-to-second-baseman-jorge-polanco_Jorge_Polanco_s_nice_snag_Jorge_Polanco_s_nice_snag_Jorge_Polanco_s_nice_snag_Jorge_Polanco_ma.mp4
-clip_start_time: 0.160
-clip_end_time: 7.160

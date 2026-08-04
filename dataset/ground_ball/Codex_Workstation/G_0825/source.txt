@@ -1,7 +1,0 @@
-video_title: Rafael Devers scores on an error Rafael Devers scores on an error Rafael Devers scores on an error Luis Vázquez commits a fielding error on Luis Matos' grounder, allowing Rafael Devers to score and increase the Giants' lead to 9-0 in the 6th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/31/71325b20-7d071994-4973f8ed-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_776507_corbin-martin-in-play-run-s-to-luis-matos
-clip_id: MLB_776507_corbin-martin-in-play-run-s-to-luis-matos_auto1_4p040_10p040
-source_path: raw_sources\MLB_776507_corbin-martin-in-play-run-s-to-luis-matos_Rafael_Devers_scores_on_an_error_Rafael_Devers_scores_on_an_error_Rafael_Devers_scores_on_an_error_Luis_V_zquez_commi.mp4
-clip_start_time: 4.040
-clip_end_time: 10.040

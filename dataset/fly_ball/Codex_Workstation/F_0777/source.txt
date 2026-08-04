@@ -1,7 +1,0 @@
-video_title: Matt Olson's solo home run (25) Matt Olson's solo home run (25) Matt Olson's solo home run (25) Matt Olson crushes a solo home run to deep-right field, bringing the score even at 1 in the 1st inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/14/4b8992cf-e22864bf-a0b79bb1-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776329_matt-olson-homers-25-on-a-fly-ball-to-right-field-fwldk5
-clip_id: MLB_776329_matt-olson-homers-25-on-a-fly-ball-to-right-field-fwldk5_auto1_8p120_15p120
-source_path: raw_sources\MLB_776329_matt-olson-homers-25-on-a-fly-ball-to-right-field-fwldk5_Matt_Olson_s_solo_home_run_25_Matt_Olson_s_solo_home_run_25_Matt_Olson_s_solo_home_run_25_Matt_Olson_c.mp4
-clip_start_time: 8.120
-clip_end_time: 15.120

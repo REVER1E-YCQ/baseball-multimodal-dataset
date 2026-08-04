@@ -1,7 +1,0 @@
-video_title: Ha-Seong Kim's solo home run (5)  Ha-Seong Kim's solo home run (5)  Ha-Seong Kim's solo home run (5)  Ha-Seong Kim drills a solo home run to left field to extend the Braves' lead to 2-0 in the top of the 4th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/21/8c58c964-74b5954e-870bb670-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776238_ha-seong-kim-homers-5-on-a-line-drive-to-left-center-field
-clip_id: MLB_776238_ha-seong-kim-homers-5-on-a-line-drive-to-left-center-field_auto1_3p060_10p060
-source_path: raw_sources\MLB_776238_ha-seong-kim-homers-5-on-a-line-drive-to-left-center-field_Ha-Seong_Kim_s_solo_home_run_5_Ha-Seong_Kim_s_solo_home_run_5_Ha-Seong_Kim_s_solo_home_run_5_Ha-Seon.mp4
-clip_start_time: 3.060
-clip_end_time: 10.060

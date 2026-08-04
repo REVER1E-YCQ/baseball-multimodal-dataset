@@ -1,7 +1,0 @@
-video_title: Trevor Story's bizarre solo home run (23) Trevor Story's bizarre solo home run (23) Trevor Story's bizarre solo home run (23) Trevor Story hits a solo home run that deflects off Jhonkensy Noel's glove and into the Pesky Pole, extending Boston's lead to 6-3 in the bottom of the 6th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/01/fd4ec316-f7a48977-21b0d5b5-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776505_red-sox-challenge-fair-or-foul-in-outfield-trevor-story-hits-a-ground
-clip_id: MLB_776505_red-sox-challenge-fair-or-foul-in-outfield-trevor-story-hits-a-ground_auto1_5p960_12p960
-source_path: raw_sources\MLB_776505_red-sox-challenge-fair-or-foul-in-outfield-trevor-story-hits-a-ground_Trevor_Story_s_bizarre_solo_home_run_23_Trevor_Story_s_bizarre_solo_home_run_23_Trevor_St.mp4
-clip_start_time: 5.960
-clip_end_time: 12.960

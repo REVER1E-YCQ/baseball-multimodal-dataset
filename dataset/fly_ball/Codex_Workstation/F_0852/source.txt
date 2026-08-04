@@ -1,7 +1,0 @@
-video_title: Field View: Mookie Betts solo home run Field View: Mookie Betts solo home run Field View: Mookie Betts solo home run Don't miss this unique look at Mookie Bett's solo home run in the top of the ninth inning against the Pirates
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/05/6b3b324a-16bb8741-5a2aeb48-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776461_field-view-mookie-betts-solo-home-run-x0537
-clip_id: MLB_776461_field-view-mookie-betts-solo-home-run-x0537_auto1_16p000_23p000
-source_path: raw_sources\MLB_776461_field-view-mookie-betts-solo-home-run-x0537_Field_View_Mookie_Betts_solo_home_run_Field_View_Mookie_Betts_solo_home_run_Field_View_Mookie_Betts_solo_home_run_D.mp4
-clip_start_time: 16.000
-clip_end_time: 23.000

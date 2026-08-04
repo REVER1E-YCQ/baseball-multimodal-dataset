@@ -1,7 +1,0 @@
-video_title: Daylen Lile's solo homer (5)  Daylen Lile's solo homer (5)  Daylen Lile's solo homer (5)  Daylen Lile cranks a solo home run to right field to extend the Nationals' lead to 6-1 in the top of the 5th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/09/5ecc5c9c-139b6483-6a4357bd-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776397_daylen-lile-homers-5-on-a-fly-ball-to-right-field
-clip_id: MLB_776397_daylen-lile-homers-5-on-a-fly-ball-to-right-field_auto1_4p440_11p440
-source_path: raw_sources\MLB_776397_daylen-lile-homers-5-on-a-fly-ball-to-right-field_Daylen_Lile_s_solo_homer_5_Daylen_Lile_s_solo_homer_5_Daylen_Lile_s_solo_homer_5_Daylen_Lile_cranks_a_solo_ho.mp4
-clip_start_time: 4.440
-clip_end_time: 11.440

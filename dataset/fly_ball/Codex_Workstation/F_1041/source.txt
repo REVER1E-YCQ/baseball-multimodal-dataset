@@ -1,7 +1,0 @@
-video_title: Coby Mayo's solo home run (11) Coby Mayo's solo home run (11) Coby Mayo's solo home run (11) Coby Mayo hits a solo home run to left-center field in the 8th, putting the Orioles on the board, 6-1
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/27/d1bd93e5-56ea399e-4d0e4d53-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776162_coby-mayo-homers-11-on-a-fly-ball-to-left-center-field
-clip_id: MLB_776162_coby-mayo-homers-11-on-a-fly-ball-to-left-center-field_auto1_5p480_12p480
-source_path: raw_sources\MLB_776162_coby-mayo-homers-11-on-a-fly-ball-to-left-center-field_Coby_Mayo_s_solo_home_run_11_Coby_Mayo_s_solo_home_run_11_Coby_Mayo_s_solo_home_run_11_Coby_Mayo_hits_a_.mp4
-clip_start_time: 5.480
-clip_end_time: 12.480

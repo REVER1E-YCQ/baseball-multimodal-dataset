@@ -1,7 +1,0 @@
-video_title: Brandon Nimmo's great diving catch Brandon Nimmo's great diving catch Brandon Nimmo's great diving catch Brandon Nimmo runs in and dives to make the catch on a low line drive to left field, robbing Nick Castellanos of a hit in the top of the 5th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/23/47e46b90-8ba69017-b150df0a-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_778203_nick-castellanos-lines-out-to-left-fielder-brandon-nimmo
-clip_id: MLB_778203_nick-castellanos-lines-out-to-left-fielder-brandon-nimmo_auto1_2p800_9p800
-source_path: raw_sources\MLB_778203_nick-castellanos-lines-out-to-left-fielder-brandon-nimmo_Brandon_Nimmo_s_great_diving_catch_Brandon_Nimmo_s_great_diving_catch_Brandon_Nimmo_s_great_diving_cat.mp4
-clip_start_time: 2.800
-clip_end_time: 9.800

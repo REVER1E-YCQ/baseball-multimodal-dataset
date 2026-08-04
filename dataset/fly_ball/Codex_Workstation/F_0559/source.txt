@@ -1,7 +1,0 @@
-video_title: Jake Mangum's sweet running catch Jake Mangum's sweet running catch Jake Mangum's sweet running catch Jake Mangum tracks a fly ball and makes a great catch, running into the center-field wall and getting his gloves caught in it in the 9th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/16/5f996d02-aebf13bd-b2f5d8a8-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_778298_carlos-narvaez-flies-out-sharply-to-center-fielder-jake-mangum
-clip_id: MLB_778298_carlos-narvaez-flies-out-sharply-to-center-fielder-jake-mangum_auto1_6p580_13p580
-source_path: raw_sources\MLB_778298_carlos-narvaez-flies-out-sharply-to-center-fielder-jake-mangum_Jake_Mangum_s_sweet_running_catch_Jake_Mangum_s_sweet_running_catch_Jake_Mangum_s_sweet_running_.mp4
-clip_start_time: 6.580
-clip_end_time: 13.580

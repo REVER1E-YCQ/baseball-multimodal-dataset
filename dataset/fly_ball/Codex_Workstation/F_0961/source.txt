@@ -1,7 +1,0 @@
-video_title: Joey Bart's three-run home run (4) Joey Bart's three-run home run (4) Joey Bart's three-run home run (4) Joey Bart crushes a three-run home run to left field, extending the Pirates' lead to 10-0 in the 5th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/21/d158e8a4-e2c30e06-8f82efb4-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776234_osvaldo-bido-in-play-run-s-to-joey-bart
-clip_id: MLB_776234_osvaldo-bido-in-play-run-s-to-joey-bart_auto1_4p860_11p860
-source_path: raw_sources\MLB_776234_osvaldo-bido-in-play-run-s-to-joey-bart_Joey_Bart_s_three-run_home_run_4_Joey_Bart_s_three-run_home_run_4_Joey_Bart_s_three-run_home_run_4_Joey_Bart_crushes_a_.mp4
-clip_start_time: 4.860
-clip_end_time: 11.860

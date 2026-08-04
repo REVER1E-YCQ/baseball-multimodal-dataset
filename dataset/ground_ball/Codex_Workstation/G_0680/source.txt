@@ -1,7 +1,0 @@
-video_title: Trey Sweeney collects deflection for wacky putout Trey Sweeney collects deflection for wacky putout Trey Sweeney collects deflection for wacky putout Trey Sweeney corrals a deflected ground ball off Brenan Hanifee's glove and throws to first to put away Jordan Beck for the second out of the 7th inni
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/07/b84e51b7-3c9d672c-bd846ad1-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_778013_jordan-beck-grounds-out-pitcher-brenan-hanifee-to-shortstop-trey-swee
-clip_id: MLB_778013_jordan-beck-grounds-out-pitcher-brenan-hanifee-to-shortstop-trey-swee_auto1_8p715_14p715
-source_path: raw_sources\MLB_778013_jordan-beck-grounds-out-pitcher-brenan-hanifee-to-shortstop-trey-swee_Trey_Sweeney_collects_deflection_for_wacky_putout_Trey_Sweeney_collects_deflection_for_wa.mp4
-clip_start_time: 8.715
-clip_end_time: 14.715

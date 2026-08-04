@@ -1,7 +1,0 @@
-video_title: David Bednar secures Yankees' 5-1 win David Bednar secures Yankees' 5-1 win David Bednar secures Yankees' 5-1 win David Bednar retires the Nationals in order in the 9th, inducing a grounder from James Wood to secure the Yankees' 5-1 win
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/26/e5d790d4-b3a515e5-c3bdfb79-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_776588_james-wood-grounds-out-second-baseman-jazz-chisholm-jr-to-first-basem
-clip_id: MLB_776588_james-wood-grounds-out-second-baseman-jazz-chisholm-jr-to-first-basem_auto1_7p438_13p438
-source_path: raw_sources\MLB_776588_james-wood-grounds-out-second-baseman-jazz-chisholm-jr-to-first-basem_David_Bednar_secures_Yankees_5-1_win_David_Bednar_secures_Yankees_5-1_win_David_Bednar_se.mp4
-clip_start_time: 7.438
-clip_end_time: 13.438

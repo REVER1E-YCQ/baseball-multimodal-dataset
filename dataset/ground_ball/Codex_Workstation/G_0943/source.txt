@@ -1,7 +1,0 @@
-video_title: Francisco Lindor's sensational spinning play Francisco Lindor's sensational spinning play Francisco Lindor's sensational spinning play Francisco Lindor lunges to field Joey Wiemer's grounder, then spins and throw to Pete Alonso at first who hold on for the out to end the top of the 6th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/29/3227a1f4-3e771e8f-b2636ad5-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776548_joey-wiemer-grounds-out-sharply-shortstop-francisco-lindor-to-first-b
-clip_id: MLB_776548_joey-wiemer-grounds-out-sharply-shortstop-francisco-lindor-to-first-b_auto1_22p820_28p820
-source_path: raw_sources\MLB_776548_joey-wiemer-grounds-out-sharply-shortstop-francisco-lindor-to-first-b_Francisco_Lindor_s_sensational_spinning_play_Francisco_Lindor_s_sensational_spinning_play.mp4
-clip_start_time: 22.820
-clip_end_time: 28.820

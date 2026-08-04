@@ -1,7 +1,0 @@
-video_title: Seth Lugo strands two runners in scoring position Seth Lugo strands two runners in scoring position Seth Lugo strands two runners in scoring position Seth Lugo induces J.P. Crawford's groundout and leaves two runners stranded to escape a jam and end the 5th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/24/07354476-1da5adcd-4581738d-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_824108_seth-lugo-in-play-out-s-to-j-p-crawford-3zcb31
-clip_id: MLB_824108_seth-lugo-in-play-out-s-to-j-p-crawford-3zcb31_head_0p000_6p000
-source_path: raw_sources\MLB_824108_seth-lugo-in-play-out-s-to-j-p-crawford-3zcb31_Seth_Lugo_strands_two_runners_in_scoring_position_Seth_Lugo_strands_two_runners_.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

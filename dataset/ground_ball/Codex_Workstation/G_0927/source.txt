@@ -1,7 +1,0 @@
-video_title: Matthew Lugo's go-ahead single Matthew Lugo's go-ahead single Matthew Lugo's go-ahead single Matthew Lugo singles on a deflected ground ball to left, plating Sebastián Rivero to give the Angels a 6-5 lead in the 12th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/12/7d3053fa-a58a62f5-399aee5a-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_776362_jose-castillo-in-play-run-s-to-matthew-lugo
-clip_id: MLB_776362_jose-castillo-in-play-run-s-to-matthew-lugo_auto1_2p580_8p580
-source_path: raw_sources\MLB_776362_jose-castillo-in-play-run-s-to-matthew-lugo_Matthew_Lugo_s_go-ahead_single_Matthew_Lugo_s_go-ahead_single_Matthew_Lugo_s_go-ahead_single_Matthew_Lugo_singles_o.mp4
-clip_start_time: 2.580
-clip_end_time: 8.580

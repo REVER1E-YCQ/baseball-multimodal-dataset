@@ -1,7 +1,0 @@
-video_title: Pete Alonso's 700th career RBI Pete Alonso's 700th career RBI Pete Alonso's 700th career RBI Pete Alonso hits a sacrifice fly to right field for his 700th RBI, scoring Francisco Lindor and cutting the Mets' deficit to 6-3 in the bottom of the 3rd
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/12/e62dcae5-bc8477ec-7c385dd1-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776359_pete-alonso-out-on-a-sacrifice-fly-to-right-fielder-alejandro-osuna-f
-clip_id: MLB_776359_pete-alonso-out-on-a-sacrifice-fly-to-right-fielder-alejandro-osuna-f_auto1_5p000_12p000
-source_path: raw_sources\MLB_776359_pete-alonso-out-on-a-sacrifice-fly-to-right-fielder-alejandro-osuna-f_Pete_Alonso_s_700th_career_RBI_Pete_Alonso_s_700th_career_RBI_Pete_Alonso_s_700th_career_.mp4
-clip_start_time: 5.000
-clip_end_time: 12.000

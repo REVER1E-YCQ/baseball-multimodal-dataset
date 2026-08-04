@@ -1,7 +1,0 @@
-video_title: Willy Adames' RBI double Willy Adames' RBI double Willy Adames' RBI double Willy Adames doubles on a line drive that Jurickson Profar loses in the lights and Rafael Devers scores, making the score 8-3 in the 5th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/21/aaf9468b-fe466f26-75995e96-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_777069_willy-adames-doubles-15-on-a-sharp-line-drive-to-center-fielder-micha
-clip_id: MLB_777069_willy-adames-doubles-15-on-a-sharp-line-drive-to-center-fielder-micha_auto1_3p060_10p060
-source_path: raw_sources\MLB_777069_willy-adames-doubles-15-on-a-sharp-line-drive-to-center-fielder-micha_Willy_Adames_RBI_double_Willy_Adames_RBI_double_Willy_Adames_RBI_double_Willy_Adames_doub.mp4
-clip_start_time: 3.060
-clip_end_time: 10.060

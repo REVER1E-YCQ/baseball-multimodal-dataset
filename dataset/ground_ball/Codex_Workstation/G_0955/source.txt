@@ -1,7 +1,0 @@
-video_title: Heriberto Hernández scores on a double play  Heriberto Hernández scores on a double play  Heriberto Hernández scores on a double play  Heriberto Hernández scores from third on a ground ball to put the Marlins on the board in the bottom of the 2nd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/20/d818b53d-4970f3f4-27e1554b-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_776670_andre-pallante-in-play-run-s-to-javier-sanoja
-clip_id: MLB_776670_andre-pallante-in-play-run-s-to-javier-sanoja_auto1_13p820_19p820
-source_path: raw_sources\MLB_776670_andre-pallante-in-play-run-s-to-javier-sanoja_Heriberto_Hern_ndez_scores_on_a_double_play_Heriberto_Hern_ndez_scores_on_a_double_play_Heriberto_Hern_ndez_score.mp4
-clip_start_time: 13.820
-clip_end_time: 19.820

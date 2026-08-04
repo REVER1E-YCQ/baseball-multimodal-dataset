@@ -1,7 +1,0 @@
-video_title: Junior Caminero's barehanded throw to first base Junior Caminero's barehanded throw to first base Junior Caminero's barehanded throw to first base Junior Caminero fields Taylor Ward's ground ball barehanded and throws to Yandy Díaz to close out the 5th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/06/d0f31547-7926742b-3d5265dc-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776843_taylor-ward-grounds-out-third-baseman-junior-caminero-to-first-basema
-clip_id: MLB_776843_taylor-ward-grounds-out-third-baseman-junior-caminero-to-first-basema_auto1_15p371_21p371
-source_path: raw_sources\MLB_776843_taylor-ward-grounds-out-third-baseman-junior-caminero-to-first-basema_Junior_Caminero_s_barehanded_throw_to_first_base_Junior_Caminero_s_barehanded_throw_to_fi.mp4
-clip_start_time: 15.371
-clip_end_time: 21.371

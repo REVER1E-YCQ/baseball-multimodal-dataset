@@ -1,7 +1,0 @@
-video_title: Noelvi Marte recaps his game-saving home run robbery Noelvi Marte recaps his game-saving home run robbery Noelvi Marte recaps his game-saving home run robbery Noelvi Marte shouts out TJ Friedl for helping him feel more prepared to make catches at the wall moments after robbing a potentially game-tyi
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/25/b0bdb665-d5cbdf4e-f3dfa370-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776190_noelvi-marte-recaps-his-game-saving-home-run-robbery
-clip_id: MLB_776190_noelvi-marte-recaps-his-game-saving-home-run-robbery_auto1_4p080_11p080
-source_path: raw_sources\MLB_776190_noelvi-marte-recaps-his-game-saving-home-run-robbery_Noelvi_Marte_recaps_his_game-saving_home_run_robbery_Noelvi_Marte_recaps_his_game-saving_home_run_robbery_.mp4
-clip_start_time: 4.080
-clip_end_time: 11.080

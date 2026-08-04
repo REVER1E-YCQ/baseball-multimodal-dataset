@@ -1,7 +1,0 @@
-video_title: Guardians turn double play to escape jam Guardians turn double play to escape jam Guardians turn double play to escape jam Jhonkensy Noel catches a fly ball and the Guardians catch Jose Altuve between bases to escape a jam
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/06/4073a8c8-d6e4c16e-3bd7ac1b-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_777622_nic-enright-in-play-out-s-to-jake-meyers
-clip_id: MLB_777622_nic-enright-in-play-out-s-to-jake-meyers_auto1_9p160_16p160
-source_path: raw_sources\MLB_777622_nic-enright-in-play-out-s-to-jake-meyers_Guardians_turn_double_play_to_escape_jam_Guardians_turn_double_play_to_escape_jam_Guardians_turn_double_play_to_escape.mp4
-clip_start_time: 9.160
-clip_end_time: 16.160

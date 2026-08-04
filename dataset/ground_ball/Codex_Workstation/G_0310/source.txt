@@ -1,7 +1,0 @@
-video_title: Carlos Estévez earns the save Carlos Estévez earns the save Carlos Estévez earns the save Carlos Estévez earns the save with a groundout, sealing the Royals' 4-2 win
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/07/d81608bb-32f1792f-07b85874-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_778412_carlos-estevez-in-play-out-s-to-edouard-julien
-clip_id: MLB_778412_carlos-estevez-in-play-out-s-to-edouard-julien_auto1_2p600_8p600
-source_path: raw_sources\MLB_778412_carlos-estevez-in-play-out-s-to-edouard-julien_Carlos_Est_vez_earns_the_save_Carlos_Est_vez_earns_the_save_Carlos_Est_vez_earns.mp4
-clip_start_time: 2.600
-clip_end_time: 8.600

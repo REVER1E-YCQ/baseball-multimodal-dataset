@@ -1,7 +1,0 @@
-video_title: Jose Altuve's RBI single Jose Altuve's RBI single Jose Altuve's RBI single Jose Altuve singles on a line drive to left field, plating Mauricio Dubón to trim the Astros' deficit to 3-2 in the 7th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/20/09440a40-1a121a6b-8dec0188-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_746782_jose-altuve-singles-on-a-line-drive-to-left-fielder-andrew-benintendi
-clip_id: MLB_746782_jose-altuve-singles-on-a-line-drive-to-left-fielder-andrew-benintendi_auto1_7p720_14p720
-source_path: raw_sources\MLB_746782_jose-altuve-singles-on-a-line-drive-to-left-fielder-andrew-benintendi_Jose_Altuve_s_RBI_single_Jose_Altuve_s_RBI_single_Jose_Altuve_s_RBI_single_Jose_Altuve_si.mp4
-clip_start_time: 7.720
-clip_end_time: 14.720

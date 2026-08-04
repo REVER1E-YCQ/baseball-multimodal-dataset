@@ -1,7 +1,0 @@
-video_title: Yandy Díaz's diving stop Yandy Díaz's diving stop Yandy Díaz's diving stop Yandy Díaz's makes a great diving stop on Lawrence Butler's grounder, then pops up and takes it to first base himself for the out
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/12/48feebc6-9c23909c-ca2bf443-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776762_shane-baz-in-play-out-s-to-lawrence-butler
-clip_id: MLB_776762_shane-baz-in-play-out-s-to-lawrence-butler_auto1_0p000_6p000
-source_path: raw_sources\MLB_776762_shane-baz-in-play-out-s-to-lawrence-butler_Yandy_D_az_s_diving_stop_Yandy_D_az_s_diving_stop_Yandy_D_az_s_diving_stop_Yandy_D_az_s_makes_a_great_diving_stop_on.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

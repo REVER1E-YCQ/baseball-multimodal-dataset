@@ -1,7 +1,0 @@
-video_title: Brice Turang's leadoff home run (18) Brice Turang's leadoff home run (18) Brice Turang's leadoff home run (18) Brice Turang leads off the game with a home run to center field, giving the Brewers a 1-0 lead in the top of the 1st inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/10/97396f0b-bb982ca5-14a38d96-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776375_brice-turang-homers-18-on-a-fly-ball-to-center-field
-clip_id: MLB_776375_brice-turang-homers-18-on-a-fly-ball-to-center-field_auto1_5p020_12p020
-source_path: raw_sources\MLB_776375_brice-turang-homers-18-on-a-fly-ball-to-center-field_Brice_Turang_s_leadoff_home_run_18_Brice_Turang_s_leadoff_home_run_18_Brice_Turang_s_leadoff_home_run_18_B.mp4
-clip_start_time: 5.020
-clip_end_time: 12.020

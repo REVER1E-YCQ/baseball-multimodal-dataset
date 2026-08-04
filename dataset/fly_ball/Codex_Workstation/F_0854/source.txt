@@ -1,7 +1,0 @@
-video_title: Colson Montgomery's sacrifice fly Colson Montgomery's sacrifice fly Colson Montgomery's sacrifice fly Colson Montgomery hits a sacrifice fly to center field, scoring Kyle Teel and cutting the White Sox' deficit to 5-4 in the 5th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/04/8d40b307-1e75f749-6a845739-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_776462_colson-montgomery-out-on-a-sacrifice-fly-to-center-fielder-james-outm
-clip_id: MLB_776462_colson-montgomery-out-on-a-sacrifice-fly-to-center-fielder-james-outm_auto1_8p294_15p294
-source_path: raw_sources\MLB_776462_colson-montgomery-out-on-a-sacrifice-fly-to-center-fielder-james-outm_Colson_Montgomery_s_sacrifice_fly_Colson_Montgomery_s_sacrifice_fly_Colson_Montgomery_s_s.mp4
-clip_start_time: 8.294
-clip_end_time: 15.294

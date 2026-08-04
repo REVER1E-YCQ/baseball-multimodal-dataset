@@ -1,7 +1,0 @@
-video_title: Brandon Lowe's sacrifice fly Brandon Lowe's sacrifice fly Brandon Lowe's sacrifice fly Brandon Lowe hits a fly ball to right field deep enough for Alex Jackson to tag up and score in the top of the 3rd
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/20/ecaa25ca-c84b3a60-95f1aa81-csvm-diamondx64-asset-4000K.mp4
-source_id: MLB_745889_brandon-lowe-out-on-a-sacrifice-fly-to-right-fielder-trevor-larnach-a
-clip_id: MLB_745889_brandon-lowe-out-on-a-sacrifice-fly-to-right-fielder-trevor-larnach-a_auto1_19p713_26p713
-source_path: raw_sources\MLB_745889_brandon-lowe-out-on-a-sacrifice-fly-to-right-fielder-trevor-larnach-a_Brandon_Lowe_s_sacrifice_fly_Brandon_Lowe_s_sacrifice_fly_Brandon_Lowe_s_sacrifice_fly_Br.mp4
-clip_start_time: 19.713
-clip_end_time: 26.713

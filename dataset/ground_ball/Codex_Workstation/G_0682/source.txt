@@ -1,7 +1,0 @@
-video_title: The Guardians turn two to end the game The Guardians turn two to end the game The Guardians turn two to end the game Carlos Santana fields a grounder, tosses to Brayan Rocchio for one out, who returns it to Santana for a double play to end the game
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/06/237a23d4-af76c044-5c9f5041-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_778046_josh-bell-grounds-into-a-double-play-first-baseman-carlos-santana-to-
-clip_id: MLB_778046_josh-bell-grounds-into-a-double-play-first-baseman-carlos-santana-to-_auto1_1p340_7p340
-source_path: raw_sources\MLB_778046_josh-bell-grounds-into-a-double-play-first-baseman-carlos-santana-to-_The_Guardians_turn_two_to_end_the_game_The_Guardians_turn_two_to_end_the_game_The_Guardia.mp4
-clip_start_time: 1.340
-clip_end_time: 7.340

@@ -1,7 +1,0 @@
-video_title: Willy Adames' leaping catch Willy Adames' leaping catch Willy Adames' leaping catch Willy Adames makes an impressive leaping grab off Stuart Fairchild's liner for the second out of the top of the 7th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/15/a578a335-6c18dcd1-dd4ed69e-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_745976_stuart-fairchild-lines-out-to-shortstop-willy-adames-gvuesq
-clip_id: MLB_745976_stuart-fairchild-lines-out-to-shortstop-willy-adames-gvuesq_auto1_2p520_9p520
-source_path: raw_sources\MLB_745976_stuart-fairchild-lines-out-to-shortstop-willy-adames-gvuesq_Willy_Adames_leaping_catch_Willy_Adames_leaping_catch_Willy_Adames_leaping_catch.mp4
-clip_start_time: 2.520
-clip_end_time: 9.520

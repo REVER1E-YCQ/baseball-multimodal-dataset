@@ -1,7 +1,0 @@
-video_title: David Hamilton's two-run homer (6) David Hamilton's two-run homer (6) David Hamilton's two-run homer (6) David Hamilton hits a two-run home run to right-center field to tie the game at 3 in the bottom of the 4th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/28/349e63b3-1d0f2fb7-3db0aded-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776151_chris-paddack-in-play-run-s-to-david-hamilton
-clip_id: MLB_776151_chris-paddack-in-play-run-s-to-david-hamilton_auto1_3p160_10p160
-source_path: raw_sources\MLB_776151_chris-paddack-in-play-run-s-to-david-hamilton_David_Hamilton_s_two-run_homer_6_David_Hamilton_s_two-run_homer_6_David_Hamilton_s_two-run_homer_6_David_Hamilton.mp4
-clip_start_time: 3.160
-clip_end_time: 10.160

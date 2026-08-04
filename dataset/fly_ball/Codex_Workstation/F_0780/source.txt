@@ -1,7 +1,0 @@
-video_title: Field View: Kyle Schwarber's 52nd home run Field View: Kyle Schwarber's 52nd home run Field View: Kyle Schwarber's 52nd home run Don't miss this unique look at Kyle Schwarber's solo home run in the bottom of the 1st inning against the Royals
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/14/d3a500a9-95d8e666-4ef10524-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776334_field-view-kyle-schwarber-s-52nd-home-run
-clip_id: MLB_776334_field-view-kyle-schwarber-s-52nd-home-run_auto1_4p700_11p700
-source_path: raw_sources\MLB_776334_field-view-kyle-schwarber-s-52nd-home-run_Field_View_Kyle_Schwarber_s_52nd_home_run_Field_View_Kyle_Schwarber_s_52nd_home_run_Field_View_Kyle_Schwarber_s_52nd_.mp4
-clip_start_time: 4.700
-clip_end_time: 11.700

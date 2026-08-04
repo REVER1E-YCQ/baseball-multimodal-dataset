@@ -1,7 +1,0 @@
-video_title: Bryce Harper's single Bryce Harper's single Bryce Harper singles on a ground ball to right fieler Juan Soto. Kyle Schwarber to 3rd. Bryce Harper to 2nd. Bryce Harper singles on a ground ball to right, advancing Kyle Schwarber to third
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/25/0f78de00-10a3ea9c-422f7736-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_776598_kodai-senga-in-play-no-out-to-bryce-harper
-clip_id: MLB_776598_kodai-senga-in-play-no-out-to-bryce-harper_auto1_1p580_7p580
-source_path: raw_sources\MLB_776598_kodai-senga-in-play-no-out-to-bryce-harper_Bryce_Harper_s_single_Bryce_Harper_s_single_Bryce_Harper_singles_on_a_ground_ball_to_right_fieler_Juan_Soto._Kyle_Sc.mp4
-clip_start_time: 1.580
-clip_end_time: 7.580

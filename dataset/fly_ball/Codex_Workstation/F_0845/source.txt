@@ -1,7 +1,0 @@
-video_title: Noelvi Marte's sacrifice fly Noelvi Marte's sacrifice fly Noelvi Marte's sacrifice fly Noelvi Marte lofts a sacrifice fly to right field that brings home Matt McLain and trims the Reds' deficit to 4-1 in the 3rd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/05/113fd35d-22a446a8-b9a5d51b-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_776450_david-peterson-in-play-run-s-to-noelvi-marte
-clip_id: MLB_776450_david-peterson-in-play-run-s-to-noelvi-marte_auto1_9p289_16p289
-source_path: raw_sources\MLB_776450_david-peterson-in-play-run-s-to-noelvi-marte_Noelvi_Marte_s_sacrifice_fly_Noelvi_Marte_s_sacrifice_fly_Noelvi_Marte_s_sacrifice_fly_Noelvi_Marte_lofts_a_sacrif.mp4
-clip_start_time: 9.289
-clip_end_time: 16.289

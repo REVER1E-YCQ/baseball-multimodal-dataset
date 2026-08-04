@@ -1,7 +1,0 @@
-video_title: Tyler Locklear's diving play Tyler Locklear's diving play Tyler Locklear's diving play Tyler Locklear reacts quickly to a hard-hit grounder, dives to make the stop, then tosses to first to get the runner for the final out of the bottom of the 7th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/01/de99deb5-762fd779-bbc82b6e-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776914_john-curtiss-in-play-out-s-to-nick-kurtz
-clip_id: MLB_776914_john-curtiss-in-play-out-s-to-nick-kurtz_auto1_10p166_16p166
-source_path: raw_sources\MLB_776914_john-curtiss-in-play-out-s-to-nick-kurtz_Tyler_Locklear_s_diving_play_Tyler_Locklear_s_diving_play_Tyler_Locklear_s_diving_play_Tyler_Locklear_reacts_quickly_t.mp4
-clip_start_time: 10.166
-clip_end_time: 16.166

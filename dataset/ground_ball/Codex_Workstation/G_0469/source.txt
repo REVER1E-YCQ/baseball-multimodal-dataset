@@ -1,7 +1,0 @@
-video_title: Keibert Ruiz's RBI groundout Keibert Ruiz's RBI groundout Keibert Ruiz's RBI groundout Keibert Ruiz plates Luis García Jr. on an RBI groundout, cutting the Nationals' deficit to 2-1 in the bottom of the 7th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/22/797b6b09-802778bd-d456177e-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_744856_griffin-jax-in-play-run-s-to-keibert-ruiz-srwa6c
-clip_id: MLB_744856_griffin-jax-in-play-run-s-to-keibert-ruiz-srwa6c_auto1_2p420_8p420
-source_path: raw_sources\MLB_744856_griffin-jax-in-play-run-s-to-keibert-ruiz-srwa6c_Keibert_Ruiz_s_RBI_groundout_Keibert_Ruiz_s_RBI_groundout_Keibert_Ruiz_s_RBI_gro.mp4
-clip_start_time: 2.420
-clip_end_time: 8.420

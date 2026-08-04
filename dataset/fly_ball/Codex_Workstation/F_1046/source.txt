@@ -1,7 +1,0 @@
-video_title: Byron Buxton's second homer of the game (34) Byron Buxton's second homer of the game (34) Byron Buxton's second homer of the game (34) Byron Buxton hits his second home run of the game with a three-run homer to left-center field to put the Twins up 4-0 in the 8th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/25/ea2f4cf5-0e478072-4dea7a02-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776183_byron-buxton-homers-34-on-a-fly-ball-to-center-field-ryan-fitzgerald-
-clip_id: MLB_776183_byron-buxton-homers-34-on-a-fly-ball-to-center-field-ryan-fitzgerald-_auto1_0p540_7p540
-source_path: raw_sources\MLB_776183_byron-buxton-homers-34-on-a-fly-ball-to-center-field-ryan-fitzgerald-_Byron_Buxton_s_second_homer_of_the_game_34_Byron_Buxton_s_second_homer_of_the_game_34_Byr.mp4
-clip_start_time: 0.540
-clip_end_time: 7.540

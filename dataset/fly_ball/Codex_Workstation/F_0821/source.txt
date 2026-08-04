@@ -1,7 +1,0 @@
-video_title: Tommy Pham's solo homer (9) Tommy Pham's solo homer (9) Tommy Pham's solo homer (9) Tommy Pham hits a game-tying solo home run to left-center field in the top of the 9th inning to knot the game at 2
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/09/ede79980-c769db18-746cfc3f-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776401_tommy-pham-homers-9-on-a-line-drive-to-left-center-field
-clip_id: MLB_776401_tommy-pham-homers-9-on-a-line-drive-to-left-center-field_auto1_6p460_13p460
-source_path: raw_sources\MLB_776401_tommy-pham-homers-9-on-a-line-drive-to-left-center-field_Tommy_Pham_s_solo_homer_9_Tommy_Pham_s_solo_homer_9_Tommy_Pham_s_solo_homer_9_Tommy_Pham_hits_a_game-t.mp4
-clip_start_time: 6.460
-clip_end_time: 13.460

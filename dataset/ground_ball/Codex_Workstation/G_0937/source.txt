@@ -1,7 +1,0 @@
-video_title: Jeremy Peña's slick jump-throw Jeremy Peña's slick jump-throw Jeremy Peña's slick jump-throw Jeremy Peña backhands a ground ball from Mike Trout, making a sweet jump-throw to first base to end the 9th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/31/d66cccb9-6a8211b2-8792095b-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776510_aj-blubaugh-in-play-out-s-to-mike-trout
-clip_id: MLB_776510_aj-blubaugh-in-play-out-s-to-mike-trout_auto1_3p600_9p600
-source_path: raw_sources\MLB_776510_aj-blubaugh-in-play-out-s-to-mike-trout_Jeremy_Pe_a_s_slick_jump-throw_Jeremy_Pe_a_s_slick_jump-throw_Jeremy_Pe_a_s_slick_jump-throw_Jeremy_Pe_a_backhands_a_gr.mp4
-clip_start_time: 3.600
-clip_end_time: 9.600

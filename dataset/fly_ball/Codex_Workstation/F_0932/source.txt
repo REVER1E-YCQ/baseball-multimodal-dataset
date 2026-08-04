@@ -1,7 +1,0 @@
-video_title: Jackson Chourio's INCREDIBLE home run robbery Jackson Chourio's INCREDIBLE home run robbery Jackson Chourio's INCREDIBLE home run robbery Jackson Chourio times his jump perfectly, leaping to rob Xander Bogaerts of a three-run homer in the bottom of the 1st inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/24/528a3cf1-9571f78e-a9e8a8f6-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776198_xander-bogaerts-flies-out-sharply-to-center-fielder-jackson-chourio
-clip_id: MLB_776198_xander-bogaerts-flies-out-sharply-to-center-fielder-jackson-chourio_auto1_5p460_12p460
-source_path: raw_sources\MLB_776198_xander-bogaerts-flies-out-sharply-to-center-fielder-jackson-chourio_Jackson_Chourio_s_INCREDIBLE_home_run_robbery_Jackson_Chourio_s_INCREDIBLE_home_run_robbery.mp4
-clip_start_time: 5.460
-clip_end_time: 12.460

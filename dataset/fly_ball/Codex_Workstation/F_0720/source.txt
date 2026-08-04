@@ -1,7 +1,0 @@
-video_title: Colson Montgomery's 454-foot home run Colson Montgomery's 454-foot home run Colson Montgomery's 454-foot home run Statcast measures Colson Montgomery's home run against the Twins at 454 feet with an exit velocity of 111.6 mph
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/04/08398ae8-991badc9-e9f1f75d-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776462_colson-montgomery-s-454-foot-home-run
-clip_id: MLB_776462_colson-montgomery-s-454-foot-home-run_auto1_4p740_11p740
-source_path: raw_sources\MLB_776462_colson-montgomery-s-454-foot-home-run_Colson_Montgomery_s_454-foot_home_run_Colson_Montgomery_s_454-foot_home_run_Colson_Montgomery_s_454-foot_home_run_Statcas.mp4
-clip_start_time: 4.740
-clip_end_time: 11.740

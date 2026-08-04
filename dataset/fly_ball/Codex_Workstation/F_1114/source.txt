@@ -1,7 +1,0 @@
-video_title: Nico Hoerner's sacrifice fly Nico Hoerner's sacrifice fly Nico Hoerner's sacrifice fly Nico Hoerner skies a sacrifice fly to center field, scoring Dansby Swanson to provide a crucial insurance run and put the Cubs ahead 3-1 in the 8th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/30/4e412a60-4e902681-c94193f6-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_813066_nico-hoerner-s-sacrifice-fly-x3210
-clip_id: MLB_813066_nico-hoerner-s-sacrifice-fly-x3210_auto1_0p160_7p160
-source_path: raw_sources\MLB_813066_nico-hoerner-s-sacrifice-fly-x3210_Nico_Hoerner_s_sacrifice_fly_Nico_Hoerner_s_sacrifice_fly_Nico_Hoerner_s_sacrifice_fly_Nico_Hoerner_skies_a_sacrifice_fly_to.mp4
-clip_start_time: 0.160
-clip_end_time: 7.160

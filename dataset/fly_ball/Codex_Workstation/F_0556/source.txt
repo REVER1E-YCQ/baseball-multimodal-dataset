@@ -1,7 +1,0 @@
-video_title: Lucas Erceg leaves game with left foot contusion Lucas Erceg leaves game with left foot contusion Lucas Erceg leaves game with left foot contusion Lucas Erceg leaves the game with a left foot contusion after a line drive hits his shoe
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/18/1df81e9b-a1ff2f22-796757c8-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_778277_lucas-erceg-leaves-game-with-apparent-injury
-clip_id: MLB_778277_lucas-erceg-leaves-game-with-apparent-injury_auto1_5p680_12p680
-source_path: raw_sources\MLB_778277_lucas-erceg-leaves-game-with-apparent-injury_Lucas_Erceg_leaves_game_with_left_foot_contusion_Lucas_Erceg_leaves_game_with_left_foot_contusion_Lucas_Erceg_leav.mp4
-clip_start_time: 5.680
-clip_end_time: 12.680

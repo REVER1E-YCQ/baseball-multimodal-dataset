@@ -1,7 +1,0 @@
-video_title: Bryson Stott's RBI groundout Bryson Stott's RBI groundout Bryson Stott's RBI groundout
-video_url: https://bdata-producedclips.mlb.com/b4a0e52d-1368-4a49-8f72-363ea150902e.mp4
-source_id: MLB_745580_jake-diekman-in-play-run-s-to-bryson-stott
-clip_id: MLB_745580_jake-diekman-in-play-run-s-to-bryson-stott_auto1_5p800_11p800
-source_path: raw_sources\MLB_745580_jake-diekman-in-play-run-s-to-bryson-stott_Bryson_Stott_s_RBI_groundout_Bryson_Stott_s_RBI_groundout_Bryson_Stott_s_RBI_gro.mp4
-clip_start_time: 5.800
-clip_end_time: 11.800

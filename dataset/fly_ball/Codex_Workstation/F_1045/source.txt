@@ -1,7 +1,0 @@
-video_title: Pete Crow-Armstrong on recording 30-30 season, more Pete Crow-Armstrong on recording 30-30 season, more Pete Crow-Armstrong on recording 30-30 season, more Pete Crow-Armstrong discusses hitting a home run to record a 30-30 season and more following the Cubs' dominant 12-1 victory over the Cardinals
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/26/3c5ca1e6-9c267d08-c0628f40-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776167_pete-crow-armstrong-on-recording-30-30-season-more
-clip_id: MLB_776167_pete-crow-armstrong-on-recording-30-30-season-more_auto1_3p820_10p820
-source_path: raw_sources\MLB_776167_pete-crow-armstrong-on-recording-30-30-season-more_Pete_Crow-Armstrong_on_recording_30-30_season_more_Pete_Crow-Armstrong_on_recording_30-30_season_more_Pete_C.mp4
-clip_start_time: 3.820
-clip_end_time: 10.820

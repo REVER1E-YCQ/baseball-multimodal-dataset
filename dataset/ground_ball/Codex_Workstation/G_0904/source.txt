@@ -1,7 +1,0 @@
-video_title: Jeremiah Jackson's first big league hit  Jeremiah Jackson's first big league hit  Jeremiah Jackson's first Big League hit  Jeremiah Jackson records his first big league hit with a ground ball in the top of the 5th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/01/be759afa-cbfaa252-760a16fb-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776915_cade-horton-in-play-no-out-to-jeremiah-jackson
-clip_id: MLB_776915_cade-horton-in-play-no-out-to-jeremiah-jackson_auto1_0p000_6p000
-source_path: raw_sources\MLB_776915_cade-horton-in-play-no-out-to-jeremiah-jackson_Jeremiah_Jackson_s_first_big_league_hit_Jeremiah_Jackson_s_first_big_league_hit_Jeremiah_Jackson_s_first_Big_Lea.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

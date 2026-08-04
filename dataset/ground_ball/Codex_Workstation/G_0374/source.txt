@@ -1,7 +1,0 @@
-video_title: Elias Díaz brings home a run with a groundout Elias Díaz brings home a run with a groundout Elias Díaz brings home a run with a groundout
-video_url: https://bdata-producedclips.mlb.com/2ee4aaf9-fcf3-4cad-bb9a-58298134b733.mp4
-source_id: MLB_746072_roddery-munoz-in-play-run-s-to-elias-diaz
-clip_id: MLB_746072_roddery-munoz-in-play-run-s-to-elias-diaz_auto1_4p560_10p560
-source_path: raw_sources\MLB_746072_roddery-munoz-in-play-run-s-to-elias-diaz_Elias_D_az_brings_home_a_run_with_a_groundout_Elias_D_az_brings_home_a_run_with_.mp4
-clip_start_time: 4.560
-clip_end_time: 10.560

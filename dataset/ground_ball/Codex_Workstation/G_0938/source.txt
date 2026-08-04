@@ -1,7 +1,0 @@
-video_title: Brendon Little snags comebacker, makes play at home Brendon Little snags comebacker, makes play at home Brendon Little snags comebacker, makes play at home Brendon Little gets the out at home after snagging a 101.2 mph grounder hit back to the mound
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/31/9d5e2a8d-a3a55d01-1bbbc8cc-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776515_brendon-little-in-play-out-s-to-sal-frelick
-clip_id: MLB_776515_brendon-little-in-play-out-s-to-sal-frelick_auto1_4p100_10p100
-source_path: raw_sources\MLB_776515_brendon-little-in-play-out-s-to-sal-frelick_Brendon_Little_snags_comebacker_makes_play_at_home_Brendon_Little_snags_comebacker_makes_play_at_home_Brendon_Littl.mp4
-clip_start_time: 4.100
-clip_end_time: 10.100

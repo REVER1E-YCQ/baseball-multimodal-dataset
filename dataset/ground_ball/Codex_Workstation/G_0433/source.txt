@@ -1,7 +1,0 @@
-video_title: Rockies double steal, score on RBI ground out Rockies double steal, score on RBI ground out Rockies double steal, score on RBI ground out Brenton Doyle steals third and Jake Cave steals second then Michael Toglia hits an RBI groundout to extend the Rockies' lead to 2-0
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/06/49bd015e-def80973-80422a93-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_745174_sonny-gray-in-play-run-s-to-michael-toglia
-clip_id: MLB_745174_sonny-gray-in-play-run-s-to-michael-toglia_auto1_3p740_9p740
-source_path: raw_sources\MLB_745174_sonny-gray-in-play-run-s-to-michael-toglia_Rockies_double_steal_score_on_RBI_ground_out_Rockies_double_steal_score_on_RBI_g.mp4
-clip_start_time: 3.740
-clip_end_time: 9.740

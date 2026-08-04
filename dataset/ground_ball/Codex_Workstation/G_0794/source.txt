@@ -1,7 +1,0 @@
-video_title: Ernie Clement's diving play Ernie Clement's diving play Ernie Clement's diving play Ernie Clement reacts quickly to a hard-hit grounder, dives to make a great stop, and gets the runner at first in the bottom of the 7th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/16/a56bee56-0858c61b-a038201d-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776305_brandon-lowe-grounds-out-second-baseman-ernie-clement-to-first-basema
-clip_id: MLB_776305_brandon-lowe-grounds-out-second-baseman-ernie-clement-to-first-basema_auto1_3p940_9p940
-source_path: raw_sources\MLB_776305_brandon-lowe-grounds-out-second-baseman-ernie-clement-to-first-basema_Ernie_Clement_s_diving_play_Ernie_Clement_s_diving_play_Ernie_Clement_s_diving_play_Ernie.mp4
-clip_start_time: 3.940
-clip_end_time: 9.940

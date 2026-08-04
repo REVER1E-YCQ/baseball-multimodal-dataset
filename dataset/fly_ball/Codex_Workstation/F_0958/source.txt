@@ -1,7 +1,0 @@
-video_title: Steven Kwan's leadoff home run (11) Steven Kwan's leadoff home run (11) Steven Kwan's leadoff home run (11) Steven Kwan clobbers a leadoff homerun for his 11th home run of the season
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/21/2c56c9c7-101e1bc1-a970113b-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776225_steven-kwan-homers-11-on-a-fly-ball-to-right-field-ycaumt
-clip_id: MLB_776225_steven-kwan-homers-11-on-a-fly-ball-to-right-field-ycaumt_auto1_3p440_10p440
-source_path: raw_sources\MLB_776225_steven-kwan-homers-11-on-a-fly-ball-to-right-field-ycaumt_Steven_Kwan_s_leadoff_home_run_11_Steven_Kwan_s_leadoff_home_run_11_Steven_Kwan_s_leadoff_home_run_11.mp4
-clip_start_time: 3.440
-clip_end_time: 10.440

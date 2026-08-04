@@ -1,7 +1,0 @@
-video_title: Jake Mangum's RBI double Jake Mangum's RBI double Jake Mangum's RBI double Jake Mangum doubles on a line drive to right scoring Tyler Callihan, increasing the Pirates' lead to 5-1 over the Rockies in the top of the 6th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/21/975fee0c-127f34d2-44004c48-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_824343_juan-mejia-in-play-run-s-to-jake-mangum
-clip_id: MLB_824343_juan-mejia-in-play-run-s-to-jake-mangum_head_0p000_7p000
-source_path: raw_sources\MLB_824343_juan-mejia-in-play-run-s-to-jake-mangum_Jake_Mangum_s_RBI_double_Jake_Mangum_s_RBI_double_Jake_Mangum_s_RBI_double_Jake_.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000

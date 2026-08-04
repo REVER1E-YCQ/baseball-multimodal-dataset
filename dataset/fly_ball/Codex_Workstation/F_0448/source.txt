@@ -1,7 +1,0 @@
-video_title: Trea Turner's diving catch Trea Turner's diving catch Trea Turner's diving catch Trea Turner reacts quickly to a hard-hit line drive and dives to his left to make a terrific diving catch in the bottom of the 3rd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/19/7ec6f70a-84051406-06e8327c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_777444_connor-norby-lines-out-to-shortstop-trea-turner-rxlqyu
-clip_id: MLB_777444_connor-norby-lines-out-to-shortstop-trea-turner-rxlqyu_auto1_16p090_23p090
-source_path: raw_sources\MLB_777444_connor-norby-lines-out-to-shortstop-trea-turner-rxlqyu_Trea_Turner_s_diving_catch_Trea_Turner_s_diving_catch_Trea_Turner_s_diving_catch_Trea_Turner_reacts_quic.mp4
-clip_start_time: 16.090
-clip_end_time: 23.090

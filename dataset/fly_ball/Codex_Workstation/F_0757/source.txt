@@ -1,7 +1,0 @@
-video_title: Jose Altuve's two-run home run (24) Jose Altuve's two-run home run (24) Jose Altuve's two-run home run (24) José Altuve belts a two-run home run to left field, extending the Astros' lead to 8-3 in the 8th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/01/091b4a5a-5ad5c244-f110905d-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776499_jose-altuve-homers-24-on-a-fly-ball-to-left-field-jacob-melton-scores
-clip_id: MLB_776499_jose-altuve-homers-24-on-a-fly-ball-to-left-field-jacob-melton-scores_auto1_0p000_7p000
-source_path: raw_sources\MLB_776499_jose-altuve-homers-24-on-a-fly-ball-to-left-field-jacob-melton-scores_Jose_Altuve_s_two-run_home_run_24_Jose_Altuve_s_two-run_home_run_24_Jose_Altuve_s_two-run.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000

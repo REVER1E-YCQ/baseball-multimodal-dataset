@@ -1,7 +1,0 @@
-video_title: Javier Báez's sac fly Javier Báez's sac fly Javier Báez's sac fly Javier Báez hits a sacrifice fly to center fielder to give the Tigers a 3-0 lead in the bottom of the 4th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/06/e02b6f06-c3706646-6d0a8909-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_776435_javier-baez-out-on-a-sacrifice-fly-to-center-fielder-michael-a-taylor
-clip_id: MLB_776435_javier-baez-out-on-a-sacrifice-fly-to-center-fielder-michael-a-taylor_auto1_10p620_17p620
-source_path: raw_sources\MLB_776435_javier-baez-out-on-a-sacrifice-fly-to-center-fielder-michael-a-taylor_Javier_B_ez_s_sac_fly_Javier_B_ez_s_sac_fly_Javier_B_ez_s_sac_fly_Javier_B_ez_hits_a_sacr.mp4
-clip_start_time: 10.620
-clip_end_time: 17.620

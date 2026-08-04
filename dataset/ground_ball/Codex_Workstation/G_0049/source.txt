@@ -1,7 +1,0 @@
-video_title: Sal Frelick's RBI double Sal Frelick's RBI double Sal Frelick's RBI double Sal Frelick doubles on a ground ball to center field, scoring Blake Perkins to tie the game at 3 in the 9th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/05/53d0cc05-c61a7fea-b77b30ed-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_824350_antonio-senzatela-in-play-run-s-to-sal-frelick
-clip_id: MLB_824350_antonio-senzatela-in-play-run-s-to-sal-frelick_head_0p000_6p000
-source_path: raw_sources\MLB_824350_antonio-senzatela-in-play-run-s-to-sal-frelick_Sal_Frelick_s_RBI_double_Sal_Frelick_s_RBI_double_Sal_Frelick_s_RBI_double_Sal_F.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

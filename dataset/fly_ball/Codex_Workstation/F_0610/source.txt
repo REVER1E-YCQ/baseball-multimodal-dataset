@@ -1,7 +1,0 @@
-video_title: Sandy León's two-run home run (1) Sandy León's two-run home run (1) Sandy León's two-run home run (1) Sandy León cranks a two-run home run to right field, his first homer since 2021 to give the Braves a 8-3 lead in the 7th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/14/c0704753-c61e85ac-124967f2-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776329_sandy-leon-homers-1-on-a-fly-ball-to-right-field-eli-white-scores
-clip_id: MLB_776329_sandy-leon-homers-1-on-a-fly-ball-to-right-field-eli-white-scores_auto1_0p780_7p780
-source_path: raw_sources\MLB_776329_sandy-leon-homers-1-on-a-fly-ball-to-right-field-eli-white-scores_Sandy_Le_n_s_two-run_home_run_1_Sandy_Le_n_s_two-run_home_run_1_Sandy_Le_n_s_two-run_home_run.mp4
-clip_start_time: 0.780
-clip_end_time: 7.780

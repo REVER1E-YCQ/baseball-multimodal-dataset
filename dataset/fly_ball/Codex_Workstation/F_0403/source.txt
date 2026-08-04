@@ -1,7 +1,0 @@
-video_title: Trevor Story's diving catch Trevor Story's diving catch Trevor Story's diving catch Trevor Story reacts quickly to the line drive and makes the superb diving catch to begin the top of the 7th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/12/0e7e67f5-b3b7e4ff-53bb7e3a-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_777144_garrett-crochet-in-play-out-s-to-christopher-morel-sgumi7
-clip_id: MLB_777144_garrett-crochet-in-play-out-s-to-christopher-morel-sgumi7_auto1_4p120_11p120
-source_path: raw_sources\MLB_777144_garrett-crochet-in-play-out-s-to-christopher-morel-sgumi7_Trevor_Story_s_diving_catch_Trevor_Story_s_diving_catch_Trevor_Story_s_diving_catch_Trevor_Story_reac.mp4
-clip_start_time: 4.120
-clip_end_time: 11.120

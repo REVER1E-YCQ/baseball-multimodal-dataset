@@ -1,7 +1,0 @@
-video_title: Chris Taylor's outfield assist  Chris Taylor's outfield assist  Chris Taylor's outfield assist  Chris Taylor fields a ground ball and makes a strong throw to third base, nabbing José Tena for the 2nd out in the bottom of the 2nd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/07/8fc97f48-cdff9a1d-cbf6dd69-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_778418_dustin-may-in-play-run-s-to-dylan-crews-x8166
-clip_id: MLB_778418_dustin-may-in-play-run-s-to-dylan-crews-x8166_auto1_2p760_8p760
-source_path: raw_sources\MLB_778418_dustin-may-in-play-run-s-to-dylan-crews-x8166_Chris_Taylor_s_outfield_assist_Chris_Taylor_s_outfield_assist_Chris_Taylor_s_out.mp4
-clip_start_time: 2.760
-clip_end_time: 8.760

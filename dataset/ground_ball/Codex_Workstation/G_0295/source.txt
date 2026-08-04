@@ -1,7 +1,0 @@
-video_title: Kyle Manzardo, Cade Smith combine for nice play Kyle Manzardo, Cade Smith combine for nice play Kyle Manzardo, Cade Smith combine for nice play Kyle Manzardo ranges over on a hard-hit ground ball before throwing to Cade Smith on the run, nabbing Jose Iglesias at first base
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/02/a49d2d03-4937259b-4f10da8c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_778476_cade-smith-in-play-out-s-to-jose-iglesias
-clip_id: MLB_778476_cade-smith-in-play-out-s-to-jose-iglesias_auto1_11p640_17p640
-source_path: raw_sources\MLB_778476_cade-smith-in-play-out-s-to-jose-iglesias_Kyle_Manzardo_Cade_Smith_combine_for_nice_play_Kyle_Manzardo_Cade_Smith_combine_.mp4
-clip_start_time: 11.640
-clip_end_time: 17.640

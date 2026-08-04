@@ -1,7 +1,0 @@
-video_title: Field View: Eugenio Suarez's solo home run Field View: Eugenio Suarez's solo home run Field View: Eugenio Suarez's solo home run Don't miss this unique look at Eugenio Suarez's solo home run in the top of the 6th inning against the Braves
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/07/4db64341-15c890e8-c20450ce-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776428_field-view-suarez-s-solo-home-run
-clip_id: MLB_776428_field-view-suarez-s-solo-home-run_auto1_30p520_37p520
-source_path: raw_sources\MLB_776428_field-view-suarez-s-solo-home-run_Field_View_Eugenio_Suarez_s_solo_home_run_Field_View_Eugenio_Suarez_s_solo_home_run_Field_View_Eugenio_Suarez_s_solo_home_run.mp4
-clip_start_time: 30.520
-clip_end_time: 37.520

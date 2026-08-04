@@ -1,7 +1,0 @@
-video_title: Ke'Bryan Hayes' sensational diving catch Ke'Bryan Hayes' sensational diving catch Ke'Bryan Hayes' sensational diving catch Ke'Bryan Hayes reacts quickly to a hard-hit line drive and makes a lovely diving catch, and the final out of the top of the 7th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/08/a4aa3603-22ccff2e-89f0fac4-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_777595_nick-castellanos-lines-out-to-third-baseman-ke-bryan-hayes-okyjke
-clip_id: MLB_777595_nick-castellanos-lines-out-to-third-baseman-ke-bryan-hayes-okyjke_auto1_3p240_10p240
-source_path: raw_sources\MLB_777595_nick-castellanos-lines-out-to-third-baseman-ke-bryan-hayes-okyjke_Ke_Bryan_Hayes_sensational_diving_catch_Ke_Bryan_Hayes_sensational_diving_catch_Ke_Bryan_Haye.mp4
-clip_start_time: 3.240
-clip_end_time: 10.240

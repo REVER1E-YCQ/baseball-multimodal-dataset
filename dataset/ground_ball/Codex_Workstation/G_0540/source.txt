@@ -1,7 +1,0 @@
-video_title: Freddy Fermin's RBI groundout  Freddy Fermin's RBI groundout  Freddy Fermin's RBI groundout 
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/20/5697243a-a1946445-32927d5d-csvm-diamondx64-asset-4000K.mp4
-source_id: MLB_745650_lucas-erceg-in-play-run-s-to-freddy-fermin
-clip_id: MLB_745650_lucas-erceg-in-play-run-s-to-freddy-fermin_auto1_4p980_10p980
-source_path: raw_sources\MLB_745650_lucas-erceg-in-play-run-s-to-freddy-fermin_Freddy_Fermin_s_RBI_groundout_Freddy_Fermin_s_RBI_groundout_Freddy_Fermin_s_RBI_groundout.mp4
-clip_start_time: 4.980
-clip_end_time: 10.980

@@ -1,7 +1,0 @@
-video_title: Luis Torrens starts a game-ending double play Luis Torrens starts a game-ending double play Luis Torrens starts a game-winning double play Luis Torrens fields a grounder, steps on home and throws to first for a double play to secure the Mets' 6-5 win
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/09/34a2fd73-9f6df751-20bb884c-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_745571_drew-smith-in-play-out-s-to-nick-castellanos-dznbae
-clip_id: MLB_745571_drew-smith-in-play-out-s-to-nick-castellanos-dznbae_auto1_10p600_16p600
-source_path: raw_sources\MLB_745571_drew-smith-in-play-out-s-to-nick-castellanos-dznbae_Luis_Torrens_starts_a_game-ending_double_play_Luis_Torrens_starts_a_game-ending_.mp4
-clip_start_time: 10.600
-clip_end_time: 16.600

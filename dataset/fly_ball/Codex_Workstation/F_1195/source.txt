@@ -1,7 +1,0 @@
-video_title: Brett Baty's superb catch Brett Baty's superb catch Brett Baty's superb catch Brett Baty tracks a fly ball into foul territory and leans over the tarp to make a superb catch, ending the top of the 9th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/26/c4d05d9d-e0f5ad2d-870c2166-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_745824_mike-yastrzemski-pops-out-to-third-baseman-brett-baty-in-foul-territo
-clip_id: MLB_745824_mike-yastrzemski-pops-out-to-third-baseman-brett-baty-in-foul-territo_auto1_8p900_15p900
-source_path: raw_sources\MLB_745824_mike-yastrzemski-pops-out-to-third-baseman-brett-baty-in-foul-territo_Brett_Baty_s_superb_catch_Brett_Baty_s_superb_catch_Brett_Baty_s_superb_catch_Br.mp4
-clip_start_time: 8.900
-clip_end_time: 15.900

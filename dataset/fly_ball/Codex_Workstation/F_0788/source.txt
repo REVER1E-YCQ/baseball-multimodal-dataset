@@ -1,7 +1,0 @@
-video_title: Nick Fortes discusses go-ahead home run  Nick Fortes discusses go-ahead home run  Nick Fortes discusses go-ahead home run  Nick Fortes discusses his go-ahead home run in the Rays' 5-4 win against the Cubs
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/13/140e9a35-4f122518-269c00c5-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776338_nick-fortes-discusses-go-ahead-home-run
-clip_id: MLB_776338_nick-fortes-discusses-go-ahead-home-run_auto1_42p600_49p600
-source_path: raw_sources\MLB_776338_nick-fortes-discusses-go-ahead-home-run_Nick_Fortes_discusses_go-ahead_home_run_Nick_Fortes_discusses_go-ahead_home_run_Nick_Fortes_discusses_go-ahead_home_run.mp4
-clip_start_time: 42.600
-clip_end_time: 49.600

@@ -1,7 +1,0 @@
-video_title: Nolan Gorman makes play after deflection Nolan Gorman makes play after deflection Nolan Gorman makes play after deflection Nolan Gorman gets the out at first after a liner deflects off of Matthew Liberatore's glove in the bottom of the 7th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/19/49ae03ea-fb049929-ec7089d7-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_778256_luis-torrens-lines-out-pitcher-matthew-liberatore-to-second-baseman-n
-clip_id: MLB_778256_luis-torrens-lines-out-pitcher-matthew-liberatore-to-second-baseman-n_auto1_2p760_9p760
-source_path: raw_sources\MLB_778256_luis-torrens-lines-out-pitcher-matthew-liberatore-to-second-baseman-n_Nolan_Gorman_makes_play_after_deflection_Nolan_Gorman_makes_play_after_deflection_Nolan_G.mp4
-clip_start_time: 2.760
-clip_end_time: 9.760

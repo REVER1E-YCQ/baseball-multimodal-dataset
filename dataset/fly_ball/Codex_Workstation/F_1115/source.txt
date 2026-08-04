@@ -1,7 +1,0 @@
-video_title: Nico Hoerner talks Cubs' Game 1 win Nico Hoerner talks Cubs' Game 1 win Nico Hoerner talks Cubs' Game 1 win Nico Hoerner discusses his 8th-inning sacrifice fly, Matthew Boyd's outing and the atmosphere at Wrigley Field following the Cubs' 3-1 win
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/30/1a67e7de-d1090a7b-088106fc-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_813066_nico-hoerner-talks-cubs-game-1-win
-clip_id: MLB_813066_nico-hoerner-talks-cubs-game-1-win_auto1_0p000_7p000
-source_path: raw_sources\MLB_813066_nico-hoerner-talks-cubs-game-1-win_Nico_Hoerner_talks_Cubs_Game_1_win_Nico_Hoerner_talks_Cubs_Game_1_win_Nico_Hoerner_talks_Cubs_Game_1_win_Nico_Hoerner_discus.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000

@@ -1,7 +1,0 @@
-video_title: Jose Iglesias' RBI groundout Jose Iglesias' RBI groundout Jose Iglesias' RBI groundout
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/05/eff85145-7df93cb9-7606e5c6-csvm-diamondx64-asset-4000K.mp4
-source_id: MLB_745479_paul-skenes-in-play-run-s-to-jose-iglesias
-clip_id: MLB_745479_paul-skenes-in-play-run-s-to-jose-iglesias_auto1_4p800_10p800
-source_path: raw_sources\MLB_745479_paul-skenes-in-play-run-s-to-jose-iglesias_Jose_Iglesias_RBI_groundout_Jose_Iglesias_RBI_groundout_Jose_Iglesias_RBI_groundout.mp4
-clip_start_time: 4.800
-clip_end_time: 10.800

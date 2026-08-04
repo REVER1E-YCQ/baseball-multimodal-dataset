@@ -1,7 +1,0 @@
-video_title: Taylor Walls' running catch Taylor Walls' running catch Taylor Walls' running catch Taylor Walls tracks Yordan Alvarez's fly ball and makes a nice running catch in center field
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-08/03/894e6ccb-1969c9dc-62058f3b-csvm-diamondx64-asset-4000K.mp4
-source_id: MLB_746358_zack-littell-in-play-out-s-to-yordan-alvarez-su1o39
-clip_id: MLB_746358_zack-littell-in-play-out-s-to-yordan-alvarez-su1o39_auto1_7p361_14p361
-source_path: raw_sources\MLB_746358_zack-littell-in-play-out-s-to-yordan-alvarez-su1o39_Taylor_Walls_running_catch_Taylor_Walls_running_catch_Taylor_Walls_running_catch_Taylor_Walls_tracks_Yordan.mp4
-clip_start_time: 7.361
-clip_end_time: 14.361

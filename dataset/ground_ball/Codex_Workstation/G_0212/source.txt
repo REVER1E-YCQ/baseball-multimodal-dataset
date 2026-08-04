@@ -1,7 +1,0 @@
-video_title: Orlando Ribalta forces groundout to seal 2-1 win Orlando Ribalta forces groundout to seal 2-1 win Orlando Ribalta forces groundout to seal 2-1 win
-video_url: https://bdata-producedclips.mlb.com/2b4111e6-a517-49b7-8252-48c817dadd7e.mp4
-source_id: MLB_824921_ronald-acuna-jr-grounds-out-softly-first-baseman-luis-garcia-jr-to-pi
-clip_id: MLB_824921_ronald-acuna-jr-grounds-out-softly-first-baseman-luis-garcia-jr-to-pi_head_0p000_6p000
-source_path: raw_sources\MLB_824921_ronald-acuna-jr-grounds-out-softly-first-baseman-luis-garcia-jr-to-pi_Orlando_Ribalta_forces_groundout_to_seal_2-1_win_Orlando_Ribalta_forces_groundou.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

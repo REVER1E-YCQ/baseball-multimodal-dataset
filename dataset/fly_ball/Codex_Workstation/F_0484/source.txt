@@ -1,7 +1,0 @@
-video_title: Dane Myers throws out Patrick Bailey at third base Dane Myers throws out Patrick Bailey at third base Dane Myers throws out Patrick Bailey at third base Dane Myers throws out Patrick Bailey at third base trying to advance on a fly ball to center field in the top of the 2nd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/30/1c30a5c1-f274c5c5-61227cf8-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_777717_casey-schmitt-lines-into-a-double-play-center-fielder-dane-myers-to-t
-clip_id: MLB_777717_casey-schmitt-lines-into-a-double-play-center-fielder-dane-myers-to-t_auto1_8p420_15p420
-source_path: raw_sources\MLB_777717_casey-schmitt-lines-into-a-double-play-center-fielder-dane-myers-to-t_Dane_Myers_throws_out_Patrick_Bailey_at_third_base_Dane_Myers_throws_out_Patrick_Bailey_a.mp4
-clip_start_time: 8.420
-clip_end_time: 15.420

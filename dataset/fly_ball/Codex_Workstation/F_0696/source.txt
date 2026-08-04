@@ -1,7 +1,0 @@
-video_title: Austin Hays' solo home run (14) Austin Hays' solo home run (14) Austin Hays' solo home run (14) Austin Hays drills a solo home run to left field, pushing the Reds' lead to 4-1 in the bottom of the 4th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/06/99c0ccdb-c5a5ea2f-7bfa37fe-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776439_austin-hays-homers-14-on-a-fly-ball-to-left-field-ac1kbj
-clip_id: MLB_776439_austin-hays-homers-14-on-a-fly-ball-to-left-field-ac1kbj_auto1_8p540_15p540
-source_path: raw_sources\MLB_776439_austin-hays-homers-14-on-a-fly-ball-to-left-field-ac1kbj_Austin_Hays_solo_home_run_14_Austin_Hays_solo_home_run_14_Austin_Hays_solo_home_run_14_Austin_Hays_dri.mp4
-clip_start_time: 8.540
-clip_end_time: 15.540

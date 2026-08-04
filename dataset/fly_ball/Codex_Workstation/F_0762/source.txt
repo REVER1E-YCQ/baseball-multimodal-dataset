@@ -1,7 +1,0 @@
-video_title: Chase Meidroth's two-run home run (4)  Chase Meidroth's two-run home run (4)  Chase Meidroth's two-run home run (4)  Chase Meidroth drives a two-run homer to left-center field, extending the White Sox lead to 3-0 in the top of the 2nd
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/01/a3940c1c-4026ad55-c6331570-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776502_bailey-ober-in-play-run-s-to-chase-meidroth
-clip_id: MLB_776502_bailey-ober-in-play-run-s-to-chase-meidroth_auto1_5p800_12p800
-source_path: raw_sources\MLB_776502_bailey-ober-in-play-run-s-to-chase-meidroth_Chase_Meidroth_s_two-run_home_run_4_Chase_Meidroth_s_two-run_home_run_4_Chase_Meidroth_s_two-run_home_run_4_Chase_M.mp4
-clip_start_time: 5.800
-clip_end_time: 12.800

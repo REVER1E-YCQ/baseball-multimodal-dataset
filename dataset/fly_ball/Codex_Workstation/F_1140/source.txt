@@ -1,7 +1,0 @@
-video_title: Daulton Varsho chases down the final out Daulton Varsho chases down the final out Daulton Varsho chases down the final out Daulton Varsho chases down a line drive to grab the final out of the Blue Jays' win over the White Sox
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/29/bd4a04bf-ccfcf6a8-2ee7e323-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_746790_paul-dejong-lines-out-sharply-to-left-fielder-daulton-varsho
-clip_id: MLB_746790_paul-dejong-lines-out-sharply-to-left-fielder-daulton-varsho_auto1_0p640_7p640
-source_path: raw_sources\MLB_746790_paul-dejong-lines-out-sharply-to-left-fielder-daulton-varsho_Daulton_Varsho_chases_down_the_final_out_Daulton_Varsho_chases_down_the_final_ou.mp4
-clip_start_time: 0.640
-clip_end_time: 7.640

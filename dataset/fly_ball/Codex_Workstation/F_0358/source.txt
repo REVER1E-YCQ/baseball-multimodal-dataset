@@ -1,7 +1,0 @@
-video_title: Jesús Sánchez's catch on-the-run Jesús Sánchez's catch on-the-run Jesús Sánchez's catch on-the-run Jesús Sánchez sprints back while tracking a fly ball and makes a great catch in the bottom of the 7th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/28/bc725090-444e527e-47286769-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776960_jesus-sanchez-s-catch-on-the-run
-clip_id: MLB_776960_jesus-sanchez-s-catch-on-the-run_auto1_11p919_18p919
-source_path: raw_sources\MLB_776960_jesus-sanchez-s-catch-on-the-run_Jes_s_S_nchez_s_catch_on-the-run_Jes_s_S_nchez_s_catch_on-the-run_Jes_s_S_nchez_s_catch_on-the-run_Jes_s_S_nchez_sprints_back_.mp4
-clip_start_time: 11.919
-clip_end_time: 18.919

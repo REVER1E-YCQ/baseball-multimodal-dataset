@@ -1,7 +1,0 @@
-video_title: Jacob Wilson exits game in the 5th with an injury Jacob Wilson exits game in the 5th with an injury Jacob Wilson exits game in the 5th with an injury Jacob Wilson exits the game with an apparent injury after diving for a ground ball in the bottom of the 5th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/10/1dfc8f3e-fd47fb60-11f27f95-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_824845_luis-severino-in-play-no-out-to-gunnar-henderson-vdr5pf
-clip_id: MLB_824845_luis-severino-in-play-no-out-to-gunnar-henderson-vdr5pf_head_0p000_6p000
-source_path: raw_sources\MLB_824845_luis-severino-in-play-no-out-to-gunnar-henderson-vdr5pf_Jacob_Wilson_exits_game_in_the_5th_with_an_injury_Jacob_Wilson_exits_game_in_the.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

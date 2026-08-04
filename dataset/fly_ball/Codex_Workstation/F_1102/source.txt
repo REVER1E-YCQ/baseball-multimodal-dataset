@@ -1,7 +1,0 @@
-video_title: Matt Olson's solo home run (28) Matt Olson's solo home run (28) Matt Olson's solo home run (28) Matt Olson crushes a 422-foot home run to right-center field, putting the Braves ahead 5-3 in the top of the 7th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/17/eaa51caf-9f0be9fa-41352fd1-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776286_matt-olson-homers-28-on-a-fly-ball-to-right-center-field-sfcf7p
-clip_id: MLB_776286_matt-olson-homers-28-on-a-fly-ball-to-right-center-field-sfcf7p_auto1_6p340_13p340
-source_path: raw_sources\MLB_776286_matt-olson-homers-28-on-a-fly-ball-to-right-center-field-sfcf7p_Matt_Olson_s_solo_home_run_28_Matt_Olson_s_solo_home_run_28_Matt_Olson_s_solo_home_run_28_Matt_.mp4
-clip_start_time: 6.340
-clip_end_time: 13.340

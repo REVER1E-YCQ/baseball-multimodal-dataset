@@ -1,7 +1,0 @@
-video_title: Casey Schmitt's RBI fielder's choice Casey Schmitt's RBI fielder's choice Casey Schmitt's RBI fielder's choice Casey Schmitt grounds into an RBI fielder's choice, cutting the White Sox's lead to 9-3 in the 5th inning
-video_url: https://bdata-producedclips.mlb.com/b2367819-08a0-4175-8731-05889b5a9b33.mp4
-source_id: MLB_823223_davis-martin-in-play-run-s-to-casey-schmitt
-clip_id: MLB_823223_davis-martin-in-play-run-s-to-casey-schmitt_head_0p000_6p000
-source_path: raw_sources\MLB_823223_davis-martin-in-play-run-s-to-casey-schmitt_Casey_Schmitt_s_RBI_fielder_s_choice_Casey_Schmitt_s_RBI_fielder_s_choice_Casey_.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

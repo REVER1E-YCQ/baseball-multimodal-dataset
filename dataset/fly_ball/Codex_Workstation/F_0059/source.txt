@@ -1,7 +1,0 @@
-video_title: Heliot Ramos flyout stands after a review Heliot Ramos flyout stands after a review Heliot Ramos flyout stands after a review Heliot Ramos flies out after a review
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/02/3e7a2d3e-c421872b-c19b6f6b-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_822988_heliot-ramos-fly-out-confirmed-after-a-review
-clip_id: MLB_822988_heliot-ramos-fly-out-confirmed-after-a-review_head_0p000_7p000
-source_path: raw_sources\MLB_822988_heliot-ramos-fly-out-confirmed-after-a-review_Heliot_Ramos_flyout_stands_after_a_review_Heliot_Ramos_flyout_stands_after_a_rev.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000

@@ -1,7 +1,0 @@
-video_title: Corbin Carroll's catch in front of the wall Corbin Carroll's catch in front of the wall Corbin Carroll's catch in front of the wall Corbin Carroll sprints back to the right-center-field warning track and grabs Cooper Hummel's fly ball before running into the wall
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/22/6aa40398-37a559e2-fb4000b3-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_777040_cooper-hummel-flies-out-sharply-to-center-fielder-corbin-carroll
-clip_id: MLB_777040_cooper-hummel-flies-out-sharply-to-center-fielder-corbin-carroll_auto1_5p820_12p820
-source_path: raw_sources\MLB_777040_cooper-hummel-flies-out-sharply-to-center-fielder-corbin-carroll_Corbin_Carroll_s_catch_in_front_of_the_wall_Corbin_Carroll_s_catch_in_front_of_the_wall_Corbin.mp4
-clip_start_time: 5.820
-clip_end_time: 12.820

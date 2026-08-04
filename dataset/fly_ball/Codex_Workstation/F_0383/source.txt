@@ -1,7 +1,0 @@
-video_title: Lawrence Butler's home run robbery Lawrence Butler's home run robbery Lawrence Butler's home run robbery Lawrence Butler tracks a high fly ball, leaps at the center-field wall, and makes a sensational catch to take away a home run in the bottom of the 2nd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/21/b8d3de78-be7c63c8-7acd0227-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_777057_kyle-higashioka-flies-out-sharply-to-center-fielder-lawrence-butler
-clip_id: MLB_777057_kyle-higashioka-flies-out-sharply-to-center-fielder-lawrence-butler_auto1_6p880_13p880
-source_path: raw_sources\MLB_777057_kyle-higashioka-flies-out-sharply-to-center-fielder-lawrence-butler_Lawrence_Butler_s_home_run_robbery_Lawrence_Butler_s_home_run_robbery_Lawrence_Butler_s_hom.mp4
-clip_start_time: 6.880
-clip_end_time: 13.880

@@ -1,7 +1,0 @@
-video_title: Cristopher Sánchez completes shutout against Pirates Cristopher Sánchez completes shutout against Pirates Cristopher Sánchez completes shutout against Pirates Trea Turner fields a ground ball and throws to Bryce Harper to retire Nick Yorke, securing Cristopher Sánchez's second career complete game s
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/16/989a9e81-ff4c3615-224eae6e-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_823382_cristopher-sanchez-in-play-out-s-to-nick-yorke-t9vmd2
-clip_id: MLB_823382_cristopher-sanchez-in-play-out-s-to-nick-yorke-t9vmd2_head_0p000_6p000
-source_path: raw_sources\MLB_823382_cristopher-sanchez-in-play-out-s-to-nick-yorke-t9vmd2_Cristopher_S_nchez_completes_shutout_against_Pirates_Cristopher_S_nchez_complete.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

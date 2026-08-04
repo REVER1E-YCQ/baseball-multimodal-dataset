@@ -1,7 +1,0 @@
-video_title: Nick Kurtz's solo home run (33) Nick Kurtz's solo home run (33) Nick Kurtz's solo home run (33) Nick Kurtz drives a solo homer to right field to get the Athletics on the board in the top of the 4th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/19/0bdccc5b-a479e08a-7b35e251-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776266_nick-kurtz-homers-33-on-a-fly-ball-to-right-field
-clip_id: MLB_776266_nick-kurtz-homers-33-on-a-fly-ball-to-right-field_auto1_7p060_14p060
-source_path: raw_sources\MLB_776266_nick-kurtz-homers-33-on-a-fly-ball-to-right-field_Nick_Kurtz_s_solo_home_run_33_Nick_Kurtz_s_solo_home_run_33_Nick_Kurtz_s_solo_home_run_33_Nick_Kurtz_drives_a.mp4
-clip_start_time: 7.060
-clip_end_time: 14.060

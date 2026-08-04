@@ -1,7 +1,0 @@
-video_title: Emmanuel Rivera turns double play to keep game tied Emmanuel Rivera turns double play to keep game tied Emmanuel Rivera turns double play to keep game tied Emmanuel Rivera fields a grounder, steps on third and fires to first to complete a double play and keep the game tied in the 6th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-08/03/41bf448a-5bccc98f-2a40c43f-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_747087_declan-cronin-in-play-out-s-to-whit-merrifield
-clip_id: MLB_747087_declan-cronin-in-play-out-s-to-whit-merrifield_auto1_3p740_9p740
-source_path: raw_sources\MLB_747087_declan-cronin-in-play-out-s-to-whit-merrifield_Emmanuel_Rivera_turns_double_play_to_keep_game_tied_Emmanuel_Rivera_turns_double_play_to_keep_game_tied_Emmanuel.mp4
-clip_start_time: 3.740
-clip_end_time: 9.740

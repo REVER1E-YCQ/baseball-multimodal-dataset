@@ -1,7 +1,0 @@
-video_title: Tyler Locklear's first MLB home run (1) Tyler Locklear's first MLB home run (1) Tyler Locklear's first MLB home run (1) Tyler Locklear hits a towering fly ball to left field that bounces off the wall and over for his first MLB home run
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/13/e4500345-bce0d6e2-92bd1c5a-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_745245_tyler-locklear-homers-1-on-a-fly-ball-to-left-center-field-mdux7v
-clip_id: MLB_745245_tyler-locklear-homers-1-on-a-fly-ball-to-left-center-field-mdux7v_auto1_6p040_13p040
-source_path: raw_sources\MLB_745245_tyler-locklear-homers-1-on-a-fly-ball-to-left-center-field-mdux7v_Tyler_Locklear_s_first_MLB_home_run_1_Tyler_Locklear_s_first_MLB_home_run_1_Tyle.mp4
-clip_start_time: 6.040
-clip_end_time: 13.040

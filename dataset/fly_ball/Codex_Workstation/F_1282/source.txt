@@ -1,7 +1,0 @@
-video_title: Jarren Duran's 10th triple of the season Jarren Duran's 10th triple of the season Jarren Duran's 10th triple of the season Jarren Duran leads off the top of the 4th inning with a line drive into the right-field corner, securing his 10th triple of the season
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/09/f9803a6d-f7c8834b-a8afcbbf-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_746787_chris-flexen-in-play-no-out-to-jarren-duran
-clip_id: MLB_746787_chris-flexen-in-play-no-out-to-jarren-duran_auto1_10p080_17p080
-source_path: raw_sources\MLB_746787_chris-flexen-in-play-no-out-to-jarren-duran_Jarren_Duran_s_10th_triple_of_the_season_Jarren_Duran_s_10th_triple_of_the_seaso.mp4
-clip_start_time: 10.080
-clip_end_time: 17.080

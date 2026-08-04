@@ -1,7 +1,0 @@
-video_title: Gleyber Torres' slick barehanded play Gleyber Torres' slick barehanded play Gleyber Torres' slick barehanded play Gleyber Torres makes a nice barehanded play on a slow ground ball to retire Brayan Rocchio and end the inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/25/701c6582-fc7288a8-c1411e27-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776189_brant-hurter-in-play-out-s-to-brayan-rocchio
-clip_id: MLB_776189_brant-hurter-in-play-out-s-to-brayan-rocchio_auto1_17p173_23p173
-source_path: raw_sources\MLB_776189_brant-hurter-in-play-out-s-to-brayan-rocchio_Gleyber_Torres_slick_barehanded_play_Gleyber_Torres_slick_barehanded_play_Gleyber_Torres_slick_barehanded_play_Gle.mp4
-clip_start_time: 17.173
-clip_end_time: 23.173

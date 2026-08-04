@@ -1,7 +1,0 @@
-video_title: Dodgers nab Mark Canha at second Dodgers nab Mark Canha at second Dodgers nab Mark Canha at second The Dodgers' defense fields Mark Canha's line drive to left and catches Canha at second for an outfield assist in the bottom of the 5th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/12/cfed7bac-aa7ceb6c-676a64a9-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_746450_mark-canha-singles-on-a-line-drive-to-left-fielder-miguel-vargas-mark
-clip_id: MLB_746450_mark-canha-singles-on-a-line-drive-to-left-fielder-miguel-vargas-mark_auto1_15p960_22p960
-source_path: raw_sources\MLB_746450_mark-canha-singles-on-a-line-drive-to-left-fielder-miguel-vargas-mark_Dodgers_nab_Mark_Canha_at_second_Dodgers_nab_Mark_Canha_at_second_Dodgers_nab_Mark_Canha_.mp4
-clip_start_time: 15.960
-clip_end_time: 22.960

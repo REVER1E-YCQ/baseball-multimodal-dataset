@@ -1,7 +1,0 @@
-video_title: Kerry Carpenter's running catch  Kerry Carpenter's running catch  Kerry Carpenter's running catch  Kerry Carpenter runs and makes a nice catch on Drew Waters' fly ball in right field to end the 1st
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/30/d320073a-0a69ca97-d9ab91c9-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_777711_casey-mize-in-play-out-s-to-drew-waters
-clip_id: MLB_777711_casey-mize-in-play-out-s-to-drew-waters_auto1_5p460_12p460
-source_path: raw_sources\MLB_777711_casey-mize-in-play-out-s-to-drew-waters_Kerry_Carpenter_s_running_catch_Kerry_Carpenter_s_running_catch_Kerry_Carpenter_s_running_catch_Kerry_Carpenter_runs_an.mp4
-clip_start_time: 5.460
-clip_end_time: 12.460

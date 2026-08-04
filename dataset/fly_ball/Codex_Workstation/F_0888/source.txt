@@ -1,7 +1,0 @@
-video_title: Hunter Goodman's solo home run (31) Hunter Goodman's solo home run (31) Hunter Goodman's solo home run (31) Hunter Goodman hits a solo home run to left field, giving the Rockies an early 1-0 lead in the top of the 1st inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/27/18fdbe1d-e6af11da-9a5cd5c2-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776146_hunter-goodman-homers-31-on-a-fly-ball-to-left-field
-clip_id: MLB_776146_hunter-goodman-homers-31-on-a-fly-ball-to-left-field_auto1_3p920_10p920
-source_path: raw_sources\MLB_776146_hunter-goodman-homers-31-on-a-fly-ball-to-left-field_Hunter_Goodman_s_solo_home_run_31_Hunter_Goodman_s_solo_home_run_31_Hunter_Goodman_s_solo_home_run_31_Hunt.mp4
-clip_start_time: 3.920
-clip_end_time: 10.920

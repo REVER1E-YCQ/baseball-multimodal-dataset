@@ -1,7 +1,0 @@
-video_title: Xander Bogaerts' RBI double Xander Bogaerts' RBI double Xander Bogaerts' RBI double Xander Bogaerts grounds a double down the third-base line, scoring Jurickson Profar to extend the Padres' lead to 3-0
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/27/3350025c-c6d1523e-49faa348-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_747006_dean-kremer-in-play-run-s-to-xander-bogaerts-psfyu8
-clip_id: MLB_747006_dean-kremer-in-play-run-s-to-xander-bogaerts-psfyu8_auto1_11p800_17p800
-source_path: raw_sources\MLB_747006_dean-kremer-in-play-run-s-to-xander-bogaerts-psfyu8_Xander_Bogaerts_RBI_double_Xander_Bogaerts_RBI_double_Xander_Bogaerts_RBI_double_Xander_Bogaerts_grounds_a_.mp4
-clip_start_time: 11.800
-clip_end_time: 17.800

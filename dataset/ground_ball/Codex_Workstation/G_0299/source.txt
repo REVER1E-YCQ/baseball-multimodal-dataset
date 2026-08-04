@@ -1,7 +1,0 @@
-video_title: Aroldis Chapman earns save Aroldis Chapman earns save Aroldis Chapman earns save Aroldis Chapman induces a groundout to seal the Red Sox's 3-0 win
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/02/9930b5b8-a1835056-b8264196-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_778483_aroldis-chapman-in-play-out-s-to-ryan-mountcastle-5x9dv6
-clip_id: MLB_778483_aroldis-chapman-in-play-out-s-to-ryan-mountcastle-5x9dv6_auto1_4p003_10p003
-source_path: raw_sources\MLB_778483_aroldis-chapman-in-play-out-s-to-ryan-mountcastle-5x9dv6_Aroldis_Chapman_earns_save_Aroldis_Chapman_earns_save_Aroldis_Chapman_earns_save.mp4
-clip_start_time: 4.003
-clip_end_time: 10.003

@@ -1,7 +1,0 @@
-video_title: Trevor Story's solo home run (25) Trevor Story's solo home run (25) Trevor Story's solo home run (25) Trevor Story hits a solo home run to join the 25-homer 30-steal club and trims the Red Sox's deficit to 5-3 in the 8th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/18/e5287a3d-3abc649f-ea884476-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776281_trevor-story-homers-25-on-a-fly-ball-to-center-field
-clip_id: MLB_776281_trevor-story-homers-25-on-a-fly-ball-to-center-field_auto1_6p180_13p180
-source_path: raw_sources\MLB_776281_trevor-story-homers-25-on-a-fly-ball-to-center-field_Trevor_Story_s_solo_home_run_25_Trevor_Story_s_solo_home_run_25_Trevor_Story_s_solo_home_run_25_Trevor_Sto.mp4
-clip_start_time: 6.180
-clip_end_time: 13.180

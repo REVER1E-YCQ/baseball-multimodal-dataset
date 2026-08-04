@@ -1,7 +1,0 @@
-video_title: Adolis García's running catch Adolis García's running catch Adolis García's running catch Adolis García runs down Michael Conforto's line drive down the right-field line and make a nice catch before sliding on the warning track
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/19/92757a9f-681639ff-9ee442b9-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_778251_michael-conforto-lines-out-to-right-fielder-adolis-garcia
-clip_id: MLB_778251_michael-conforto-lines-out-to-right-fielder-adolis-garcia_auto1_5p220_12p220
-source_path: raw_sources\MLB_778251_michael-conforto-lines-out-to-right-fielder-adolis-garcia_Adolis_Garc_a_s_running_catch_Adolis_Garc_a_s_running_catch_Adolis_Garc_a_s_running_catch_Adolis_Garc.mp4
-clip_start_time: 5.220
-clip_end_time: 12.220

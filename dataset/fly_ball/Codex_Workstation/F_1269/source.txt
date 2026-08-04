@@ -1,7 +1,0 @@
-video_title: Buck Farmer secures the win Buck Farmer secures the win Buck Farmer secures the win Buck Farmer locks down the win for the Reds after Mike Tauchman flies out to Jake Fraley in the top of the 9th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/29/7bd6a39e-4ad8756c-89cec8ac-csvm-diamondx64-asset-4000K.mp4
-source_id: MLB_746684_mike-tauchman-flies-out-to-right-fielder-jake-fraley-qjart3
-clip_id: MLB_746684_mike-tauchman-flies-out-to-right-fielder-jake-fraley-qjart3_auto1_5p542_12p542
-source_path: raw_sources\MLB_746684_mike-tauchman-flies-out-to-right-fielder-jake-fraley-qjart3_Buck_Farmer_secures_the_win_Buck_Farmer_secures_the_win_Buck_Farmer_secures_the_win_Buck_Farmer_loc.mp4
-clip_start_time: 5.542
-clip_end_time: 12.542

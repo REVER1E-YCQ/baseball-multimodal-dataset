@@ -1,7 +1,0 @@
-video_title: Yainer Diaz hits an RBI double Yainer Diaz hits an RBI double Yainer Diaz hits an RBI double Yainer Diaz doubles on a line drive to center field and scores Yordan Alverez, making it a one-run game against the Pirates in the 3rd
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/31/048cf06f-75dd08ab-4d2ff5bc-csvm-diamondx64-asset-4000K.mp4
-source_id: MLB_746363_yainer-diaz-doubles-19-on-a-sharp-line-drive-to-center-fielder-michae
-clip_id: MLB_746363_yainer-diaz-doubles-19-on-a-sharp-line-drive-to-center-fielder-michae_auto1_6p680_13p680
-source_path: raw_sources\MLB_746363_yainer-diaz-doubles-19-on-a-sharp-line-drive-to-center-fielder-michae_Yainer_Diaz_hits_an_RBI_double_Yainer_Diaz_hits_an_RBI_double_Yainer_Diaz_hits_an_RBI_dou.mp4
-clip_start_time: 6.680
-clip_end_time: 13.680

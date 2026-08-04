@@ -1,7 +1,0 @@
-video_title: Riley Greene's solo home run (34) Riley Greene's solo home run (34) Riley Greene's solo home run (34) Riley Greene hits a home run to center field in the top of the 4th inning, putting the Tigers on the board
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/12/95a27c13-71beb4b1-56c9d0fb-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776366_riley-greene-homers-34-on-a-fly-ball-to-center-field
-clip_id: MLB_776366_riley-greene-homers-34-on-a-fly-ball-to-center-field_auto1_12p480_19p480
-source_path: raw_sources\MLB_776366_riley-greene-homers-34-on-a-fly-ball-to-center-field_Riley_Greene_s_solo_home_run_34_Riley_Greene_s_solo_home_run_34_Riley_Greene_s_solo_home_run_34_Riley_Gree.mp4
-clip_start_time: 12.480
-clip_end_time: 19.480

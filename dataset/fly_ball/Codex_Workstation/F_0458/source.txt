@@ -1,7 +1,0 @@
-video_title: Freddie Freeman's running catch in foul territory Freddie Freeman's running catch in foul territory Freddie Freeman's running catch in foul territory Freddie Freeman makes a strong play to track down a fly ball in foul territory for the first out in the bottom of the 5th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/08/f867f70e-0345b7aa-93e6a8d0-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_777582_clayton-kershaw-in-play-out-s-to-jose-barrero-efttsb
-clip_id: MLB_777582_clayton-kershaw-in-play-out-s-to-jose-barrero-efttsb_auto1_7p800_14p800
-source_path: raw_sources\MLB_777582_clayton-kershaw-in-play-out-s-to-jose-barrero-efttsb_Freddie_Freeman_s_running_catch_in_foul_territory_Freddie_Freeman_s_running_catch_in_foul_territory_Freddi.mp4
-clip_start_time: 7.800
-clip_end_time: 14.800

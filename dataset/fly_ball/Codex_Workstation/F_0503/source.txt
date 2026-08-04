@@ -1,7 +1,0 @@
-video_title: Eugenio Suárez's RBI double Eugenio Suárez's RBI double Eugenio Suárez's RBI double Eugenio Suárez doubles on a fly ball to center field, lost in the sky by the Dodgers' outfielders, scoring Ketel Marte to give the D-backs an early 1-0 lead
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/19/c4487087-0a476ea1-e43db901-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_777854_jack-dreyer-in-play-run-s-to-eugenio-suarez
-clip_id: MLB_777854_jack-dreyer-in-play-run-s-to-eugenio-suarez_auto1_11p760_18p760
-source_path: raw_sources\MLB_777854_jack-dreyer-in-play-run-s-to-eugenio-suarez_Eugenio_Su_rez_s_RBI_double_Eugenio_Su_rez_s_RBI_double_Eugenio_Su_rez_s_RBI_double_Eugenio_Su_rez_doubles_on_a_fly.mp4
-clip_start_time: 11.760
-clip_end_time: 18.760

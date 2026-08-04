@@ -1,7 +1,0 @@
-video_title: Nic Enright escapes the jam Nic Enright escapes the jam Nic Enright escapes the jam José Ramírez fields Ernie Clement's grounder and throws to Carlos Santana to end the top of the 10th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/25/4315615c-818aff97-cb4521d8-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_777368_nic-enright-in-play-out-s-to-ernie-clement
-clip_id: MLB_777368_nic-enright-in-play-out-s-to-ernie-clement_auto1_5p432_11p432
-source_path: raw_sources\MLB_777368_nic-enright-in-play-out-s-to-ernie-clement_Nic_Enright_escapes_the_jam_Nic_Enright_escapes_the_jam_Nic_Enright_escapes_the_jam_Jos_Ram_rez_fields_Ernie_Clement.mp4
-clip_start_time: 5.432
-clip_end_time: 11.432

@@ -1,7 +1,0 @@
-video_title: Riley Greene's RBI single Riley Greene's RBI single Riley Greene's RBI single Riley Greene singles on a line drive to right field, putting the Tigers on the board in the bottom of the 1st inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/11/fc229c89-01aaa0ff-01bfe4b7-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_746452_spencer-howard-in-play-run-s-to-riley-greene
-clip_id: MLB_746452_spencer-howard-in-play-run-s-to-riley-greene_auto1_9p500_16p500
-source_path: raw_sources\MLB_746452_spencer-howard-in-play-run-s-to-riley-greene_Riley_Greene_s_RBI_single_Riley_Greene_s_RBI_single_Riley_Greene_s_RBI_single_Riley_Greene_singles_on_a_line_drive.mp4
-clip_start_time: 9.500
-clip_end_time: 16.500

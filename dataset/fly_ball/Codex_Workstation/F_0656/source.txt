@@ -1,7 +1,0 @@
-video_title: Josh Bell's sacrifice fly Josh Bell's sacrifice fly Josh Bell's sacrifice fly Josh Bell drives in CJ Abrams with a sacrifice fly to right field to give the Nationals a 7-1 lead in the top of the 6th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/09/35b7d94b-8ccb0eab-29b15b07-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_776397_seth-martinez-in-play-run-s-to-josh-bell
-clip_id: MLB_776397_seth-martinez-in-play-run-s-to-josh-bell_auto1_6p400_13p400
-source_path: raw_sources\MLB_776397_seth-martinez-in-play-run-s-to-josh-bell_Josh_Bell_s_sacrifice_fly_Josh_Bell_s_sacrifice_fly_Josh_Bell_s_sacrifice_fly_Josh_Bell_drives_in_CJ_Abrams_with_a_sac.mp4
-clip_start_time: 6.400
-clip_end_time: 13.400

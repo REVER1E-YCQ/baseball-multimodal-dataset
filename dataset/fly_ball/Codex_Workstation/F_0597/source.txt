@@ -1,7 +1,0 @@
-video_title: Colton Cowser's three-run homer (15) Colton Cowser's three-run homer (15) Colton Cowser's three-run homer (15) Colton Cowser hits a three-run opposite field home run to give the Orioles their first lead of the game
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/15/81c92f4a-a41a9a9b-4af92f20-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776314_colton-cowser-homers-15-on-a-fly-ball-to-left-center-field-coby-mayo-
-clip_id: MLB_776314_colton-cowser-homers-15-on-a-fly-ball-to-left-center-field-coby-mayo-_auto1_2p920_9p920
-source_path: raw_sources\MLB_776314_colton-cowser-homers-15-on-a-fly-ball-to-left-center-field-coby-mayo-_Colton_Cowser_s_three-run_homer_15_Colton_Cowser_s_three-run_homer_15_Colton_Cowser_s_thr.mp4
-clip_start_time: 2.920
-clip_end_time: 9.920

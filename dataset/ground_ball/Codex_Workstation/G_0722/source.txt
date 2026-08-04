@@ -1,7 +1,0 @@
-video_title: Chris Taylor scores on a grounder Chris Taylor scores on a grounder Chris Taylor scores on a grounder Chris Taylor scores as Mookie Betts reaches on an error, cutting the Dodgers' deficit to 2-1 in the 3rd
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/13/086b4d21-7fbc65bc-9b26c321-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_777937_jeffrey-springs-in-play-run-s-to-mookie-betts
-clip_id: MLB_777937_jeffrey-springs-in-play-run-s-to-mookie-betts_auto1_4p220_10p220
-source_path: raw_sources\MLB_777937_jeffrey-springs-in-play-run-s-to-mookie-betts_Chris_Taylor_scores_on_a_grounder_Chris_Taylor_scores_on_a_grounder_Chris_Taylor_scores_on_a_grounder_Chris_Taylo.mp4
-clip_start_time: 4.220
-clip_end_time: 10.220

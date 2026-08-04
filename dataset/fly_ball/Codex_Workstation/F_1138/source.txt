@@ -1,7 +1,0 @@
-video_title: Bryce Harper's solo home run (20) Bryce Harper's solo home run (20) Bryce Harper's solo home run (20) Bryce Harper launches a fly ball to left field, putting the Phillies on the board in the top of the 9th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/25/fd20323d-dc3310b7-0372194d-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_746454_jason-foley-in-play-run-s-to-bryce-harper
-clip_id: MLB_746454_jason-foley-in-play-run-s-to-bryce-harper_auto1_7p180_14p180
-source_path: raw_sources\MLB_746454_jason-foley-in-play-run-s-to-bryce-harper_Bryce_Harper_s_solo_home_run_20_Bryce_Harper_s_solo_home_run_20_Bryce_Harper_s_solo_home_run_20_Bryce_Harper_launches.mp4
-clip_start_time: 7.180
-clip_end_time: 14.180

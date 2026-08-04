@@ -1,7 +1,0 @@
-video_title: Liam Hicks' RBI double Liam Hicks' RBI double Liam Hicks' RBI double Liam Hicks doubles on a fly ball to left field, scoring Griffin Conine to cut the Marlins' deficit to 10-2 in the 7th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/15/77bcd85e-cddc2922-6b6c6362-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_778318_liam-hicks-doubles-2-on-a-fly-ball-to-left-fielder-lourdes-gurriel-jr
-clip_id: MLB_778318_liam-hicks-doubles-2-on-a-fly-ball-to-left-fielder-lourdes-gurriel-jr_auto1_5p640_12p640
-source_path: raw_sources\MLB_778318_liam-hicks-doubles-2-on-a-fly-ball-to-left-fielder-lourdes-gurriel-jr_Liam_Hicks_RBI_double_Liam_Hicks_RBI_double_Liam_Hicks_RBI_double_Liam_Hicks_doubles_on_a.mp4
-clip_start_time: 5.640
-clip_end_time: 12.640

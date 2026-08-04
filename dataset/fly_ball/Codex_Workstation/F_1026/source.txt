@@ -1,7 +1,0 @@
-video_title: Carson Kelly's solo home run Carson Kelly's solo home run Carson Kelly's solo home run Carson Kelly hits a solo home run to left-center field to put the Cubs ahead 2-1 in the bottom of the 5th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/30/0791559a-6158fac4-351005c9-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_813066_carson-kelly-homers-1-on-a-fly-ball-to-left-center-field-bicywg
-clip_id: MLB_813066_carson-kelly-homers-1-on-a-fly-ball-to-left-center-field-bicywg_auto1_0p320_7p320
-source_path: raw_sources\MLB_813066_carson-kelly-homers-1-on-a-fly-ball-to-left-center-field-bicywg_Carson_Kelly_s_solo_home_run_Carson_Kelly_s_solo_home_run_Carson_Kelly_s_solo_home_run_Carson_K.mp4
-clip_start_time: 0.320
-clip_end_time: 7.320

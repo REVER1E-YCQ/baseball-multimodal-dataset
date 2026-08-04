@@ -1,7 +1,0 @@
-video_title: Eloy Jiménez's RBI groundout Eloy Jiménez's RBI groundout Eloy Jiménez's RBI groundout Eloy Jiménez grounds into a double play, scoring Tommy Pham to put the White Sox on the board in the bottom of the 1st inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/14/8454aa0c-c4197998-25cb8f46-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_746769_mitch-keller-in-play-out-s-to-eloy-jimenez
-clip_id: MLB_746769_mitch-keller-in-play-out-s-to-eloy-jimenez_auto1_1p940_7p940
-source_path: raw_sources\MLB_746769_mitch-keller-in-play-out-s-to-eloy-jimenez_Eloy_Jim_nez_s_RBI_groundout_Eloy_Jim_nez_s_RBI_groundout_Eloy_Jim_nez_s_RBI_groundout_Eloy_Jim_nez_grounds_into_a_d.mp4
-clip_start_time: 1.940
-clip_end_time: 7.940

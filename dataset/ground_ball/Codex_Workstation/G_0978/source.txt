@@ -1,7 +1,0 @@
-video_title: Dansby Swanson is out at first base after review Dansby Swanson is out at first base after review Dansby Swanson is out at first base after review Dansby Swanson is initially called safe on the field while trying to beat out a slow ground ball and the call is overturned after a review
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/04/8e11531b-27f7279a-58583630-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776878_dansby-swanson-is-out-at-first-base-after-review
-clip_id: MLB_776878_dansby-swanson-is-out-at-first-base-after-review_auto1_31p540_37p540
-source_path: raw_sources\MLB_776878_dansby-swanson-is-out-at-first-base-after-review_Dansby_Swanson_is_out_at_first_base_after_review_Dansby_Swanson_is_out_at_first_base_after_review_Dansby_Swans.mp4
-clip_start_time: 31.540
-clip_end_time: 37.540

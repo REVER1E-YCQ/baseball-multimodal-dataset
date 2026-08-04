@@ -1,7 +1,0 @@
-video_title: Padres turn clutch double play in the 11th Padres turn clutch double play in the 11th Padres turn clutch double play in the 11th Jake Cronenworth handles this ground ball and starts a clutch double play with the bases-laoded in the top of the 11th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/23/395ca840-52716ac0-895b6fdc-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_776222_bradgley-rodriguez-in-play-out-s-to-jackson-chourio
-clip_id: MLB_776222_bradgley-rodriguez-in-play-out-s-to-jackson-chourio_auto1_4p131_10p131
-source_path: raw_sources\MLB_776222_bradgley-rodriguez-in-play-out-s-to-jackson-chourio_Padres_turn_clutch_double_play_in_the_11th_Padres_turn_clutch_double_play_in_the_11th_Padres_turn_clutch_do.mp4
-clip_start_time: 4.131
-clip_end_time: 10.131

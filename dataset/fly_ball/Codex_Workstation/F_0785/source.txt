@@ -1,7 +1,0 @@
-video_title: Pete Alonso on his walk-off: 'This year ain't over' Pete Alonso on his walk-off: 'This year ain't over' Pete Alonso on his walk-off: 'This year ain't over' Pete Alonso discusses his walk-off home run, the Mets fans for continuing to believe, Nolan McLean's strong start and more
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/14/01955688-a99f0ba3-e50dc49d-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776335_pete-alonso-on-his-walk-off-this-year-ain-t-over-x2344
-clip_id: MLB_776335_pete-alonso-on-his-walk-off-this-year-ain-t-over-x2344_auto1_0p000_7p000
-source_path: raw_sources\MLB_776335_pete-alonso-on-his-walk-off-this-year-ain-t-over-x2344_Pete_Alonso_on_his_walk-off_This_year_ain_t_over_Pete_Alonso_on_his_walk-off_This_year_ain_t_over_Pete_A.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000

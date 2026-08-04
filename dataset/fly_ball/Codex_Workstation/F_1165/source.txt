@@ -1,7 +1,0 @@
-video_title: Daulton Varsho's jaw-dropping catch Daulton Varsho's jaw-dropping catch Daulton Varsho's jaw-dropping catch Daulton Varsho tracks a fly ball hit to left-center field and makes the catch as he crashes into the wall, taking a big hit away from Luke Raley
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/05/1d45e7e7-9caf817d-56e67ce0-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_745237_luke-raley-flies-out-sharply-to-left-fielder-daulton-varsho
-clip_id: MLB_745237_luke-raley-flies-out-sharply-to-left-fielder-daulton-varsho_auto1_21p745_28p745
-source_path: raw_sources\MLB_745237_luke-raley-flies-out-sharply-to-left-fielder-daulton-varsho_Daulton_Varsho_s_jaw-dropping_catch_Daulton_Varsho_s_jaw-dropping_catch_Daulton_Varsho_s_jaw-droppi.mp4
-clip_start_time: 21.745
-clip_end_time: 28.745

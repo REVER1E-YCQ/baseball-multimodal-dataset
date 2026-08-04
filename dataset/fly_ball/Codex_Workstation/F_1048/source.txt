@@ -1,7 +1,0 @@
-video_title: Michael A. Taylor's two-run homer (9) Michael A. Taylor's two-run homer (9) Michael A. Taylor's two-run homer (9) Michael A. Taylor hits a two-run home run to right-center field in the top of the 4th inning to give the White Sox a 3-1 lead
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/25/a8704cd8-2d02ff95-0785e63d-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776184_michael-a-taylor-homers-9-on-a-fly-ball-to-right-center-field-miguel-
-clip_id: MLB_776184_michael-a-taylor-homers-9-on-a-fly-ball-to-right-center-field-miguel-_auto1_3p580_10p580
-source_path: raw_sources\MLB_776184_michael-a-taylor-homers-9-on-a-fly-ball-to-right-center-field-miguel-_Michael_A._Taylor_s_two-run_homer_9_Michael_A._Taylor_s_two-run_homer_9_Michael_A._Taylor.mp4
-clip_start_time: 3.580
-clip_end_time: 10.580

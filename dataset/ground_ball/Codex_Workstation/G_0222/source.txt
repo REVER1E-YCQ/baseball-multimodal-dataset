@@ -1,7 +1,0 @@
-video_title: Jake Mangum's RBI groundout Jake Mangum's RBI groundout Jake Mangum's RBI groundout
-video_url: https://bdata-producedclips.mlb.com/7348198d-71d4-48d0-bf5b-509f6ed0a664.mp4
-source_id: MLB_823379_hoby-milner-in-play-out-s-to-jake-mangum
-clip_id: MLB_823379_hoby-milner-in-play-out-s-to-jake-mangum_head_0p000_6p000
-source_path: raw_sources\MLB_823379_hoby-milner-in-play-out-s-to-jake-mangum_Jake_Mangum_s_RBI_groundout_Jake_Mangum_s_RBI_groundout_Jake_Mangum_s_RBI_ground.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

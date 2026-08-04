@@ -1,7 +1,0 @@
-video_title: Kyle Schwarber's 50th home run of the season Kyle Schwarber's 50th home run of the season Kyle Schwarber's 50th home run of the season Kyle Schwarber becomes the 34th player to record 50 home runs in a season with his three-run homer in the bottom of the 7th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/09/bb8355bd-95aaa6c6-e4c683ca-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776404_kyle-schwarber-homers-50-on-a-fly-ball-to-center-field-bryson-stott-s
-clip_id: MLB_776404_kyle-schwarber-homers-50-on-a-fly-ball-to-center-field-bryson-stott-s_auto1_1p660_8p660
-source_path: raw_sources\MLB_776404_kyle-schwarber-homers-50-on-a-fly-ball-to-center-field-bryson-stott-s_Kyle_Schwarber_s_50th_home_run_of_the_season_Kyle_Schwarber_s_50th_home_run_of_the_season.mp4
-clip_start_time: 1.660
-clip_end_time: 8.660

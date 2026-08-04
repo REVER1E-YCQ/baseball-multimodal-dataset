@@ -1,7 +1,0 @@
-video_title: Trevor Story's amazing jump throw Trevor Story's amazing jump throw Trevor Story's amazing jump throw Trevor Story' flashes his leather and range at shortstop, fielding a ground ball and lasers an off-balance jump throw to first in time for the out
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/16/5d57919e-ecc95f75-f7eda0c4-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776724_brayan-bello-in-play-out-s-to-otto-lopez
-clip_id: MLB_776724_brayan-bello-in-play-out-s-to-otto-lopez_auto1_1p900_7p900
-source_path: raw_sources\MLB_776724_brayan-bello-in-play-out-s-to-otto-lopez_Trevor_Story_s_amazing_jump_throw_Trevor_Story_s_amazing_jump_throw_Trevor_Story_s_amazing_jump_throw_Trevor_Story_fla.mp4
-clip_start_time: 1.900
-clip_end_time: 7.900

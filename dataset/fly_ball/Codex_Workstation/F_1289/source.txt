@@ -1,7 +1,0 @@
-video_title: Patrick Wisdom almost hits go-ahead homer in 8th Patrick Wisdom almost hits go-ahead homer in 8th Patrick Wisdom almost hits go-ahead homer in 8th Patrick Wisdom hits a high fly ball to deep left field but the wind keeps it inside the park for the third out of the bottom of the 8th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/14/dcb1ce92-fafd32bf-b30a3feb-csvm-diamondx64-asset-4000K.mp4
-source_id: MLB_746869_patrick-wisdom-flies-out-sharply-to-left-fielder-brendan-donovan
-clip_id: MLB_746869_patrick-wisdom-flies-out-sharply-to-left-fielder-brendan-donovan_auto1_1p320_8p320
-source_path: sources\MLB_746869_patrick-wisdom-flies-out-sharply-to-left-fielder-brendan-donovan_Patrick_Wisdom_almost_hits_go-ahead_homer_in_8th_Patrick_Wisdom_almost_hits_go-a.mp4
-clip_start_time: 1.320
-clip_end_time: 8.320

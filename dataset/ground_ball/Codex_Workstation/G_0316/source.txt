@@ -1,7 +1,0 @@
-video_title: Taylor Walls' sliding stop Taylor Walls' sliding stop Taylor Walls' sliding stop Taylor Walls makes a sliding stop on Adolis García's hard grounder, then pops up and throws to first in time for the out in the 2nd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/06/959fe25e-4bd1d9df-7dbe6e23-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_778420_drew-rasmussen-in-play-out-s-to-adolis-garcia
-clip_id: MLB_778420_drew-rasmussen-in-play-out-s-to-adolis-garcia_auto1_18p800_24p800
-source_path: raw_sources\MLB_778420_drew-rasmussen-in-play-out-s-to-adolis-garcia_Taylor_Walls_sliding_stop_Taylor_Walls_sliding_stop_Taylor_Walls_sliding_stop_Ta.mp4
-clip_start_time: 18.800
-clip_end_time: 24.800

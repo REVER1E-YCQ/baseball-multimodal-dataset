@@ -1,7 +1,0 @@
-video_title: Wyatt Langford's leaping grab Wyatt Langford's leaping grab Wyatt Langford's leaping grab Wyatt Langford hauls in a fly ball with a leaping catch at the wall in left field
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/07/ba38218a-ae998777-52720a56-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_744993_wyatt-langford-s-leaping-grab
-clip_id: MLB_744993_wyatt-langford-s-leaping-grab_auto1_10p920_17p920
-source_path: raw_sources\MLB_744993_wyatt-langford-s-leaping-grab_Wyatt_Langford_s_leaping_grab_Wyatt_Langford_s_leaping_grab_Wyatt_Langford_s_leaping_grab_Wyatt_Langford_hauls_in_a_fly_ball_with.mp4
-clip_start_time: 10.920
-clip_end_time: 17.920

@@ -1,7 +1,0 @@
-video_title: Jorge Mateo exits due to an injury Jorge Mateo exits due to an injury Jorge Mateo exits due to an injury Jorge Mateo suffers an injury attempting to field a ground ball in the third, causing him to exit the ballgame
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/23/4c80f7c0-6e71f368-38187c45-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_746036_jorge-mateo-exits-due-to-an-injury
-clip_id: MLB_746036_jorge-mateo-exits-due-to-an-injury_auto1_1p920_7p920
-source_path: raw_sources\MLB_746036_jorge-mateo-exits-due-to-an-injury_Jorge_Mateo_exits_due_to_an_injury_Jorge_Mateo_exits_due_to_an_injury_Jorge_Mateo_exits_due_to_an_injury_Jorge_Mateo_suffers.mp4
-clip_start_time: 1.920
-clip_end_time: 7.920

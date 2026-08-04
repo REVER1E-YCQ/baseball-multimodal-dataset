@@ -1,7 +1,0 @@
-video_title: Brady House's RBI groundout Brady House's RBI groundout Brady House's RBI groundout Brady House scores CJ Abrams with a groundout, cutting the Brewers' lead to 4-1 in the 7th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/01/fd88aa77-8806bc5a-c8a6f2b1-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_822744_aaron-ashby-in-play-run-s-to-brady-house
-clip_id: MLB_822744_aaron-ashby-in-play-run-s-to-brady-house_head_0p000_6p000
-source_path: raw_sources\MLB_822744_aaron-ashby-in-play-run-s-to-brady-house_Brady_House_s_RBI_groundout_Brady_House_s_RBI_groundout_Brady_House_s_RBI_ground.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

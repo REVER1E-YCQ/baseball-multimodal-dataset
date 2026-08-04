@@ -1,7 +1,0 @@
-video_title: Edmundo Sosa's second sliding stop  Edmundo Sosa's second sliding stop  Edmundo Sosa's second sliding stop  Edmundo Sosa slides to stop a ground ball off the bat of Wyatt Langford and makes the throw to first base in the bottom of the 8th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/09/1d7061b5-715fd2aa-f2a4d097-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776810_matt-strahm-in-play-out-s-to-wyatt-langford
-clip_id: MLB_776810_matt-strahm-in-play-out-s-to-wyatt-langford_auto1_2p800_8p800
-source_path: raw_sources\MLB_776810_matt-strahm-in-play-out-s-to-wyatt-langford_Edmundo_Sosa_s_second_sliding_stop_Edmundo_Sosa_s_second_sliding_stop_Edmundo_Sosa_s_second_sliding_stop_Edmundo_So.mp4
-clip_start_time: 2.800
-clip_end_time: 8.800

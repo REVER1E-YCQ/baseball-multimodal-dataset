@@ -1,7 +1,0 @@
-video_title: Daylen Lile's amazing leaping catch Daylen Lile's amazing leaping catch Daylen Lile's amazing leaping catch Daylen Lile tracks a fly ball to deep right field and makes a smooth leaping catch to take an extra base hit away from Luis Arraez in the 6th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/23/bfe20674-50a0b1e2-865cd770-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_777382_luis-arraez-flies-out-to-right-fielder-daylen-lile
-clip_id: MLB_777382_luis-arraez-flies-out-to-right-fielder-daylen-lile_auto1_6p660_13p660
-source_path: raw_sources\MLB_777382_luis-arraez-flies-out-to-right-fielder-daylen-lile_Daylen_Lile_s_amazing_leaping_catch_Daylen_Lile_s_amazing_leaping_catch_Daylen_Lile_s_amazing_leaping_catch_.mp4
-clip_start_time: 6.660
-clip_end_time: 13.660

@@ -1,7 +1,0 @@
-video_title: Ryan Yarbrough locks down the Yankees' win, sweep Ryan Yarbrough locks down the Yankees' win, sweep Ryan Yarbrough locks down the Yankees' win, sweep Ryan Yarbrough induces a groundout to Anthony Volpe, securing the Yankees' 12-3 win and series sweep over the Brewers
-video_url: https://bdata-producedclips.mlb.com/1dce4528-58ef-48f2-b4da-468eeb6217fa.mp4
-source_id: MLB_778523_joey-ortiz-grounds-out-shortstop-anthony-volpe-to-first-baseman-paul-
-clip_id: MLB_778523_joey-ortiz-grounds-out-shortstop-anthony-volpe-to-first-baseman-paul-_auto1_0p380_6p380
-source_path: raw_sources\MLB_778523_joey-ortiz-grounds-out-shortstop-anthony-volpe-to-first-baseman-paul-_Ryan_Yarbrough_locks_down_the_Yankees_win_sweep_Ryan_Yarbrough_locks_down_the_Ya.mp4
-clip_start_time: 0.380
-clip_end_time: 6.380

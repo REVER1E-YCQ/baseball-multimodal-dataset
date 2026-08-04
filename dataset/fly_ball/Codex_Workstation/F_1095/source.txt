@@ -1,7 +1,0 @@
-video_title: Luis Arraez's sacrifice fly Luis Arraez's sacrifice fly Luis Arraez's sacrifice fly Luis Arraez hits a sacrifice fly to left field, bringing in Fernando Tatis Jr. to tie the game at 1-1 in the 3rd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/18/7dcfafb4-1472560f-219fa736-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_776276_luis-arraez-out-on-a-sacrifice-fly-to-left-fielder-brandon-nimmo-fern
-clip_id: MLB_776276_luis-arraez-out-on-a-sacrifice-fly-to-left-fielder-brandon-nimmo-fern_auto1_1p460_8p460
-source_path: raw_sources\MLB_776276_luis-arraez-out-on-a-sacrifice-fly-to-left-fielder-brandon-nimmo-fern_Luis_Arraez_s_sacrifice_fly_Luis_Arraez_s_sacrifice_fly_Luis_Arraez_s_sacrifice_fly_Luis_.mp4
-clip_start_time: 1.460
-clip_end_time: 8.460

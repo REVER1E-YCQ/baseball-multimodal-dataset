@@ -1,7 +1,0 @@
-video_title: Tyler Tolbert's sacrifice fly  Tyler Tolbert's sacrifice fly  Tyler Tolbert's sacrifice fly  Tyler Tolbert hits a long sacrifice fly to right field and scores Vinnie Pasquantino to make it 10-3 in the top of the 9th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/14/53f0a7a7-c6d9bbdc-d921148f-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_776334_tyler-tolbert-out-on-a-sacrifice-fly-to-right-fielder-nick-castellano
-clip_id: MLB_776334_tyler-tolbert-out-on-a-sacrifice-fly-to-right-fielder-nick-castellano_auto1_7p240_14p240
-source_path: raw_sources\MLB_776334_tyler-tolbert-out-on-a-sacrifice-fly-to-right-fielder-nick-castellano_Tyler_Tolbert_s_sacrifice_fly_Tyler_Tolbert_s_sacrifice_fly_Tyler_Tolbert_s_sacrifice_fly.mp4
-clip_start_time: 7.240
-clip_end_time: 14.240

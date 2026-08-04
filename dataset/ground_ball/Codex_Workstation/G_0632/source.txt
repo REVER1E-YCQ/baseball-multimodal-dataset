@@ -1,7 +1,0 @@
-video_title: Oneil Cruz's RBI groundout Oneil Cruz's RBI groundout Oneil Cruz's RBI groundout Oneil Cruz grounds out, plating Andrew McCutchen and giving the Pirates a 1-0 lead in the top of the 1st inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/15/47c58fbe-d55bcdfa-90cd990c-csvm-diamondx64-asset-4000K.mp4
-source_id: MLB_746766_chris-flexen-in-play-run-s-to-oneil-cruz
-clip_id: MLB_746766_chris-flexen-in-play-run-s-to-oneil-cruz_auto1_5p560_11p560
-source_path: raw_sources\MLB_746766_chris-flexen-in-play-run-s-to-oneil-cruz_Oneil_Cruz_s_RBI_groundout_Oneil_Cruz_s_RBI_groundout_Oneil_Cruz_s_RBI_groundout_Oneil_Cruz_grounds_out_plating_Andrew.mp4
-clip_start_time: 5.560
-clip_end_time: 11.560

@@ -1,7 +1,0 @@
-video_title: Amed Rosario's leadoff triple Amed Rosario's leadoff triple Amed Rosario's leadoff triple Amed Rosario triples on a sharp fly ball to center field in the bottom of the 3rd
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/06/8ea60871-f579f343-a0285839-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_745098_mike-clevinger-in-play-no-out-to-amed-rosario-lyolwl
-clip_id: MLB_745098_mike-clevinger-in-play-no-out-to-amed-rosario-lyolwl_auto1_0p020_7p020
-source_path: raw_sources\MLB_745098_mike-clevinger-in-play-no-out-to-amed-rosario-lyolwl_Amed_Rosario_s_leadoff_triple_Amed_Rosario_s_leadoff_triple_Amed_Rosario_s_leado.mp4
-clip_start_time: 0.020
-clip_end_time: 7.020

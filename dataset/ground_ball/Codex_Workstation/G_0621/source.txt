@@ -1,7 +1,0 @@
-video_title: Héctor Neris seals the victory Héctor Neris seals the victory Héctor Neris seals the victory Héctor Neris forces a Michael Massey groundout to secure a 9-4 win for the Cubs
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/27/412193cf-7855efb6-73b0d0de-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_746278_michael-massey-grounds-out-first-baseman-michael-busch-to-pitcher-hec
-clip_id: MLB_746278_michael-massey-grounds-out-first-baseman-michael-busch-to-pitcher-hec_auto1_4p780_10p780
-source_path: raw_sources\MLB_746278_michael-massey-grounds-out-first-baseman-michael-busch-to-pitcher-hec_H_ctor_Neris_seals_the_victory_H_ctor_Neris_seals_the_victory_H_ctor_Neris_seals_the_vict.mp4
-clip_start_time: 4.780
-clip_end_time: 10.780

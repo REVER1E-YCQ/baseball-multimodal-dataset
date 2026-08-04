@@ -1,7 +1,0 @@
-video_title: James Wood's solo homer (29) James Wood's solo homer (29) James Wood's solo homer (29) James Wood drives a solo home run to right-center field to make it a one-run game in the top of the 8th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/23/850b422a-9a5a28a3-7c1925dc-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776219_james-wood-homers-28-on-a-fly-ball-to-right-center-field
-clip_id: MLB_776219_james-wood-homers-28-on-a-fly-ball-to-right-center-field_auto1_0p000_7p000
-source_path: raw_sources\MLB_776219_james-wood-homers-28-on-a-fly-ball-to-right-center-field_James_Wood_s_solo_homer_29_James_Wood_s_solo_homer_29_James_Wood_s_solo_homer_29_James_Wood_drives_a_s.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000

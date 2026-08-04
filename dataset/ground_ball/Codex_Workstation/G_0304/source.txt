@@ -1,7 +1,0 @@
-video_title: Pirates turn a double play Pirates turn a double play Pirates turn a double play Isiah Kiner-Falefa scoops up a ground ball and tosses it to Adam Frazier, who turns and gets the runner at first for a double play in the bottom of the 2nd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-03/31/2f488dd1-047dd0f3-44a255c8-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_778508_christopher-morel-grounds-into-a-double-play-shortstop-isiah-kiner-fa
-clip_id: MLB_778508_christopher-morel-grounds-into-a-double-play-shortstop-isiah-kiner-fa_auto1_8p160_14p160
-source_path: raw_sources\MLB_778508_christopher-morel-grounds-into-a-double-play-shortstop-isiah-kiner-fa_Pirates_turn_a_double_play_Pirates_turn_a_double_play_Pirates_turn_a_double_play.mp4
-clip_start_time: 8.160
-clip_end_time: 14.160

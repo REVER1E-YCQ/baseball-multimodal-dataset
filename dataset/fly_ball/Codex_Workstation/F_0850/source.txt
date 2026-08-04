@@ -1,7 +1,0 @@
-video_title: Nico Horner on first homer of the season at Wrigley Nico Horner on first homer of the season at Wrigley Nico Horner on first homer of the season at Wrigley Nico Horner discusses his first home run of the season at Wrigley Field and more after the Cubs' 11-5 win vs. the Nationals
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/05/2161e1e6-c94d4dd6-654d6806-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776455_nico-horner-on-first-homer-of-the-season-at-wrigley
-clip_id: MLB_776455_nico-horner-on-first-homer-of-the-season-at-wrigley_auto1_4p660_11p660
-source_path: raw_sources\MLB_776455_nico-horner-on-first-homer-of-the-season-at-wrigley_Nico_Horner_on_first_homer_of_the_season_at_Wrigley_Nico_Horner_on_first_homer_of_the_season_at_Wrigley_Nic.mp4
-clip_start_time: 4.660
-clip_end_time: 11.660

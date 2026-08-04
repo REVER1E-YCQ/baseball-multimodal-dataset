@@ -1,7 +1,0 @@
-video_title: Carter Jensen's 456-foot home run (3) Carter Jensen's 456-foot home run (3) Carter Jensen's 456-foot home run (3) Carter Jensen launches a 456-foot home run to right field, increasing the Royals' lead to 6-0 in the top of the 7th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/28/7fa21efe-348fa5bc-25105430-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776138_michael-kelly-in-play-run-s-to-carter-jensen
-clip_id: MLB_776138_michael-kelly-in-play-run-s-to-carter-jensen_auto1_5p240_12p240
-source_path: raw_sources\MLB_776138_michael-kelly-in-play-run-s-to-carter-jensen_Carter_Jensen_s_456-foot_home_run_3_Carter_Jensen_s_456-foot_home_run_3_Carter_Jensen_s_456-foot_home_run_3_Carter.mp4
-clip_start_time: 5.240
-clip_end_time: 12.240

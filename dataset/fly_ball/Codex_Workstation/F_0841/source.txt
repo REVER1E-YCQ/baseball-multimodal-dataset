@@ -1,7 +1,0 @@
-video_title: Jared Young's solo home run (4) Jared Young's solo home run (4) Jared Young's solo home run (4) Jared Young cracks a solo home run to right-center field, reducing the Mets' deficit to 4-2 in the top of the 7th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/06/39a721ef-1c6681a4-b69386e1-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776439_jared-young-homers-4-on-a-fly-ball-to-right-center-field
-clip_id: MLB_776439_jared-young-homers-4-on-a-fly-ball-to-right-center-field_auto1_5p640_12p640
-source_path: raw_sources\MLB_776439_jared-young-homers-4-on-a-fly-ball-to-right-center-field_Jared_Young_s_solo_home_run_4_Jared_Young_s_solo_home_run_4_Jared_Young_s_solo_home_run_4_Jared_Young_.mp4
-clip_start_time: 5.640
-clip_end_time: 12.640

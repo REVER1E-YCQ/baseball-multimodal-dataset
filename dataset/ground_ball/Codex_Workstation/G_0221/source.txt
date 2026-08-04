@@ -1,7 +1,0 @@
-video_title: Blaze Alexander's RBI fielder's choice Blaze Alexander's RBI fielder's choice Blaze Alexander's RBI fielder's choice Blaze Alexander hits a grounder up the middle that is bobbled by Richie Palacios, allowing Sam Basallo to score to tie the game at 1
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/26/76272859-7d501ebf-b6bc3be4-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_824837_griffin-jax-in-play-run-s-to-blaze-alexander
-clip_id: MLB_824837_griffin-jax-in-play-run-s-to-blaze-alexander_head_0p000_6p000
-source_path: raw_sources\MLB_824837_griffin-jax-in-play-run-s-to-blaze-alexander_Blaze_Alexander_s_RBI_fielder_s_choice_Blaze_Alexander_s_RBI_fielder_s_choice_Bl.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

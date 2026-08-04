@@ -1,7 +1,0 @@
-video_title: Jonathan India's diving stop Jonathan India's diving stop Jonathan India's diving stop Jonathan India makes a diving stop on Carlos Cortes' grounder, then pops up and throws to first in time for the out
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/28/764b8571-89a02bd8-e4ae2d01-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_776138_carlos-cortes-grounds-out-second-baseman-jonathan-india-to-first-base
-clip_id: MLB_776138_carlos-cortes-grounds-out-second-baseman-jonathan-india-to-first-base_auto1_0p000_6p000
-source_path: raw_sources\MLB_776138_carlos-cortes-grounds-out-second-baseman-jonathan-india-to-first-base_Jonathan_India_s_diving_stop_Jonathan_India_s_diving_stop_Jonathan_India_s_diving_stop_Jo.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

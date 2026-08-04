@@ -1,7 +1,0 @@
-video_title: Jakob Marsee scores on fielder's choice Jakob Marsee scores on fielder's choice Jakob Marsee scores on grounder
-video_url: https://bdata-producedclips.mlb.com/2b42ffd7-3262-41c4-843d-5fba0906e83d.mp4
-source_id: MLB_823867_jr-ritchie-in-play-run-s-to-joe-mack
-clip_id: MLB_823867_jr-ritchie-in-play-run-s-to-joe-mack_head_0p000_6p000
-source_path: raw_sources\MLB_823867_jr-ritchie-in-play-run-s-to-joe-mack_Jakob_Marsee_scores_on_fielder_s_choice_Jakob_Marsee_scores_on_fielder_s_choice_.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

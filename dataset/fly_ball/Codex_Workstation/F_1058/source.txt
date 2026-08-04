@@ -1,7 +1,0 @@
-video_title: Miguel Cairo recaps 4-3 win, talks Wood's homers Miguel Cairo recaps 4-3 win, talks Wood's homers Miguel Cairo recaps 4-3 win, talks Wood's homers Miguel Cairo discusses good pitching all around, James Wood's two-homer game and more after 4-3 win over the Braves
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/24/092b23bf-fe9fcae1-10917c1c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776200_miguel-cairo-recaps-4-3-win-talks-wood-s-homers
-clip_id: MLB_776200_miguel-cairo-recaps-4-3-win-talks-wood-s-homers_auto1_0p020_7p020
-source_path: raw_sources\MLB_776200_miguel-cairo-recaps-4-3-win-talks-wood-s-homers_Miguel_Cairo_recaps_4-3_win_talks_Wood_s_homers_Miguel_Cairo_recaps_4-3_win_talks_Wood_s_homers_Miguel_Cairo_re.mp4
-clip_start_time: 0.020
-clip_end_time: 7.020

@@ -1,7 +1,0 @@
-video_title: Bryce Harper's two-run home run (24) Bryce Harper's two-run home run (24) Bryce Harper's two-run home run (24) Bryce Harper hits a two-run home run to right-center field, putting the Phillies on the board with a score of 2-0 in the top of the 1st inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/06/32ed730b-c5ba3c3c-8c3b94a9-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776433_bryce-harper-homers-24-on-a-fly-ball-to-center-field-kyle-schwarber-s
-clip_id: MLB_776433_bryce-harper-homers-24-on-a-fly-ball-to-center-field-kyle-schwarber-s_auto1_18p040_25p040
-source_path: raw_sources\MLB_776433_bryce-harper-homers-24-on-a-fly-ball-to-center-field-kyle-schwarber-s_Bryce_Harper_s_two-run_home_run_24_Bryce_Harper_s_two-run_home_run_24_Bryce_Harper_s_two-.mp4
-clip_start_time: 18.040
-clip_end_time: 25.040

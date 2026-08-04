@@ -1,7 +1,0 @@
-video_title: Tim Hill induces grounder to escape bases-loaded jam Tim Hill induces grounder to escape bases-loaded jam Tim Hill induces grounder to escape bases-loaded jam Tim Hill comes in with the bases loaded and induces a grounder to third, handled nicely by Amed Rosario, to escape the jam in the 6th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/26/6cd14a31-8fe2678e-5a4dc834-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776588_tim-hill-in-play-out-s-to-james-wood
-clip_id: MLB_776588_tim-hill-in-play-out-s-to-james-wood_auto1_5p260_11p260
-source_path: raw_sources\MLB_776588_tim-hill-in-play-out-s-to-james-wood_Tim_Hill_induces_grounder_to_escape_bases-loaded_jam_Tim_Hill_induces_grounder_to_escape_bases-loaded_jam_Tim_Hill_induces.mp4
-clip_start_time: 5.260
-clip_end_time: 11.260

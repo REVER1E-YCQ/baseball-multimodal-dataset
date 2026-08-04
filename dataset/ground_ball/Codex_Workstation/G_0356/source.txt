@@ -1,7 +1,0 @@
-video_title: Michael Kopech escapes jam in 8th Michael Kopech escapes jam in 8th Michael Kopech escapes jam in 8th Michael Kopech escapes a bases-loaded jam in the eighth inning, inducing a groundout from Austin Riley for a double play after Yoán Moncada's nice play
-video_url: https://bdata-producedclips.mlb.com/ed1728f0-7b07-4df3-8282-15a15055994f.mp4
-source_id: MLB_746814_michael-kopech-in-play-out-s-to-austin-riley
-clip_id: MLB_746814_michael-kopech-in-play-out-s-to-austin-riley_auto1_5p774_11p774
-source_path: raw_sources\MLB_746814_michael-kopech-in-play-out-s-to-austin-riley_Michael_Kopech_escapes_jam_in_8th_Michael_Kopech_escapes_jam_in_8th_Michael_Kope.mp4
-clip_start_time: 5.774
-clip_end_time: 11.774

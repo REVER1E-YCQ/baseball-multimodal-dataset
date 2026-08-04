@@ -1,7 +1,0 @@
-video_title: Tim Tawa's solo home run (4) Tim Tawa's solo home run (4) Tim Tawa homers (4) on a fly ball to left field. Tim Tawa drills a solo home run to left field that gives the D-backs a 4-1 lead in the 5th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/24/8c749c17-4d0f96fd-ed6af362-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_778188_tim-tawa-homers-4-on-a-fly-ball-to-left-field
-clip_id: MLB_778188_tim-tawa-homers-4-on-a-fly-ball-to-left-field_auto1_6p540_13p540
-source_path: raw_sources\MLB_778188_tim-tawa-homers-4-on-a-fly-ball-to-left-field_Tim_Tawa_s_solo_home_run_4_Tim_Tawa_s_solo_home_run_4_Tim_Tawa_homers_4_on_a_fly_ball_to_left_field._Tim_Tawa_dri.mp4
-clip_start_time: 6.540
-clip_end_time: 13.540

@@ -1,7 +1,0 @@
-video_title: Lourdes Gurriel Jr.'s stellar assist Lourdes Gurriel Jr.'s stellar assist Lourdes Gurriel Jr.'s stellar assist Lourdes Gurriel Jr. fields a ground ball and fires to second base to nab Andruw Monasterio trying to leg out a double in the 9th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/27/0b1df15f-790eca01-7a57476b-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776572_andrew-saalfrank-in-play-out-s-to-andruw-monasterio
-clip_id: MLB_776572_andrew-saalfrank-in-play-out-s-to-andruw-monasterio_auto1_10p100_16p100
-source_path: raw_sources\MLB_776572_andrew-saalfrank-in-play-out-s-to-andruw-monasterio_Lourdes_Gurriel_Jr._s_stellar_assist_Lourdes_Gurriel_Jr._s_stellar_assist_Lourdes_Gurriel_Jr._s_stellar_ass.mp4
-clip_start_time: 10.100
-clip_end_time: 16.100

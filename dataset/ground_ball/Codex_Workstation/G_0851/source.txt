@@ -1,7 +1,0 @@
-video_title: Orion Kerkering enters game, escapes jam Orion Kerkering enters game, escapes jam Orion Kerkering enters game, escapes jam Orion Kerkering enters the game and induces a ground ball on one pitch, recording the last out of the inning and ending the Nationals' threat
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/23/630db8f3-44ecc740-c6cce9d8-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_776628_dylan-crews-grounds-out-second-baseman-edmundo-sosa-to-first-baseman-
-clip_id: MLB_776628_dylan-crews-grounds-out-second-baseman-edmundo-sosa-to-first-baseman-_auto1_3p360_9p360
-source_path: raw_sources\MLB_776628_dylan-crews-grounds-out-second-baseman-edmundo-sosa-to-first-baseman-_Orion_Kerkering_enters_game_escapes_jam_Orion_Kerkering_enters_game_escapes_jam_Orion_Ker.mp4
-clip_start_time: 3.360
-clip_end_time: 9.360

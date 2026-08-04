@@ -1,7 +1,0 @@
-video_title: Juan Soto's RBI groundout Juan Soto's RBI groundout Juan Soto's RBI groundout
-video_url: https://bdata-producedclips.mlb.com/9b793d19-ae00-4cec-95b7-7839dce551f5.mp4
-source_id: MLB_745749_juan-soto-grounds-out-first-baseman-jon-singleton-to-pitcher-shawn-du
-clip_id: MLB_745749_juan-soto-grounds-out-first-baseman-jon-singleton-to-pitcher-shawn-du_auto1_1p380_7p380
-source_path: raw_sources\MLB_745749_juan-soto-grounds-out-first-baseman-jon-singleton-to-pitcher-shawn-du_Juan_Soto_s_RBI_groundout_Juan_Soto_s_RBI_groundout_Juan_Soto_s_RBI_groundout.mp4
-clip_start_time: 1.380
-clip_end_time: 7.380

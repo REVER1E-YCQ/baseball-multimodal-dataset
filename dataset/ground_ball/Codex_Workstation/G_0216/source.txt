@@ -1,7 +1,0 @@
-video_title: Tanner Andrews finishes perfect inning in MLB debut Tanner Andrews finishes perfect inning in MLB debut Tanner Andrews finishes perfect inning in MLB debut Tanner Andrews induces an inning-ending groundout to complete a perfect top of the 9th in his MLB debut
-video_url: https://bdata-producedclips.mlb.com/3264ca8c-b8c4-4982-8416-8f81c35184da.mp4
-source_id: MLB_822812_otto-lopez-grounds-out-third-baseman-kazuma-okamoto-to-first-baseman-
-clip_id: MLB_822812_otto-lopez-grounds-out-third-baseman-kazuma-okamoto-to-first-baseman-_head_0p000_6p000
-source_path: raw_sources\MLB_822812_otto-lopez-grounds-out-third-baseman-kazuma-okamoto-to-first-baseman-_Tanner_Andrews_finishes_perfect_inning_in_MLB_debut_Tanner_Andrews_finishes_perf.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

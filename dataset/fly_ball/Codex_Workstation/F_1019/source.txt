@@ -1,7 +1,0 @@
-video_title: Pete Alonso's solo home run (35) Pete Alonso's solo home run (35) Pete Alonso's solo home run (35) Pete Alonso hits a solo home run to left-center field, extending the Mets' lead to 7-1 in the bottom of the 2nd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/16/1d6e8f01-6fc94371-94b64e88-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776304_michael-king-in-play-run-s-to-pete-alonso
-clip_id: MLB_776304_michael-king-in-play-run-s-to-pete-alonso_auto1_0p340_7p340
-source_path: raw_sources\MLB_776304_michael-king-in-play-run-s-to-pete-alonso_Pete_Alonso_s_solo_home_run_35_Pete_Alonso_s_solo_home_run_35_Pete_Alonso_s_solo_home_run_35_Pete_Alonso_hits_a_solo_.mp4
-clip_start_time: 0.340
-clip_end_time: 7.340

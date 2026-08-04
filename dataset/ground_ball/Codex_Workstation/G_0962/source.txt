@@ -1,7 +1,0 @@
-video_title: Junior Caminero fields his own deflection for out Junior Caminero fields his own deflection for out Junior Caminero fields his own deflection for out Junior Caminero deflects Nick Kurtz's grounder up and in front of him, then grabs the deflected ball and throws to first in time for the out
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/12/15a46b61-cdfcde06-1c91e8e8-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776762_shane-baz-in-play-out-s-to-nick-kurtz-vjryfa
-clip_id: MLB_776762_shane-baz-in-play-out-s-to-nick-kurtz-vjryfa_auto1_0p760_6p760
-source_path: raw_sources\MLB_776762_shane-baz-in-play-out-s-to-nick-kurtz-vjryfa_Junior_Caminero_fields_his_own_deflection_for_out_Junior_Caminero_fields_his_own_deflection_for_out_Junior_Caminer.mp4
-clip_start_time: 0.760
-clip_end_time: 6.760

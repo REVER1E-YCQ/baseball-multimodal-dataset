@@ -1,7 +1,0 @@
-video_title: Jackson Merrill's RBI groundout Jackson Merrill's RBI groundout Jackson Merrill's RBI groundout Jackson Merrill hits an RBI groundout, scoring Xander Bogaerts and extending the Padres' lead to 4-0 in the top of the 8th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/23/0e5f9833-90a5f578-220b3292-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_744828_jose-ferrer-in-play-run-s-to-jackson-merrill
-clip_id: MLB_744828_jose-ferrer-in-play-run-s-to-jackson-merrill_auto1_2p940_8p940
-source_path: raw_sources\MLB_744828_jose-ferrer-in-play-run-s-to-jackson-merrill_Jackson_Merrill_s_RBI_groundout_Jackson_Merrill_s_RBI_groundout_Jackson_Merrill_s_RBI_groundout_Jackson_Merrill_hi.mp4
-clip_start_time: 2.940
-clip_end_time: 8.940

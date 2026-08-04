@@ -1,7 +1,0 @@
-video_title: Nolan Gorman scores on a throwing error Nolan Gorman scores on a throwing error Nolan Gorman scores on a throwing error Nolan Gorman scores on a throwing error after a line drive single by Pedro Pagés
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/21/b3a5e157-0b00d4b7-cb1ad7f9-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_778233_spencer-schwellenbach-in-play-run-s-to-pedro-pages
-clip_id: MLB_778233_spencer-schwellenbach-in-play-run-s-to-pedro-pages_auto1_16p860_23p860
-source_path: raw_sources\MLB_778233_spencer-schwellenbach-in-play-run-s-to-pedro-pages_Nolan_Gorman_scores_on_a_throwing_error_Nolan_Gorman_scores_on_a_throwing_error_Nolan_Gorman_scores_on_a_thr.mp4
-clip_start_time: 16.860
-clip_end_time: 23.860

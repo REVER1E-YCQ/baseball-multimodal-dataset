@@ -1,7 +1,0 @@
-video_title: Jackson Holliday starts an inning-ending double play Jackson Holliday starts an inning-ending double play Jackson Holliday starts an inning-ending double play Jackson Holliday gloves a sharp grounder and starts an inning-ending double play in the top of the 5th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/12/f4e1657b-ffa9d441-16947b2a-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776776_j-p-crawford-grounds-into-a-double-play-second-baseman-jackson-hollid
-clip_id: MLB_776776_j-p-crawford-grounds-into-a-double-play-second-baseman-jackson-hollid_auto1_7p940_13p940
-source_path: raw_sources\MLB_776776_j-p-crawford-grounds-into-a-double-play-second-baseman-jackson-hollid_Jackson_Holliday_starts_an_inning-ending_double_play_Jackson_Holliday_starts_an_inning-en.mp4
-clip_start_time: 7.940
-clip_end_time: 13.940

@@ -1,7 +1,0 @@
-video_title: Anthony Volpe fields grounder, gets the out Anthony Volpe fields grounder, gets the out Anthony Volpe fields grounder, gets the out Anthony Volpe fields a ground ball and makes the throw to first base for the first out of the top of the 8th
-video_url: https://bdata-producedclips.mlb.com/9bcaf959-3bc3-4a39-b5e8-6d114e6bbbfa.mp4
-source_id: MLB_776927_yerry-de-los-santos-in-play-out-s-to-jake-mangum
-clip_id: MLB_776927_yerry-de-los-santos-in-play-out-s-to-jake-mangum_auto1_3p460_9p460
-source_path: raw_sources\MLB_776927_yerry-de-los-santos-in-play-out-s-to-jake-mangum_Anthony_Volpe_fields_grounder_gets_the_out_Anthony_Volpe_fields_grounder_gets_the_out_Anthony_Volpe_fields_gro.mp4
-clip_start_time: 3.460
-clip_end_time: 9.460

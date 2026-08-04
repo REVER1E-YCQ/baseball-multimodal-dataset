@@ -1,7 +1,0 @@
-video_title: Wyatt Langford's RBI double Wyatt Langford's RBI double Wyatt Langford's RBI double Wyatt Langford puts the Rangers on the board with a line drive double down the left-field line in the bottom of the 1st inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/18/07efc724-a906ab0f-cbd589a0-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_777460_kris-bubic-in-play-run-s-to-wyatt-langford
-clip_id: MLB_777460_kris-bubic-in-play-run-s-to-wyatt-langford_auto1_6p800_13p800
-source_path: raw_sources\MLB_777460_kris-bubic-in-play-run-s-to-wyatt-langford_Wyatt_Langford_s_RBI_double_Wyatt_Langford_s_RBI_double_Wyatt_Langford_s_RBI_double_Wyatt_Langford_puts_the_Rangers_.mp4
-clip_start_time: 6.800
-clip_end_time: 13.800

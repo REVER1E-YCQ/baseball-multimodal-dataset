@@ -1,7 +1,0 @@
-video_title: The Giants turn two to end the 3rd inning The Giants turn two to end the 3rd inning The Giants turn two to end the 3rd inning Willy Adames makes a great snag on a hard-hit grounder, shovels to second for the first out, then they get the runner at first for an inning-ending double play in the 3rd
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/01/ab3f984f-b092c24d-276546f0-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776926_robbie-ray-in-play-out-s-to-tyrone-taylor
-clip_id: MLB_776926_robbie-ray-in-play-out-s-to-tyrone-taylor_auto1_6p580_12p580
-source_path: raw_sources\MLB_776926_robbie-ray-in-play-out-s-to-tyrone-taylor_The_Giants_turn_two_to_end_the_3rd_inning_The_Giants_turn_two_to_end_the_3rd_inning_The_Giants_turn_two_to_end_the_3r.mp4
-clip_start_time: 6.580
-clip_end_time: 12.580

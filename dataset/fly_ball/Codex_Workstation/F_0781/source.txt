@@ -1,7 +1,0 @@
-video_title: Salvador Perez on 10-3 win and more Salvador Perez on 10-3 win and more Salvador Perez on 10-3 win and more Salvador Perez discusses his three-run home run against the Phillies, how he feels after their win and more
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/14/6d097453-e5e03386-96d4aafd-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776334_salvador-perez-on-10-3-win-and-more
-clip_id: MLB_776334_salvador-perez-on-10-3-win-and-more_auto1_7p520_14p520
-source_path: raw_sources\MLB_776334_salvador-perez-on-10-3-win-and-more_Salvador_Perez_on_10-3_win_and_more_Salvador_Perez_on_10-3_win_and_more_Salvador_Perez_on_10-3_win_and_more_Salvador_Perez_.mp4
-clip_start_time: 7.520
-clip_end_time: 14.520

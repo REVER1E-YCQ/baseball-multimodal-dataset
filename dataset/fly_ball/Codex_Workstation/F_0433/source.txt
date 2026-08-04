@@ -1,7 +1,0 @@
-video_title: Gleyber Torres' RBI single Gleyber Torres' RBI single Gleyber Torres' RBI single Gleyber Torres singles on a line drive to center field to put the Tigers on the board in the bottom of the 8th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/27/f9520e20-a851b47c-c4972d5e-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_777334_gleyber-torres-singles-on-a-line-drive-to-center-fielder-byron-buxton
-clip_id: MLB_777334_gleyber-torres-singles-on-a-line-drive-to-center-fielder-byron-buxton_auto1_4p460_11p460
-source_path: raw_sources\MLB_777334_gleyber-torres-singles-on-a-line-drive-to-center-fielder-byron-buxton_Gleyber_Torres_RBI_single_Gleyber_Torres_RBI_single_Gleyber_Torres_RBI_single_Gleyber_Tor.mp4
-clip_start_time: 4.460
-clip_end_time: 11.460

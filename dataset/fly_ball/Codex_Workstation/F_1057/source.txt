@@ -1,7 +1,0 @@
-video_title: James Wood on reaching 30 homers in season James Wood on reaching 30 homers in season James Wood on reaching 30 homers in season James Wood discusses what it means to reach 30 home runs in a season for the first time in his career
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/24/7160d883-93824aec-af23f709-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776200_james-wood-on-reaching-30-homers-in-season
-clip_id: MLB_776200_james-wood-on-reaching-30-homers-in-season_auto1_2p740_9p740
-source_path: raw_sources\MLB_776200_james-wood-on-reaching-30-homers-in-season_James_Wood_on_reaching_30_homers_in_season_James_Wood_on_reaching_30_homers_in_season_James_Wood_on_reaching_30_home.mp4
-clip_start_time: 2.740
-clip_end_time: 9.740

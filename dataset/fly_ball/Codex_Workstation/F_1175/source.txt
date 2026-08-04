@@ -1,7 +1,0 @@
-video_title: Jurickson Profar's lunging catch Jurickson Profar's lunging catch Jurickson Profar's lunging catch Jurickson Profar tracks down a fly ball and reaches out to make a superb catch, recording the last out in the top of the 9th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/29/afe2dca6-ea77521e-10ba95da-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_745414_jazz-chisholm-jr-lines-out-sharply-to-left-fielder-jurickson-profar
-clip_id: MLB_745414_jazz-chisholm-jr-lines-out-sharply-to-left-fielder-jurickson-profar_auto1_8p600_15p600
-source_path: raw_sources\MLB_745414_jazz-chisholm-jr-lines-out-sharply-to-left-fielder-jurickson-profar_Jurickson_Profar_s_lunging_catch_Jurickson_Profar_s_lunging_catch_Jurickson_Prof.mp4
-clip_start_time: 8.600
-clip_end_time: 15.600

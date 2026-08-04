@@ -1,7 +1,0 @@
-video_title: Busch knocks ball down, beats Frelick to the bag Busch knocks ball down, beats Frelick to the bag Busch knocks ball down, beats Frelick to the bag Michael Busch fields a grounder from Sal Frelick and steps on first for the out
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/23/076af506-5deb344f-640bde5d-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_746848_sal-frelick-grounds-out-to-first-baseman-michael-busch
-clip_id: MLB_746848_sal-frelick-grounds-out-to-first-baseman-michael-busch_auto1_4p240_10p240
-source_path: raw_sources\MLB_746848_sal-frelick-grounds-out-to-first-baseman-michael-busch_Busch_knocks_ball_down_beats_Frelick_to_the_bag_Busch_knocks_ball_down_beats_Frelick_to_the_bag_Busch_kn.mp4
-clip_start_time: 4.240
-clip_end_time: 10.240

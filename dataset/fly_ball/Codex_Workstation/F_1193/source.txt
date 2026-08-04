@@ -1,7 +1,0 @@
-video_title: Oswaldo Cabrera's leaping catch Oswaldo Cabrera's leaping catch Oswaldo Cabrera's leaping catch Oswaldo Cabrera makes a nice leaping catch off Ryan O'Hearn's liner for the second out of the top of the 5th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/20/cd83c517-d6fb9e8a-7b1d1c9a-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_745734_ryan-o-hearn-lines-out-to-third-baseman-oswaldo-cabrera
-clip_id: MLB_745734_ryan-o-hearn-lines-out-to-third-baseman-oswaldo-cabrera_auto1_5p629_12p629
-source_path: raw_sources\MLB_745734_ryan-o-hearn-lines-out-to-third-baseman-oswaldo-cabrera_Oswaldo_Cabrera_s_leaping_catch_Oswaldo_Cabrera_s_leaping_catch_Oswaldo_Cabrera_s_leaping_catch_Oswaldo.mp4
-clip_start_time: 5.629
-clip_end_time: 12.629

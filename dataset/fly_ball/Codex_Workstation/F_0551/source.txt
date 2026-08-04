@@ -1,7 +1,0 @@
-video_title: Kyle Tucker hits a single Kyle Tucker hits a single Kyle Tucker hits a single Kyle Tucker reaches first base safely after hitting a fly ball to center field
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/18/2af35842-5fbac6ee-272ab085-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_778268_corbin-burnes-in-play-no-out-to-kyle-tucker
-clip_id: MLB_778268_corbin-burnes-in-play-no-out-to-kyle-tucker_auto1_6p900_13p900
-source_path: raw_sources\MLB_778268_corbin-burnes-in-play-no-out-to-kyle-tucker_Kyle_Tucker_hits_a_single_Kyle_Tucker_hits_a_single_Kyle_Tucker_hits_a_single_Kyle_Tucker_reaches_first_base_safely.mp4
-clip_start_time: 6.900
-clip_end_time: 13.900

@@ -1,7 +1,0 @@
-video_title: Luis Urías extends the A's lead with an RBI single Luis Urías extends the A's lead with an RBI single Luis Urías extends the A's lead with an RBI single Luis Urías singles on a ground ball to left field, plating JJ Bleday to extend the A's lead
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/09/b6a05b13-63e23f4a-1d3c23d1-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_776811_yaramil-hiraldo-in-play-run-s-to-luis-urias
-clip_id: MLB_776811_yaramil-hiraldo-in-play-run-s-to-luis-urias_auto1_1p420_7p420
-source_path: raw_sources\MLB_776811_yaramil-hiraldo-in-play-run-s-to-luis-urias_Luis_Ur_as_extends_the_A_s_lead_with_an_RBI_single_Luis_Ur_as_extends_the_A_s_lead_with_an_RBI_single_Luis_Ur_as_ex.mp4
-clip_start_time: 1.420
-clip_end_time: 7.420

@@ -1,7 +1,0 @@
-video_title: Pete Alonso's second homer of the game (33) Pete Alonso's second homer of the game (33) Pete Alonso's second homer of the game (33) Pete Alonso hits a solo home run to left-center to increase the Mets' lead to 8-2 in the top of the 7th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/02/adfe7343-a4f9fa32-3ff19798-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776490_pete-alonso-homers-33-on-a-fly-ball-to-left-center-field-01kcp8
-clip_id: MLB_776490_pete-alonso-homers-33-on-a-fly-ball-to-left-center-field-01kcp8_auto1_6p380_13p380
-source_path: raw_sources\MLB_776490_pete-alonso-homers-33-on-a-fly-ball-to-left-center-field-01kcp8_Pete_Alonso_s_second_homer_of_the_game_33_Pete_Alonso_s_second_homer_of_the_game_33_Pete_Alonso.mp4
-clip_start_time: 6.380
-clip_end_time: 13.380

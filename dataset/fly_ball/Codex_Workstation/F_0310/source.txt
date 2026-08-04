@@ -1,7 +1,0 @@
-video_title: Luis Campusano's solo home run (7) Luis Campusano's solo home run (7) Luis Campusano's solo home run (7) Luis Campusano homers on a fly ball to left field, extending the Padres' lead to 5-1 in the 4th frame
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/31/1ff13a67-fe6ff4b1-6d803d22-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_745386_luis-campusano-homers-7-on-a-fly-ball-to-left-field
-clip_id: MLB_745386_luis-campusano-homers-7-on-a-fly-ball-to-left-field_auto1_16p100_23p100
-source_path: raw_sources\MLB_745386_luis-campusano-homers-7-on-a-fly-ball-to-left-field_Luis_Campusano_s_solo_home_run_7_Luis_Campusano_s_solo_home_run_7_Luis_Campusano_s_solo_home_run_7_Luis_Cam.mp4
-clip_start_time: 16.100
-clip_end_time: 23.100

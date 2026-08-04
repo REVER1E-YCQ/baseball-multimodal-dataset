@@ -1,7 +1,0 @@
-video_title: Johan Rojas' diving catch opens the game Johan Rojas' diving catch opens the game Johan Rojas' diving catch opens the game Johan Rojas tracks a fly ball and lays out to make the grab, taking away a hit from TJ Friedl to start the game
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/04/1edbb64c-8f637f05-5e284a4d-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_777255_tj-friedl-flies-out-to-center-fielder-johan-rojas
-clip_id: MLB_777255_tj-friedl-flies-out-to-center-fielder-johan-rojas_auto1_3p280_10p280
-source_path: raw_sources\MLB_777255_tj-friedl-flies-out-to-center-fielder-johan-rojas_Johan_Rojas_diving_catch_opens_the_game_Johan_Rojas_diving_catch_opens_the_game_Johan_Rojas_diving_catch_open.mp4
-clip_start_time: 3.280
-clip_end_time: 10.280

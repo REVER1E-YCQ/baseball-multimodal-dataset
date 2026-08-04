@@ -1,7 +1,0 @@
-video_title: Shohei Ohtani's leadoff home run Shohei Ohtani's leadoff home run Shohei Ohtani's leadoff home run Shohei Ohtani crushes a 117.7 mph solo home run to right field, putting the Dodgers on the board with a 1-0 lead in the bottom of the 1st
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/30/0084c032-31e8d9d4-1eee80f9-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_813069_shohei-ohtani-s-leadoff-home-run
-clip_id: MLB_813069_shohei-ohtani-s-leadoff-home-run_auto1_3p080_10p080
-source_path: raw_sources\MLB_813069_shohei-ohtani-s-leadoff-home-run_Shohei_Ohtani_s_leadoff_home_run_Shohei_Ohtani_s_leadoff_home_run_Shohei_Ohtani_s_leadoff_home_run_Shohei_Ohtani_crushes_a_117.mp4
-clip_start_time: 3.080
-clip_end_time: 10.080

@@ -1,7 +1,0 @@
-video_title: Jahmai Jones' leadoff home run (7) Jahmai Jones' leadoff home run (7) Jahmai Jones' leadoff home run (7) Jahmai Jones hits a leadoff home run to left field, giving the Tigers a 1-0 lead in the top of the 1st inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/25/22907410-3ed524b7-9ea9512b-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776189_jahmai-jones-homers-7-on-a-fly-ball-to-left-field
-clip_id: MLB_776189_jahmai-jones-homers-7-on-a-fly-ball-to-left-field_auto1_0p400_7p400
-source_path: raw_sources\MLB_776189_jahmai-jones-homers-7-on-a-fly-ball-to-left-field_Jahmai_Jones_leadoff_home_run_7_Jahmai_Jones_leadoff_home_run_7_Jahmai_Jones_leadoff_home_run_7_Jahmai_Jones_.mp4
-clip_start_time: 0.400
-clip_end_time: 7.400

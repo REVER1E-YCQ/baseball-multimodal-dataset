@@ -1,7 +1,0 @@
-video_title: Ozzie Albies' sacrifice fly Ozzie Albies' sacrifice fly Ozzie Albies' sacrifice fly Ozzie Albies hits a sacrifice fly to center field, scoring Matt Olson in the top of the 9th inning to give the Braves a 7-3 lead
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/17/84778846-2290b75c-40e71573-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_776286_shinnosuke-ogasawara-in-play-run-s-to-ozzie-albies
-clip_id: MLB_776286_shinnosuke-ogasawara-in-play-run-s-to-ozzie-albies_auto1_1p520_8p520
-source_path: raw_sources\MLB_776286_shinnosuke-ogasawara-in-play-run-s-to-ozzie-albies_Ozzie_Albies_sacrifice_fly_Ozzie_Albies_sacrifice_fly_Ozzie_Albies_sacrifice_fly_Ozzie_Albies_hits_a_sacrifi.mp4
-clip_start_time: 1.520
-clip_end_time: 8.520

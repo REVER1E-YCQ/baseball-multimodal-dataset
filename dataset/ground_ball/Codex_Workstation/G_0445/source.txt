@@ -1,7 +1,0 @@
-video_title: Kevin Newman's RBI groundout  Kevin Newman's RBI groundout  Kevin Newman's RBI groundout 
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/02/a332ec5a-0c2ec42e-42e3e24e-csvm-diamondx64-asset-4000K.mp4
-source_id: MLB_745813_jose-quintana-in-play-run-s-to-kevin-newman
-clip_id: MLB_745813_jose-quintana-in-play-run-s-to-kevin-newman_auto1_5p800_11p800
-source_path: raw_sources\MLB_745813_jose-quintana-in-play-run-s-to-kevin-newman_Kevin_Newman_s_RBI_groundout_Kevin_Newman_s_RBI_groundout_Kevin_Newman_s_RBI_gro.mp4
-clip_start_time: 5.800
-clip_end_time: 11.800

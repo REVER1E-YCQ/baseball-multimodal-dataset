@@ -1,7 +1,0 @@
-video_title: Cam Smith's sliding catch Cam Smith's sliding catch Cam Smith's sliding catch Cam Smith shows off his leather in right field, charging in on a line drive and slides to make a superb catch in the 1st
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/11/9cd68d96-c2f95940-e36ccf77-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_824199_peter-lambert-in-play-out-s-to-julio-rodriguez
-clip_id: MLB_824199_peter-lambert-in-play-out-s-to-julio-rodriguez_head_0p000_7p000
-source_path: raw_sources\MLB_824199_peter-lambert-in-play-out-s-to-julio-rodriguez_Cam_Smith_s_sliding_catch_Cam_Smith_s_sliding_catch_Cam_Smith_s_sliding_catch_Ca.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000

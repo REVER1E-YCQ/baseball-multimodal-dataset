@@ -1,7 +1,0 @@
-video_title: Bryan Reynolds' great diving catch Bryan Reynolds' great diving catch Bryan Reynolds' great diving catch Bryan Reynolds chases down a looping fly ball and dives to make a great catch, ending the 6th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/30/9ff4d92c-21c67754-9d6c44a2-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_746365_jake-meyers-flies-out-to-left-fielder-bryan-reynolds
-clip_id: MLB_746365_jake-meyers-flies-out-to-left-fielder-bryan-reynolds_auto1_9p880_16p880
-source_path: raw_sources\MLB_746365_jake-meyers-flies-out-to-left-fielder-bryan-reynolds_Bryan_Reynolds_great_diving_catch_Bryan_Reynolds_great_diving_catch_Bryan_Reynolds_great_diving_catch_Brya.mp4
-clip_start_time: 9.880
-clip_end_time: 16.880

@@ -1,7 +1,0 @@
-video_title: Trent Grisham's second diving catch of the game  Trent Grisham's second diving catch of the game  Trent Grisham's second diving catch of the game  Trent Grisham makes his second diving catch in center field on a line drive from Bobby Witt Jr. in the 8th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/11/6a16d3c9-bc5a1262-6ad8aa77-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_777551_bobby-witt-jr-singles-on-a-sharp-line-drive-to-center-fielder-trent-g
-clip_id: MLB_777551_bobby-witt-jr-singles-on-a-sharp-line-drive-to-center-fielder-trent-g_auto1_4p740_11p740
-source_path: raw_sources\MLB_777551_bobby-witt-jr-singles-on-a-sharp-line-drive-to-center-fielder-trent-g_Trent_Grisham_s_second_diving_catch_of_the_game_Trent_Grisham_s_second_diving_catch_of_th.mp4
-clip_start_time: 4.740
-clip_end_time: 11.740

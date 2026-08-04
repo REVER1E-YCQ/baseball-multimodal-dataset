@@ -1,7 +1,0 @@
-video_title: Andy Pages turns double play after a review  Andy Pages turns double play after a review  Andy Pages turns double play after a review  After the call is confirmed, Andy Pages catches a line drive in left-center field and throws to first to double up Tyler Freeman to end the game
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/26/0b95eb71-93f9c9c3-4c109ba0-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_777344_andy-pages-turns-double-play-after-a-review
-clip_id: MLB_777344_andy-pages-turns-double-play-after-a-review_auto1_18p020_25p020
-source_path: raw_sources\MLB_777344_andy-pages-turns-double-play-after-a-review_Andy_Pages_turns_double_play_after_a_review_Andy_Pages_turns_double_play_after_a_review_Andy_Pages_turns_double_pla.mp4
-clip_start_time: 18.020
-clip_end_time: 25.020

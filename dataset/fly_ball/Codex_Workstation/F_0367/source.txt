@@ -1,7 +1,0 @@
-video_title: Miles Mastrobuoni's sliding catch Miles Mastrobuoni's sliding catch Miles Mastrobuoni's sliding catch Miles Mastrobuoni tracks a fly ball to the warning track and makes a gorgeous sliding grab, robbing a hit from Isaac Collins in the 8th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/23/b5499f5b-56596cd3-5927c650-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_777024_isaac-collins-flies-out-to-left-fielder-miles-mastrobuoni
-clip_id: MLB_777024_isaac-collins-flies-out-to-left-fielder-miles-mastrobuoni_auto1_5p620_12p620
-source_path: raw_sources\MLB_777024_isaac-collins-flies-out-to-left-fielder-miles-mastrobuoni_Miles_Mastrobuoni_s_sliding_catch_Miles_Mastrobuoni_s_sliding_catch_Miles_Mastrobuoni_s_sliding_catch.mp4
-clip_start_time: 5.620
-clip_end_time: 12.620

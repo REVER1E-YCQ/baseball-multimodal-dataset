@@ -1,7 +1,0 @@
-video_title: Alejandro Kirk's sacrifice fly Alejandro Kirk's sacrifice fly Alejandro Kirk's sacrifice fly Alejandro Kirk lofts a sacrifice fly to deep center field, while Davis Schneider scores to tie the game at 1 in the top of the 4th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/17/123eab85-3989f154-2a755a8c-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_776290_ian-seymour-in-play-run-s-to-alejandro-kirk
-clip_id: MLB_776290_ian-seymour-in-play-run-s-to-alejandro-kirk_auto1_8p080_15p080
-source_path: raw_sources\MLB_776290_ian-seymour-in-play-run-s-to-alejandro-kirk_Alejandro_Kirk_s_sacrifice_fly_Alejandro_Kirk_s_sacrifice_fly_Alejandro_Kirk_s_sacrifice_fly_Alejandro_Kirk_lofts_a.mp4
-clip_start_time: 8.080
-clip_end_time: 15.080

@@ -1,7 +1,0 @@
-video_title: Bichette and Varsho hit back-to-back homers in 9th Bichette and Varsho hit back-to-back homers in 9th Bichette and Varsho hit back-to-back homers in 9th Bo Bichette and Daulton Varsho hit back-to-back home runs in the top of the 9th inning to give the Blue Jays a 4-2 lead
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/01/d294e586-46eca6cd-42813618-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776503_bichette-and-varsho-hit-back-to-back-homers-in-9th
-clip_id: MLB_776503_bichette-and-varsho-hit-back-to-back-homers-in-9th_auto1_10p300_17p300
-source_path: raw_sources\MLB_776503_bichette-and-varsho-hit-back-to-back-homers-in-9th_Bichette_and_Varsho_hit_back-to-back_homers_in_9th_Bichette_and_Varsho_hit_back-to-back_homers_in_9th_Bichet.mp4
-clip_start_time: 10.300
-clip_end_time: 17.300

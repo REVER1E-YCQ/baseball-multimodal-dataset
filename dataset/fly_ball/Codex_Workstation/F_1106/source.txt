@@ -1,7 +1,0 @@
-video_title: Pete Alonso's 437-foot home run Pete Alonso's 437-foot home run Pete Alonso's 437-foot home run Statcast measures the projected distance and exit velocity of Pete Alonso's 437-foot homer at an exit velocity of 113 mph
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/16/a4e3ed1c-3734ba0f-989178c3-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776304_pete-alonso-s-437-foot-home-run
-clip_id: MLB_776304_pete-alonso-s-437-foot-home-run_auto1_6p600_13p600
-source_path: raw_sources\MLB_776304_pete-alonso-s-437-foot-home-run_Pete_Alonso_s_437-foot_home_run_Pete_Alonso_s_437-foot_home_run_Pete_Alonso_s_437-foot_home_run_Statcast_measures_the_projected.mp4
-clip_start_time: 6.600
-clip_end_time: 13.600

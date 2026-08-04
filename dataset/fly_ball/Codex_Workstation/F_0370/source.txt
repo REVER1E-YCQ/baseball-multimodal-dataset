@@ -1,7 +1,0 @@
-video_title: Corbin Carroll's sliding catch Corbin Carroll's sliding catch Corbin Carroll's sliding catch Corbin Carroll sprints to right-center field and slides to make a great catch on Brice Matthews' fly ball in the top of the 2nd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/22/6fdc4c37-c692825c-1f0364f4-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_777040_brice-matthews-flies-out-to-center-fielder-corbin-carroll
-clip_id: MLB_777040_brice-matthews-flies-out-to-center-fielder-corbin-carroll_auto1_4p260_11p260
-source_path: raw_sources\MLB_777040_brice-matthews-flies-out-to-center-fielder-corbin-carroll_Corbin_Carroll_s_sliding_catch_Corbin_Carroll_s_sliding_catch_Corbin_Carroll_s_sliding_catch_Corbin_C.mp4
-clip_start_time: 4.260
-clip_end_time: 11.260

@@ -1,7 +1,0 @@
-video_title: Derek Hill exits with an injury Derek Hill exits with an injury Derek Hill exits with an injury Derek Hill leaves the game in the top of the 3rd inning after attempting to beat out a ground ball
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/01/e476c0d0-ca47b7b3-b33d25ec-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776498_derek-hill-exits-with-an-injury
-clip_id: MLB_776498_derek-hill-exits-with-an-injury_auto1_20p920_26p920
-source_path: raw_sources\MLB_776498_derek-hill-exits-with-an-injury_Derek_Hill_exits_with_an_injury_Derek_Hill_exits_with_an_injury_Derek_Hill_exits_with_an_injury_Derek_Hill_leaves_the_game_in_t.mp4
-clip_start_time: 20.920
-clip_end_time: 26.920

@@ -1,7 +1,0 @@
-video_title: Jake Cronenworth's smooth jump throw Jake Cronenworth's smooth jump throw Jake Cronenworth's smooth jump throw Jake Cronenworth fields a slow grounder up the middle and makes a smooth jump throw to first in time for the first out in the top of the 9th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/29/b379095e-4f0f8fe7-03df36b7-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776947_yuki-matsui-in-play-out-s-to-ronny-mauricio
-clip_id: MLB_776947_yuki-matsui-in-play-out-s-to-ronny-mauricio_auto1_4p580_10p580
-source_path: raw_sources\MLB_776947_yuki-matsui-in-play-out-s-to-ronny-mauricio_Jake_Cronenworth_s_smooth_jump_throw_Jake_Cronenworth_s_smooth_jump_throw_Jake_Cronenworth_s_smooth_jump_throw_Jake.mp4
-clip_start_time: 4.580
-clip_end_time: 10.580

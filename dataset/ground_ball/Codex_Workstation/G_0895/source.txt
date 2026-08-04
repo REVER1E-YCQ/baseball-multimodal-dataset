@@ -1,7 +1,0 @@
-video_title: Corey Seager makes diving stop, starts double play Corey Seager makes diving stop, starts double play Corey Seager makes diving stop, starts double play Corey Seager makes a diving stop on Giancarlo Stanton's grounder, then throws to second from his knees to start a double play in the 9th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/05/8ef8adb0-d44e4caf-9950ebf0-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776855_phil-maton-in-play-out-s-to-giancarlo-stanton
-clip_id: MLB_776855_phil-maton-in-play-out-s-to-giancarlo-stanton_auto1_22p280_28p280
-source_path: raw_sources\MLB_776855_phil-maton-in-play-out-s-to-giancarlo-stanton_Corey_Seager_makes_diving_stop_starts_double_play_Corey_Seager_makes_diving_stop_starts_double_play_Corey_Seager_.mp4
-clip_start_time: 22.280
-clip_end_time: 28.280

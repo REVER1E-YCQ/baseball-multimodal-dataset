@@ -1,7 +1,0 @@
-video_title: Heliot Ramos' solo home run (9) Heliot Ramos' solo home run (9) Heliot Ramos' solo home run (9) Heliot Ramos homers on a fly ball to right-center field, tying the game at 2 in the 7th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/17/54c69607-4f1fd614-c6b8ae60-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_746868_heliot-ramos-homers-9-on-a-fly-ball-to-right-center-field
-clip_id: MLB_746868_heliot-ramos-homers-9-on-a-fly-ball-to-right-center-field_auto1_5p540_12p540
-source_path: sources\MLB_746868_heliot-ramos-homers-9-on-a-fly-ball-to-right-center-field_Heliot_Ramos_solo_home_run_9_Heliot_Ramos_solo_home_run_9_Heliot_Ramos_solo_home.mp4
-clip_start_time: 5.540
-clip_end_time: 12.540

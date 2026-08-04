@@ -1,7 +1,0 @@
-video_title: Brooks Lee's solo home run (15) Brooks Lee's solo home run (15) Brooks Lee's solo home run (15) Brooks Lee makes it a two-run game with a line-drive solo home run to left field in the bottom of the 5th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/15/a6aa1400-15a4889a-0b2db0ea-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776313_carlos-rodon-in-play-run-s-to-brooks-lee
-clip_id: MLB_776313_carlos-rodon-in-play-run-s-to-brooks-lee_auto1_8p940_15p940
-source_path: raw_sources\MLB_776313_carlos-rodon-in-play-run-s-to-brooks-lee_Brooks_Lee_s_solo_home_run_15_Brooks_Lee_s_solo_home_run_15_Brooks_Lee_s_solo_home_run_15_Brooks_Lee_makes_it_a_two-ru.mp4
-clip_start_time: 8.940
-clip_end_time: 15.940

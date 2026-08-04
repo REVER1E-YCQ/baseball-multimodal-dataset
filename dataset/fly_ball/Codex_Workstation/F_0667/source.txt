@@ -1,7 +1,0 @@
-video_title: Dylan Crews' three-run homer (8) Dylan Crews' three-run homer (8) Dylan Crews' three-run homer (8) Dylan Crews hits a three-run home run to left field in the top of the 5th inning to make it 8-1 Marlins
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/08/98e838a8-854246f7-a66489d4-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776409_dylan-crews-homers-8-on-a-fly-ball-to-left-field-luis-garcia-jr-score
-clip_id: MLB_776409_dylan-crews-homers-8-on-a-fly-ball-to-left-field-luis-garcia-jr-score_auto1_5p680_12p680
-source_path: raw_sources\MLB_776409_dylan-crews-homers-8-on-a-fly-ball-to-left-field-luis-garcia-jr-score_Dylan_Crews_three-run_homer_8_Dylan_Crews_three-run_homer_8_Dylan_Crews_three-run_homer_8.mp4
-clip_start_time: 5.680
-clip_end_time: 12.680

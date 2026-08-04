@@ -1,7 +1,0 @@
-video_title: Vinnie Pasquantino's sacrifice fly Vinnie Pasquantino's sacrifice fly Vinnie Pasquantino's sacrifice fly Vinnie Pasquantino lifts a fly ball to left field that allows Maikel Garcia to score, extending the Royals' lead to 5-3 in the 8th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/10/144b1956-b628a0cf-66c181be-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_745155_vinnie-pasquantino-out-on-a-sacrifice-fly-to-left-fielder-brendan-don
-clip_id: MLB_745155_vinnie-pasquantino-out-on-a-sacrifice-fly-to-left-fielder-brendan-don_auto1_7p020_14p020
-source_path: raw_sources\MLB_745155_vinnie-pasquantino-out-on-a-sacrifice-fly-to-left-fielder-brendan-don_Vinnie_Pasquantino_s_sacrifice_fly_Vinnie_Pasquantino_s_sacrifice_fly_Vinnie_Pasquantino_.mp4
-clip_start_time: 7.020
-clip_end_time: 14.020

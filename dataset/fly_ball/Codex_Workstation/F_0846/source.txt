@@ -1,7 +1,0 @@
-video_title: Craig Counsell on Dansby Swanson, Cubs' 6th inning Craig Counsell on Dansby Swanson, Cubs' 6th inning Craig Counsell on Dansby Swanson, Cubs' 6th inning Craig Counsell discusses the Cubs' 11-5 win, Dansby Swanson setting the tone with his home run, the 6th inning, Javier Assad and more
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/05/11baaca9-f5dd700c-e0bde2dc-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776455_craig-counsell-on-dansby-swanson-cubs-6th-inning
-clip_id: MLB_776455_craig-counsell-on-dansby-swanson-cubs-6th-inning_auto1_0p140_7p140
-source_path: raw_sources\MLB_776455_craig-counsell-on-dansby-swanson-cubs-6th-inning_Craig_Counsell_on_Dansby_Swanson_Cubs_6th_inning_Craig_Counsell_on_Dansby_Swanson_Cubs_6th_inning_Craig_Counse.mp4
-clip_start_time: 0.140
-clip_end_time: 7.140

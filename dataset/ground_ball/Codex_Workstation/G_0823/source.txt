@@ -1,7 +1,0 @@
-video_title: Vladimir Guerrero Jr. singles in the 9th Vladimir Guerrero Jr. singles in the 9th Vladimir Guerrero Jr. singles in the 9th Vladimir Guerrero Jr. hits a soft grounder for an infield single in the top of the 9th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/01/fb9bdb80-e42bd8c2-2ebc71cf-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_776503_emilio-pagan-in-play-no-out-to-vladimir-guerrero-jr
-clip_id: MLB_776503_emilio-pagan-in-play-no-out-to-vladimir-guerrero-jr_auto1_4p740_10p740
-source_path: raw_sources\MLB_776503_emilio-pagan-in-play-no-out-to-vladimir-guerrero-jr_Vladimir_Guerrero_Jr._singles_in_the_9th_Vladimir_Guerrero_Jr._singles_in_the_9th_Vladimir_Guerrero_Jr._sin.mp4
-clip_start_time: 4.740
-clip_end_time: 10.740

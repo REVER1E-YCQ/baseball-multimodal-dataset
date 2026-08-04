@@ -1,7 +1,0 @@
-video_title: Guardians turn a stunning double play Guardians turn a stunning double play Guardians turn a stunning double play Gabriel Arias makes a dazzling overhead catch on a fly ball to shallow right field before throwing to first base, completing an impressive double play in the 6th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/11/146133fb-8a16a55a-afe2b10f-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_778375_tim-herrin-in-play-out-s-to-michael-massey-jxbqm0
-clip_id: MLB_778375_tim-herrin-in-play-out-s-to-michael-massey-jxbqm0_auto1_7p400_14p400
-source_path: raw_sources\MLB_778375_tim-herrin-in-play-out-s-to-michael-massey-jxbqm0_Guardians_turn_a_stunning_double_play_Guardians_turn_a_stunning_double_play_Guardians_turn_a_stunning_double_.mp4
-clip_start_time: 7.400
-clip_end_time: 14.400

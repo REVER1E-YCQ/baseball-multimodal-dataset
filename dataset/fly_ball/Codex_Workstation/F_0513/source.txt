@@ -1,7 +1,0 @@
-video_title: Joe Ross secures the Phillies' win Joe Ross secures the Phillies' win Joe Ross secures the Phillies' win Nick Castellanos catches Kyle Manzardo's line drive to end the game and secure a 7-1 victory for the Phillies
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/10/70b02ab5-71485f04-ebf965c7-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_777983_kyle-manzardo-lines-out-sharply-to-right-fielder-nick-castellanos
-clip_id: MLB_777983_kyle-manzardo-lines-out-sharply-to-right-fielder-nick-castellanos_auto1_3p180_10p180
-source_path: raw_sources\MLB_777983_kyle-manzardo-lines-out-sharply-to-right-fielder-nick-castellanos_Joe_Ross_secures_the_Phillies_win_Joe_Ross_secures_the_Phillies_win_Joe_Ross_secures_the_Phil.mp4
-clip_start_time: 3.180
-clip_end_time: 10.180

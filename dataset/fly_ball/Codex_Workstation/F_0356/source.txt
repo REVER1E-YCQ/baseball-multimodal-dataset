@@ -1,7 +1,0 @@
-video_title: Orlando Arcia's smooth basket catch Orlando Arcia's smooth basket catch Orlando Arcia's smooth basket catch Orlando Arcia tracks Daniel Schneemann's fly ball down the left-field line and reaches out to make a nice basket catch in foul territory
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/29/761b808b-a645a658-1d7f85d9-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776951_tanner-gordon-in-play-out-s-to-daniel-schneemann
-clip_id: MLB_776951_tanner-gordon-in-play-out-s-to-daniel-schneemann_auto1_7p060_14p060
-source_path: raw_sources\MLB_776951_tanner-gordon-in-play-out-s-to-daniel-schneemann_Orlando_Arcia_s_smooth_basket_catch_Orlando_Arcia_s_smooth_basket_catch_Orlando_Arcia_s_smooth_basket_catch_Or.mp4
-clip_start_time: 7.060
-clip_end_time: 14.060

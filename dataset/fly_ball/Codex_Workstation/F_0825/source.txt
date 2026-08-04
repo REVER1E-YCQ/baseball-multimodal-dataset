@@ -1,7 +1,0 @@
-video_title: Rob Thomson on Kyle Schwarber reaching 50 homers Rob Thomson on Kyle Schwarber reaching 50 homers Rob Thomson on Kyle Schwarber reaching 50 homers Rob Thomson discusses Kyle Schwarber reaching 50 homers in the win over the Mets, Ranger Suárez's fantastic outing and more
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/09/05394e66-e3d74364-30d58b84-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776404_rob-thomson-on-kyle-schwarber-reaching-50-homers
-clip_id: MLB_776404_rob-thomson-on-kyle-schwarber-reaching-50-homers_auto1_0p080_7p080
-source_path: raw_sources\MLB_776404_rob-thomson-on-kyle-schwarber-reaching-50-homers_Rob_Thomson_on_Kyle_Schwarber_reaching_50_homers_Rob_Thomson_on_Kyle_Schwarber_reaching_50_homers_Rob_Thomson_.mp4
-clip_start_time: 0.080
-clip_end_time: 7.080

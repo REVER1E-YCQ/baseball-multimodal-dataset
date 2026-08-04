@@ -1,7 +1,0 @@
-video_title: Tomoyuki Sugano leaves the game with injury Tomoyuki Sugano leaves the game with injury Tomoyuki Sugano leaves the game with injury Tomoyuki Sugano leaves the game with right foot discomfort after a ground ball deflects off his foot in the top of the 4th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/07/00e654a5-dfb61ad6-2d4a6013-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776427_tomoyuki-sugano-in-play-no-out-to-hyeseong-kim
-clip_id: MLB_776427_tomoyuki-sugano-in-play-no-out-to-hyeseong-kim_auto1_0p260_6p260
-source_path: raw_sources\MLB_776427_tomoyuki-sugano-in-play-no-out-to-hyeseong-kim_Tomoyuki_Sugano_leaves_the_game_with_injury_Tomoyuki_Sugano_leaves_the_game_with_injury_Tomoyuki_Sugano_leaves_t.mp4
-clip_start_time: 0.260
-clip_end_time: 6.260

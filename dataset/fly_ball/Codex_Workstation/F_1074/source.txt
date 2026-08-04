@@ -1,7 +1,0 @@
-video_title: Joey Bart's four-hit, three-RBI game Joey Bart's four-hit, three-RBI game Joey Bart's four-hit, three-RBI game Joey Bart notches four hits, including a three-run home run during the Pirates' big 11-0 win over the Athletics
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/21/d3a9dd53-de26a026-34850b5d-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776234_joey-bart-s-four-hit-three-rbi-game
-clip_id: MLB_776234_joey-bart-s-four-hit-three-rbi-game_auto1_1p500_8p500
-source_path: raw_sources\MLB_776234_joey-bart-s-four-hit-three-rbi-game_Joey_Bart_s_four-hit_three-RBI_game_Joey_Bart_s_four-hit_three-RBI_game_Joey_Bart_s_four-hit_three-RBI_game_Joey_Bart_notch.mp4
-clip_start_time: 1.500
-clip_end_time: 8.500

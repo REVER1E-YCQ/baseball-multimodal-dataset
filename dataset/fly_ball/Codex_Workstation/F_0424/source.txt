@@ -1,7 +1,0 @@
-video_title: Isiah Kiner-Falefa, Spencer Horwitz combine for DP Isiah Kiner-Falefa, Spencer Horwitz combine for DP Isiah Kiner-Falefa, Spencer Horowitz combine for DP Isiah Kiner-Falefa catches the line drive and throws it to Spencer Horwitz to end the inning with a double play
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/01/3cbc6f68-9a0aa56e-f650d145-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_777288_paul-skenes-in-play-out-s-to-alec-burleson-nejm03
-clip_id: MLB_777288_paul-skenes-in-play-out-s-to-alec-burleson-nejm03_auto1_7p000_14p000
-source_path: raw_sources\MLB_777288_paul-skenes-in-play-out-s-to-alec-burleson-nejm03_Isiah_Kiner-Falefa_Spencer_Horwitz_combine_for_DP_Isiah_Kiner-Falefa_Spencer_Horwitz_combine_for_DP_Isiah_Kin.mp4
-clip_start_time: 7.000
-clip_end_time: 14.000

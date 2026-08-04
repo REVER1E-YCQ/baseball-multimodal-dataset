@@ -1,7 +1,0 @@
-video_title: José Ramírez plates Steven Kwan with a groundout José Ramírez plates Steven Kwan with a groundout José Ramírez plates Steven Kwan with a groundout José Ramírez rips an RBI groundout to 3rd base, scoring Steven Kwan and giving the Guardians a 2-0 lead in the 3rd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/31/e1e0320f-3099b969-e1865a46-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_746635_patrick-corbin-in-play-run-s-to-jose-ramirez
-clip_id: MLB_746635_patrick-corbin-in-play-run-s-to-jose-ramirez_auto1_2p800_8p800
-source_path: raw_sources\MLB_746635_patrick-corbin-in-play-run-s-to-jose-ramirez_Jos_Ram_rez_plates_Steven_Kwan_with_a_groundout_Jos_Ram_rez_plates_Steven_Kwan_w.mp4
-clip_start_time: 2.800
-clip_end_time: 8.800

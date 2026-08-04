@@ -1,7 +1,0 @@
-video_title: Colton Cowser's 425-foot two-run home run (16) Colton Cowser's 425-foot two-run home run (16) Colton Cowser's 425-foot two-run home run (16) Colton Cowser drills a two-run home run 425 feet to center field, plating Samuel Basallo and giving the Orioles a 6-0 lead in the bottom of the 6th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/23/8298c880-6742009f-e0b36ddd-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776223_colton-cowser-homers-16-on-a-fly-ball-to-center-field-samuel-basallo-
-clip_id: MLB_776223_colton-cowser-homers-16-on-a-fly-ball-to-center-field-samuel-basallo-_auto1_2p420_9p420
-source_path: raw_sources\MLB_776223_colton-cowser-homers-16-on-a-fly-ball-to-center-field-samuel-basallo-_Colton_Cowser_s_425-foot_two-run_home_run_16_Colton_Cowser_s_425-foot_two-run_home_run_16.mp4
-clip_start_time: 2.420
-clip_end_time: 9.420

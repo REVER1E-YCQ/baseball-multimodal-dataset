@@ -1,7 +1,0 @@
-video_title: Justin Turner's diving stop Justin Turner's diving stop Justin Turner's diving stop Justin Turner makes a diving stop on Will Smith's grounder up the first-base line and flips it to first in time for the out, preventing a run from scoring
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/22/74568a61-40436235-d4dbc46d-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_778220_porter-hodge-in-play-out-s-to-will-smith-7304yq
-clip_id: MLB_778220_porter-hodge-in-play-out-s-to-will-smith-7304yq_auto1_5p400_11p400
-source_path: raw_sources\MLB_778220_porter-hodge-in-play-out-s-to-will-smith-7304yq_Justin_Turner_s_diving_stop_Justin_Turner_s_diving_stop_Justin_Turner_s_diving_stop_Justin_Turner_makes_a_divin.mp4
-clip_start_time: 5.400
-clip_end_time: 11.400

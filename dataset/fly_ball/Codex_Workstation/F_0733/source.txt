@@ -1,7 +1,0 @@
-video_title: Manny Machado's two-run home run (22) Manny Machado's two-run home run (22) Manny Machado's two-run home run (22) Manny Machado hits a two-run home run to left field to cut the Padres' deficit to 7-2 in the 6th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/03/078257ce-c9c8ba2d-7a0ece29-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776465_manny-machado-homers-22-on-a-fly-ball-to-left-field-luis-arraez-score
-clip_id: MLB_776465_manny-machado-homers-22-on-a-fly-ball-to-left-field-luis-arraez-score_auto1_3p440_10p440
-source_path: raw_sources\MLB_776465_manny-machado-homers-22-on-a-fly-ball-to-left-field-luis-arraez-score_Manny_Machado_s_two-run_home_run_22_Manny_Machado_s_two-run_home_run_22_Manny_Machado_s_t.mp4
-clip_start_time: 3.440
-clip_end_time: 10.440

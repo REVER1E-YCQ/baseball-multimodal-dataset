@@ -1,7 +1,0 @@
-video_title: Alexis Díaz secures the win Alexis Díaz secures the win Alexis Díaz secures the win Alexis Díaz locks down the victory in the bottom of the 9th inning after José Ramírez pops out to Jonathan India
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/12/fb42dc12-14fc7bf9-070eec8e-csvm-diamondx64-asset-4000K.mp4
-source_id: MLB_746701_jose-ramirez-pops-out-to-second-baseman-jonathan-india-g5hvht
-clip_id: MLB_746701_jose-ramirez-pops-out-to-second-baseman-jonathan-india-g5hvht_auto1_6p160_13p160
-source_path: raw_sources\MLB_746701_jose-ramirez-pops-out-to-second-baseman-jonathan-india-g5hvht_Alexis_D_az_secures_the_win_Alexis_D_az_secures_the_win_Alexis_D_az_secures_the_.mp4
-clip_start_time: 6.160
-clip_end_time: 13.160

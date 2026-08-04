@@ -1,7 +1,0 @@
-video_title: Cole Young walks it off in extra innings Cole Young walks it off in extra innings Cole Young walks it off in extra innings Cole Young hits a line drive down the right field line to win it for the Mariners in the 11th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/19/ef476879-68d3ccdb-6eaaccdc-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_777086_hector-neris-in-play-run-s-to-cole-young-ijeoq9
-clip_id: MLB_777086_hector-neris-in-play-run-s-to-cole-young-ijeoq9_auto1_5p840_12p840
-source_path: raw_sources\MLB_777086_hector-neris-in-play-run-s-to-cole-young-ijeoq9_Cole_Young_walks_it_off_in_extra_innings_Cole_Young_walks_it_off_in_extra_innings_Cole_Young_walks_it_off_in_ex.mp4
-clip_start_time: 5.840
-clip_end_time: 12.840

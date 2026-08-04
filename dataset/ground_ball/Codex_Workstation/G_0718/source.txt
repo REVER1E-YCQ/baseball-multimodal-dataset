@@ -1,7 +1,0 @@
-video_title: Yandy Díaz's RBI single  Yandy Díaz's RBI single  Yandy Díaz's RBI single  Yandy Díaz hits a ground ball off Max Meyer's leg and into left field, scoring Chandler Simpson and tying the game at 1 in the 3rd
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/16/8b209925-7e2f5b0a-cd49f58f-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_777903_max-meyer-in-play-run-s-to-yandy-diaz
-clip_id: MLB_777903_max-meyer-in-play-run-s-to-yandy-diaz_auto1_19p460_25p460
-source_path: raw_sources\MLB_777903_max-meyer-in-play-run-s-to-yandy-diaz_Yandy_D_az_s_RBI_single_Yandy_D_az_s_RBI_single_Yandy_D_az_s_RBI_single_Yandy_D_az_hits_a_ground_ball_off_Max_Meyer_s_leg.mp4
-clip_start_time: 19.460
-clip_end_time: 25.460

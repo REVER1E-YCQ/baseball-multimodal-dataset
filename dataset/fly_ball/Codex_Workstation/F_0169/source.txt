@@ -1,7 +1,0 @@
-video_title: Jesse Winker's solo home run (6) Jesse Winker's solo home run (6) Jesse Winker's solo home run (6) Jesse Winker homers on a fly ball to center field, extending the Nationals' lead to 3-1 in the bottom of the 4th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/20/60c2c8f3-74f724a1-246ef92c-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_744857_jesse-winker-homers-6-on-a-fly-ball-to-center-field-sfq5uf
-clip_id: MLB_744857_jesse-winker-homers-6-on-a-fly-ball-to-center-field-sfq5uf_auto1_5p580_12p580
-source_path: raw_sources\MLB_744857_jesse-winker-homers-6-on-a-fly-ball-to-center-field-sfq5uf_Jesse_Winker_s_solo_home_run_6_Jesse_Winker_s_solo_home_run_6_Jesse_Winker_s_sol.mp4
-clip_start_time: 5.580
-clip_end_time: 12.580

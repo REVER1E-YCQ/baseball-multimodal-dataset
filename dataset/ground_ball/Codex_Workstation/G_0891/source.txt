@@ -1,7 +1,0 @@
-video_title: Matt Chapman's sweet backhanded play Matt Chapman's sweet backhanded play Matt Chapman's sweet backhanded play Matt Chapman corrals a sharp ground ball on his backhand and rips a long throw to nab Jared Triolo at first in the 7th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/06/4c2bd5cf-5cd40c83-a51bf70d-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776844_jose-butto-in-play-out-s-to-jared-triolo
-clip_id: MLB_776844_jose-butto-in-play-out-s-to-jared-triolo_auto1_17p840_23p840
-source_path: raw_sources\MLB_776844_jose-butto-in-play-out-s-to-jared-triolo_Matt_Chapman_s_sweet_backhanded_play_Matt_Chapman_s_sweet_backhanded_play_Matt_Chapman_s_sweet_backhanded_play_Matt_Ch.mp4
-clip_start_time: 17.840
-clip_end_time: 23.840

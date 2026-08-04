@@ -1,7 +1,0 @@
-video_title: Byron Buxton's RBI triple  Byron Buxton's RBI triple  Byron Buxton's RBI triple  Byron Buxton hits an RBI triple on a sharp line drive to center field, cutting the Twins' deficit to 4-1
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/13/3c62ab9d-411b0212-c31aba8b-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_745892_mitch-spence-in-play-run-s-to-byron-buxton
-clip_id: MLB_745892_mitch-spence-in-play-run-s-to-byron-buxton_auto1_15p360_22p360
-source_path: raw_sources\MLB_745892_mitch-spence-in-play-run-s-to-byron-buxton_Byron_Buxton_s_RBI_triple_Byron_Buxton_s_RBI_triple_Byron_Buxton_s_RBI_triple_By.mp4
-clip_start_time: 15.360
-clip_end_time: 22.360

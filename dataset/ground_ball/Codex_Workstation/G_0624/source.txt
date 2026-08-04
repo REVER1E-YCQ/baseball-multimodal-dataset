@@ -1,7 +1,0 @@
-video_title: Joey Loperfido's RBI groundout Joey Loperfido's RBI groundout Joey Loperfido's RBI groundout
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/15/c6a6deec-8d471784-d006b6d1-csvm-diamondx64-asset-4000K.mp4
-source_id: MLB_746370_kirby-yates-in-play-run-s-to-joey-loperfido
-clip_id: MLB_746370_kirby-yates-in-play-run-s-to-joey-loperfido_auto1_0p000_6p000
-source_path: raw_sources\MLB_746370_kirby-yates-in-play-run-s-to-joey-loperfido_Joey_Loperfido_s_RBI_groundout_Joey_Loperfido_s_RBI_groundout_Joey_Loperfido_s_RBI_groundout.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

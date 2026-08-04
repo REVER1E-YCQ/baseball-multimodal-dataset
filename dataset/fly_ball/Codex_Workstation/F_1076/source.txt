@@ -1,7 +1,0 @@
-video_title: Ha-Seong Kim's sacrifice fly Ha-Seong Kim's sacrifice fly Ha-Seong Kim's sacrifice fly Ha-Seong Kim lifts a sacrifice fly to left field in the 9th inning against the Tigers
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/21/86426da4-f7aaadf3-943183da-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776238_ha-seong-kim-s-sacrifice-fly-x1005
-clip_id: MLB_776238_ha-seong-kim-s-sacrifice-fly-x1005_auto1_6p060_13p060
-source_path: raw_sources\MLB_776238_ha-seong-kim-s-sacrifice-fly-x1005_Ha-Seong_Kim_s_sacrifice_fly_Ha-Seong_Kim_s_sacrifice_fly_Ha-Seong_Kim_s_sacrifice_fly_Ha-Seong_Kim_lifts_a_sacrifice_fly_to.mp4
-clip_start_time: 6.060
-clip_end_time: 13.060

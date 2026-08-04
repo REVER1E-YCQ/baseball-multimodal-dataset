@@ -1,7 +1,0 @@
-video_title: Josh Jung's stellar snag Josh Jung's stellar snag Josh Jung's stellar snag Josh Jung flashes the leather and snags this line drive 98 mph off the bat of Tyler Soderstrom
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/22/1c8a0fc3-aae9127a-5bf15fdc-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_777043_tyler-soderstrom-lines-out-to-third-baseman-josh-jung
-clip_id: MLB_777043_tyler-soderstrom-lines-out-to-third-baseman-josh-jung_auto1_3p880_10p880
-source_path: raw_sources\MLB_777043_tyler-soderstrom-lines-out-to-third-baseman-josh-jung_Josh_Jung_s_stellar_snag_Josh_Jung_s_stellar_snag_Josh_Jung_s_stellar_snag_Josh_Jung_flashes_the_leather_.mp4
-clip_start_time: 3.880
-clip_end_time: 10.880

@@ -1,7 +1,0 @@
-video_title: Dodgers score a run on a double play Dodgers score a run on a double play Dodgers score a run on a double play Dodgers score their first run of the night after Mookie Betts grounds into a double play with the bases loaded
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/01/bb267d03-6d8605f5-1bc30c7f-csvm-diamondx64-asset-4000K.mp4
-source_id: MLB_746140_mookie-betts-grounds-into-a-double-play-shortstop-ezequiel-tovar-to-s
-clip_id: MLB_746140_mookie-betts-grounds-into-a-double-play-shortstop-ezequiel-tovar-to-s_auto1_4p640_10p640
-source_path: raw_sources\MLB_746140_mookie-betts-grounds-into-a-double-play-shortstop-ezequiel-tovar-to-s_Dodgers_score_a_run_on_a_double_play_Dodgers_score_a_run_on_a_double_play_Dodger.mp4
-clip_start_time: 4.640
-clip_end_time: 10.640

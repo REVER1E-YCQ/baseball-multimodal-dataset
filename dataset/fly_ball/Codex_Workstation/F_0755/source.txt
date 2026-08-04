@@ -1,7 +1,0 @@
-video_title: Andrés Chaparro's sac fly Andrés Chaparro's sac fly Andrés Chaparro's sac fly Andrés Chaparro scores Daylen Lile with a sacrifice fly in the bottom of the 2nd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/01/4e6f5819-0e477e9b-310e8a8b-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_776498_lake-bachar-in-play-run-s-to-andres-chaparro
-clip_id: MLB_776498_lake-bachar-in-play-run-s-to-andres-chaparro_auto1_1p420_8p420
-source_path: raw_sources\MLB_776498_lake-bachar-in-play-run-s-to-andres-chaparro_Andr_s_Chaparro_s_sac_fly_Andr_s_Chaparro_s_sac_fly_Andr_s_Chaparro_s_sac_fly_Andr_s_Chaparro_scores_Daylen_Lile_w.mp4
-clip_start_time: 1.420
-clip_end_time: 8.420

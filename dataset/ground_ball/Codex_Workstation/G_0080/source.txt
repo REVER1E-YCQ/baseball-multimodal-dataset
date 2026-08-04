@@ -1,7 +1,0 @@
-video_title: Hyeseong Kim's RBI single Hyeseong Kim's RBI single Hyeseong Kim's RBI single Hyeseong Kim singles on a ground ball to right field, extending the Dodgers' lead to 2-0 in the 2nd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/03/a4d31a85-899a3d35-15674ead-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_823065_hyeseong-kim-singles-on-a-ground-ball-to-right-fielder-jordan-walker-
-clip_id: MLB_823065_hyeseong-kim-singles-on-a-ground-ball-to-right-fielder-jordan-walker-_head_0p000_6p000
-source_path: raw_sources\MLB_823065_hyeseong-kim-singles-on-a-ground-ball-to-right-fielder-jordan-walker-_Hyeseong_Kim_s_RBI_single_Hyeseong_Kim_s_RBI_single_Hyeseong_Kim_s_RBI_single_Hy.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

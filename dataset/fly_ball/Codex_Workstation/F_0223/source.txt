@@ -1,7 +1,0 @@
-video_title: Josh Lowe goes deep (3) Josh Lowe goes deep (3) Josh Lowe goes deep (3) Josh Lowe homers on a fly ball to center field, giving the Rays a 6-4 lead in the 5th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/18/9ab424ec-f15fe2a3-bca0c338-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_745893_josh-lowe-homers-3-on-a-fly-ball-to-center-field-bdnvzb
-clip_id: MLB_745893_josh-lowe-homers-3-on-a-fly-ball-to-center-field-bdnvzb_auto1_14p120_21p120
-source_path: raw_sources\MLB_745893_josh-lowe-homers-3-on-a-fly-ball-to-center-field-bdnvzb_Josh_Lowe_goes_deep_3_Josh_Lowe_goes_deep_3_Josh_Lowe_goes_deep_3_Josh_Lowe_homers_on_a_fly_ball_to_cen.mp4
-clip_start_time: 14.120
-clip_end_time: 21.120

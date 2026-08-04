@@ -1,7 +1,0 @@
-video_title: Jacob Young's nice running grab Jacob Young's nice running grab Jacob Young's nice running grab Jacob Young shows off his speed and tracks down a fly ball in the right-center field gap, taking away a hit from Brendan Donovan
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/07/e871e1bd-a79bf74b-1667e146-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_744832_brendan-donovan-flies-out-to-center-fielder-jacob-young
-clip_id: MLB_744832_brendan-donovan-flies-out-to-center-fielder-jacob-young_auto1_4p980_11p980
-source_path: raw_sources\MLB_744832_brendan-donovan-flies-out-to-center-fielder-jacob-young_Jacob_Young_s_nice_running_grab_Jacob_Young_s_nice_running_grab_Jacob_Young_s_nice_running_grab_Jacob_Y.mp4
-clip_start_time: 4.980
-clip_end_time: 11.980

@@ -1,7 +1,0 @@
-video_title: Dominic Smith plates Rob Refsnyder with a groundout Dominic Smith plates Rob Refsnyder with a groundout Dominic Smith plates Rob Refsnyder with a groundout
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/06/136216e8-7bedae55-e3673bd5-csvm-diamondx64-asset-4000K.mp4
-source_id: MLB_746784_justin-anderson-in-play-run-s-to-dominic-smith
-clip_id: MLB_746784_justin-anderson-in-play-run-s-to-dominic-smith_auto1_5p040_11p040
-source_path: raw_sources\MLB_746784_justin-anderson-in-play-run-s-to-dominic-smith_Dominic_Smith_plates_Rob_Refsnyder_with_a_groundout_Dominic_Smith_plates_Rob_Ref.mp4
-clip_start_time: 5.040
-clip_end_time: 11.040

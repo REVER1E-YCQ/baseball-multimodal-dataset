@@ -1,7 +1,0 @@
-video_title: Matt Olson belts 443-ft home run vs. Nationals Matt Olson belts 443-ft home run vs. Nationals Matt Olson belts 443-ft home run vs. Nationals Statcast measures the exit velocity and projected distance of Matt Olson's 443-ft. home run vs. the Nationals, his fourth straight game with a homer
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/16/82f4323f-417350f2-cc80770b-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_777825_matt-olson-belts-443-ft-home-run-vs-nationals
-clip_id: MLB_777825_matt-olson-belts-443-ft-home-run-vs-nationals_auto1_1p460_8p460
-source_path: raw_sources\MLB_777825_matt-olson-belts-443-ft-home-run-vs-nationals_Matt_Olson_belts_443-ft_home_run_vs._Nationals_Matt_Olson_belts_443-ft_home_run_vs._Nationals_Matt_Olson_belts_44.mp4
-clip_start_time: 1.460
-clip_end_time: 8.460

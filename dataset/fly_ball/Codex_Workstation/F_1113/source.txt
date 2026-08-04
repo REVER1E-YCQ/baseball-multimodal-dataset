@@ -1,7 +1,0 @@
-video_title: Field View: Carson Kelly's go-ahead home run Field View: Carson Kelly's go-ahead home run Field View: Carson Kelly's go-ahead home run Check out this unique angle of Carson Kelly's solo home run in the bottom of the 5th inning against the Padres
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/30/dc1bf80e-9356dac3-cbf0091a-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_813066_field-view-carson-kelly-s-go-ahead-home-run
-clip_id: MLB_813066_field-view-carson-kelly-s-go-ahead-home-run_auto1_6p700_13p700
-source_path: raw_sources\MLB_813066_field-view-carson-kelly-s-go-ahead-home-run_Field_View_Carson_Kelly_s_go-ahead_home_run_Field_View_Carson_Kelly_s_go-ahead_home_run_Field_View_Carson_Kelly_s_g.mp4
-clip_start_time: 6.700
-clip_end_time: 13.700

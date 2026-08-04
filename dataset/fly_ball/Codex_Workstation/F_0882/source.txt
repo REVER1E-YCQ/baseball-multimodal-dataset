@@ -1,7 +1,0 @@
-video_title: Ben Rice's two-homer game against the Orioles Ben Rice's two-homer game against the Orioles Ben Rice's two-homer game against the Orioles Ben Rice hits a pair of solo home runs, including the game-winning homer in the bottom of the 8th against the Orioles
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/28/96940d8f-f5a5fdbe-6b31ec93-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776140_ben-rice-s-two-homer-game-against-the-orioles
-clip_id: MLB_776140_ben-rice-s-two-homer-game-against-the-orioles_auto1_0p840_7p840
-source_path: raw_sources\MLB_776140_ben-rice-s-two-homer-game-against-the-orioles_Ben_Rice_s_two-homer_game_against_the_Orioles_Ben_Rice_s_two-homer_game_against_the_Orioles_Ben_Rice_s_two-homer_.mp4
-clip_start_time: 0.840
-clip_end_time: 7.840

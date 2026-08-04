@@ -1,7 +1,0 @@
-video_title: Tony Mansolino on Orioles' 4-1 victory Tony Mansolino on Orioles' 4-1 victory Tony Mansolino on Orioles' 4-1 victory Tony Mansolino discusses Kyle Brandish's start and Colin Cowser's massive three-run home run that led to the Orioles' 4-1 win
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/15/b4d4374d-542b454f-c3f5cec4-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776314_tony-mansolino-on-orioles-4-1-victory
-clip_id: MLB_776314_tony-mansolino-on-orioles-4-1-victory_auto1_12p100_19p100
-source_path: raw_sources\MLB_776314_tony-mansolino-on-orioles-4-1-victory_Tony_Mansolino_on_Orioles_4-1_victory_Tony_Mansolino_on_Orioles_4-1_victory_Tony_Mansolino_on_Orioles_4-1_victory_Tony_Ma.mp4
-clip_start_time: 12.100
-clip_end_time: 19.100

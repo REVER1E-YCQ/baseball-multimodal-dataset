@@ -1,7 +1,0 @@
-video_title: Tyler O'Neill's foul ball stands after review Tyler O'Neill's foul ball stands after review Tyler O'Neill's foul ball stands after review Tyler O'Neill hits a towering fly ball which is called foul on the field and the call is upheld after a crew chief review in the 5th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/29/c21961ee-512ebef0-6625f7e9-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776962_eric-lauer-foul-to-tyler-o-neill-ulqz7e
-clip_id: MLB_776962_eric-lauer-foul-to-tyler-o-neill-ulqz7e_auto1_4p060_11p060
-source_path: raw_sources\MLB_776962_eric-lauer-foul-to-tyler-o-neill-ulqz7e_Tyler_O_Neill_s_foul_ball_stands_after_review_Tyler_O_Neill_s_foul_ball_stands_after_review_Tyler_O_Neill_s_foul_ball_s.mp4
-clip_start_time: 4.060
-clip_end_time: 11.060

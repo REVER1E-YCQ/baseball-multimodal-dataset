@@ -1,7 +1,0 @@
-video_title: Jose Altuve's play to first to end top of the 4th Jose Altuve's play to first to end top of the 4th Jose Altuve's play to first to end top of the 4th Jose Altuve fields Jake Burger's ground ball and throws to first, ending the Rangers' threat in the 4th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/16/6690b294-eee0ea87-9ce94ec4-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_824193_kai-wei-teng-in-play-out-s-to-jake-burger
-clip_id: MLB_824193_kai-wei-teng-in-play-out-s-to-jake-burger_head_0p000_6p000
-source_path: raw_sources\MLB_824193_kai-wei-teng-in-play-out-s-to-jake-burger_Jose_Altuve_s_play_to_first_to_end_top_of_the_4th_Jose_Altuve_s_play_to_first_to.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

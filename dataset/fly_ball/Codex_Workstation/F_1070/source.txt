@@ -1,7 +1,0 @@
-video_title: Dylan Crews' solo home run (10) Dylan Crews' solo home run (10) Dylan Crews' solo home run (10) Dylan Crews crushes a solo home run to left field to cut into the Braves' lead in the 4th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/22/70a8d42b-82a886a7-86f20dd8-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776221_chris-sale-in-play-run-s-to-dylan-crews
-clip_id: MLB_776221_chris-sale-in-play-run-s-to-dylan-crews_auto1_5p220_12p220
-source_path: raw_sources\MLB_776221_chris-sale-in-play-run-s-to-dylan-crews_Dylan_Crews_solo_home_run_10_Dylan_Crews_solo_home_run_10_Dylan_Crews_solo_home_run_10_Dylan_Crews_crushes_a_solo_home_.mp4
-clip_start_time: 5.220
-clip_end_time: 12.220

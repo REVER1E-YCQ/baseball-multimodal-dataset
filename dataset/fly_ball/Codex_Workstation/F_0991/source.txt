@@ -1,7 +1,0 @@
-video_title: Spencer Steer's two-homer night Spencer Steer's two-homer night Spencer Steer's two-homer night Spencer Steer hits two home runs, knocking in three runs in the Reds' 7-4 win
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/19/1a44153f-68732b74-6b7cde80-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776267_spencer-steer-s-two-homer-night
-clip_id: MLB_776267_spencer-steer-s-two-homer-night_auto1_1p400_8p400
-source_path: raw_sources\MLB_776267_spencer-steer-s-two-homer-night_Spencer_Steer_s_two-homer_night_Spencer_Steer_s_two-homer_night_Spencer_Steer_s_two-homer_night_Spencer_Steer_hits_two_home_run.mp4
-clip_start_time: 1.400
-clip_end_time: 8.400

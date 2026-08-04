@@ -1,7 +1,0 @@
-video_title: Bryson Stott's amazing diving stop Bryson Stott's amazing diving stop Bryson Stott's amazing diving stop Bryson Stott shows off his range and he gathers the ground ball and makes an excellent throw to first base for the out
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/07/65847d30-c0bebed0-f23575f6-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_823453_tim-mayza-in-play-out-s-to-drew-romo-2zucik
-clip_id: MLB_823453_tim-mayza-in-play-out-s-to-drew-romo-2zucik_head_0p000_6p000
-source_path: raw_sources\MLB_823453_tim-mayza-in-play-out-s-to-drew-romo-2zucik_Bryson_Stott_s_amazing_diving_stop_Bryson_Stott_s_amazing_diving_stop_Bryson_Sto.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

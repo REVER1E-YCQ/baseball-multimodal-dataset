@@ -1,7 +1,0 @@
-video_title: Troy Johnston's slick play Troy Johnston's slick play Troy Johnston's slick play Troy Johnston makes a slick play on a ground ball for the third out of the bottom of the 4th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/08/95c0740e-106538f5-d814dc11-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776834_michael-harris-ii-grounds-out-first-baseman-troy-johnston-to-pitcher-
-clip_id: MLB_776834_michael-harris-ii-grounds-out-first-baseman-troy-johnston-to-pitcher-_auto1_0p560_6p560
-source_path: raw_sources\MLB_776834_michael-harris-ii-grounds-out-first-baseman-troy-johnston-to-pitcher-_Troy_Johnston_s_slick_play_Troy_Johnston_s_slick_play_Troy_Johnston_s_slick_play_Troy_Joh.mp4
-clip_start_time: 0.560
-clip_end_time: 6.560

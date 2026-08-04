@@ -1,7 +1,0 @@
-video_title: Shelby Miller's great throw seals Brewers' win Shelby Miller's great throw seals Brewers' win Shelby Miller's great throw seals Brewers' win Shelby Miller fields Nick Gonzales' grounder and makes a great off-balance throw to first to end the game and seal the Brewers' 10th consecutive win
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/11/c7da0be8-a44f7319-fceda3ca-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776786_nick-gonzales-grounds-out-pitcher-shelby-miller-to-first-baseman-andr
-clip_id: MLB_776786_nick-gonzales-grounds-out-pitcher-shelby-miller-to-first-baseman-andr_auto1_4p660_10p660
-source_path: raw_sources\MLB_776786_nick-gonzales-grounds-out-pitcher-shelby-miller-to-first-baseman-andr_Shelby_Miller_s_great_throw_seals_Brewers_win_Shelby_Miller_s_great_throw_seals_Brewers_w.mp4
-clip_start_time: 4.660
-clip_end_time: 10.660

@@ -1,7 +1,0 @@
-video_title: Jazz Chisholm Jr.'s diving catch Jazz Chisholm Jr.'s diving catch Jazz Chisholm Jr.'s diving catch Jazz Chisholm Jr. lays out in center field to catch a line drive from Bryson Stott in the bottom of the 4th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/30/f94c4e4c-3731b611-d9270303-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_745555_yonny-chirinos-in-play-out-s-to-bryson-stott
-clip_id: MLB_745555_yonny-chirinos-in-play-out-s-to-bryson-stott_auto1_7p160_14p160
-source_path: raw_sources\MLB_745555_yonny-chirinos-in-play-out-s-to-bryson-stott_Jazz_Chisholm_Jr._s_diving_catch_Jazz_Chisholm_Jr._s_diving_catch_Jazz_Chisholm_Jr._s_diving_catch_Jazz_Chisholm_J.mp4
-clip_start_time: 7.160
-clip_end_time: 14.160

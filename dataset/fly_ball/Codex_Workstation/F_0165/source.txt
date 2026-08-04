@@ -1,7 +1,0 @@
-video_title: Bryan Reynolds' solo home run (5) Bryan Reynolds' solo home run (5) Bryan Reynolds' solo home run (5) Bryan Reynolds homers on a fly ball to center field, increasing the Pirates' lead to 8-6 in the 9th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/13/759cb6fb-2dd0aef3-d7d35b5c-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_745991_bryan-reynolds-homers-5-on-a-fly-ball-to-center-field
-clip_id: MLB_745991_bryan-reynolds-homers-5-on-a-fly-ball-to-center-field_auto1_22p079_29p079
-source_path: raw_sources\MLB_745991_bryan-reynolds-homers-5-on-a-fly-ball-to-center-field_Bryan_Reynolds_solo_home_run_5_Bryan_Reynolds_solo_home_run_5_Bryan_Reynolds_sol.mp4
-clip_start_time: 22.079
-clip_end_time: 29.079

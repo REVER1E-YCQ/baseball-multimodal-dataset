@@ -1,7 +1,0 @@
-video_title: Manny Machado's gorgeous long-distance throw Manny Machado's gorgeous long-distance throw Manny Machado's gorgeous long-distance throw Manny Machado fields a ground ball from Masyn Winn in foul territory and delivers a perfect throw across the diamond for the out in the 2nd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/01/6426b6f0-7e8835b2-0318be6d-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776906_masyn-winn-grounds-out-third-baseman-manny-machado-to-first-baseman-l
-clip_id: MLB_776906_masyn-winn-grounds-out-third-baseman-manny-machado-to-first-baseman-l_auto1_3p800_9p800
-source_path: raw_sources\MLB_776906_masyn-winn-grounds-out-third-baseman-manny-machado-to-first-baseman-l_Manny_Machado_s_gorgeous_long-distance_throw_Manny_Machado_s_gorgeous_long-distance_throw.mp4
-clip_start_time: 3.800
-clip_end_time: 9.800

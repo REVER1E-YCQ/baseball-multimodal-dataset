@@ -1,7 +1,0 @@
-video_title: Mickey Moniak's two-run home run (24) Mickey Moniak's two-run home run (24) Mickey Moniak's two-run home run (24) Mickey Moniak brings the Rockies within a pair of runs with a two-run homer in the bottom of the 9th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/18/e2845fd6-387f5893-f4894532-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776270_mickey-moniak-homers-24-on-a-fly-ball-to-center-field-ryan-ritter-sco
-clip_id: MLB_776270_mickey-moniak-homers-24-on-a-fly-ball-to-center-field-ryan-ritter-sco_auto1_9p120_16p120
-source_path: raw_sources\MLB_776270_mickey-moniak-homers-24-on-a-fly-ball-to-center-field-ryan-ritter-sco_Mickey_Moniak_s_two-run_home_run_24_Mickey_Moniak_s_two-run_home_run_24_Mickey_Moniak_s_t.mp4
-clip_start_time: 9.120
-clip_end_time: 16.120

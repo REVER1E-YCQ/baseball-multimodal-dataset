@@ -1,7 +1,0 @@
-video_title: Casey Schmitt's solo homer (11) Casey Schmitt's solo homer (11) Casey Schmitt's solo homer (11) Casey Schmitt hammers a solo home run to left-center field, opening the scoring for the Giants 1-1 in the top of the 3rd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/15/f488dd2b-65413796-25ab9f14-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776309_zac-gallen-in-play-run-s-to-casey-schmitt
-clip_id: MLB_776309_zac-gallen-in-play-run-s-to-casey-schmitt_auto1_5p440_12p440
-source_path: raw_sources\MLB_776309_zac-gallen-in-play-run-s-to-casey-schmitt_Casey_Schmitt_s_solo_homer_11_Casey_Schmitt_s_solo_homer_11_Casey_Schmitt_s_solo_homer_11_Casey_Schmitt_hammers_a_sol.mp4
-clip_start_time: 5.440
-clip_end_time: 12.440

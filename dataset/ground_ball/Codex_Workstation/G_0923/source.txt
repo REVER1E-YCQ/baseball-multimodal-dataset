@@ -1,7 +1,0 @@
-video_title: Byron Buxton's ground ball scores Mickey Gasper Byron Buxton's ground ball scores Mickey Gasper Byron Buxton's ground ball scores Mickey Gasper Byron Buxton's ground ball scores Mickey Gasper, giving the Twins a 2-1 lead in the bottom of the 2nd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/14/076f5a02-903e6931-1410cb21-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_776324_nabil-crismatt-in-play-run-s-to-byron-buxton
-clip_id: MLB_776324_nabil-crismatt-in-play-run-s-to-byron-buxton_auto1_5p580_11p580
-source_path: raw_sources\MLB_776324_nabil-crismatt-in-play-run-s-to-byron-buxton_Byron_Buxton_s_ground_ball_scores_Mickey_Gasper_Byron_Buxton_s_ground_ball_scores_Mickey_Gasper_Byron_Buxton_s_gro.mp4
-clip_start_time: 5.580
-clip_end_time: 11.580

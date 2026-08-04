@@ -1,7 +1,0 @@
-video_title: Jhoan Duran escapes the jam  Jhoan Duran escapes the jam  Jhoan Duran escapes the jam  Jhoan Duran induces a groundout from Shea Langeliers to end the top of the 10th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/14/b9651f25-0fc1bf0a-bb0955a7-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_745892_shea-langeliers-grounds-out-shortstop-carlos-correa-to-first-baseman-
-clip_id: MLB_745892_shea-langeliers-grounds-out-shortstop-carlos-correa-to-first-baseman-_auto1_0p000_6p000
-source_path: raw_sources\MLB_745892_shea-langeliers-grounds-out-shortstop-carlos-correa-to-first-baseman-_Jhoan_Duran_escapes_the_jam_Jhoan_Duran_escapes_the_jam_Jhoan_Duran_escapes_the_.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

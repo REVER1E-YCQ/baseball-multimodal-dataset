@@ -1,7 +1,0 @@
-video_title: Bo Bichette records four-hit game vs. Reds Bo Bichette records four-hit game vs. Reds Bo Bichette records four-hit game vs. Reds Bo Bichette records a four-hit game, including a go-ahead home run in the 9th, against the Reds
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/01/397087a7-de6d5120-da0b28dd-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776503_bo-bichette-records-four-hit-game-vs-reds
-clip_id: MLB_776503_bo-bichette-records-four-hit-game-vs-reds_auto1_3p740_10p740
-source_path: raw_sources\MLB_776503_bo-bichette-records-four-hit-game-vs-reds_Bo_Bichette_records_four-hit_game_vs._Reds_Bo_Bichette_records_four-hit_game_vs._Reds_Bo_Bichette_records_four-hit_ga.mp4
-clip_start_time: 3.740
-clip_end_time: 10.740

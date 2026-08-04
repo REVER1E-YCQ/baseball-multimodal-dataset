@@ -1,7 +1,0 @@
-video_title: Freddie Benavides on Reds' home runs, Brady Singer Freddie Benavides on Reds' home runs, Brady Singer Freddie Benavides on Reds' home runs, Brady Singer Freddie Benavides discusses the Reds' win, the homers from Sal Stewart and Matt McLain, Brady Singer's start, Terry Francona and more
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/06/f313edc6-2d015743-9d723270-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776439_freddie-benavides-on-reds-home-runs-brady-singer
-clip_id: MLB_776439_freddie-benavides-on-reds-home-runs-brady-singer_auto1_2p440_9p440
-source_path: raw_sources\MLB_776439_freddie-benavides-on-reds-home-runs-brady-singer_Freddie_Benavides_on_Reds_home_runs_Brady_Singer_Freddie_Benavides_on_Reds_home_runs_Brady_Singer_Freddie_Bena.mp4
-clip_start_time: 2.440
-clip_end_time: 9.440

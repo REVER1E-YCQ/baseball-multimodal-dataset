@@ -1,7 +1,0 @@
-video_title: Zack Gelof's amazing diving stop Zack Gelof's amazing diving stop Zack Gelof's amazing diving stop Zack Gelof makes a fantastic diving stop on a hard grounder and throws to first to get the out
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/10/37bedb96-0da1996e-c2640681-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776379_trevor-story-grounds-out-second-baseman-zack-gelof-to-first-baseman-n
-clip_id: MLB_776379_trevor-story-grounds-out-second-baseman-zack-gelof-to-first-baseman-n_auto1_3p320_9p320
-source_path: raw_sources\MLB_776379_trevor-story-grounds-out-second-baseman-zack-gelof-to-first-baseman-n_Zack_Gelof_s_amazing_diving_stop_Zack_Gelof_s_amazing_diving_stop_Zack_Gelof_s_amazing_di.mp4
-clip_start_time: 3.320
-clip_end_time: 9.320

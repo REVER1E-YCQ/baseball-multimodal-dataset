@@ -1,7 +1,0 @@
-video_title: Gabriel Arias' twirling play Gabriel Arias' twirling play Gabriel Arias' twirling play Gabriel Arias snags a ground ball and rips a spinning throw to first to retire Adolis García for the first out of the bottom of the 2nd
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/24/a91d663b-4d57ae82-48a4f616-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776611_gavin-williams-in-play-out-s-to-adolis-garcia-fpqdj5
-clip_id: MLB_776611_gavin-williams-in-play-out-s-to-adolis-garcia-fpqdj5_auto1_2p600_8p600
-source_path: raw_sources\MLB_776611_gavin-williams-in-play-out-s-to-adolis-garcia-fpqdj5_Gabriel_Arias_twirling_play_Gabriel_Arias_twirling_play_Gabriel_Arias_twirling_play_Gabriel_Arias_snags_a_.mp4
-clip_start_time: 2.600
-clip_end_time: 8.600

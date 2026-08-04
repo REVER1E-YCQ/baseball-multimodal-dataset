@@ -1,7 +1,0 @@
-video_title: Tyler Mahle's barehanded play Tyler Mahle's barehanded play Tyler Mahle's barehanded play Tyler Mahle snags Pete Crow-Armstrong's grounder with his bare hand and throws to first in time for the out to end the bottom of the 2nd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/10/a0054914-69ed3236-335235df-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_778385_pete-crow-armstrong-grounds-out-softly-pitcher-tyler-mahle-to-first-b
-clip_id: MLB_778385_pete-crow-armstrong-grounds-out-softly-pitcher-tyler-mahle-to-first-b_auto1_4p440_10p440
-source_path: raw_sources\MLB_778385_pete-crow-armstrong-grounds-out-softly-pitcher-tyler-mahle-to-first-b_Tyler_Mahle_s_barehanded_play_Tyler_Mahle_s_barehanded_play_Tyler_Mahle_s_barehanded_play.mp4
-clip_start_time: 4.440
-clip_end_time: 10.440

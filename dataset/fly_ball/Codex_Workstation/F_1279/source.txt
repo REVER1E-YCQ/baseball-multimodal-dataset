@@ -1,7 +1,0 @@
-video_title: Luis Robert Jr. makes a sliding catch Luis Robert Jr. makes a sliding catch Luis Robert Jr. makes a sliding catch Luis Robert Jr. chases down a line drive and slides to make the grab and rob Ryan McMahon of a hit
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/29/f1eed717-6bcbeadc-6e344d16-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_746778_ryan-mcmahon-lines-out-sharply-to-center-fielder-luis-robert-jr
-clip_id: MLB_746778_ryan-mcmahon-lines-out-sharply-to-center-fielder-luis-robert-jr_auto1_5p200_12p200
-source_path: raw_sources\MLB_746778_ryan-mcmahon-lines-out-sharply-to-center-fielder-luis-robert-jr_Luis_Robert_Jr._makes_a_sliding_catch_Luis_Robert_Jr._makes_a_sliding_catch_Luis_Robert_Jr._mak.mp4
-clip_start_time: 5.200
-clip_end_time: 12.200

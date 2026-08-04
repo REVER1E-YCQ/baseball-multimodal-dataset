@@ -1,7 +1,0 @@
-video_title: Anthony Volpe's slick play Anthony Volpe's slick play Anthony Volpe's slick play Anthony Volpe fields a softly hit ground ball on the backhand then makes a strong throw to get the second out of the 1st inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/05/a9a1fb07-194f964a-01d3b8ec-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_778449_marcus-stroman-in-play-out-s-to-bryan-reynolds-rmbxaqss
-clip_id: MLB_778449_marcus-stroman-in-play-out-s-to-bryan-reynolds-rmbxaqss_auto1_5p720_11p720
-source_path: raw_sources\MLB_778449_marcus-stroman-in-play-out-s-to-bryan-reynolds-rmbxaqss_Anthony_Volpe_s_slick_play_Anthony_Volpe_s_slick_play_Anthony_Volpe_s_slick_play.mp4
-clip_start_time: 5.720
-clip_end_time: 11.720

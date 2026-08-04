@@ -1,7 +1,0 @@
-video_title: Isaac Collins and Jackson Chourio avoid collision Isaac Collins and Jackson Chourio avoid collision Isaac Collins and Jackson Chourio avoid collision Isaac Collins narrowly avoids a collision with Jackson Chourio as he reaches out to catch Pete Crow-Armstrong's line drive to left-center field
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/04/fb384b12-a972252b-96ff6550-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_778054_freddy-peralta-in-play-out-s-to-pete-crow-armstrong-loqdho
-clip_id: MLB_778054_freddy-peralta-in-play-out-s-to-pete-crow-armstrong-loqdho_auto1_6p340_13p340
-source_path: raw_sources\MLB_778054_freddy-peralta-in-play-out-s-to-pete-crow-armstrong-loqdho_Isaac_Collins_and_Jackson_Chourio_avoid_collision_Isaac_Collins_and_Jackson_Chourio_avoid_collision_.mp4
-clip_start_time: 6.340
-clip_end_time: 13.340

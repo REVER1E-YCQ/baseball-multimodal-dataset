@@ -1,7 +1,0 @@
-video_title: David Hamilton's go-ahead groundout David Hamilton's go-ahead groundout David Hamilton's go-ahead groundout David Hamilton gives the Red Sox a 5-4 lead in the 12th inning with an RBI groundout
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/04/987fb24d-b812c338-6be3943d-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_746043_matt-andriese-in-play-run-s-to-david-hamilton
-clip_id: MLB_746043_matt-andriese-in-play-run-s-to-david-hamilton_auto1_7p520_13p520
-source_path: raw_sources\MLB_746043_matt-andriese-in-play-run-s-to-david-hamilton_David_Hamilton_s_go-ahead_groundout_David_Hamilton_s_go-ahead_groundout_David_Hamilton_s_go-ahead_groundout_David.mp4
-clip_start_time: 7.520
-clip_end_time: 13.520

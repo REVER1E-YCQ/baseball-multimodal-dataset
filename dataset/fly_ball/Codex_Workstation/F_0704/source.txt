@@ -1,7 +1,0 @@
-video_title: Mark Vientos' 427-foot solo home run (16) Mark Vientos' 427-foot solo home run (16) Mark Vientos' 427-foot solo home run (16) Mark Vientos crushes a solo home run 427 feet to center field, giving the Mets a 4-0 lead in the top of the 3rd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/05/c8326835-d5c37cc8-afc5d807-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776450_mark-vientos-homers-16-on-a-fly-ball-to-center-field
-clip_id: MLB_776450_mark-vientos-homers-16-on-a-fly-ball-to-center-field_auto1_22p680_29p680
-source_path: raw_sources\MLB_776450_mark-vientos-homers-16-on-a-fly-ball-to-center-field_Mark_Vientos_427-foot_solo_home_run_16_Mark_Vientos_427-foot_solo_home_run_16_Mark_Vientos_427-foot_solo_h.mp4
-clip_start_time: 22.680
-clip_end_time: 29.680

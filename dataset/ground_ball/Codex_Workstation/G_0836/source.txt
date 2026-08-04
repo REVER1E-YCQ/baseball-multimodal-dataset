@@ -1,7 +1,0 @@
-video_title: Angel Martínez's RBI infield single Angel Martínez's RBI infield single Angel Martínez's RBI infield single Angel Martínez taps a ground ball to the hole at shortstop to drive in José Ramírez, with the Guardians trailing 4-3 in the bottom of the 8th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/29/aee2f880-6e073281-854bd5d6-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_776547_matt-brash-in-play-run-s-to-angel-martinez
-clip_id: MLB_776547_matt-brash-in-play-run-s-to-angel-martinez_auto1_4p680_10p680
-source_path: raw_sources\MLB_776547_matt-brash-in-play-run-s-to-angel-martinez_Angel_Mart_nez_s_RBI_infield_single_Angel_Mart_nez_s_RBI_infield_single_Angel_Mart_nez_s_RBI_infield_single_Angel_Ma.mp4
-clip_start_time: 4.680
-clip_end_time: 10.680

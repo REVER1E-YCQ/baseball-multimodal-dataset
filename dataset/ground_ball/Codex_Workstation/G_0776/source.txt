@@ -1,7 +1,0 @@
-video_title: Romy Gonzalez's incredible diving stop Romy Gonzalez's incredible diving stop Romy Gonzalez's incredible diving stop Romy Gonzalez lays out at second base to snag a hard-hit grounder from Vladamir Guerrero Jr., quickly throwing to first base for the second out in the 4th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/24/886ed8b4-9cc178e0-b87a466f-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776206_garrett-crochet-in-play-out-s-to-vladimir-guerrero-jr-gjxenp
-clip_id: MLB_776206_garrett-crochet-in-play-out-s-to-vladimir-guerrero-jr-gjxenp_auto1_5p500_11p500
-source_path: raw_sources\MLB_776206_garrett-crochet-in-play-out-s-to-vladimir-guerrero-jr-gjxenp_Romy_Gonzalez_s_incredible_diving_stop_Romy_Gonzalez_s_incredible_diving_stop_Romy_Gonzalez_s_incr.mp4
-clip_start_time: 5.500
-clip_end_time: 11.500

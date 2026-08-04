@@ -1,7 +1,0 @@
-video_title: Jackson Merrill drives in Song on an RBI groundout Jackson Merrill drives in Song on an RBI groundout Jackson Merrill drives in Song on an RBI groundout Jackson Merrill drives in Sung-Mun Song on a ground ball to left, getting the Padres on the board in the 3rd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-07/08/50103eb8-1fd23de5-8a11b519-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_823279_jackson-merrill-s-rbi-ground-out
-clip_id: MLB_823279_jackson-merrill-s-rbi-ground-out_head_0p000_6p000
-source_path: raw_sources\MLB_823279_jackson-merrill-s-rbi-ground-out_Jackson_Merrill_drives_in_Song_on_an_RBI_groundout_Jackson_Merrill_drives_in_Son.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

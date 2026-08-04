@@ -1,7 +1,0 @@
-video_title: Bryce Harper's solo home run (22) Bryce Harper's solo home run (22) Bryce Harper's solo home run (22) Bryce Harper hits a deep fly ball that bounces into the Allegheny River in right-center field for a solo homer to get the Phillies on the board
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/20/527edabb-c0400837-118ae389-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_745478_bryce-harper-homers-22-on-a-fly-ball-to-right-center-field-glgyhr
-clip_id: MLB_745478_bryce-harper-homers-22-on-a-fly-ball-to-right-center-field-glgyhr_auto1_10p720_17p720
-source_path: raw_sources\MLB_745478_bryce-harper-homers-22-on-a-fly-ball-to-right-center-field-glgyhr_Bryce_Harper_s_solo_home_run_22_Bryce_Harper_s_solo_home_run_22_Bryce_Harper_s_solo_home_run_.mp4
-clip_start_time: 10.720
-clip_end_time: 17.720

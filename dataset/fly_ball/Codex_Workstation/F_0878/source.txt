@@ -1,7 +1,0 @@
-video_title: Mike Yastrzemski's solo home run (16) Mike Yastrzemski's solo home run (16) Mike Yastrzemski's solo home run (16) Mike Yastrzemski leads off the top of the 7th inning with a home run to right-center field, increasing the Royals' lead to 5-0
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/28/28530ca2-5e2d8d85-db7e3c4b-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776138_mike-yastrzemski-homers-16-on-a-fly-ball-to-right-center-field-pnkvvh
-clip_id: MLB_776138_mike-yastrzemski-homers-16-on-a-fly-ball-to-right-center-field-pnkvvh_auto1_3p080_10p080
-source_path: raw_sources\MLB_776138_mike-yastrzemski-homers-16-on-a-fly-ball-to-right-center-field-pnkvvh_Mike_Yastrzemski_s_solo_home_run_16_Mike_Yastrzemski_s_solo_home_run_16_Mike_Yastrzemski_.mp4
-clip_start_time: 3.080
-clip_end_time: 10.080

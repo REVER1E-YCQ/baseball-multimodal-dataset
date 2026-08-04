@@ -1,7 +1,0 @@
-video_title: Ronald Acuña Jr.'s solo homer (17) Ronald Acuña Jr.'s solo homer (17) Ronald Acuña Jr.'s solo homer (17) Ronald Acuña Jr. skies a long home run over the left-field fence, extending the Braves' lead 9-3 in the top of the 9th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/15/0013a31a-b6f64d7e-16302743-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776315_ronald-acuna-jr-homers-17-on-a-fly-ball-to-left-field
-clip_id: MLB_776315_ronald-acuna-jr-homers-17-on-a-fly-ball-to-left-field_auto1_6p060_13p060
-source_path: raw_sources\MLB_776315_ronald-acuna-jr-homers-17-on-a-fly-ball-to-left-field_Ronald_Acu_a_Jr._s_solo_homer_17_Ronald_Acu_a_Jr._s_solo_homer_17_Ronald_Acu_a_Jr._s_solo_homer_17_Ronald.mp4
-clip_start_time: 6.060
-clip_end_time: 13.060

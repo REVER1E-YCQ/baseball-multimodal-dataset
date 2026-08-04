@@ -1,7 +1,0 @@
-video_title: Javier Báez's three-run homer (12) Javier Báez's three-run homer (12) Javier Báez's three-run homer (12) Javier Báez hits a three-run home run to left-center field to give the Tigers a 3-1 lead in the top of the 4th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/28/f1edcd6e-f8ea9462-1d2511e4-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776151_javier-baez-homers-12-on-a-fly-ball-to-left-center-field-justyn-henry
-clip_id: MLB_776151_javier-baez-homers-12-on-a-fly-ball-to-left-center-field-justyn-henry_auto1_4p240_11p240
-source_path: raw_sources\MLB_776151_javier-baez-homers-12-on-a-fly-ball-to-left-center-field-justyn-henry_Javier_B_ez_s_three-run_homer_12_Javier_B_ez_s_three-run_homer_12_Javier_B_ez_s_three-run.mp4
-clip_start_time: 4.240
-clip_end_time: 11.240

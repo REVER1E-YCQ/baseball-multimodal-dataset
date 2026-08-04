@@ -1,7 +1,0 @@
-video_title: Spencer Horwitz's solo home run (8) Spencer Horwitz's solo home run (8) Spencer Horwitz's solo home run (8) Spencer Horwitz sends a solo home run to right field, giving the Pirates a 1-0 lead in the top of the 4th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/10/ff72ffeb-7a7ff495-7e8ea7c9-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776387_spencer-horwitz-homers-8-on-a-fly-ball-to-right-field
-clip_id: MLB_776387_spencer-horwitz-homers-8-on-a-fly-ball-to-right-field_auto1_4p400_11p400
-source_path: raw_sources\MLB_776387_spencer-horwitz-homers-8-on-a-fly-ball-to-right-field_Spencer_Horwitz_s_solo_home_run_8_Spencer_Horwitz_s_solo_home_run_8_Spencer_Horwitz_s_solo_home_run_8_Spe.mp4
-clip_start_time: 4.400
-clip_end_time: 11.400

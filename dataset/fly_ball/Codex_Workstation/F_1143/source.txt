@@ -1,7 +1,0 @@
-video_title: Jackson Merrill's RBI single Jackson Merrill's RBI single Jackson Merrill's RBI single Jackson Merrill singles on a line drive to right field, scoring Manny Machado and increasing the Padres' lead to 3-0 in the top of the 6th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/23/0f2ccc88-d56e860b-eea19812-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_744828_jackson-merrill-singles-on-a-line-drive-to-right-fielder-lane-thomas-
-clip_id: MLB_744828_jackson-merrill-singles-on-a-line-drive-to-right-fielder-lane-thomas-_auto1_1p140_8p140
-source_path: raw_sources\MLB_744828_jackson-merrill-singles-on-a-line-drive-to-right-fielder-lane-thomas-_Jackson_Merrill_s_RBI_single_Jackson_Merrill_s_RBI_single_Jackson_Merrill_s_RBI_single_Ja.mp4
-clip_start_time: 1.140
-clip_end_time: 8.140

@@ -1,7 +1,0 @@
-video_title: Jordan Beck's RBI double Jordan Beck's RBI double Jordan Beck's RBI double Jordan Beck drives in a run on a ground ball to right field in the bottom of the 3rd to cut Arizona's lead to one
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/16/89f163c7-ccd43163-9704551e-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776715_ryne-nelson-in-play-run-s-to-jordan-beck
-clip_id: MLB_776715_ryne-nelson-in-play-run-s-to-jordan-beck_auto1_17p240_23p240
-source_path: raw_sources\MLB_776715_ryne-nelson-in-play-run-s-to-jordan-beck_Jordan_Beck_s_RBI_double_Jordan_Beck_s_RBI_double_Jordan_Beck_s_RBI_double_Jordan_Beck_drives_in_a_run_on_a_ground_bal.mp4
-clip_start_time: 17.240
-clip_end_time: 23.240

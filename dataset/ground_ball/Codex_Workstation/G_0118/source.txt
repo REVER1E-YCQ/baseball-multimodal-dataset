@@ -1,7 +1,0 @@
-video_title: Guardians turn two in groundout double play Guardians turn two in groundout double play Guardians turn two in groundout double play The Guardians get two outs to end the side with a 5-4-3 double play in the top of the 4th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/10/b1a8ea59-7f1b2d74-63ae2727-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_824440_gavin-williams-in-play-out-s-to-luke-keaschall-csjndn
-clip_id: MLB_824440_gavin-williams-in-play-out-s-to-luke-keaschall-csjndn_head_0p000_6p000
-source_path: raw_sources\MLB_824440_gavin-williams-in-play-out-s-to-luke-keaschall-csjndn_Guardians_turn_two_in_groundout_double_play_Guardians_turn_two_in_groundout_doub.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

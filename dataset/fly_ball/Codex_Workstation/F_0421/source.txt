@@ -1,7 +1,0 @@
-video_title: Astros complete 4-3 double play Astros complete 4-3 double play Astros complete 4-3 double play Shay Whitcomb catches a line drive and throws to first to complete a 4-3 double play in the bottom of the 6th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/03/5b1f08ff-0dbec512-eaf459f7-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_777264_jordan-weems-in-play-out-s-to-austin-nola
-clip_id: MLB_777264_jordan-weems-in-play-out-s-to-austin-nola_auto1_1p920_8p920
-source_path: raw_sources\MLB_777264_jordan-weems-in-play-out-s-to-austin-nola_Astros_complete_4-3_double_play_Astros_complete_4-3_double_play_Astros_complete_4-3_double_play_Shay_Whitcomb_catches.mp4
-clip_start_time: 1.920
-clip_end_time: 8.920

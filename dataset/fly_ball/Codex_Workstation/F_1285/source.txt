@@ -1,7 +1,0 @@
-video_title: Paul Goldschmidt's double Paul Goldschmidt's double Paul Goldschmidt's double Paul Goldschmidt doubles on a line drive to right field in the 7th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-08/01/db908e1e-7183ad52-c517742a-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_746849_paul-goldschmidt-s-double
-clip_id: MLB_746849_paul-goldschmidt-s-double_auto1_4p600_11p600
-source_path: raw_sources\MLB_746849_paul-goldschmidt-s-double_Paul_Goldschmidt_s_double_Paul_Goldschmidt_s_double_Paul_Goldschmidt_s_double_Paul_Goldschmidt_doubles_on_a_line_drive_to_right_field.mp4
-clip_start_time: 4.600
-clip_end_time: 11.600

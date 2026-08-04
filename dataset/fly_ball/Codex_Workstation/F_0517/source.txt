@@ -1,7 +1,0 @@
-video_title: Corbin Carroll nabs Tyrone Taylor Corbin Carroll nabs Tyrone Taylor Corbin Carroll nabs Tyrone Taylor Corbin Carroll fields a fly ball and delivers a strong throw to the plate, nabbing Tyrone Taylor to keep the Mets off the board
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/05/a933d5b4-5567052d-f0f990f6-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_778039_ryne-nelson-in-play-out-s-to-francisco-lindor-w3xma6
-clip_id: MLB_778039_ryne-nelson-in-play-out-s-to-francisco-lindor-w3xma6_auto1_11p520_18p520
-source_path: raw_sources\MLB_778039_ryne-nelson-in-play-out-s-to-francisco-lindor-w3xma6_Corbin_Carroll_nabs_Tyrone_Taylor_Corbin_Carroll_nabs_Tyrone_Taylor_Corbin_Carroll_nabs_Tyrone_Taylor_Corb.mp4
-clip_start_time: 11.520
-clip_end_time: 18.520

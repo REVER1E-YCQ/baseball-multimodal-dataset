@@ -1,7 +1,0 @@
-video_title: Brooks Baldwin's two-run home run (10)  Brooks Baldwin's two-run home run (10)  Brooks Baldwin's two-run home run (10)  Brooks Baldwin hits a two-run home run to right field, extending the White Sox lead to 4-0 in the 4th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/27/259322d5-8e2ffde4-d168a5e5-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776160_brooks-baldwin-homers-10-on-a-fly-ball-to-right-field-miguel-vargas-s
-clip_id: MLB_776160_brooks-baldwin-homers-10-on-a-fly-ball-to-right-field-miguel-vargas-s_auto1_0p480_7p480
-source_path: raw_sources\MLB_776160_brooks-baldwin-homers-10-on-a-fly-ball-to-right-field-miguel-vargas-s_Brooks_Baldwin_s_two-run_home_run_10_Brooks_Baldwin_s_two-run_home_run_10_Brooks_Baldwin_.mp4
-clip_start_time: 0.480
-clip_end_time: 7.480

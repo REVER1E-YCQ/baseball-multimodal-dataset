@@ -1,7 +1,0 @@
-video_title: Munetaka Murakami scores on groundout Munetaka Murakami scores on groundout Munetaka Murakami scores on groundout
-video_url: https://bdata-producedclips.mlb.com/66bba9a7-ccd2-4943-9f7b-95d95a099cb3.mp4
-source_id: MLB_823220_keaton-winn-in-play-out-s-to-colson-montgomery
-clip_id: MLB_823220_keaton-winn-in-play-out-s-to-colson-montgomery_head_0p000_6p000
-source_path: raw_sources\MLB_823220_keaton-winn-in-play-out-s-to-colson-montgomery_Munetaka_Murakami_scores_on_groundout_Munetaka_Murakami_scores_on_groundout_Mune.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

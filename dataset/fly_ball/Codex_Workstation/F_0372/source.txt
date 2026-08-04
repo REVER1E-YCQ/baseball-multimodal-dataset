@@ -1,7 +1,0 @@
-video_title: Justin Verlander escapes bases-loaded jam  Justin Verlander escapes bases-loaded jam  Justin Verlander escapes bases-loaded jam  Mike Yastrzemski catches Michael Harris II's fly ball in right field to end the first inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/23/2a562c59-8d4c4d7e-c482b659-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_777041_justin-verlander-in-play-out-s-to-michael-harris-ii-ebuiwa
-clip_id: MLB_777041_justin-verlander-in-play-out-s-to-michael-harris-ii-ebuiwa_auto1_6p238_13p238
-source_path: raw_sources\MLB_777041_justin-verlander-in-play-out-s-to-michael-harris-ii-ebuiwa_Justin_Verlander_escapes_bases-loaded_jam_Justin_Verlander_escapes_bases-loaded_jam_Justin_Verlander.mp4
-clip_start_time: 6.238
-clip_end_time: 13.238

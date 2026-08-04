@@ -1,7 +1,0 @@
-video_title: Colson Montgomery's solo homer (16) Colson Montgomery's solo homer (16) Colson Montgomery's solo homer (16) Colson Montgomery homers in his second straight game to give the White Sox an early lead
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/01/60630108-98974f37-6f84954f-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776502_colson-montgomery-homers-16-on-a-fly-ball-to-right-center-field-jtac8
-clip_id: MLB_776502_colson-montgomery-homers-16-on-a-fly-ball-to-right-center-field-jtac8_auto1_3p120_10p120
-source_path: raw_sources\MLB_776502_colson-montgomery-homers-16-on-a-fly-ball-to-right-center-field-jtac8_Colson_Montgomery_s_solo_homer_16_Colson_Montgomery_s_solo_homer_16_Colson_Montgomery_s_s.mp4
-clip_start_time: 3.120
-clip_end_time: 10.120

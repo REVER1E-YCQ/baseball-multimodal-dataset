@@ -1,7 +1,0 @@
-video_title: Yanquiel Fernandez's first career double Yanquiel Fernandez's first career double Yanquiel Fernandez's first career double Yanquiel Fernandez hits a fly ball to left field for his first career double
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/05/96f4a450-639ef93f-662ef109-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_777232_jordan-leasure-in-play-no-out-to-yanquiel-fernandez
-clip_id: MLB_777232_jordan-leasure-in-play-no-out-to-yanquiel-fernandez_auto1_4p280_11p280
-source_path: raw_sources\MLB_777232_jordan-leasure-in-play-no-out-to-yanquiel-fernandez_Yanquiel_Fernandez_s_first_career_double_Yanquiel_Fernandez_s_first_career_double_Yanquiel_Fernandez_s_firs.mp4
-clip_start_time: 4.280
-clip_end_time: 11.280

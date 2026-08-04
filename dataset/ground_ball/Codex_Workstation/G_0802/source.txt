@@ -1,7 +1,0 @@
-video_title: Edmundo Sosa exits with a potential injury  Edmundo Sosa exits with a potential injury  Edmundo Sosa exits with a potential injury  Edmundo Sosa exits the game with a potential leg injury after trying to make a play on a ground ball
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/12/0f1c723a-e6daf0de-ff13cf20-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776354_edmundo-sosa-exits-with-a-potential-injury
-clip_id: MLB_776354_edmundo-sosa-exits-with-a-potential-injury_auto1_10p760_16p760
-source_path: raw_sources\MLB_776354_edmundo-sosa-exits-with-a-potential-injury_Edmundo_Sosa_exits_with_a_potential_injury_Edmundo_Sosa_exits_with_a_potential_injury_Edmundo_Sosa_exits_with_a_pote.mp4
-clip_start_time: 10.760
-clip_end_time: 16.760

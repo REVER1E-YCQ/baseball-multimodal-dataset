@@ -1,7 +1,0 @@
-video_title: Cam Smith's solo home run (9) Cam Smith's solo home run (9) Cam Smith's solo home run (9) Cam Smith crushes a solo home run to left field, cutting the Astros' deficit to 5-3 in the 6th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/14/188e2ca5-9cd0e8c3-8e71af06-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776329_hunter-stratton-in-play-run-s-to-cam-smith
-clip_id: MLB_776329_hunter-stratton-in-play-run-s-to-cam-smith_auto1_9p280_16p280
-source_path: raw_sources\MLB_776329_hunter-stratton-in-play-run-s-to-cam-smith_Cam_Smith_s_solo_home_run_9_Cam_Smith_s_solo_home_run_9_Cam_Smith_s_solo_home_run_9_Cam_Smith_crushes_a_solo_home_ru.mp4
-clip_start_time: 9.280
-clip_end_time: 16.280

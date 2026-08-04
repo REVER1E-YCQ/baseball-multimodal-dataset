@@ -1,7 +1,0 @@
-video_title: Gabriel Arias' solo home run (11) Gabriel Arias' solo home run (11) Gabriel Arias' solo home run (11) Gabriel Arias gives the Guardians the lead with a line-drive solo home run to right-center field in the bottom of the 4th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/16/c4647dde-85f16d2b-d4f9a546-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776303_gabriel-arias-homers-11-on-a-fly-ball-to-right-center-field
-clip_id: MLB_776303_gabriel-arias-homers-11-on-a-fly-ball-to-right-center-field_auto1_0p000_7p000
-source_path: raw_sources\MLB_776303_gabriel-arias-homers-11-on-a-fly-ball-to-right-center-field_Gabriel_Arias_solo_home_run_11_Gabriel_Arias_solo_home_run_11_Gabriel_Arias_solo_home_run_11_Gabrie.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000

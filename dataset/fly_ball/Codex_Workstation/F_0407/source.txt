@@ -1,7 +1,0 @@
-video_title: Carlos Correa's RBI double Carlos Correa's RBI double Carlos Correa's RBI double Carlos Correa doubles on a line drive to right-center field and Ryan Jeffers scores, doubling the Twins' lead to 2-0 in the 1st
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/09/13b12947-3cb59efc-0e9c758c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_777173_cade-horton-in-play-run-s-to-carlos-correa
-clip_id: MLB_777173_cade-horton-in-play-run-s-to-carlos-correa_auto1_3p600_10p600
-source_path: raw_sources\MLB_777173_cade-horton-in-play-run-s-to-carlos-correa_Carlos_Correa_s_RBI_double_Carlos_Correa_s_RBI_double_Carlos_Correa_s_RBI_double_Carlos_Correa_doubles_on_a_line_dri.mp4
-clip_start_time: 3.600
-clip_end_time: 10.600

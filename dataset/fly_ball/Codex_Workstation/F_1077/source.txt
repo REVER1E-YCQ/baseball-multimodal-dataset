@@ -1,7 +1,0 @@
-video_title: Daylen Lile on his go-ahead inside-the-park home run Daylen Lile on his go-ahead inside-the-park home run Daylen Lile on his go-ahead inside-the-park home run Daylen Lile on his go-ahead inside-the-park home run in the 11th inning, participating in such an exciting game, his teammates reaction
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/20/6d181b24-606a5f0f-906f4b08-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776252_daylen-lile-on-his-go-ahead-inside-the-park-home-run
-clip_id: MLB_776252_daylen-lile-on-his-go-ahead-inside-the-park-home-run_auto1_0p000_7p000
-source_path: raw_sources\MLB_776252_daylen-lile-on-his-go-ahead-inside-the-park-home-run_Daylen_Lile_on_his_go-ahead_inside-the-park_home_run_Daylen_Lile_on_his_go-ahead_inside-the-park_home_run_.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000

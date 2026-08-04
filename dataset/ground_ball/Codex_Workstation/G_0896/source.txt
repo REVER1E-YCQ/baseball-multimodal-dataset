@@ -1,7 +1,0 @@
-video_title: Anthony Volpe's double play Anthony Volpe's double play Anthony Volpe's double play Anthony Volpe fields a grounder up the middle and takes it to second himself before throwing to first for a double play in the bottom of the 6th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/05/3be28bfc-a4c342a7-226c1d50-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776855_wyatt-langford-grounds-into-a-double-play-shortstop-anthony-volpe-to-
-clip_id: MLB_776855_wyatt-langford-grounds-into-a-double-play-shortstop-anthony-volpe-to-_auto1_12p060_18p060
-source_path: raw_sources\MLB_776855_wyatt-langford-grounds-into-a-double-play-shortstop-anthony-volpe-to-_Anthony_Volpe_s_double_play_Anthony_Volpe_s_double_play_Anthony_Volpe_s_double_play_Antho.mp4
-clip_start_time: 12.060
-clip_end_time: 18.060

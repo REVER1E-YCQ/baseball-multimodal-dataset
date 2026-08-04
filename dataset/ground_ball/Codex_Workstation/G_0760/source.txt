@@ -1,7 +1,0 @@
-video_title: The Padres turn a double play to end the game The Padres turn a double play to end the game The Padres turn a double play to end the game Mason McCoy cleanly fields a grounder, tosses to Will Wagner for one out, who gets the runner at first for the final outs of the game as the Padres win, 12-4
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/28/f95bb973-fffb934e-981f77c8-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776136_randy-vasquez-in-play-out-s-to-james-mccann
-clip_id: MLB_776136_randy-vasquez-in-play-out-s-to-james-mccann_auto1_5p020_11p020
-source_path: raw_sources\MLB_776136_randy-vasquez-in-play-out-s-to-james-mccann_The_Padres_turn_a_double_play_to_end_the_game_The_Padres_turn_a_double_play_to_end_the_game_The_Padres_turn_a_doubl.mp4
-clip_start_time: 5.020
-clip_end_time: 11.020

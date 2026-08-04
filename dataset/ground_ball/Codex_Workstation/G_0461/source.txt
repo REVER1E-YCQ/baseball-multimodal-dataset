@@ -1,7 +1,0 @@
-video_title: Héctor Neris induces groundout, earns save Héctor Neris induces groundout, earns save Héctor Neris induces groundout, earns save
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/09/8febbca6-ebf81636-dcb9fdcc-csvm-diamondx64-asset-4000K.mp4
-source_id: MLB_746705_santiago-espinal-grounds-out-third-baseman-christopher-morel-to-first
-clip_id: MLB_746705_santiago-espinal-grounds-out-third-baseman-christopher-morel-to-first_auto1_6p051_12p051
-source_path: raw_sources\MLB_746705_santiago-espinal-grounds-out-third-baseman-christopher-morel-to-first_H_ctor_Neris_induces_groundout_earns_save_H_ctor_Neris_induces_groundout_earns_s.mp4
-clip_start_time: 6.051
-clip_end_time: 12.051

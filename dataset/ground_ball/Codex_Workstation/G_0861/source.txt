@@ -1,7 +1,0 @@
-video_title: Yandy Díaz's RBI single Yandy Díaz's RBI single Yandy Díaz's RBI single Yandy Díaz singles on a ground ball to second base, plating Hunter Feduccia to put the Rays on the board
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/17/d1d30817-0a4710ab-a776073d-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_776703_tristan-beck-in-play-no-out-to-yandy-diaz-sfahnk
-clip_id: MLB_776703_tristan-beck-in-play-no-out-to-yandy-diaz-sfahnk_auto1_5p800_11p800
-source_path: raw_sources\MLB_776703_tristan-beck-in-play-no-out-to-yandy-diaz-sfahnk_Yandy_D_az_s_RBI_single_Yandy_D_az_s_RBI_single_Yandy_D_az_s_RBI_single_Yandy_D_az_singles_on_a_ground_ball_to.mp4
-clip_start_time: 5.800
-clip_end_time: 11.800

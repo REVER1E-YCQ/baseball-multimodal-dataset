@@ -1,7 +1,0 @@
-video_title: William Contreras grounds an RBI single into center William Contreras grounds an RBI single into center William Contreras grounds an RBI single into center William Contreras sends a single into center field and Brice Turang scores in the bottom of the 7th inning
-video_url: https://bdata-producedclips.mlb.com/aea9b350-85ff-47b6-b2cb-7dc3f76b1418.mp4
-source_id: MLB_745995_nick-robertson-in-play-run-s-to-william-contreras
-clip_id: MLB_745995_nick-robertson-in-play-run-s-to-william-contreras_auto1_1p340_7p340
-source_path: raw_sources\MLB_745995_nick-robertson-in-play-run-s-to-william-contreras_William_Contreras_grounds_an_RBI_single_into_center_William_Contreras_grounds_an.mp4
-clip_start_time: 1.340
-clip_end_time: 7.340

@@ -1,7 +1,0 @@
-video_title: Shohei Ohtani's double Shohei Ohtani's double Shohei Ohtani's double Shohei Ohtani doubles on a fly ball to left field in the 1st
-video_url: https://bdata-producedclips.mlb.com/b36af0d9-d1ee-4356-b812-5d713aa9e4cd.mp4
-source_id: MLB_746133_joe-mantiply-in-play-no-out-to-shohei-ohtani-okt1f8
-clip_id: MLB_746133_joe-mantiply-in-play-no-out-to-shohei-ohtani-okt1f8_auto1_6p120_13p120
-source_path: raw_sources\MLB_746133_joe-mantiply-in-play-no-out-to-shohei-ohtani-okt1f8_Shohei_Ohtani_s_double_Shohei_Ohtani_s_double_Shohei_Ohtani_s_double_Shohei_Ohtani_doubles_on_a_fly_ball_to.mp4
-clip_start_time: 6.120
-clip_end_time: 13.120

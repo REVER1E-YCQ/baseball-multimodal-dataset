@@ -1,7 +1,0 @@
-video_title: Kyle Schwarber clobbers 112 mph home run Kyle Schwarber clobbers 112 mph home run Kyle Schwarber clobbers 112 mph home run Statcast measures the exit velocity and projected distance of Kyle Schwarber's 112 mph home run against the Marlins
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/23/3b776fa2-c4e70a4c-34c502c5-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776215_kyle-schwarber-clobbers-112-mph-home-run
-clip_id: MLB_776215_kyle-schwarber-clobbers-112-mph-home-run_auto1_3p940_10p940
-source_path: raw_sources\MLB_776215_kyle-schwarber-clobbers-112-mph-home-run_Kyle_Schwarber_clobbers_112_mph_home_run_Kyle_Schwarber_clobbers_112_mph_home_run_Kyle_Schwarber_clobbers_112_mph_home.mp4
-clip_start_time: 3.940
-clip_end_time: 10.940

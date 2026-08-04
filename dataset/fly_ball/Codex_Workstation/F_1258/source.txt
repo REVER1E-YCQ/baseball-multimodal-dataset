@@ -1,7 +1,0 @@
-video_title: Alec Bohm's RBI double Alec Bohm's RBI double Alec Bohm's RBI double Alec Bohm rips a line drive to left field to drive in Bryce Harper, increasing the Phillies' lead to 8-1
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/24/dc9d5940-ea1c0197-31d32ca7-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_746458_mason-englert-in-play-run-s-to-alec-bohm
-clip_id: MLB_746458_mason-englert-in-play-run-s-to-alec-bohm_auto1_5p560_12p560
-source_path: raw_sources\MLB_746458_mason-englert-in-play-run-s-to-alec-bohm_Alec_Bohm_s_RBI_double_Alec_Bohm_s_RBI_double_Alec_Bohm_s_RBI_double_Alec_Bohm_rips_a_line_drive_to_left_field_to_driv.mp4
-clip_start_time: 5.560
-clip_end_time: 12.560

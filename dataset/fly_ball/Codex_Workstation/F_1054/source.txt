@@ -1,7 +1,0 @@
-video_title: Danny Jansen on confidence, late home run, win Danny Jansen on confidence, late home run, win Danny Jansen on confidence, late home run, win Danny Jansen discusses his confidence at the plate, his 9th inning home run, facing a team like the Padres and more after win
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/24/4bddebba-b9f4cc76-17ab1fb6-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776198_danny-jansen-on-confidence-late-home-run-win
-clip_id: MLB_776198_danny-jansen-on-confidence-late-home-run-win_auto1_2p500_9p500
-source_path: raw_sources\MLB_776198_danny-jansen-on-confidence-late-home-run-win_Danny_Jansen_on_confidence_late_home_run_win_Danny_Jansen_on_confidence_late_home_run_win_Danny_Jansen_on_confiden.mp4
-clip_start_time: 2.500
-clip_end_time: 9.500

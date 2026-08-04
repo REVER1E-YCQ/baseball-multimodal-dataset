@@ -1,7 +1,0 @@
-video_title: Max Kepler's sac fly Max Kepler's sac fly Max Kepler's sac fly Max Kepler hits a fly ball to left field deep enough for Nick Castellanos to score from third base to make the score 4-0
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/09/7e52e104-ced67473-4eaaf848-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_777163_justin-verlander-in-play-run-s-to-max-kepler
-clip_id: MLB_777163_justin-verlander-in-play-run-s-to-max-kepler_auto1_7p060_14p060
-source_path: raw_sources\MLB_777163_justin-verlander-in-play-run-s-to-max-kepler_Max_Kepler_s_sac_fly_Max_Kepler_s_sac_fly_Max_Kepler_s_sac_fly_Max_Kepler_hits_a_fly_ball_to_left_field_deep_enoug.mp4
-clip_start_time: 7.060
-clip_end_time: 14.060

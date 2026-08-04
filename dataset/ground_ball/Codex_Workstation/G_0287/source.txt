@@ -1,7 +1,0 @@
-video_title: Pete Alonso singles to center field Pete Alonso singles to center field Pete Alonso singles to center field Pete Alonso singles on a ground ball to center field in the bottom of the first inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/01/3cac9b4f-3a1b054d-4e34d30d-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_824861_pete-alonso-singles-on-a-ground-ball-to-center-fielder-evan-carter
-clip_id: MLB_824861_pete-alonso-singles-on-a-ground-ball-to-center-fielder-evan-carter_auto1_4p660_10p660
-source_path: raw_sources\MLB_824861_pete-alonso-singles-on-a-ground-ball-to-center-fielder-evan-carter_Pete_Alonso_singles_to_center_field_Pete_Alonso_singles_to_center_field_Pete_Alo.mp4
-clip_start_time: 4.660
-clip_end_time: 10.660

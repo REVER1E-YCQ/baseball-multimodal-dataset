@@ -1,7 +1,0 @@
-video_title: Tyler Soderstrom's nice catch Tyler Soderstrom's nice catch Tyler Soderstrom's nice catch Tyler Soderstrom makes a nice catch on a line drive in the top of the 7th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/09/573122bd-97092e2d-509c748d-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_745651_justin-turner-lines-out-to-first-baseman-tyler-soderstrom
-clip_id: MLB_745651_justin-turner-lines-out-to-first-baseman-tyler-soderstrom_auto1_21p140_28p140
-source_path: raw_sources\MLB_745651_justin-turner-lines-out-to-first-baseman-tyler-soderstrom_Tyler_Soderstrom_s_nice_catch_Tyler_Soderstrom_s_nice_catch_Tyler_Soderstrom_s_n.mp4
-clip_start_time: 21.140
-clip_end_time: 28.140

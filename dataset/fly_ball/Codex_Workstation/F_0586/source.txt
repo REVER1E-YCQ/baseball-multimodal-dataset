@@ -1,7 +1,0 @@
-video_title: Adolis García gets the double play  Adolis García gets the double play  Adolis García gets the double play  Adolis García catches a liner and throws to first for a double play to end the inning and keep the score tied at 2 in the bottom of the 6th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/27/67cc4039-fdddd554-13d61d73-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_778151_caleb-boushley-in-play-out-s-to-lamonte-wade-jr
-clip_id: MLB_778151_caleb-boushley-in-play-out-s-to-lamonte-wade-jr_auto1_7p800_14p800
-source_path: raw_sources\MLB_778151_caleb-boushley-in-play-out-s-to-lamonte-wade-jr_Adolis_Garc_a_gets_the_double_play_Adolis_Garc_a_gets_the_double_play_Adolis_Garc_a_gets_the_double_play_Adolis.mp4
-clip_start_time: 7.800
-clip_end_time: 14.800

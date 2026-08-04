@@ -1,7 +1,0 @@
-video_title: Wilmer Flores throws Ketel Marte out at home Wilmer Flores throws Ketel Marte out at home Wilmer Flores throws Ketel Marte out at home Wilmer Flores fields Blaze Alexander's grounder and throws home to cut down Ketel Marte and keep the game tied at 5 in the 7th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/16/8f0564ef-38ea6ebc-179d24cc-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776294_jose-butto-in-play-out-s-to-blaze-alexander
-clip_id: MLB_776294_jose-butto-in-play-out-s-to-blaze-alexander_auto1_5p000_11p000
-source_path: raw_sources\MLB_776294_jose-butto-in-play-out-s-to-blaze-alexander_Wilmer_Flores_throws_Ketel_Marte_out_at_home_Wilmer_Flores_throws_Ketel_Marte_out_at_home_Wilmer_Flores_throws_Kete.mp4
-clip_start_time: 5.000
-clip_end_time: 11.000

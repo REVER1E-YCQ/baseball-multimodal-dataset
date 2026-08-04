@@ -1,7 +1,0 @@
-video_title: Heriberto Hernández's sacrifice fly Heriberto Hernández's sacrifice fly Heriberto Hernández's sacrifice fly Heriberto Hernández skies a sacrifice fly to left field, scoring Xavier Edwards to give the Marlins an early 1-0 lead in the 1st
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/11/f9dbeb72-063190cb-c31d6960-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_776367_mackenzie-gore-in-play-run-s-to-heriberto-hernandez
-clip_id: MLB_776367_mackenzie-gore-in-play-run-s-to-heriberto-hernandez_auto1_10p240_17p240
-source_path: raw_sources\MLB_776367_mackenzie-gore-in-play-run-s-to-heriberto-hernandez_Heriberto_Hern_ndez_s_sacrifice_fly_Heriberto_Hern_ndez_s_sacrifice_fly_Heriberto_Hern_ndez_s_sacrifice_fly.mp4
-clip_start_time: 10.240
-clip_end_time: 17.240

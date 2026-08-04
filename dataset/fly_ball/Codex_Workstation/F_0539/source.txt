@@ -1,7 +1,0 @@
-video_title: Mark Vientos' sweet diving snag Mark Vientos' sweet diving snag Mark Vientos' sweet diving snag Mark Vientos lays out at third base to snag a 100.5 mph line drive, robbing J.T. Realmuto of a hit in the top of the 4th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/23/ce949e68-4c42805f-aa116208-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_778203_david-peterson-in-play-out-s-to-j-t-realmuto-p1mdwt
-clip_id: MLB_778203_david-peterson-in-play-out-s-to-j-t-realmuto-p1mdwt_auto1_1p280_8p280
-source_path: raw_sources\MLB_778203_david-peterson-in-play-out-s-to-j-t-realmuto-p1mdwt_Mark_Vientos_sweet_diving_snag_Mark_Vientos_sweet_diving_snag_Mark_Vientos_sweet_diving_snag_Mark_Vientos_l.mp4
-clip_start_time: 1.280
-clip_end_time: 8.280

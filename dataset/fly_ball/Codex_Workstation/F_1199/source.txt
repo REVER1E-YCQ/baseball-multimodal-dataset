@@ -1,7 +1,0 @@
-video_title: Byron Buxton's leaping catch Byron Buxton's leaping catch Byron Buxton's leaping catch Byron Buxton tracks Brice Turang's fly ball to the right-center-field warning track and leaps into the wall to make a nice catch
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/20/cb866417-dd506bfc-7116f723-csvm-diamondx64-asset-4000K.mp4
-source_id: MLB_745880_pablo-lopez-in-play-out-s-to-brice-turang
-clip_id: MLB_745880_pablo-lopez-in-play-out-s-to-brice-turang_auto1_7p120_14p120
-source_path: raw_sources\MLB_745880_pablo-lopez-in-play-out-s-to-brice-turang_Byron_Buxton_s_leaping_catch_Byron_Buxton_s_leaping_catch_Byron_Buxton_s_leaping_catch_Byron_Buxton_tracks_Brice_Tura.mp4
-clip_start_time: 7.120
-clip_end_time: 14.120

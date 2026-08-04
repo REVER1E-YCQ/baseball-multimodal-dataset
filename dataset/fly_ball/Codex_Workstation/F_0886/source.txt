@@ -1,7 +1,0 @@
-video_title: Miguel Vargas' two-run home run (16) Miguel Vargas' two-run home run (16) Miguel Vargas' two-run home run (16) Miguel Vargas slugs a two-run home run to left-center field to get the White Sox on the board early
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/28/f6a1e7d4-05be3e96-446679b9-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776143_miguel-vargas-homers-16-on-a-fly-ball-to-left-center-field-colson-mon
-clip_id: MLB_776143_miguel-vargas-homers-16-on-a-fly-ball-to-left-center-field-colson-mon_auto1_6p160_13p160
-source_path: raw_sources\MLB_776143_miguel-vargas-homers-16-on-a-fly-ball-to-left-center-field-colson-mon_Miguel_Vargas_two-run_home_run_16_Miguel_Vargas_two-run_home_run_16_Miguel_Vargas_two-run.mp4
-clip_start_time: 6.160
-clip_end_time: 13.160

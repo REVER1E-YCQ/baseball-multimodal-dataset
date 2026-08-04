@@ -1,7 +1,0 @@
-video_title: Marcelo Mayer's leaping catch Marcelo Mayer's leaping catch Marcelo Mayer's leaping catch Marcelo Mayer leaps and reaches out to make a great catch on a hard-hit line drive, recording the first out in the bottom of the 5th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/21/0f44b254-6755bbc4-38be8bcb-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_777063_max-kepler-lines-out-to-second-baseman-marcelo-mayer
-clip_id: MLB_777063_max-kepler-lines-out-to-second-baseman-marcelo-mayer_auto1_0p000_7p000
-source_path: raw_sources\MLB_777063_max-kepler-lines-out-to-second-baseman-marcelo-mayer_Marcelo_Mayer_s_leaping_catch_Marcelo_Mayer_s_leaping_catch_Marcelo_Mayer_s_leaping_catch_Marcelo_Mayer_le.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000

@@ -1,7 +1,0 @@
-video_title: Johan Rojas' inning-ending diving catch Johan Rojas' inning-ending diving catch Johan Rojas makes inning-ending diving catch in 1st Johan Rojas charges a fly ball and lays out to make an inning-ending diving catch in the 1st frame
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-04/08/0c5d5a9f-198a9cf2-84d62e30-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_745194_nolan-gorman-flies-out-to-center-fielder-johan-rojas
-clip_id: MLB_745194_nolan-gorman-flies-out-to-center-fielder-johan-rojas_auto1_5p660_12p660
-source_path: raw_sources\MLB_745194_nolan-gorman-flies-out-to-center-fielder-johan-rojas_Johan_Rojas_inning-ending_diving_catch_Johan_Rojas_inning-ending_diving_catch_Jo.mp4
-clip_start_time: 5.660
-clip_end_time: 12.660

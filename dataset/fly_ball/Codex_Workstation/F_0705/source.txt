@@ -1,7 +1,0 @@
-video_title: Andrew Benintendi's solo homer (18)  Andrew Benintendi's solo homer (18)  Andrew Benintendi's solo homer (18)  Andrew Benintendi launches a solo home run to right-center to give the White Sox a 5-4 lead in the top of the 6th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/05/5f6a55d0-18de9e0b-ca74a19d-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776452_andrew-benintendi-homers-18-on-a-fly-ball-to-right-center-field
-clip_id: MLB_776452_andrew-benintendi-homers-18-on-a-fly-ball-to-right-center-field_auto1_2p320_9p320
-source_path: raw_sources\MLB_776452_andrew-benintendi-homers-18-on-a-fly-ball-to-right-center-field_Andrew_Benintendi_s_solo_homer_18_Andrew_Benintendi_s_solo_homer_18_Andrew_Benintendi_s_solo_ho.mp4
-clip_start_time: 2.320
-clip_end_time: 9.320

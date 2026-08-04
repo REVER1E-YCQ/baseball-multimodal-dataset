@@ -1,7 +1,0 @@
-video_title: Blake Perkins' running catch Blake Perkins' running catch Blake Perkins' running catch Blake Perkins tracks down a fly ball in center field and makes a terrific running catch in the 4th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/26/109fa4e0-4730c850-d14de889-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_745964_freddy-peralta-in-play-out-s-to-xavier-edwards
-clip_id: MLB_745964_freddy-peralta-in-play-out-s-to-xavier-edwards_auto1_16p760_23p760
-source_path: raw_sources\MLB_745964_freddy-peralta-in-play-out-s-to-xavier-edwards_Blake_Perkins_running_catch_Blake_Perkins_running_catch_Blake_Perkins_running_catch_Blake_Perkins_tracks_down_a_.mp4
-clip_start_time: 16.760
-clip_end_time: 23.760

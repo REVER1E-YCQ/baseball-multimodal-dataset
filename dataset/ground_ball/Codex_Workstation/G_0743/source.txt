@@ -1,7 +1,0 @@
-video_title: Ryan McMahon fields deflection for out Ryan McMahon fields deflection for out Ryan McMahon fields deflection for out Ryan McMahon fields a grounder that deflects off of Antonio Senzatela, then spins and throws to first in time to end the 4th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/17/277c78e8-a5701b09-c2cd0c71-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_777480_antonio-senzatela-in-play-out-s-to-keibert-ruiz-tbemkx
-clip_id: MLB_777480_antonio-senzatela-in-play-out-s-to-keibert-ruiz-tbemkx_auto1_6p300_12p300
-source_path: raw_sources\MLB_777480_antonio-senzatela-in-play-out-s-to-keibert-ruiz-tbemkx_Ryan_McMahon_fields_deflection_for_out_Ryan_McMahon_fields_deflection_for_out_Ryan_McMahon_fields_deflec.mp4
-clip_start_time: 6.300
-clip_end_time: 12.300

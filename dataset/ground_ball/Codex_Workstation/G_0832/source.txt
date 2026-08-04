@@ -1,7 +1,0 @@
-video_title: Eduardo Rodriguez turns two to escape the jam Eduardo Rodriguez turns two to escape the jam Eduardo Rodriguez turns two to escape the jam Eduardo Rodriguez fields a grounder back to the mound, tosses to Ildermaro Vargas for one out, who then gets the runner at first to end the 6th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/30/0831e257-bcae7fbd-e8869324-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776523_eduardo-rodriguez-in-play-out-s-to-andy-pages-c8qh7y
-clip_id: MLB_776523_eduardo-rodriguez-in-play-out-s-to-andy-pages-c8qh7y_auto1_2p300_8p300
-source_path: raw_sources\MLB_776523_eduardo-rodriguez-in-play-out-s-to-andy-pages-c8qh7y_Eduardo_Rodriguez_turns_two_to_escape_the_jam_Eduardo_Rodriguez_turns_two_to_escape_the_jam_Eduardo_Rodrig.mp4
-clip_start_time: 2.300
-clip_end_time: 8.300

@@ -1,7 +1,0 @@
-video_title: Bryce Harper's two-run double Bryce Harper's two-run double Bryce Harper's two-run double Bryce Harper sends a sharp line drive to center field, putting the Phillies on the board with a 2-0 lead
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/24/2dceb9de-632e50ab-ed741cce-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_746458_casey-mize-in-play-run-s-to-bryce-harper-jdazhj
-clip_id: MLB_746458_casey-mize-in-play-run-s-to-bryce-harper-jdazhj_auto1_2p700_9p700
-source_path: raw_sources\MLB_746458_casey-mize-in-play-run-s-to-bryce-harper-jdazhj_Bryce_Harper_s_two-run_double_Bryce_Harper_s_two-run_double_Bryce_Harper_s_two-run_double_Bryce_Harper_sends_a_.mp4
-clip_start_time: 2.700
-clip_end_time: 9.700

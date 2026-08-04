@@ -1,7 +1,0 @@
-video_title: Happ and Ballesteros hit back-to-back home runs Happ and Ballesteros hit back-to-back home runs Happ and Ballesteros hit back-to-back home runs Ian Happ hits a two-run homer and Moisés Ballesteros follows it up with a solo home run to extend the Cubs' lead to 4-0 in the 1st inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/17/4d45db40-14d50778-698ca072-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776287_happ-and-ballesteros-hit-back-to-back-home-runs
-clip_id: MLB_776287_happ-and-ballesteros-hit-back-to-back-home-runs_auto1_5p200_12p200
-source_path: raw_sources\MLB_776287_happ-and-ballesteros-hit-back-to-back-home-runs_Happ_and_Ballesteros_hit_back-to-back_home_runs_Happ_and_Ballesteros_hit_back-to-back_home_runs_Happ_and_Balles.mp4
-clip_start_time: 5.200
-clip_end_time: 12.200

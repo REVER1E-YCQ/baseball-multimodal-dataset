@@ -1,7 +1,0 @@
-video_title: Reese McGuire's solo home run (8)  Reese McGuire's solo home run (8)  Reese McGuire's solo home run (8)  Reese McGuire hits a solo home run to right-center field, giving the Cubs a 6-0 lead against the Nationals in the 2nd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/05/a1eee03a-b7e051c8-06fa236a-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776455_reese-mcguire-s-solo-home-run-8
-clip_id: MLB_776455_reese-mcguire-s-solo-home-run-8_auto1_13p437_20p437
-source_path: raw_sources\MLB_776455_reese-mcguire-s-solo-home-run-8_Reese_McGuire_s_solo_home_run_8_Reese_McGuire_s_solo_home_run_8_Reese_McGuire_s_solo_home_run_8_Reese_McGuire_hits_a_solo_home_.mp4
-clip_start_time: 13.437
-clip_end_time: 20.437

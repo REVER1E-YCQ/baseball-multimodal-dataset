@@ -1,7 +1,0 @@
-video_title: Tim Tawa scores on a groundout Tim Tawa scores on a groundout Tim Tawa scores on a groundout
-video_url: https://bdata-producedclips.mlb.com/76e5fca5-d774-4ac3-8e90-f9ff9b03c805.mp4
-source_id: MLB_822903_jacob-latz-in-play-run-s-to-lourdes-gurriel-jr
-clip_id: MLB_822903_jacob-latz-in-play-run-s-to-lourdes-gurriel-jr_head_0p000_6p000
-source_path: raw_sources\MLB_822903_jacob-latz-in-play-run-s-to-lourdes-gurriel-jr_Tim_Tawa_scores_on_a_groundout_Tim_Tawa_scores_on_a_groundout_Tim_Tawa_scores_on.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

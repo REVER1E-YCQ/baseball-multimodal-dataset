@@ -1,7 +1,0 @@
-video_title: Shea Langeliers' RBI single Shea Langeliers' RBI single Shea Langeliers' RBI single Shea Langeliers hits a single on a line drive to left field scoring Nick Kurtz, extending the A's lead to 7-1 in the top of the 5th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/26/b67fd271-3b8093c2-5de7d5a6-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_824014_walbert-urena-in-play-run-s-to-shea-langeliers
-clip_id: MLB_824014_walbert-urena-in-play-run-s-to-shea-langeliers_head_0p000_7p000
-source_path: raw_sources\MLB_824014_walbert-urena-in-play-run-s-to-shea-langeliers_Shea_Langeliers_RBI_single_Shea_Langeliers_RBI_single_Shea_Langeliers_RBI_single.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000

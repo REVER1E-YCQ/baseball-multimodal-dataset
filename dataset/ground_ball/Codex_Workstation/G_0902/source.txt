@@ -1,7 +1,0 @@
-video_title: Romy Gonzalez fields the final out Romy Gonzalez fields the final out Romy Gonzalez fields the final out Romy Gonzalez fields a ground ball and tosses to first for the final out as the Red Sox defeat the Astros, 7-3
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/02/598f88e2-5b5e19f8-f2382afd-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776909_mauricio-dubon-grounds-out-second-baseman-romy-gonzalez-to-first-base
-clip_id: MLB_776909_mauricio-dubon-grounds-out-second-baseman-romy-gonzalez-to-first-base_auto1_4p500_10p500
-source_path: raw_sources\MLB_776909_mauricio-dubon-grounds-out-second-baseman-romy-gonzalez-to-first-base_Romy_Gonzalez_fields_the_final_out_Romy_Gonzalez_fields_the_final_out_Romy_Gonzalez_field.mp4
-clip_start_time: 4.500
-clip_end_time: 10.500

@@ -1,7 +1,0 @@
-video_title: Wilyer Abreu's RBI double Wilyer Abreu's RBI double Wilyer Abreu's RBI double Wilyer Abreu doubles on a sharp line drive to center field, scoring Trevor Story
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/12/2a6429dd-bfa58594-e89b5d03-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_776769_wilyer-abreu-doubles-15-on-a-sharp-line-drive-to-center-fielder-jacob
-clip_id: MLB_776769_wilyer-abreu-doubles-15-on-a-sharp-line-drive-to-center-fielder-jacob_auto1_4p380_11p380
-source_path: raw_sources\MLB_776769_wilyer-abreu-doubles-15-on-a-sharp-line-drive-to-center-fielder-jacob_Wilyer_Abreu_s_RBI_double_Wilyer_Abreu_s_RBI_double_Wilyer_Abreu_s_RBI_double_Wilyer_Abre.mp4
-clip_start_time: 4.380
-clip_end_time: 11.380

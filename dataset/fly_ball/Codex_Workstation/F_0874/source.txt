@@ -1,7 +1,0 @@
-video_title: Trevor Story discusses home run in 6-4 win Trevor Story discusses home run in 6-4 win Trevor Story discusses home run in 6-4 win Trevor Story discusses his home run in the Red Sox's 6-4 win against the Guardians
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/01/e67e871f-dfb461e7-16b7492c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776505_trevor-story-discusses-home-run-in-6-4-win
-clip_id: MLB_776505_trevor-story-discusses-home-run-in-6-4-win_auto1_1p540_8p540
-source_path: raw_sources\MLB_776505_trevor-story-discusses-home-run-in-6-4-win_Trevor_Story_discusses_home_run_in_6-4_win_Trevor_Story_discusses_home_run_in_6-4_win_Trevor_Story_discusses_home_ru.mp4
-clip_start_time: 1.540
-clip_end_time: 8.540

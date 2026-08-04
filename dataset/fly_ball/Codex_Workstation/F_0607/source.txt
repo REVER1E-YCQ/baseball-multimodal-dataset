@@ -1,7 +1,0 @@
-video_title: Colton Cowser's solo home run (14) Colton Cowser's solo home run (14) Colton Cowser's solo home run (14) Colton Cowser smacks an opposite-field solo home run to cut the Orioles' deficit to 5-2 in the top of the 7th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/14/b48378a9-f5fd63cd-96098371-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776322_colton-cowser-homers-14-on-a-fly-ball-to-left-center-field
-clip_id: MLB_776322_colton-cowser-homers-14-on-a-fly-ball-to-left-center-field_auto1_4p780_11p780
-source_path: raw_sources\MLB_776322_colton-cowser-homers-14-on-a-fly-ball-to-left-center-field_Colton_Cowser_s_solo_home_run_14_Colton_Cowser_s_solo_home_run_14_Colton_Cowser_s_solo_home_run_14_C.mp4
-clip_start_time: 4.780
-clip_end_time: 11.780

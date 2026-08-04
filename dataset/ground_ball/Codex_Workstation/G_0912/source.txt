@@ -1,7 +1,0 @@
-video_title: Xavier Edwards' inning-ending diving stop Xavier Edwards' inning-ending diving stop Xavier Edwards' inning-ending diving stop Xavier Edwards hustles for a ground ball and slides to make a sharp diving grab and retire Tyrone Taylor at first for the final out of the 2nd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/27/dffdf4b2-39d6bb3c-3ea6b654-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776161_tyrone-taylor-grounds-out-second-baseman-xavier-edwards-to-first-base
-clip_id: MLB_776161_tyrone-taylor-grounds-out-second-baseman-xavier-edwards-to-first-base_auto1_1p280_7p280
-source_path: raw_sources\MLB_776161_tyrone-taylor-grounds-out-second-baseman-xavier-edwards-to-first-base_Xavier_Edwards_inning-ending_diving_stop_Xavier_Edwards_inning-ending_diving_stop_Xavier_.mp4
-clip_start_time: 1.280
-clip_end_time: 7.280

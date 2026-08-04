@@ -1,7 +1,0 @@
-video_title: Austin Wells' RBI groundout Austin Wells' RBI groundout Austin Wells' RBI groundout Austin Wells drives in Jazz Chisholm Jr. on a groundout to first base, extending the Yankees' lead to 7-3 in the 6th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-03/30/1d5f70ba-4b554f20-eb039708-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_778523_jared-koenig-in-play-run-s-to-austin-wells
-clip_id: MLB_778523_jared-koenig-in-play-run-s-to-austin-wells_auto1_3p240_9p240
-source_path: raw_sources\MLB_778523_jared-koenig-in-play-run-s-to-austin-wells_Austin_Wells_RBI_groundout_Austin_Wells_RBI_groundout_Austin_Wells_RBI_groundout.mp4
-clip_start_time: 3.240
-clip_end_time: 9.240

@@ -1,7 +1,0 @@
-video_title: Garrett Hampson drives in Freddy Fermin Garrett Hampson drives in Freddy Fermin Garrett Hampson drives in Freddy Fermin Garrett Hampson grounds into a force out, driving in Freddy Fermin, but Nick Loftin is out at second base following a review
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/05/b8efb4e6-2ea4d909-82c4446e-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_746533_kyle-freeland-in-play-run-s-to-garrett-hampson
-clip_id: MLB_746533_kyle-freeland-in-play-run-s-to-garrett-hampson_auto1_4p140_10p140
-source_path: raw_sources\MLB_746533_kyle-freeland-in-play-run-s-to-garrett-hampson_Garrett_Hampson_drives_in_Freddy_Fermin_Garrett_Hampson_drives_in_Freddy_Fermin_Garrett_Hampson_drives_in_Freddy.mp4
-clip_start_time: 4.140
-clip_end_time: 10.140

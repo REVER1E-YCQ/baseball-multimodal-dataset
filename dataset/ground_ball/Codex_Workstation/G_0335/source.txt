@@ -1,7 +1,0 @@
-video_title: Nico Hoerner's RBI single Nico Hoerner's RBI single Nico Hoerner's RBI single Nico Hoerner grounds an RBI single into right field, scoring Michael Busch to extend the Cubs' lead to 4-0 in the 4th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/05/9d5fc1d6-e4569eea-533ad186-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_778450_omar-cruz-in-play-run-s-to-nico-hoerner
-clip_id: MLB_778450_omar-cruz-in-play-run-s-to-nico-hoerner_auto1_6p420_12p420
-source_path: raw_sources\MLB_778450_omar-cruz-in-play-run-s-to-nico-hoerner_Nico_Hoerner_s_RBI_single_Nico_Hoerner_s_RBI_single_Nico_Hoerner_s_RBI_single_Ni.mp4
-clip_start_time: 6.420
-clip_end_time: 12.420

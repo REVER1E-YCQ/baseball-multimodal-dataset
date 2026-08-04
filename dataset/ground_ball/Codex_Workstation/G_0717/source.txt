@@ -1,7 +1,0 @@
-video_title: Shohei Ohtani singles in the 1st inning  Shohei Ohtani singles in the 1st inning  Shohei Ohtani singles in the 1st inning  Shohei Ohtani singles on a sharp ground ball to center field
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/16/b5c41f9f-52fe68b1-ad9e6ee6-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_777899_shohei-ohtani-singles-on-a-sharp-ground-ball-to-center-fielder-matthe
-clip_id: MLB_777899_shohei-ohtani-singles-on-a-sharp-ground-ball-to-center-fielder-matthe_auto1_4p280_10p280
-source_path: raw_sources\MLB_777899_shohei-ohtani-singles-on-a-sharp-ground-ball-to-center-fielder-matthe_Shohei_Ohtani_singles_in_the_1st_inning_Shohei_Ohtani_singles_in_the_1st_inning_Shohei_Oh.mp4
-clip_start_time: 4.280
-clip_end_time: 10.280

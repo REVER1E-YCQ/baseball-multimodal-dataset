@@ -1,7 +1,0 @@
-video_title: Griffin Conine hits home run in return from IL (2) Griffin Conine hits home run in return from IL (2) Griffin Conine hits home run in return from IL (2) Griffin Conine hits a solo home run in his first game returning from the IL, cutting the Marlins' deficit to 3-1 in the top of the 8th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/23/4b759567-8cd79783-a1faff7e-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776215_griffin-conine-homers-2-on-a-fly-ball-to-right-field
-clip_id: MLB_776215_griffin-conine-homers-2-on-a-fly-ball-to-right-field_auto1_4p680_11p680
-source_path: raw_sources\MLB_776215_griffin-conine-homers-2-on-a-fly-ball-to-right-field_Griffin_Conine_hits_home_run_in_return_from_IL_2_Griffin_Conine_hits_home_run_in_return_from_IL_2_Griffin_.mp4
-clip_start_time: 4.680
-clip_end_time: 11.680

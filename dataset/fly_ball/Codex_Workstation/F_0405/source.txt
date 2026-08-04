@@ -1,7 +1,0 @@
-video_title: Bryson Stott's sac fly Bryson Stott's sac fly Bryson Stott's sac fly Bryson Stott hits a fly ball deep enough for Nick Castellanos to score in the top of the 8th inning to make the score 7-0
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/09/85794fa3-5541b73d-2cbfdd98-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_777163_tristan-beck-in-play-run-s-to-bryson-stott
-clip_id: MLB_777163_tristan-beck-in-play-run-s-to-bryson-stott_auto1_7p780_14p780
-source_path: raw_sources\MLB_777163_tristan-beck-in-play-run-s-to-bryson-stott_Bryson_Stott_s_sac_fly_Bryson_Stott_s_sac_fly_Bryson_Stott_s_sac_fly_Bryson_Stott_hits_a_fly_ball_deep_enough_for_Ni.mp4
-clip_start_time: 7.780
-clip_end_time: 14.780

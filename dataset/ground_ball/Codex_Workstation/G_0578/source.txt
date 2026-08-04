@@ -1,7 +1,0 @@
-video_title: J.D. Martinez's RBI groundout J.D. Martinez's RBI groundout J.D. Martinez's RBI groundout
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/23/28a331fd-279d018e-95c6d6af-csvm-diamondx64-asset-4000K.mp4
-source_id: MLB_746862_j-d-martinez-s-rbi-groundout
-clip_id: MLB_746862_j-d-martinez-s-rbi-groundout_auto1_1p540_7p540
-source_path: raw_sources\MLB_746862_j-d-martinez-s-rbi-groundout_J.D._Martinez_s_RBI_groundout_J.D._Martinez_s_RBI_groundout_J.D._Martinez_s_RBI_groundout.mp4
-clip_start_time: 1.540
-clip_end_time: 7.540

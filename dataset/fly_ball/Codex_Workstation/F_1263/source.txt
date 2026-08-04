@@ -1,7 +1,0 @@
-video_title: Lane Thomas' RBI triple Lane Thomas' RBI triple Lane Thomas' RBI triple Lane Thomas sends a long fly ball to left field that hits off Nolan Jones' glove for an RBI triple
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/21/06ed2479-dd04eed0-37ea2191-csvm-diamondx64-asset-4000K.mp4
-source_id: MLB_746540_lane-thomas-triples-2-on-a-fly-ball-to-left-fielder-nolan-jones-cj-ab
-clip_id: MLB_746540_lane-thomas-triples-2-on-a-fly-ball-to-left-fielder-nolan-jones-cj-ab_auto1_8p060_15p060
-source_path: raw_sources\MLB_746540_lane-thomas-triples-2-on-a-fly-ball-to-left-fielder-nolan-jones-cj-ab_Lane_Thomas_RBI_triple_Lane_Thomas_RBI_triple_Lane_Thomas_RBI_triple_Lane_Thomas_sends_a_.mp4
-clip_start_time: 8.060
-clip_end_time: 15.060

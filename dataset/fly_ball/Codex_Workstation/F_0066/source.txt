@@ -1,7 +1,0 @@
-video_title: Isaac Collins' sliding catch Isaac Collins' sliding catch Isaac Collins' sliding catch Isaac Collins makes a smooth, sliding grab on a line drive from Travis Bazzana for the final out of the top of the 4th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/04/bbf5191f-fb4fbfb0-cc6d766a-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_824120_michael-wacha-in-play-out-s-to-travis-bazzana
-clip_id: MLB_824120_michael-wacha-in-play-out-s-to-travis-bazzana_head_0p000_7p000
-source_path: raw_sources\MLB_824120_michael-wacha-in-play-out-s-to-travis-bazzana_Isaac_Collins_sliding_catch_Isaac_Collins_sliding_catch_Isaac_Collins_sliding_ca.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000

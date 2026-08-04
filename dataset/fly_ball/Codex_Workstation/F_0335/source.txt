@@ -1,7 +1,0 @@
-video_title: Rece Hinds' first Major League hit Rece Hinds' first Major League hit Rece Hinds' first Major League hit Rece Hinds hits a line drive off of Ezequiel Tovar and hustles into second with a double for his first Major League hit
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/08/817273d5-882e6b8f-2a58747f-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_746692_rece-hinds-reaches-on-a-line-drive-to-shortstop-ezequiel-tovar-offici
-clip_id: MLB_746692_rece-hinds-reaches-on-a-line-drive-to-shortstop-ezequiel-tovar-offici_auto1_8p560_15p560
-source_path: raw_sources\MLB_746692_rece-hinds-reaches-on-a-line-drive-to-shortstop-ezequiel-tovar-offici_Rece_Hinds_first_Major_League_hit_Rece_Hinds_first_Major_League_hit_Rece_Hinds_first_Majo.mp4
-clip_start_time: 8.560
-clip_end_time: 15.560

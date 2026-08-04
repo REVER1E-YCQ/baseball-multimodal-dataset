@@ -1,7 +1,0 @@
-video_title: Miguel Cairo on the Nationals' 6-5 win Miguel Cairo on the Nationals' 6-5 win Miguel Cairo on the Nationals' 6-5 win Manager Miguel Cairo discusses James Wood's outfield assist, Dylan Crews' home run and more following the Nationals' 6-5 win
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/12/27b0b596-1fe5f5f9-6ef2b391-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776351_miguel-cairo-on-the-nationals-6-5-win
-clip_id: MLB_776351_miguel-cairo-on-the-nationals-6-5-win_auto1_6p760_13p760
-source_path: raw_sources\MLB_776351_miguel-cairo-on-the-nationals-6-5-win_Miguel_Cairo_on_the_Nationals_6-5_win_Miguel_Cairo_on_the_Nationals_6-5_win_Miguel_Cairo_on_the_Nationals_6-5_win_Manager.mp4
-clip_start_time: 6.760
-clip_end_time: 13.760

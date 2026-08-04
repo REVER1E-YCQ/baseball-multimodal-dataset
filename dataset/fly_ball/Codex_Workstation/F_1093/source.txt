@@ -1,7 +1,0 @@
-video_title: Brandon Nimmo's three-run homer (24) Brandon Nimmo's three-run homer (24) Brandon Nimmo's three-run homer (24) Brandon Nimmo belts a three-run home run to right-center field, increasing the Mets' lead to 5-1 in the 3rd
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/18/dbb66792-c854b61f-e9e477a8-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776276_brandon-nimmo-homers-24-on-a-fly-ball-to-right-center-field-francisco
-clip_id: MLB_776276_brandon-nimmo-homers-24-on-a-fly-ball-to-right-center-field-francisco_auto1_15p800_22p800
-source_path: raw_sources\MLB_776276_brandon-nimmo-homers-24-on-a-fly-ball-to-right-center-field-francisco_Brandon_Nimmo_s_three-run_homer_24_Brandon_Nimmo_s_three-run_homer_24_Brandon_Nimmo_s_thr.mp4
-clip_start_time: 15.800
-clip_end_time: 22.800

@@ -1,7 +1,0 @@
-video_title: Jacob Young robs a home run Jacob Young robs a home run Jacob Young robs a home run Jacob Young tracks Ryan Mountcastle's fly ball back to the center-field wall and times his jump perfectly to rob him of a home run in the 4th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/16/72239f11-31b9a1f0-314ac3d7-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_777907_ryan-mountcastle-flies-out-sharply-to-center-fielder-jacob-young
-clip_id: MLB_777907_ryan-mountcastle-flies-out-sharply-to-center-fielder-jacob-young_auto1_8p900_15p900
-source_path: raw_sources\MLB_777907_ryan-mountcastle-flies-out-sharply-to-center-fielder-jacob-young_Jacob_Young_robs_a_home_run_Jacob_Young_robs_a_home_run_Jacob_Young_robs_a_home_run_Jacob_Youn.mp4
-clip_start_time: 8.900
-clip_end_time: 15.900

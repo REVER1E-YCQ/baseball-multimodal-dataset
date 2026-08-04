@@ -1,7 +1,0 @@
-video_title: Paul Sewald secures the D-backs' win Paul Sewald secures the D-backs' win Paul Sewald secures the D-backs' win Lourdes Gurriel Jr. catches Salvador Perez's fly ball in left field, clinching the D-backs' 8-6 victory over the Royals
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/24/1b464c43-c9a62ea1-763023eb-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_746279_salvador-perez-flies-out-to-left-fielder-lourdes-gurriel-jr-bwulf0
-clip_id: MLB_746279_salvador-perez-flies-out-to-left-fielder-lourdes-gurriel-jr-bwulf0_auto1_13p760_20p760
-source_path: raw_sources\MLB_746279_salvador-perez-flies-out-to-left-fielder-lourdes-gurriel-jr-bwulf0_Paul_Sewald_secures_the_D-backs_win_Paul_Sewald_secures_the_D-backs_win_Paul_Sewald_secures_.mp4
-clip_start_time: 13.760
-clip_end_time: 20.760

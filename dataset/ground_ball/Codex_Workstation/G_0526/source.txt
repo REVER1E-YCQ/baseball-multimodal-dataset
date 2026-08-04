@@ -1,7 +1,0 @@
-video_title: Yandy Díaz's RBI single Yandy Díaz's RBI single Yandy Díaz's RBI single Yandy Díaz singles on a ground ball in the bottom of the 3rd inning, allowing José Caballero to score and give the Rays a 1-0 lead
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/26/515260a2-483a3f26-cb1ef1c2-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_745073_george-kirby-in-play-run-s-to-yandy-diaz
-clip_id: MLB_745073_george-kirby-in-play-run-s-to-yandy-diaz_auto1_8p320_14p320
-source_path: raw_sources\MLB_745073_george-kirby-in-play-run-s-to-yandy-diaz_Yandy_D_az_s_RBI_single_Yandy_D_az_s_RBI_single_Yandy_D_az_s_RBI_single_Yandy_D_az_singles_on_a_ground_ball_in_the_bot.mp4
-clip_start_time: 8.320
-clip_end_time: 14.320

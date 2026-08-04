@@ -1,7 +1,0 @@
-video_title: Jesús Sánchez scores on a ground ball double play  Jesús Sánchez scores on a ground ball double play  Jesús Sánchez scores on a ground ball double play  Jesús Sánchez scores from third base on a ground ball double play, giving the Marlins a 2-1 lead in the top of the 5th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/24/59335925-5bfec637-73af2779-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_777781_kyle-stowers-grounds-into-a-double-play-second-baseman-luis-rengifo-t
-clip_id: MLB_777781_kyle-stowers-grounds-into-a-double-play-second-baseman-luis-rengifo-t_auto1_4p560_10p560
-source_path: raw_sources\MLB_777781_kyle-stowers-grounds-into-a-double-play-second-baseman-luis-rengifo-t_Jes_s_S_nchez_scores_on_a_ground_ball_double_play_Jes_s_S_nchez_scores_on_a_ground_ball_d.mp4
-clip_start_time: 4.560
-clip_end_time: 10.560

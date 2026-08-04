@@ -1,7 +1,0 @@
-video_title: Jakob Marsee's solo homer (5) Jakob Marsee's solo homer (5) Jakob Marsee's solo homer (5) Jakob Marsee hits a solo home run to right-center field in the bottom of the 9th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/08/f5953402-c87de42c-5b76102d-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776409_jakob-marsee-homers-5-on-a-fly-ball-to-right-center-field
-clip_id: MLB_776409_jakob-marsee-homers-5-on-a-fly-ball-to-right-center-field_auto1_15p300_22p300
-source_path: raw_sources\MLB_776409_jakob-marsee-homers-5-on-a-fly-ball-to-right-center-field_Jakob_Marsee_s_solo_homer_5_Jakob_Marsee_s_solo_homer_5_Jakob_Marsee_s_solo_homer_5_Jakob_Marsee_hits.mp4
-clip_start_time: 15.300
-clip_end_time: 22.300

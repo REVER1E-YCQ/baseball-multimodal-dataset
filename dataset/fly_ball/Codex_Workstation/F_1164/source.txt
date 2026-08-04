@@ -1,7 +1,0 @@
-video_title: Joey Loperfido's great diving catch Joey Loperfido's great diving catch Joey Loperfido's great diving catch Joey Loperfido chases down a hooking fly ball and makes great diving catch to rob Mitch Garver of extra bases
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/20/a2206501-7471c868-a2ec454d-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_745229_ryan-pressly-in-play-out-s-to-mitch-garver-f2fh6l
-clip_id: MLB_745229_ryan-pressly-in-play-out-s-to-mitch-garver-f2fh6l_auto1_4p720_11p720
-source_path: raw_sources\MLB_745229_ryan-pressly-in-play-out-s-to-mitch-garver-f2fh6l_Joey_Loperfido_s_great_diving_catch_Joey_Loperfido_s_great_diving_catch_Joey_Loperfido_s_great_diving_catch_J.mp4
-clip_start_time: 4.720
-clip_end_time: 11.720

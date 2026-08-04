@@ -1,7 +1,0 @@
-video_title: Edwin Arroyo scores on a fielding error Edwin Arroyo scores on a fielding error Edwin Arroyo scores on a fielding error The Reds tie it up in the top of the 5th after Brandon Lowe misplayed a ground ball hit by Sal Stewart allowing Edwin Arroyo to score
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/27/82c9842a-bb29bac0-67f28818-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_823364_jared-jones-in-play-run-s-to-sal-stewart
-clip_id: MLB_823364_jared-jones-in-play-run-s-to-sal-stewart_head_0p000_6p000
-source_path: raw_sources\MLB_823364_jared-jones-in-play-run-s-to-sal-stewart_Edwin_Arroyo_scores_on_a_fielding_error_Edwin_Arroyo_scores_on_a_fielding_error_.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

@@ -1,7 +1,0 @@
-video_title: Brayan Rocchio makes a smooth sliding play Brayan Rocchio makes a smooth sliding play Brayan Rocchio makes a smooth sliding play Brayan Rocchio ranges right then backhands a ground ball to complete a smooth sliding play for first out of the 9th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-04/03/bae70460-1fec5cea-d34bb364-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_745275_tim-herrin-in-play-out-s-to-mitch-garver
-clip_id: MLB_745275_tim-herrin-in-play-out-s-to-mitch-garver_auto1_5p140_11p140
-source_path: raw_sources\MLB_745275_tim-herrin-in-play-out-s-to-mitch-garver_Brayan_Rocchio_makes_a_smooth_sliding_play_Brayan_Rocchio_makes_a_smooth_sliding.mp4
-clip_start_time: 5.140
-clip_end_time: 11.140

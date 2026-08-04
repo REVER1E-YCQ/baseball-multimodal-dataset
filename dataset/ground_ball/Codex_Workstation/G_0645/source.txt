@@ -1,7 +1,0 @@
-video_title: Whit Merrifield is injured in pregame warmups Whit Merrifield is injured in pregame warmups Whit Merrifield is injured in pregame warmups Whit Merrifield is hit on a finger by a ground ball while warming up and ruled out of the game vs. the Reds
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/22/fa4c6712-9dd67fc0-a65bc172-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_747095_whit-merrifield-is-injured-in-pregame-warmups
-clip_id: MLB_747095_whit-merrifield-is-injured-in-pregame-warmups_auto1_21p260_27p260
-source_path: raw_sources\MLB_747095_whit-merrifield-is-injured-in-pregame-warmups_Whit_Merrifield_is_injured_in_pregame_warmups_Whit_Merrifield_is_injured_in_pregame_warmups_Whit_Merrifield_is_in.mp4
-clip_start_time: 21.260
-clip_end_time: 27.260

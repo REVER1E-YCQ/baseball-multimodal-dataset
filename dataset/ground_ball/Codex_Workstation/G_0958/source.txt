@@ -1,7 +1,0 @@
-video_title: Anthony Volpe's sharp sliding grab Anthony Volpe's sharp sliding grab Anthony Volpe's sharp sliding grab Anthony Volpe flashes the leather on a hard-hit ground ball and throws to first to nab Lars Nootbaar for the final out of the 5th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/16/faf0d2c7-f158dd5a-83f2135c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776713_lars-nootbaar-grounds-out-sharply-shortstop-anthony-volpe-to-first-ba
-clip_id: MLB_776713_lars-nootbaar-grounds-out-sharply-shortstop-anthony-volpe-to-first-ba_auto1_19p500_25p500
-source_path: raw_sources\MLB_776713_lars-nootbaar-grounds-out-sharply-shortstop-anthony-volpe-to-first-ba_Anthony_Volpe_s_sharp_sliding_grab_Anthony_Volpe_s_sharp_sliding_grab_Anthony_Volpe_s_sha.mp4
-clip_start_time: 19.500
-clip_end_time: 25.500

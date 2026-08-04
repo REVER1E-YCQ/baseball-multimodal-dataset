@@ -1,7 +1,0 @@
-video_title: Travis Bazzana's alert diving stop and throw Travis Bazzana's alert diving stop and throw Bobby Witt Jr. singles on a ground ball to second baseman Travis Bazzana. Maikel Garcia out at 3rd Travis Bazzana's strong effort is rewarded as he dives and makes a stellar throw to nab the lead runner at thir
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/07/4faac24d-f7b4cc95-05ae0dfc-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_824117_slade-cecconi-in-play-out-s-to-bobby-witt-jr
-clip_id: MLB_824117_slade-cecconi-in-play-out-s-to-bobby-witt-jr_head_0p000_6p000
-source_path: raw_sources\MLB_824117_slade-cecconi-in-play-out-s-to-bobby-witt-jr_Travis_Bazzana_s_alert_diving_stop_and_throw_Travis_Bazzana_s_alert_diving_stop_.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

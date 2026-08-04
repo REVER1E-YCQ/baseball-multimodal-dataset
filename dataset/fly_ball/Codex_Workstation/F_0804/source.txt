@@ -1,7 +1,0 @@
-video_title: David Fry's solo home run (8) David Fry's solo home run (8) David Fry's solo home run (8) David Fry starts the scoring with a solo home run in the bottom of the 4th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/12/32ec02bd-1293be92-995970ff-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776361_david-fry-homers-8-on-a-fly-ball-to-left-field
-clip_id: MLB_776361_david-fry-homers-8-on-a-fly-ball-to-left-field_auto1_5p820_12p820
-source_path: raw_sources\MLB_776361_david-fry-homers-8-on-a-fly-ball-to-left-field_David_Fry_s_solo_home_run_8_David_Fry_s_solo_home_run_8_David_Fry_s_solo_home_run_8_David_Fry_starts_the_scoring.mp4
-clip_start_time: 5.820
-clip_end_time: 12.820

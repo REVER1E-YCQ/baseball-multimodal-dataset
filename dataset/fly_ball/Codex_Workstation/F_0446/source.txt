@@ -1,7 +1,0 @@
-video_title: Elly De La Cruz turns an unassisted double play Elly De La Cruz turns an unassisted double play Elly De La Cruz turns an unassisted double play Elly De La Cruz catches a Victor Scott II line drive and steps on second base to turn an inning-ending unassisted double play in the 5th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/21/286fbfdb-bc5efaa2-b72b9564-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_777415_victor-scott-ii-lines-into-an-unassisted-double-play-shortstop-elly-d
-clip_id: MLB_777415_victor-scott-ii-lines-into-an-unassisted-double-play-shortstop-elly-d_auto1_3p760_10p760
-source_path: raw_sources\MLB_777415_victor-scott-ii-lines-into-an-unassisted-double-play-shortstop-elly-d_Elly_De_La_Cruz_turns_an_unassisted_double_play_Elly_De_La_Cruz_turns_an_unassisted_doubl.mp4
-clip_start_time: 3.760
-clip_end_time: 10.760

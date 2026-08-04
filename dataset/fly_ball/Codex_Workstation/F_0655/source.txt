@@ -1,7 +1,0 @@
-video_title: Joey Wiemer's solo home run (2)  Joey Wiemer's solo home run (2)  Joey Wiemer's solo home run (2)  Joey Wiemer drills a solo home run to left field to cut the Marlins' deficit to 3-1 in the bottom of the 2nd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/09/d1f66bc6-c70c821b-8cf1bd1e-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776397_joey-wiemer-homers-2-on-a-fly-ball-to-left-field
-clip_id: MLB_776397_joey-wiemer-homers-2-on-a-fly-ball-to-left-field_auto1_3p900_10p900
-source_path: raw_sources\MLB_776397_joey-wiemer-homers-2-on-a-fly-ball-to-left-field_Joey_Wiemer_s_solo_home_run_2_Joey_Wiemer_s_solo_home_run_2_Joey_Wiemer_s_solo_home_run_2_Joey_Wiemer_drills_a.mp4
-clip_start_time: 3.900
-clip_end_time: 10.900

@@ -1,7 +1,0 @@
-video_title: Spencer Steer's sliding catch Spencer Steer's sliding catch Spencer Steer's sliding catch Spencer Steer makes a nice sliding catch in shallow left field on Charlie Blackmon's fly ball in the top of the 6th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/08/7a869148-1103fa29-1c07bbc9-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_746692_charlie-blackmon-flies-out-to-left-fielder-spencer-steer
-clip_id: MLB_746692_charlie-blackmon-flies-out-to-left-fielder-spencer-steer_auto1_4p640_11p640
-source_path: raw_sources\MLB_746692_charlie-blackmon-flies-out-to-left-fielder-spencer-steer_Spencer_Steer_s_sliding_catch_Spencer_Steer_s_sliding_catch_Spencer_Steer_s_sliding_catch_Spencer_Stee.mp4
-clip_start_time: 4.640
-clip_end_time: 11.640

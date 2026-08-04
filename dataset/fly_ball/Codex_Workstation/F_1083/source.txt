@@ -1,7 +1,0 @@
-video_title: Elly De La Cruz on his home run, postseason race Elly De La Cruz on his home run, postseason race Elly De La Cruz on his home run, postseason race Elly De La Cruz discusses his back-to-back home run with Spencer Steer and the Reds' standing in the National League Wild Card race
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/19/9b97a4c3-1a1c32c4-3af275c4-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776267_elly-de-la-cruz-on-his-home-run-postseason-race
-clip_id: MLB_776267_elly-de-la-cruz-on-his-home-run-postseason-race_auto1_0p040_7p040
-source_path: raw_sources\MLB_776267_elly-de-la-cruz-on-his-home-run-postseason-race_Elly_De_La_Cruz_on_his_home_run_postseason_race_Elly_De_La_Cruz_on_his_home_run_postseason_race_Elly_De_La_Cruz.mp4
-clip_start_time: 0.040
-clip_end_time: 7.040

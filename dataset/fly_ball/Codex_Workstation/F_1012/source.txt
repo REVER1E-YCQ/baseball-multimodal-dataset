@@ -1,7 +1,0 @@
-video_title: Spencer Torkelson's two-run home run (29) Spencer Torkelson's two-run home run (29) Spencer Torkelson's two-run home run (29) Spencer Torkelson crushes a two-run home run to left-center field in the bottom of the 10th inning to bring the Tigers within two
-video_url: https://bdata-producedclips.mlb.com/cfe6bc8b-4f24-4b0a-b190-d685072a5c64.mp4
-source_id: MLB_776303_spencer-torkelson-homers-29-on-a-fly-ball-to-left-center-field-gleybe
-clip_id: MLB_776303_spencer-torkelson-homers-29-on-a-fly-ball-to-left-center-field-gleybe_auto1_7p620_14p620
-source_path: raw_sources\MLB_776303_spencer-torkelson-homers-29-on-a-fly-ball-to-left-center-field-gleybe_Spencer_Torkelson_s_two-run_home_run_29_Spencer_Torkelson_s_two-run_home_run_29_Spencer_T.mp4
-clip_start_time: 7.620
-clip_end_time: 14.620

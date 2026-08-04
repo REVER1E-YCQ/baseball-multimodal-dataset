@@ -1,7 +1,0 @@
-video_title:  Chase DeLauter's RBI fielder's choice  Chase DeLauter's RBI fielder's choice  Chase DeLauter's RBI fielder's choice Chase DeLauter grounds into a fielder's choice, plating Brayan Rocchio to put the Guardians on the board in the 3rd
-video_url: https://bdata-producedclips.mlb.com/85aa9080-2f64-460b-85b7-510eae3eacdf.mp4
-source_id: MLB_824277_chase-delauter-grounds-into-a-force-out-second-baseman-zach-mckinstry
-clip_id: MLB_824277_chase-delauter-grounds-into-a-force-out-second-baseman-zach-mckinstry_head_0p000_6p000
-source_path: raw_sources\MLB_824277_chase-delauter-grounds-into-a-force-out-second-baseman-zach-mckinstry_Chase_DeLauter_s_RBI_fielder_s_choice_Chase_DeLauter_s_RBI_fielder_s_choice_Chas.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

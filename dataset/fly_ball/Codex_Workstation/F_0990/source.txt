@@ -1,7 +1,0 @@
-video_title: Spencer Steer's two-run homer (20) Spencer Steer's two-run homer (20) Spencer Steer's two-run homer (20) Spencer Steer hits a two-run home run to left-center field, scoring Austin Hays to give the Reds a 6-4 lead in the 6th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/19/3c4d0bfd-9dbce04e-ee34aa13-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776267_spencer-steer-homers-20-on-a-fly-ball-to-left-center-field-austin-hay
-clip_id: MLB_776267_spencer-steer-homers-20-on-a-fly-ball-to-left-center-field-austin-hay_auto1_1p180_8p180
-source_path: raw_sources\MLB_776267_spencer-steer-homers-20-on-a-fly-ball-to-left-center-field-austin-hay_Spencer_Steer_s_two-run_homer_20_Spencer_Steer_s_two-run_homer_20_Spencer_Steer_s_two-run.mp4
-clip_start_time: 1.180
-clip_end_time: 8.180

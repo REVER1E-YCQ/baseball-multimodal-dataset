@@ -1,7 +1,0 @@
-video_title: Zach Cole's two-run home run (2) Zach Cole's two-run home run (2) Zach Cole's two-run home run (2) Zach Cole belts a two-run home run to right field, giving the Astros a 4-3 lead over the Rangers in the 5th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/15/fb6ba7e3-7c2d7942-299e55f9-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776319_zach-cole-homers-2-on-a-fly-ball-to-right-field-jeremy-pena-scores
-clip_id: MLB_776319_zach-cole-homers-2-on-a-fly-ball-to-right-field-jeremy-pena-scores_auto1_9p420_16p420
-source_path: raw_sources\MLB_776319_zach-cole-homers-2-on-a-fly-ball-to-right-field-jeremy-pena-scores_Zach_Cole_s_two-run_home_run_2_Zach_Cole_s_two-run_home_run_2_Zach_Cole_s_two-run_home_run_2.mp4
-clip_start_time: 9.420
-clip_end_time: 16.420

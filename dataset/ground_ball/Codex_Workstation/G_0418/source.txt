@@ -1,7 +1,0 @@
-video_title: Francisco Lindor's RBI groundout Francisco Lindor's RBI groundout Francisco Lindor's RBI groundout Francisco Lindor hits a groundout to plate Jeff McNeil, giving the Mets a 3-2 lead in the top of the 4th
-video_url: https://bdata-producedclips.mlb.com/b28c3ba6-eb1e-48bf-990f-cada0447fc87.mp4
-source_id: MLB_746067_braxton-garrett-in-play-run-s-to-francisco-lindor-hl936l
-clip_id: MLB_746067_braxton-garrett-in-play-run-s-to-francisco-lindor-hl936l_auto1_7p467_13p467
-source_path: raw_sources\MLB_746067_braxton-garrett-in-play-run-s-to-francisco-lindor-hl936l_Francisco_Lindor_s_RBI_groundout_Francisco_Lindor_s_RBI_groundout_Francisco_Lind.mp4
-clip_start_time: 7.467
-clip_end_time: 13.467

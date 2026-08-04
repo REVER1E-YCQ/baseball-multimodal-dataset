@@ -1,7 +1,0 @@
-video_title: Connor Norby's clean play at first Connor Norby's clean play at first Connor Norby's clean play at first Connor Norby fields Jake McCarthy's grounder at first base for the out in the top of the 3rd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-03/28/585e49fa-119af020-95050172-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_823892_connor-norby-s-clean-play-at-first
-clip_id: MLB_823892_connor-norby-s-clean-play-at-first_auto1_2p440_8p440
-source_path: raw_sources\MLB_823892_connor-norby-s-clean-play-at-first_Connor_Norby_s_clean_play_at_first_Connor_Norby_s_clean_play_at_first_Connor_Nor.mp4
-clip_start_time: 2.440
-clip_end_time: 8.440

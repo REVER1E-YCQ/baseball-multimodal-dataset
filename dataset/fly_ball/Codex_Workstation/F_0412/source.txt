@@ -1,7 +1,0 @@
-video_title: Tommy Pham's leaping catch Tommy Pham's leaping catch Tommy Pham's leaping catch Tommy Pham makes a leaping catch in left field on Nick Loftin's line drive to end the bottom of the 3rd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/07/f8e76273-55d99045-8a07a04a-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_777204_nick-loftin-lines-out-sharply-to-left-fielder-tommy-pham
-clip_id: MLB_777204_nick-loftin-lines-out-sharply-to-left-fielder-tommy-pham_auto1_21p845_28p845
-source_path: raw_sources\MLB_777204_nick-loftin-lines-out-sharply-to-left-fielder-tommy-pham_Tommy_Pham_s_leaping_catch_Tommy_Pham_s_leaping_catch_Tommy_Pham_s_leaping_catch_Tommy_Pham_makes_a_le.mp4
-clip_start_time: 21.845
-clip_end_time: 28.845

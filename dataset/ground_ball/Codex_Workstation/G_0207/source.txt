@@ -1,7 +1,0 @@
-video_title: Colt Emerson throws out Maikel Garcia  Colt Emerson throws out Maikel Garcia  Colt Emerson throws out Maikel Garcia  Colt Emerson fields Maikel Garcia's grounder and makes the throw for the first out in the top of the 5th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/24/86b3209a-eba26d8d-78c1ae1c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_824108_bryan-woo-in-play-out-s-to-maikel-garcia-cpbubo
-clip_id: MLB_824108_bryan-woo-in-play-out-s-to-maikel-garcia-cpbubo_head_0p000_6p000
-source_path: raw_sources\MLB_824108_bryan-woo-in-play-out-s-to-maikel-garcia-cpbubo_Colt_Emerson_throws_out_Maikel_Garcia_Colt_Emerson_throws_out_Maikel_Garcia_Colt.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

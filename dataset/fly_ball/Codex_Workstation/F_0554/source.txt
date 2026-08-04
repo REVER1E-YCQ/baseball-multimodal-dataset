@@ -1,7 +1,0 @@
-video_title: Luke Weaver seals Yankees' victory, secures save Luke Weaver seals Yankees' victory, secures save Luke Weaver seals Yankees' victory, secures save Luke Weaver induces a fly ball to shallow right field, sealing the Yankees' 1-0 victory and recording the save
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/18/212a92ee-cc740f1e-8e32c325-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_778272_luke-weaver-in-play-out-s-to-kameron-misner
-clip_id: MLB_778272_luke-weaver-in-play-out-s-to-kameron-misner_auto1_7p120_14p120
-source_path: raw_sources\MLB_778272_luke-weaver-in-play-out-s-to-kameron-misner_Luke_Weaver_seals_Yankees_victory_secures_save_Luke_Weaver_seals_Yankees_victory_secures_save_Luke_Weaver_seals_Yan.mp4
-clip_start_time: 7.120
-clip_end_time: 14.120

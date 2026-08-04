@@ -1,7 +1,0 @@
-video_title: Max Muncy's backhanded stop and throw Max Muncy's backhanded stop and throw Max Muncy's backhanded stop and throw Max Muncy makes a backhanded stop on a tricky grounder from Josh Jung, then throws to first in time to end the bottom of the 2nd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/19/16fe01c4-7a49fa06-7fda197b-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_778251_josh-jung-grounds-out-third-baseman-max-muncy-to-first-baseman-freddi
-clip_id: MLB_778251_josh-jung-grounds-out-third-baseman-max-muncy-to-first-baseman-freddi_auto1_6p132_12p132
-source_path: raw_sources\MLB_778251_josh-jung-grounds-out-third-baseman-max-muncy-to-first-baseman-freddi_Max_Muncy_s_backhanded_stop_and_throw_Max_Muncy_s_backhanded_stop_and_throw_Max_Muncy_s_b.mp4
-clip_start_time: 6.132
-clip_end_time: 12.132

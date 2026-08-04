@@ -1,7 +1,0 @@
-video_title: Spencer Steer's solo homer (19) Spencer Steer's solo homer (19) Spencer Steer's solo homer (19) Spencer Steer hits a solo home run to left-center field, cutting the Reds' deficit to 4-3
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/19/9810244c-a16aa3d3-dbf8a4d7-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776267_spencer-steer-homers-19-on-a-fly-ball-to-left-center-field-5r1wbb
-clip_id: MLB_776267_spencer-steer-homers-19-on-a-fly-ball-to-left-center-field-5r1wbb_auto1_1p400_8p400
-source_path: raw_sources\MLB_776267_spencer-steer-homers-19-on-a-fly-ball-to-left-center-field-5r1wbb_Spencer_Steer_s_solo_homer_19_Spencer_Steer_s_solo_homer_19_Spencer_Steer_s_solo_homer_19_Spe.mp4
-clip_start_time: 1.400
-clip_end_time: 8.400

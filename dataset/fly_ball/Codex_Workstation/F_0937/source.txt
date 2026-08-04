@@ -1,7 +1,0 @@
-video_title: Josh Bell's solo home run (21) Josh Bell's solo home run (21) Josh Bell's solo home run (21) Josh Bell lifts a long home run over the center field wall to give the Nationals a 2-0 lead in the top of the 4th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/24/7878dfa8-3dee7558-5c536e75-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776200_josh-bell-homers-21-on-a-fly-ball-to-center-field
-clip_id: MLB_776200_josh-bell-homers-21-on-a-fly-ball-to-center-field_auto1_2p120_9p120
-source_path: raw_sources\MLB_776200_josh-bell-homers-21-on-a-fly-ball-to-center-field_Josh_Bell_s_solo_home_run_21_Josh_Bell_s_solo_home_run_21_Josh_Bell_s_solo_home_run_21_Josh_Bell_lifts_a_long.mp4
-clip_start_time: 2.120
-clip_end_time: 9.120

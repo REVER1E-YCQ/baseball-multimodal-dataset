@@ -1,7 +1,0 @@
-video_title: Carlos Correa's nice backhanded play Carlos Correa's nice backhanded play Carlos Correa's nice backhanded play Carlos Correa fields the soft grounder perfectly and fires to first base to get the out
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/11/9d492a1f-3498e46d-2043a0f6-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776782_cristian-javier-in-play-out-s-to-wilyer-abreu
-clip_id: MLB_776782_cristian-javier-in-play-out-s-to-wilyer-abreu_auto1_3p260_9p260
-source_path: raw_sources\MLB_776782_cristian-javier-in-play-out-s-to-wilyer-abreu_Carlos_Correa_s_nice_backhanded_play_Carlos_Correa_s_nice_backhanded_play_Carlos_Correa_s_nice_backhanded_play_Ca.mp4
-clip_start_time: 3.260
-clip_end_time: 9.260

@@ -1,7 +1,0 @@
-video_title: Michael Busch's RBI groundout Michael Busch's RBI groundout Michael Busch's RBI groundout Michael Busch brings in Pete Crow-Armstrong with an RBI groundout in the top of the 3rd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/27/9b4913d2-39f80235-36771d1c-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_746278_seth-lugo-in-play-out-s-to-michael-busch
-clip_id: MLB_746278_seth-lugo-in-play-out-s-to-michael-busch_auto1_16p340_22p340
-source_path: raw_sources\MLB_746278_seth-lugo-in-play-out-s-to-michael-busch_Michael_Busch_s_RBI_groundout_Michael_Busch_s_RBI_groundout_Michael_Busch_s_RBI_groundout_Michael_Busch_brings_in_Pete.mp4
-clip_start_time: 16.340
-clip_end_time: 22.340

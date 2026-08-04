@@ -1,7 +1,0 @@
-video_title: Jake Meyers' diving catch  Jake Meyers' diving catch  Jake Meyers' diving catch  Jake Meyers makes a great catch on a line drive from Julio Rodríguez in the bottom of the 1st inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/08/1469066b-7451e959-f7c8f8b6-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_778398_framber-valdez-in-play-out-s-to-julio-rodriguez-rgxkxw
-clip_id: MLB_778398_framber-valdez-in-play-out-s-to-julio-rodriguez-rgxkxw_auto1_5p040_12p040
-source_path: raw_sources\MLB_778398_framber-valdez-in-play-out-s-to-julio-rodriguez-rgxkxw_Jake_Meyers_diving_catch_Jake_Meyers_diving_catch_Jake_Meyers_diving_catch_Jake_Meyers_makes_a_great_cat.mp4
-clip_start_time: 5.040
-clip_end_time: 12.040

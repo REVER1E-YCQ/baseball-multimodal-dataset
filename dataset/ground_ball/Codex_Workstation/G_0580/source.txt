@@ -1,7 +1,0 @@
-video_title: James McCann hits RBI groundout, call confirmed James McCann hits RBI groundout, call confirmed James McCann hits RBI groundout, call confirmed Gunnar Henderson scores on a groundout by James McCann and the call is confirmed after an Orioles' challenge in the bottom of the 7th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/25/597014f0-2f08aa56-ab7a3d2b-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_747022_orioles-challenged-play-at-1st-james-mccann-grounds-into-a-double-pla
-clip_id: MLB_747022_orioles-challenged-play-at-1st-james-mccann-grounds-into-a-double-pla_auto1_6p040_12p040
-source_path: raw_sources\MLB_747022_orioles-challenged-play-at-1st-james-mccann-grounds-into-a-double-pla_James_McCann_hits_RBI_groundout_call_confirmed_James_McCann_hits_RBI_groundout_call_confi.mp4
-clip_start_time: 6.040
-clip_end_time: 12.040

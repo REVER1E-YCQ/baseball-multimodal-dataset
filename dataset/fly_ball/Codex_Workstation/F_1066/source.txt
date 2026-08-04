@@ -1,7 +1,0 @@
-video_title: Harris II's two homers give Braves 10-game win streak Harris II's two homers give Braves 10-game win streak Harris II's two homers give Braves 10-game win streak Michael Harris II belts two solo home runs in the Braves' 3-2 win, giving them their 10th win in a row #CurtainCall
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/24/01d68137-50e47c95-a06309e9-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776219_harris-ii-s-two-homers-give-braves-10-game-win-streak
-clip_id: MLB_776219_harris-ii-s-two-homers-give-braves-10-game-win-streak_auto1_5p980_12p980
-source_path: raw_sources\MLB_776219_harris-ii-s-two-homers-give-braves-10-game-win-streak_Harris_II_s_two_homers_give_Braves_10-game_win_streak_Harris_II_s_two_homers_give_Braves_10-game_win_stre.mp4
-clip_start_time: 5.980
-clip_end_time: 12.980

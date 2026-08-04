@@ -1,7 +1,0 @@
-video_title: Max Kepler's game-tying solo home run (18) Max Kepler's game-tying solo home run (18) Max Kepler's game-tying solo home run (18) Max Kepler hits a solo home run to right field, tying the game up for the Phillies with a score of 1-1 in the bottom of the 8th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/28/dbd22f5a-d714e22e-7e27f343-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776141_max-kepler-homers-18-on-a-line-drive-to-right-center-field-uetvnw
-clip_id: MLB_776141_max-kepler-homers-18-on-a-line-drive-to-right-center-field-uetvnw_auto1_3p320_10p320
-source_path: raw_sources\MLB_776141_max-kepler-homers-18-on-a-line-drive-to-right-center-field-uetvnw_Max_Kepler_s_game-tying_solo_home_run_18_Max_Kepler_s_game-tying_solo_home_run_18_Max_Kepler_.mp4
-clip_start_time: 3.320
-clip_end_time: 10.320

@@ -1,7 +1,0 @@
-video_title: Willson Contreras' RBI groundout Willson Contreras' RBI groundout Willson Contreras' RBI groundout Willson Contreras chops a ground ball to Joey Ortiz for the out, while Brendan Donovan comes home to give the Cardinals a 1-0 lead in the 4th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/15/82a9ea9f-aa2a6df3-1d1e0680-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_777492_willson-contreras-grounds-out-shortstop-joey-ortiz-to-first-baseman-r
-clip_id: MLB_777492_willson-contreras-grounds-out-shortstop-joey-ortiz-to-first-baseman-r_auto1_8p596_14p596
-source_path: raw_sources\MLB_777492_willson-contreras-grounds-out-shortstop-joey-ortiz-to-first-baseman-r_Willson_Contreras_RBI_groundout_Willson_Contreras_RBI_groundout_Willson_Contreras_RBI_gro.mp4
-clip_start_time: 8.596
-clip_end_time: 14.596

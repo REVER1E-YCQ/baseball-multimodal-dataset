@@ -1,7 +1,0 @@
-video_title: Andrew Vaughn's run-scoring knock Andrew Vaughn's run-scoring knock Andrew Vaughn's run-scoring knock Andrew Vaughn singles on a line drive to center field and Tommy Pham scores, giving the White Sox a 2-1 lead in the 5th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/20/0309165a-383d6b1c-ec9199a7-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_746782_andrew-vaughn-singles-on-a-line-drive-to-center-fielder-jake-meyers-t
-clip_id: MLB_746782_andrew-vaughn-singles-on-a-line-drive-to-center-fielder-jake-meyers-t_auto1_13p370_20p370
-source_path: raw_sources\MLB_746782_andrew-vaughn-singles-on-a-line-drive-to-center-fielder-jake-meyers-t_Andrew_Vaughn_s_run-scoring_knock_Andrew_Vaughn_s_run-scoring_knock_Andrew_Vaughn_s_run-s.mp4
-clip_start_time: 13.370
-clip_end_time: 20.370

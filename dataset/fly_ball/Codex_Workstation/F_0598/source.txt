@@ -1,7 +1,0 @@
-video_title: Curtain Call: Matt Olson homers in third straight game Curtain Call: Matt Olson homers in third straight game Curtain Call: Olson homers in third straight game Matt Olson continues his hot streak at the plate as he hits his third home run in as many games #CurtainCall
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/15/222e9bc4-511c470b-68e9b8d5-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776315_curtain-call-matt-olson-homers-in-the-third-game
-clip_id: MLB_776315_curtain-call-matt-olson-homers-in-the-third-game_auto1_28p960_35p960
-source_path: raw_sources\MLB_776315_curtain-call-matt-olson-homers-in-the-third-game_Curtain_Call_Matt_Olson_homers_in_third_straight_game_Curtain_Call_Matt_Olson_homers_in_third_straight_game_Cu.mp4
-clip_start_time: 28.960
-clip_end_time: 35.960

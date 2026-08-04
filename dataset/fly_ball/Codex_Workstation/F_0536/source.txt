@@ -1,7 +1,0 @@
-video_title: Jung Hoo Lee doubles up Sal Frelick Jung Hoo Lee doubles up Sal Frelick Jung Hoo Lee doubles up Sal Frelick Jung Hoo Lee catches a fly ball in center field and throws to first base to double up Sal Frelick
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/24/99806485-012fb516-90fa97c6-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_778194_landen-roupp-in-play-run-s-to-christian-yelich-x8598
-clip_id: MLB_778194_landen-roupp-in-play-run-s-to-christian-yelich-x8598_auto1_4p980_11p980
-source_path: raw_sources\MLB_778194_landen-roupp-in-play-run-s-to-christian-yelich-x8598_Jung_Hoo_Lee_doubles_up_Sal_Frelick_Jung_Hoo_Lee_doubles_up_Sal_Frelick_Jung_Hoo_Lee_doubles_up_Sal_Frelic.mp4
-clip_start_time: 4.980
-clip_end_time: 11.980

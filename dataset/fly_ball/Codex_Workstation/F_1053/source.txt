@@ -1,7 +1,0 @@
-video_title: Terry Francona discusses Marte's home run robbery Terry Francona discusses Marte's home run robbery Terry Francona discusses Marte's home run robbery Manager Terry Francona breaks down how important Noelvi Marte's home run robbery means to the team's season after win against the Pirates
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/25/07aaf519-694e96d1-b52038ec-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776190_terry-francona-discusses-marte-s-home-run-robbery
-clip_id: MLB_776190_terry-francona-discusses-marte-s-home-run-robbery_auto1_4p620_11p620
-source_path: raw_sources\MLB_776190_terry-francona-discusses-marte-s-home-run-robbery_Terry_Francona_discusses_Marte_s_home_run_robbery_Terry_Francona_discusses_Marte_s_home_run_robbery_Terry_Fra.mp4
-clip_start_time: 4.620
-clip_end_time: 11.620

@@ -1,7 +1,0 @@
-video_title: Jordan Westburg's sharp backhanded grab Jordan Westburg's sharp backhanded grab Jordan Westburg's sharp backhanded grab Jordan Westburg makes a slick backhanded snag on a hard-hit ground ball from Carson Williams and rips a strong throw to first for the out in the top of the 8th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/23/0e5ca600-0e883b56-201e5138-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776223_carson-williams-grounds-out-third-baseman-jordan-westburg-to-first-ba
-clip_id: MLB_776223_carson-williams-grounds-out-third-baseman-jordan-westburg-to-first-ba_auto1_4p540_10p540
-source_path: raw_sources\MLB_776223_carson-williams-grounds-out-third-baseman-jordan-westburg-to-first-ba_Jordan_Westburg_s_sharp_backhanded_grab_Jordan_Westburg_s_sharp_backhanded_grab_Jordan_We.mp4
-clip_start_time: 4.540
-clip_end_time: 10.540

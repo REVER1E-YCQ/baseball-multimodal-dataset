@@ -1,7 +1,0 @@
-video_title: Jurickson Profar's solo home run (13) Jurickson Profar's solo home run (13) Jurickson Profar's solo home run (13) Jurickson Profar crushes a solo home run to right field, cutting the Braves' deficit to 10-1 in the 4th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/07/a06432f3-a8a1baad-1a246430-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776428_jurickson-profar-s-solo-home-run-13
-clip_id: MLB_776428_jurickson-profar-s-solo-home-run-13_auto1_15p856_22p856
-source_path: raw_sources\MLB_776428_jurickson-profar-s-solo-home-run-13_Jurickson_Profar_s_solo_home_run_13_Jurickson_Profar_s_solo_home_run_13_Jurickson_Profar_s_solo_home_run_13_Jurickson_Profa.mp4
-clip_start_time: 15.856
-clip_end_time: 22.856

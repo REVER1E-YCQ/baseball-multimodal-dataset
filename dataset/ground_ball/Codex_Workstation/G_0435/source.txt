@@ -1,7 +1,0 @@
-video_title: Kevin Newman's spinning throw Kevin Newman's spinning throw Kevin Newman's spinning throw Kevin Newman gloves a grounder and makes a spinning throw to secure the second out of the inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/06/3a9491ac-5411b268-71e0117f-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_745408_ryan-thompson-in-play-out-s-to-ha-seong-kim
-clip_id: MLB_745408_ryan-thompson-in-play-out-s-to-ha-seong-kim_auto1_2p880_8p880
-source_path: raw_sources\MLB_745408_ryan-thompson-in-play-out-s-to-ha-seong-kim_Kevin_Newman_s_spinning_throw_Kevin_Newman_s_spinning_throw_Kevin_Newman_s_spinn.mp4
-clip_start_time: 2.880
-clip_end_time: 8.880

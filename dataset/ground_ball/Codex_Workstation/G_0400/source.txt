@@ -1,7 +1,0 @@
-video_title: Nick Robertson induces groundout, secures win Nick Robertson induces groundout, secures win Nick Robertson induces groundout, secures win
-video_url: https://bdata-producedclips.mlb.com/afa9bd04-2d9d-44e1-aac1-a32d12f07e67.mp4
-source_id: MLB_746233_kyren-paris-grounds-out-second-baseman-nolan-gorman-to-first-baseman-
-clip_id: MLB_746233_kyren-paris-grounds-out-second-baseman-nolan-gorman-to-first-baseman-_auto1_4p000_10p000
-source_path: raw_sources\MLB_746233_kyren-paris-grounds-out-second-baseman-nolan-gorman-to-first-baseman-_Nick_Robertson_induces_groundout_secures_win_Nick_Robertson_induces_groundout_se.mp4
-clip_start_time: 4.000
-clip_end_time: 10.000

@@ -1,7 +1,0 @@
-video_title: Orlando Arcia, Ozzie Albies combine for great play Orlando Arcia, Ozzie Albies combine for great play Orlando Arcia, Ozzie Albies combine for great play Orlando Arcia snags a grounder and makes an incredible backhanded flip to Ozzie Albies, who makes a great tag on second base to get the out
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/28/586640c1-89a3b74c-985fcb06-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_747105_charlie-morton-in-play-out-s-to-oneil-cruz
-clip_id: MLB_747105_charlie-morton-in-play-out-s-to-oneil-cruz_auto1_14p000_20p000
-source_path: raw_sources\MLB_747105_charlie-morton-in-play-out-s-to-oneil-cruz_Orlando_Arcia_Ozzie_Albies_combine_for_great_play_Orlando_Arcia_Ozzie_Albies_combine_for_great_play_Orlando_Arcia_Oz.mp4
-clip_start_time: 14.000
-clip_end_time: 20.000

@@ -1,7 +1,0 @@
-video_title: Brendan Donovan's great diving stop Brendan Donovan's great diving stop Brendan Donovan's great diving stop Brendan Donovan makes a great diving stop on Bobby Witt Jr.'s grounder, then flips it to second for a forceout to end the bottom of the 8th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/17/3e3ed9ac-178ab08a-9c11cf30-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_777885_kyle-leahy-in-play-out-s-to-bobby-witt-jr
-clip_id: MLB_777885_kyle-leahy-in-play-out-s-to-bobby-witt-jr_auto1_11p384_17p384
-source_path: raw_sources\MLB_777885_kyle-leahy-in-play-out-s-to-bobby-witt-jr_Brendan_Donovan_s_great_diving_stop_Brendan_Donovan_s_great_diving_stop_Brendan_Donovan_s_great_diving_stop_Brendan_D.mp4
-clip_start_time: 11.384
-clip_end_time: 17.384

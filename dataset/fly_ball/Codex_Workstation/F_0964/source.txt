@@ -1,7 +1,0 @@
-video_title: Francisco Lindor's solo home run (28) Francisco Lindor's solo home run (28) Francisco Lindor's solo home run (28) Francisco Lindor hits a solo home run to right field, cutting the Mets' deficit to 3-2 in the bottom of the 6th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/21/c4d52249-c13dd076-c25d2ffb-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776237_francisco-lindor-homers-28-on-a-fly-ball-to-right-field-jufv2g
-clip_id: MLB_776237_francisco-lindor-homers-28-on-a-fly-ball-to-right-field-jufv2g_auto1_3p860_10p860
-source_path: raw_sources\MLB_776237_francisco-lindor-homers-28-on-a-fly-ball-to-right-field-jufv2g_Francisco_Lindor_s_solo_home_run_28_Francisco_Lindor_s_solo_home_run_28_Francisco_Lindor_s_solo_.mp4
-clip_start_time: 3.860
-clip_end_time: 10.860

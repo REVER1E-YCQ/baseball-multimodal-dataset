@@ -1,7 +1,0 @@
-video_title: Connor Norby's sliding stop Connor Norby's sliding stop Connor Norby's sliding stop Connor Norby slides to field Ronny Mauricio's grounder, then pops up and throws to first in time for the out in the bottom of the 7th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/29/ed37f607-051aa60f-2c9cd529-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_776548_seth-martinez-in-play-out-s-to-ronny-mauricio
-clip_id: MLB_776548_seth-martinez-in-play-out-s-to-ronny-mauricio_auto1_8p140_14p140
-source_path: raw_sources\MLB_776548_seth-martinez-in-play-out-s-to-ronny-mauricio_Connor_Norby_s_sliding_stop_Connor_Norby_s_sliding_stop_Connor_Norby_s_sliding_stop_Connor_Norby_slides_to_field_.mp4
-clip_start_time: 8.140
-clip_end_time: 14.140

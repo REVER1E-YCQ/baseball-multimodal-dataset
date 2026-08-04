@@ -1,7 +1,0 @@
-video_title: Brenton Doyle's RBI single Brenton Doyle's RBI single Brenton Doyle's RBI single Brenton Doyle hits a grounder that deflects off of Matt Chapman and Ezequiel Tovar scores, cutting the Rockies' deficit to 4-1 in the 4th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/03/e2faa8d5-d2a4aef1-96688b5d-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_776467_robbie-ray-in-play-run-s-to-brenton-doyle
-clip_id: MLB_776467_robbie-ray-in-play-run-s-to-brenton-doyle_auto1_3p760_9p760
-source_path: raw_sources\MLB_776467_robbie-ray-in-play-run-s-to-brenton-doyle_Brenton_Doyle_s_RBI_single_Brenton_Doyle_s_RBI_single_Brenton_Doyle_s_RBI_single_Brenton_Doyle_hits_a_grounder_that_d.mp4
-clip_start_time: 3.760
-clip_end_time: 9.760

@@ -1,7 +1,0 @@
-video_title: Nick Ahmed nabs Adam Duvall at home Nick Ahmed nabs Adam Duvall at home Nick Ahmed nabs Adam Duvall at home Nick Ahmed fields a ground ball and throws to the plate in time for Curt Casali to tag out Adam Duvall
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/03/982e2357-2824e16b-aabdce9a-csvm-diamondx64-asset-4000K.mp4
-source_id: MLB_747100_zack-short-reaches-on-a-fielder-s-choice-out-shortstop-nick-ahmed-to-
-clip_id: MLB_747100_zack-short-reaches-on-a-fielder-s-choice-out-shortstop-nick-ahmed-to-_auto1_6p440_12p440
-source_path: raw_sources\MLB_747100_zack-short-reaches-on-a-fielder-s-choice-out-shortstop-nick-ahmed-to-_Nick_Ahmed_nabs_Adam_Duvall_at_home_Nick_Ahmed_nabs_Adam_Duvall_at_home_Nick_Ahmed_nabs_A.mp4
-clip_start_time: 6.440
-clip_end_time: 12.440

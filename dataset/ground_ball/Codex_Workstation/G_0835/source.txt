@@ -1,7 +1,0 @@
-video_title: Tommy Pham's RBI groundout Tommy Pham's RBI groundout Tommy Pham's RBI groundout Tommy Pham chops a ground ball to Alex Bregman that scores Jared Triolo, putting the Pirates on the board with a 1-0 lead in the top of the 1st
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/30/a87e44bd-26b5cfa6-56f7e7f3-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_776539_dustin-may-in-play-run-s-to-tommy-pham
-clip_id: MLB_776539_dustin-may-in-play-run-s-to-tommy-pham_auto1_4p640_10p640
-source_path: raw_sources\MLB_776539_dustin-may-in-play-run-s-to-tommy-pham_Tommy_Pham_s_RBI_groundout_Tommy_Pham_s_RBI_groundout_Tommy_Pham_s_RBI_groundout_Tommy_Pham_chops_a_ground_ball_to_Alex_.mp4
-clip_start_time: 4.640
-clip_end_time: 10.640

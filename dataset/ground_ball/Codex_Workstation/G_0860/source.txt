@@ -1,7 +1,0 @@
-video_title: Cole Young drives in Garver Cole Young drives in Garver Cole Young drives in Garver Cole Young drives in Mitch Garver on a ground ball to second base, cutting the deficit for the Mariners in the 9th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/18/ff34737e-67efbd6b-49976091-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_776689_nolan-hoffman-in-play-run-s-to-cole-young
-clip_id: MLB_776689_nolan-hoffman-in-play-run-s-to-cole-young_auto1_6p220_12p220
-source_path: raw_sources\MLB_776689_nolan-hoffman-in-play-run-s-to-cole-young_Cole_Young_drives_in_Garver_Cole_Young_drives_in_Garver_Cole_Young_drives_in_Garver_Cole_Young_drives_in_Mitch_Garver.mp4
-clip_start_time: 6.220
-clip_end_time: 12.220

@@ -1,7 +1,0 @@
-video_title: Paul Blackburn secures the Yankees' 7-0 win Paul Blackburn secures the Yankees' 7-0 win Paul Blackburn secures the Yankees' 7-0 win Paul Blackburn fields a ground ball from Jeremiah Jackson, flipping to first to secure the Yankees' 7-0 win over the Orioles
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/18/93330985-ca72459e-29b98a47-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776278_jeremiah-jackson-grounds-out-pitcher-paul-blackburn-to-first-baseman-
-clip_id: MLB_776278_jeremiah-jackson-grounds-out-pitcher-paul-blackburn-to-first-baseman-_auto1_2p560_8p560
-source_path: raw_sources\MLB_776278_jeremiah-jackson-grounds-out-pitcher-paul-blackburn-to-first-baseman-_Paul_Blackburn_secures_the_Yankees_7-0_win_Paul_Blackburn_secures_the_Yankees_7-0_win_Pau.mp4
-clip_start_time: 2.560
-clip_end_time: 8.560

@@ -1,7 +1,0 @@
-video_title: Lourdes Gurriel Jr.'s sac fly Lourdes Gurriel Jr.'s sac fly Lourdes Gurriel Jr.'s sac fly Lourdes Gurriel Jr. brings the D-backs within a run with a hard-hit line drive to center than scores Corbin Carroll
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/21/09f1f5a5-b4205e8c-4aed7c93-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_777055_colton-gordon-in-play-run-s-to-lourdes-gurriel-jr
-clip_id: MLB_777055_colton-gordon-in-play-run-s-to-lourdes-gurriel-jr_auto1_4p340_11p340
-source_path: raw_sources\MLB_777055_colton-gordon-in-play-run-s-to-lourdes-gurriel-jr_Lourdes_Gurriel_Jr._s_sac_fly_Lourdes_Gurriel_Jr._s_sac_fly_Lourdes_Gurriel_Jr._s_sac_fly_Lourdes_Gurriel_Jr..mp4
-clip_start_time: 4.340
-clip_end_time: 11.340

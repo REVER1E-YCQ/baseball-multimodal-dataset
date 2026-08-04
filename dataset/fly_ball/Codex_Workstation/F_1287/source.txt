@@ -1,7 +1,0 @@
-video_title: Jeff Hoffman secures the save and Phillies' victory Jeff Hoffman secures the save and Phillies' victory Jeff Hoffman secures the save and Phillies' victory Jeff Hoffman induces a fly ball to right field, securing the save in the Phillies' 6-4 victory over the Cubs
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/02/f1f81292-69e61872-2c4dc8e1-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_746860_dansby-swanson-lines-out-sharply-to-right-fielder-nick-castellanos
-clip_id: MLB_746860_dansby-swanson-lines-out-sharply-to-right-fielder-nick-castellanos_auto1_3p480_10p480
-source_path: raw_sources\MLB_746860_dansby-swanson-lines-out-sharply-to-right-fielder-nick-castellanos_Jeff_Hoffman_secures_the_save_and_Phillies_victory_Jeff_Hoffman_secures_the_save_and_Phillie.mp4
-clip_start_time: 3.480
-clip_end_time: 10.480

@@ -1,7 +1,0 @@
-video_title: Wilyer Abreu's sliding catch Wilyer Abreu's sliding catch Wilyer Abreu's sliding catch Wilyer Abreu plays the low liner perfectly and makes the impressive sliding catch in right field in the bottom of the 5th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/23/8a7ee89d-6f5f9365-87575563-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_824340_mickey-moniak-lines-out-to-right-fielder-wilyer-abreu
-clip_id: MLB_824340_mickey-moniak-lines-out-to-right-fielder-wilyer-abreu_head_0p000_7p000
-source_path: raw_sources\MLB_824340_mickey-moniak-lines-out-to-right-fielder-wilyer-abreu_Wilyer_Abreu_s_sliding_catch_Wilyer_Abreu_s_sliding_catch_Wilyer_Abreu_s_sliding.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000

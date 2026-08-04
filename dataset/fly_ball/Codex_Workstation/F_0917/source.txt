@@ -1,7 +1,0 @@
-video_title: Aaron Judge's two-run home run (52) Aaron Judge's two-run home run (52) Aaron Judge's two-run home run (52) Aaron Judge belts a two-run home run to center field, scoring José Caballero to give the Yankees a 4-3 lead in the 3rd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/26/ee86b73d-ceeac7dc-cc3c9239-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776174_aaron-judge-homers-52-on-a-fly-ball-to-center-field-jose-caballero-sc
-clip_id: MLB_776174_aaron-judge-homers-52-on-a-fly-ball-to-center-field-jose-caballero-sc_auto1_0p340_7p340
-source_path: raw_sources\MLB_776174_aaron-judge-homers-52-on-a-fly-ball-to-center-field-jose-caballero-sc_Aaron_Judge_s_two-run_home_run_52_Aaron_Judge_s_two-run_home_run_52_Aaron_Judge_s_two-run.mp4
-clip_start_time: 0.340
-clip_end_time: 7.340

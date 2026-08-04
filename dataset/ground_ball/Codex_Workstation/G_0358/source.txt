@@ -1,7 +1,0 @@
-video_title: Nick Loftin opens the scoring with an RBI single  Nick Loftin opens the scoring with an RBI single  Nick Loftin opens the scoring with an RBI single  Nick Loftin grounds an RBI single to right field, getting the Royals on the board with a 1-0 lead in the top of the 1st inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-04/02/89630e34-ce7b7093-b14eb21e-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_747057_nick-loftin-singles-on-a-ground-ball-to-right-fielder-ryan-o-hearn-ga
-clip_id: MLB_747057_nick-loftin-singles-on-a-ground-ball-to-right-fielder-ryan-o-hearn-ga_auto1_3p080_9p080
-source_path: raw_sources\MLB_747057_nick-loftin-singles-on-a-ground-ball-to-right-fielder-ryan-o-hearn-ga_Nick_Loftin_opens_the_scoring_with_an_RBI_single_Nick_Loftin_opens_the_scoring_w.mp4
-clip_start_time: 3.080
-clip_end_time: 9.080

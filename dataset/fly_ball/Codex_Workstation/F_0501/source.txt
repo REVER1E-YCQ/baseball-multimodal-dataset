@@ -1,7 +1,0 @@
-video_title: Max Muncy's walk-off sacrifice fly Max Muncy's walk-off sacrifice fly Max Muncy's walk-off sacrifice fly Max Muncy lifts a fly ball to deep center to plate Shohei Ohtani as the Dodgers walk it off and beat the D-backs, 4-3
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/20/84bf0630-7fe73d50-5c32714a-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_777838_shelby-miller-in-play-run-s-to-max-muncy
-clip_id: MLB_777838_shelby-miller-in-play-run-s-to-max-muncy_auto1_12p640_19p640
-source_path: raw_sources\MLB_777838_shelby-miller-in-play-run-s-to-max-muncy_Max_Muncy_s_walk-off_sacrifice_fly_Max_Muncy_s_walk-off_sacrifice_fly_Max_Muncy_s_walk-off_sacrifice_fly_Max_Muncy_lif.mp4
-clip_start_time: 12.640
-clip_end_time: 19.640

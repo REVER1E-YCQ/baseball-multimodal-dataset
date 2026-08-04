@@ -1,7 +1,0 @@
-video_title: Jake McCarthy's run-scoring triple Jake McCarthy's run-scoring triple Jake McCarthy's run-scoring triple Jake McCarthy triples on a sharp line drive to right-center field, scoring Gabriel Moreno to put the D-backs on the board in the 6th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/09/63bb89cf-f33f6465-a0d87d8d-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_747180_jake-mccarthy-triples-3-on-a-sharp-line-drive-to-center-fielder-jarre
-clip_id: MLB_747180_jake-mccarthy-triples-3-on-a-sharp-line-drive-to-center-fielder-jarre_auto1_3p620_10p620
-source_path: raw_sources\MLB_747180_jake-mccarthy-triples-3-on-a-sharp-line-drive-to-center-fielder-jarre_Jake_McCarthy_s_run-scoring_triple_Jake_McCarthy_s_run-scoring_triple_Jake_McCarthy_s_run.mp4
-clip_start_time: 3.620
-clip_end_time: 10.620

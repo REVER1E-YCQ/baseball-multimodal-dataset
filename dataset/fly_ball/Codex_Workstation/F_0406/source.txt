@@ -1,7 +1,0 @@
-video_title: Ramón Laureano drives in O'Hearn on sacrifice fly Ramón Laureano drives in O'Hearn on sacrifice fly Ramón Laureano drives in O'Hearn on sacrifice fly Ramón Laureano lifts a fly ball to right field, allowing Ryan O'Hearn to score and extend the Orioles' lead to 3-1 in the 8th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/10/3ee5004b-f86d4473-9bf5b4c9-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_777165_ryne-stanek-in-play-run-s-to-ramon-laureano-dkthj8
-clip_id: MLB_777165_ryne-stanek-in-play-run-s-to-ramon-laureano-dkthj8_auto1_10p299_17p299
-source_path: raw_sources\MLB_777165_ryne-stanek-in-play-run-s-to-ramon-laureano-dkthj8_Ram_n_Laureano_drives_in_O_Hearn_on_sacrifice_fly_Ram_n_Laureano_drives_in_O_Hearn_on_sacrifice_fly_Ram_n_La.mp4
-clip_start_time: 10.299
-clip_end_time: 17.299

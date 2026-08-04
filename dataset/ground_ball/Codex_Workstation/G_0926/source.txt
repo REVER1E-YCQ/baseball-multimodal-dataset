@@ -1,7 +1,0 @@
-video_title: Jazz Chisholm Jr.'s second RBI single Jazz Chisholm Jr.'s second RBI single Jazz Chisholm Jr.'s second RBI single Jazz Chisholm Jr. singles on a ground ball to left fielder, Aaron Judge scores, extending the Yankees' lead to 3-0 in the top of the 3rd inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/13/35eef94e-290963a9-2a4ce96e-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_776344_jazz-chisholm-jr-singles-on-a-ground-ball-to-left-fielder-rob-refsnyd
-clip_id: MLB_776344_jazz-chisholm-jr-singles-on-a-ground-ball-to-left-fielder-rob-refsnyd_auto1_4p120_10p120
-source_path: raw_sources\MLB_776344_jazz-chisholm-jr-singles-on-a-ground-ball-to-left-fielder-rob-refsnyd_Jazz_Chisholm_Jr._s_second_RBI_single_Jazz_Chisholm_Jr._s_second_RBI_single_Jazz_Chisholm.mp4
-clip_start_time: 4.120
-clip_end_time: 10.120

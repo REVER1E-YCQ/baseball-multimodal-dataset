@@ -1,7 +1,0 @@
-video_title: Heliot Ramos' solo home run (19)  Heliot Ramos' solo home run (19)  Heliot Ramos' solo home run (19)  Heliot Ramos belts a solo home run to left-center field, giving the Giants a 1-0 lead in the 1st inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/22/6e148ddf-21edcc95-1ba8274e-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776220_heliot-ramos-homers-19-on-a-line-drive-to-left-center-field
-clip_id: MLB_776220_heliot-ramos-homers-19-on-a-line-drive-to-left-center-field_auto1_4p560_11p560
-source_path: raw_sources\MLB_776220_heliot-ramos-homers-19-on-a-line-drive-to-left-center-field_Heliot_Ramos_solo_home_run_19_Heliot_Ramos_solo_home_run_19_Heliot_Ramos_solo_home_run_19_Heliot_Ra.mp4
-clip_start_time: 4.560
-clip_end_time: 11.560

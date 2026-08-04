@@ -1,7 +1,0 @@
-video_title: Ryan McMahon's impressive grab Ryan McMahon's impressive grab Ryan McMahon's impressive grab Ryan McMahon reacts quickly and reaches to his left to make a great catch on a line drive from David Peralta in the bottom of the 4th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-08/04/903a39aa-06db7fb8-3d1872c4-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_745384_david-peralta-lines-out-to-third-baseman-ryan-mcmahon
-clip_id: MLB_745384_david-peralta-lines-out-to-third-baseman-ryan-mcmahon_auto1_1p460_8p460
-source_path: raw_sources\MLB_745384_david-peralta-lines-out-to-third-baseman-ryan-mcmahon_Ryan_McMahon_s_impressive_grab_Ryan_McMahon_s_impressive_grab_Ryan_McMahon_s_impressive_grab_Ryan_McMahon.mp4
-clip_start_time: 1.460
-clip_end_time: 8.460

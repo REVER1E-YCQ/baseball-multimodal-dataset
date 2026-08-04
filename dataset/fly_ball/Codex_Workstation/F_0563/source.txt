@@ -1,7 +1,0 @@
-video_title: Vladimir Guerrero Jr.'s RBI double Vladimir Guerrero Jr.'s RBI double Vladimir Guerrero Jr.'s RBI double Vladimir Guerrero Jr. hits a sharp line drive to center field for an RBI double to give the Blue Jays the lead in the 1st inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/12/6d2ff939-de050667-0ecb4d5c-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_778362_tomoyuki-sugano-in-play-no-out-to-vladimir-guerrero-jr
-clip_id: MLB_778362_tomoyuki-sugano-in-play-no-out-to-vladimir-guerrero-jr_auto1_7p580_14p580
-source_path: raw_sources\MLB_778362_tomoyuki-sugano-in-play-no-out-to-vladimir-guerrero-jr_Vladimir_Guerrero_Jr._s_RBI_double_Vladimir_Guerrero_Jr._s_RBI_double_Vladimir_Guerrero_Jr._s_RBI_double.mp4
-clip_start_time: 7.580
-clip_end_time: 14.580

@@ -1,7 +1,0 @@
-video_title: Dylan Carlson's RBI single Dylan Carlson's RBI single Dylan Carlson's RBI single Dylan Carlson hits a hard ground ball to third base that goes off Ke'Bryan Hayes' glove for an RBI single
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/12/bcafd53f-f03d8707-f31e0474-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_745171_bailey-falter-in-play-run-s-to-dylan-carlson
-clip_id: MLB_745171_bailey-falter-in-play-run-s-to-dylan-carlson_auto1_0p000_6p000
-source_path: raw_sources\MLB_745171_bailey-falter-in-play-run-s-to-dylan-carlson_Dylan_Carlson_s_RBI_single_Dylan_Carlson_s_RBI_single_Dylan_Carlson_s_RBI_single.mp4
-clip_start_time: 0.000
-clip_end_time: 6.000

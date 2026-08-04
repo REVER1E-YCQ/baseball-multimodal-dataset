@@ -1,7 +1,0 @@
-video_title: Nasim Nuñez's first Major League home run Nasim Nuñez's first Major League home run Nasim Nuñez's first Major League home run Nasim Nuñez hits a solo home run to right field, the first homer of his career, to give the Nationals a 4-0 lead in the 2nd
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/03/f77f8f68-d7696364-f6a915ae-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776477_nasim-nunez-homers-1-on-a-fly-ball-to-right-field
-clip_id: MLB_776477_nasim-nunez-homers-1-on-a-fly-ball-to-right-field_auto1_0p000_7p000
-source_path: raw_sources\MLB_776477_nasim-nunez-homers-1-on-a-fly-ball-to-right-field_Nasim_Nu_ez_s_first_Major_League_home_run_Nasim_Nu_ez_s_first_Major_League_home_run_Nasim_Nu_ez_s_first_Major.mp4
-clip_start_time: 0.000
-clip_end_time: 7.000

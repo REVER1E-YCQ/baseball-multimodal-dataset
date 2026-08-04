@@ -1,7 +1,0 @@
-video_title: Brandon Marsh's solo home run (11) Brandon Marsh's solo home run (11) Brandon Marsh's solo home run (11) Brandon Marsh homers on a fly ball to right field, trimming the Phillies' deficit to 3-2 in the bottom of the 4th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/29/8d6145d4-9303a01b-d649ae01-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_745547_brandon-marsh-homers-11-on-a-fly-ball-to-right-field
-clip_id: MLB_745547_brandon-marsh-homers-11-on-a-fly-ball-to-right-field_auto1_0p900_7p900
-source_path: raw_sources\MLB_745547_brandon-marsh-homers-11-on-a-fly-ball-to-right-field_Brandon_Marsh_s_solo_home_run_11_Brandon_Marsh_s_solo_home_run_11_Brandon_Marsh_s_solo_home_run_11_Brandon.mp4
-clip_start_time: 0.900
-clip_end_time: 7.900

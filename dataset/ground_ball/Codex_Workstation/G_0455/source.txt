@@ -1,7 +1,0 @@
-video_title: Elias Díaz's RBI groundout Elias Díaz's RBI groundout Elias Díaz's RBI groundout Elias Díaz grounds out to third base in the bottom of the 1st inning allowing Charlie Blackmon to score and make it 1-0 Rockies
-video_url: https://bdata-producedclips.mlb.com/3881ad69-a0a9-4674-a7fb-552bd952afaa.mp4
-source_id: MLB_746544_graham-ashcraft-in-play-run-s-to-elias-diaz
-clip_id: MLB_746544_graham-ashcraft-in-play-run-s-to-elias-diaz_auto1_4p340_10p340
-source_path: raw_sources\MLB_746544_graham-ashcraft-in-play-run-s-to-elias-diaz_Elias_D_az_s_RBI_groundout_Elias_D_az_s_RBI_groundout_Elias_D_az_s_RBI_groundout.mp4
-clip_start_time: 4.340
-clip_end_time: 10.340

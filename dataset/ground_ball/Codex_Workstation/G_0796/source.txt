@@ -1,7 +1,0 @@
-video_title: Chase Meidroth makes heads up play at second base Chase Meidroth makes heads up play at second base Chase Meidroth makes heads up play at second base Chase Meidroth salvages an inning-ending ground ball that bounced off Lenyn Sosa's glove
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/15/baad8a9f-1ba37cc9-a05bded3-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776314_chase-meidroth-makes-heads-up-play-at-second-base
-clip_id: MLB_776314_chase-meidroth-makes-heads-up-play-at-second-base_auto1_3p080_9p080
-source_path: raw_sources\MLB_776314_chase-meidroth-makes-heads-up-play-at-second-base_Chase_Meidroth_makes_heads_up_play_at_second_base_Chase_Meidroth_makes_heads_up_play_at_second_base_Chase_Mei.mp4
-clip_start_time: 3.080
-clip_end_time: 9.080

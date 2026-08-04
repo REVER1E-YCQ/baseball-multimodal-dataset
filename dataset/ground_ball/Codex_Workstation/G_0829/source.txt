@@ -1,7 +1,0 @@
-video_title: Cam Devanney's stellar sliding play  Cam Devanney's stellar sliding play  Cam Devanney's stellar sliding play Cam Devanney slides to stop a ground ball and makes the throw to 1st base, ending the bottom of the 6th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/31/45635cc4-bdb2a653-291adbf2-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776517_cam-devanney-stellar-sliding-play
-clip_id: MLB_776517_cam-devanney-stellar-sliding-play_auto1_1p260_7p260
-source_path: raw_sources\MLB_776517_cam-devanney-stellar-sliding-play_Cam_Devanney_s_stellar_sliding_play_Cam_Devanney_s_stellar_sliding_play_Cam_Devanney_s_stellar_sliding_play_Cam_Devanney_slid.mp4
-clip_start_time: 1.260
-clip_end_time: 7.260

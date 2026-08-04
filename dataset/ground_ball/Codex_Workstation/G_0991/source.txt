@@ -1,7 +1,0 @@
-video_title: Geraldo Perdomo's slick play Geraldo Perdomo's slick play Geraldo Perdomo's slick play Geraldo Perdomo makes a slick play on a ground ball for the second out of the bottom of the 8th inning for the D-backs
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/30/05a2473c-77ade9e9-354b8f74-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776940_jake-rogers-grounds-out-shortstop-geraldo-perdomo-to-first-baseman-tr
-clip_id: MLB_776940_jake-rogers-grounds-out-shortstop-geraldo-perdomo-to-first-baseman-tr_auto1_19p893_25p893
-source_path: raw_sources\MLB_776940_jake-rogers-grounds-out-shortstop-geraldo-perdomo-to-first-baseman-tr_Geraldo_Perdomo_s_slick_play_Geraldo_Perdomo_s_slick_play_Geraldo_Perdomo_s_slick_play_Ge.mp4
-clip_start_time: 19.893
-clip_end_time: 25.893

@@ -1,7 +1,0 @@
-video_title: Darell Hernaiz's slick play Darell Hernaiz's slick play Darell Hernaiz's slick play Darell Hernaiz reacts quickly to a hard-hit grounder and slides to his right to make a great snag, then gets the runner at first in the bottom of the 4th inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/05/c2818107-0cf6dfa3-6cae770d-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776865_james-wood-grounds-out-shortstop-darell-hernaiz-to-first-baseman-nick
-clip_id: MLB_776865_james-wood-grounds-out-shortstop-darell-hernaiz-to-first-baseman-nick_auto1_13p400_19p400
-source_path: raw_sources\MLB_776865_james-wood-grounds-out-shortstop-darell-hernaiz-to-first-baseman-nick_Darell_Hernaiz_s_slick_play_Darell_Hernaiz_s_slick_play_Darell_Hernaiz_s_slick_play_Darel.mp4
-clip_start_time: 13.400
-clip_end_time: 19.400

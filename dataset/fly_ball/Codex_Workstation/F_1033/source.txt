@@ -1,7 +1,0 @@
-video_title: Teoscar Hernández's three-run home run Teoscar Hernández's three-run home run Teoscar Hernández's three-run home run Teoscar Hernández drills a three-run homer to left field, scoring Freddie Freeman and Max Muncy and extending the Dodgers' lead to 4-0 in the bottom of the 3rd
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/30/100a48ac-bf1d60c6-663d992f-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_813069_teoscar-hernandez-homers-1-on-a-line-drive-to-left-field-freddie-free
-clip_id: MLB_813069_teoscar-hernandez-homers-1-on-a-line-drive-to-left-field-freddie-free_auto1_4p120_11p120
-source_path: raw_sources\MLB_813069_teoscar-hernandez-homers-1-on-a-line-drive-to-left-field-freddie-free_Teoscar_Hern_ndez_s_three-run_home_run_Teoscar_Hern_ndez_s_three-run_home_run_Teoscar_Her.mp4
-clip_start_time: 4.120
-clip_end_time: 11.120

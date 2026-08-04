@@ -1,7 +1,0 @@
-video_title: Korey Lee scores on double play Korey Lee scores on double play Korey Lee scores on double play Korey Lee scores after Luis Robert Jr. grounds into a double play in the 5th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/05/69a0f838-e1b01700-00d8a5f1-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_778445_reese-olson-in-play-out-s-to-luis-robert-jr
-clip_id: MLB_778445_reese-olson-in-play-out-s-to-luis-robert-jr_auto1_10p900_16p900
-source_path: raw_sources\MLB_778445_reese-olson-in-play-out-s-to-luis-robert-jr_Korey_Lee_scores_on_double_play_Korey_Lee_scores_on_double_play_Korey_Lee_scores.mp4
-clip_start_time: 10.900
-clip_end_time: 16.900

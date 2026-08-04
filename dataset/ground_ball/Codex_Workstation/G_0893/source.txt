@@ -1,7 +1,0 @@
-video_title: Yandy Díaz's RBI fielder's choice Yandy Díaz's RBI fielder's choice Yandy Díaz's RBI fielder's choice Yandy Díaz hits a grounder to short for an RBI fielder's choice, extending the Rays' lead to 7-0 in the top of the 4th
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/05/aba51c3e-bb2dcaae-7c7ba5d9-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_776848_jose-soriano-in-play-out-s-to-yandy-diaz-r65b5m
-clip_id: MLB_776848_jose-soriano-in-play-out-s-to-yandy-diaz-r65b5m_auto1_1p700_7p700
-source_path: raw_sources\MLB_776848_jose-soriano-in-play-out-s-to-yandy-diaz-r65b5m_Yandy_D_az_s_RBI_fielder_s_choice_Yandy_D_az_s_RBI_fielder_s_choice_Yandy_D_az_s_RBI_fielder_s_choice_Yandy_D_a.mp4
-clip_start_time: 1.700
-clip_end_time: 7.700

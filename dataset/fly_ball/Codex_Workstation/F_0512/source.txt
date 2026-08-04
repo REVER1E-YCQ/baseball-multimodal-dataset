@@ -1,7 +1,0 @@
-video_title: Victor Scott II's smooth diving catch Victor Scott II's smooth diving catch Victor Scott II's smooth diving catch Victor Scott II chases a line drive from Nathaniel Lowe and lays out to make a diving catch in center field for the final out of the 1st inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/10/26d1fffb-417d1c27-552e44e6-csvm-diamondgcp-asset_1280x720_59_4000K.mp4
-source_id: MLB_777980_nathaniel-lowe-lines-out-to-center-fielder-victor-scott-ii
-clip_id: MLB_777980_nathaniel-lowe-lines-out-to-center-fielder-victor-scott-ii_auto1_5p140_12p140
-source_path: raw_sources\MLB_777980_nathaniel-lowe-lines-out-to-center-fielder-victor-scott-ii_Victor_Scott_II_s_smooth_diving_catch_Victor_Scott_II_s_smooth_diving_catch_Victor_Scott_II_s_smooth.mp4
-clip_start_time: 5.140
-clip_end_time: 12.140

@@ -1,7 +1,0 @@
-video_title: Isaac Paredes' solo home run (14) Isaac Paredes' solo home run (14) Isaac Paredes' solo home run (14) Isaac Paredes homers on a fly ball to left field, giving the Rays an early 1-0 lead in the top of the 1st inning
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/03/db4f013c-e1430806-274e8811-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_746283_isaac-paredes-homers-14-on-a-fly-ball-to-left-field-e1zzti
-clip_id: MLB_746283_isaac-paredes-homers-14-on-a-fly-ball-to-left-field-e1zzti_auto1_6p180_13p180
-source_path: raw_sources\MLB_746283_isaac-paredes-homers-14-on-a-fly-ball-to-left-field-e1zzti_Isaac_Paredes_solo_home_run_14_Isaac_Paredes_solo_home_run_14_Isaac_Paredes_solo_home_run_14_Isaac_P.mp4
-clip_start_time: 6.180
-clip_end_time: 13.180

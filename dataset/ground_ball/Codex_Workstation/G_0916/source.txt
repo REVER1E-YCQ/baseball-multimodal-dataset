@@ -1,7 +1,0 @@
-video_title: Salvador Perez's RBI single Salvador Perez's RBI single Salvador Perez's RBI single Salvador Perez singles on a ground ball to center field in the bottom of the 5th inning to score Vinnie Pasquantino and make it 6-4
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/21/e95f5931-155ae762-7b774682-csvm-diamondgcp-asset-4000K.mp4
-source_id: MLB_776229_salvador-perez-singles-on-a-ground-ball-to-center-fielder-daulton-var
-clip_id: MLB_776229_salvador-perez-singles-on-a-ground-ball-to-center-fielder-daulton-var_auto1_5p820_11p820
-source_path: raw_sources\MLB_776229_salvador-perez-singles-on-a-ground-ball-to-center-fielder-daulton-var_Salvador_Perez_s_RBI_single_Salvador_Perez_s_RBI_single_Salvador_Perez_s_RBI_single_Salva.mp4
-clip_start_time: 5.820
-clip_end_time: 11.820

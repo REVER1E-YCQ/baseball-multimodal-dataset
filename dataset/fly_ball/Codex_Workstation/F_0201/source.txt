@@ -1,7 +1,0 @@
-video_title: Andrew McCutchen's leadoff home run (7) Andrew McCutchen's leadoff home run (7) Andrew McCutchen's leadoff home run (7) Andrew McCutchen skies a towering fly ball to left-center field for a leadoff homer to put the Pirates on the board in the 1st
-video_url: https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/23/a7a3a29a-4703bc6b-ae0da5cc-csvm-diamondx64-asset_1280x720_59_4000K.mp4
-source_id: MLB_745500_erik-miller-in-play-run-s-to-andrew-mccutchen
-clip_id: MLB_745500_erik-miller-in-play-run-s-to-andrew-mccutchen_auto1_9p340_16p340
-source_path: raw_sources\MLB_745500_erik-miller-in-play-run-s-to-andrew-mccutchen_Andrew_McCutchen_s_leadoff_home_run_7_Andrew_McCutchen_s_leadoff_home_run_7_Andr.mp4
-clip_start_time: 9.340
-clip_end_time: 16.340
