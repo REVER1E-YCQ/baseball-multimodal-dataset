@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.test_tmp/
+
+# Local artifacts: never commit data, model weights, or derived embeddings.
+artifacts/
+outputs/
+third_party/
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+*.wav
+*.mp3
+*.mp4
+*.npy
+*.npz
