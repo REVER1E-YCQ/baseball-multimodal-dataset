@@ -1,0 +1,1 @@
+0.960000	1.000000	fly_ball|8|H|line_drive
