@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>新修复棒球数据检索复核</title>
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="title-block">
+      <h1>新修复棒球数据检索复核</h1>
+      <p id="buildSummary">读取索引中...</p>
+    </div>
+    <div class="top-actions">
+      <button type="button" id="exportCsvBtn">导出复核 CSV</button>
+      <button type="button" id="exportJsonBtn">导出复核 JSON</button>
+    </div>
+  </header>
+
+  <section class="stats-strip" id="statsStrip" aria-label="数据概览"></section>
+
+  <main class="workspace">
+    <aside class="sample-browser">
+      <div class="filters">
+        <input id="searchInput" type="search" placeholder="搜索 sample_id、标题、路径、批次、来源">
+        <div class="filter-row">
+          <select id="labelFilter" aria-label="标签筛选"></select>
+          <select id="batchFilter" aria-label="批次筛选"></select>
+        </div>
+        <div class="filter-row">
+          <select id="gateFilter" aria-label="门禁筛选">
+            <option value="">全部门禁</option>
+            <option value="ready">已通过可物化</option>
+            <option value="needs_attention">需注意</option>
+          </select>
+          <select id="decisionFilter" aria-label="本地复核筛选">
+            <option value="">全部复核状态</option>
+            <option value="blank">未标记</option>
+            <option value="correct">已确认正确</option>
+            <option value="needs_followup">需复查</option>
+          </select>
+        </div>
+        <div class="result-count" id="resultCount"></div>
+      </div>
+      <div class="sample-list" id="sampleList" aria-label="样本列表"></div>
+    </aside>
+
+    <section class="sample-detail" id="sampleDetail">
+      <div class="empty-state">选择一条样本查看完整信息。</div>
+    </section>
+  </main>
+
+  <template id="detailTemplate">
+    <article>
+      <header class="detail-head">
+        <div>
+          <div class="kicker" data-field="batch"></div>
+          <h2 data-field="sampleId"></h2>
+        </div>
+        <div class="head-badges" data-field="headBadges"></div>
+      </header>
+
+      <section class="media-grid">
+        <div class="media-panel">
+          <div class="section-head">
+            <h3>视频</h3>
+            <span data-field="videoClock"></span>
+          </div>
+          <video id="sampleVideo" controls preload="metadata" playsinline></video>
+          <div class="transport">
+            <button type="button" id="seekFinalBtn">定位最终击球点</button>
+            <button type="button" id="backBtn">-0.05s</button>
+            <button type="button" id="forwardBtn">+0.05s</button>
+            <button type="button" id="copyPathBtn">复制媒体路径</button>
+          </div>
+        </div>
+        <div class="media-panel">
+          <div class="section-head">
+            <h3>音频</h3>
+            <span data-field="audioClock"></span>
+          </div>
+          <audio id="sampleAudio" controls preload="metadata"></audio>
+          <dl class="compact-list" data-field="timingList"></dl>
+        </div>
+      </section>
+
+      <section class="review-box">
+        <div class="section-head">
+          <h3>本地人工确认</h3>
+          <span id="localStatus"></span>
+        </div>
+        <div class="decision-row">
+          <button type="button" class="primary" id="markCorrectBtn">标记正确</button>
+          <button type="button" class="warn" id="markFollowupBtn">标记需复查</button>
+          <button type="button" id="clearDecisionBtn">清除标记</button>
+        </div>
+        <div class="check-grid">
+          <label><input type="checkbox" data-check="liveContact"> 视频现场触球语义</label>
+          <label><input type="checkbox" data-check="audioTransient"> 音频击球瞬态</label>
+          <label><input type="checkbox" data-check="labelOk"> 标签与轨迹一致</label>
+          <label><input type="checkbox" data-check="sourceTrace"> source.txt 可追溯</label>
+        </div>
+        <textarea id="reviewNotes" placeholder="本地复核备注"></textarea>
+      </section>
+
+      <section class="detail-grid">
+        <section class="info-panel">
+          <div class="section-head"><h3>最终样本信息</h3></div>
+          <dl class="info-list" data-field="sampleInfo"></dl>
+        </section>
+        <section class="info-panel">
+          <div class="section-head"><h3>门禁结果</h3></div>
+          <div class="gate-list" data-field="gateList"></div>
+        </section>
+        <section class="info-panel wide">
+          <div class="section-head"><h3>来源与证据</h3></div>
+          <dl class="info-list" data-field="sourceInfo"></dl>
+        </section>
+      </section>
+    </article>
+  </template>
+
+  <script src="data/newly_verified_index.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>
