@@ -69,7 +69,7 @@ evaluator to test a different collection workflow.
 ## Files
 
 ```text
-baselines/m2d_audio/
+model/m2d_audio_baseline/
 |-- scripts/
 |   |-- prepare_windows.py
 |   |-- extract_m2d_embeddings.py

@@ -9,7 +9,7 @@
 | V2–V3 (07 月上旬) | `v2/v3_fly_ground_experiment_report_zh.md`（未随本分支上传） | 信号是否存在 → 弱可分，发现严重采集混淆 |
 | V4 统一基准 (07-16) | `v4_unified_frozen_audio_benchmark_zh.md` | 统一协议下哪个冻结编码器最稳 → M2D；但长窗口高分主要来自上下文而非击球 |
 | V5 大数据重跑 (07-19) | `v5_m2d_traditional_update_zh.md` | 2000 条 Codex 集上是否成立 → 成立（0.606），但外部人工数据迁移失败（0.490） |
-| 可移植 baseline (07-31) | `baselines/m2d_audio/README.md` | 最小可复现包：切窗→冻结 M2D→linear probe + 负控 |
+| 可移植 baseline (07-31) | `model/m2d_audio_baseline/README.md` | 最小可复现包：切窗→冻结 M2D→linear probe + 负控 |
 | 锁定基准 (08-05) | `20260805_short_contact_m2d_beats_benchmark_zh.md` | 人工核验快照上建立公共参照（mean 池化 0.60–0.62），负控干净 |
 | 表示改进 (08-06) | `20260806_pooling_layer_threshold_zh.md` | 池化+层扫描 → **attention 第 11 层 headline 0.667**；阈值校准无收益 |
 | 泄漏检查 (08-06) | `20260806_full_audio_leakage_check_zh.md` | 全音频 0.777 的来源 → 击球后内容泄漏，**禁止用全长音频报结果** |
