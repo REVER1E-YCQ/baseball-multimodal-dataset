@@ -36,21 +36,40 @@
 - **物理参数信息**：仿真探针表明强度类线索在噪声下最稳健，可作为特征工程方向
 - 文献地图见 `docs/research/impact-audio-literature-map.md`
 
-## 实验代码位置
+## 实验代码位置（完整分类）
 
-所有实验的入口脚本与可复用模块都在 `model/m2d_audio_baseline/scripts/`（每个 `run_*.py` 对应一个实验，模块名见各报告末尾），配套单元测试在 `model/m2d_audio_baseline/tests/`。对应关系举例：
+全部代码在 `model/m2d_audio_baseline/scripts/`，单元测试在 `tests/`。入口统一是 `python -m scripts.<name>`；所有 run_* 运行前会先经 `audit_verified_snapshot` 校验快照成员与指纹。
 
-| 实验 | 入口 |
+**核心基准（锁定协议）**
+
+| 文件 | 作用 |
 |---|---|
-| 锁定基准 / 敏感性 | `run_m2d_primary.py`, `run_beats_primary.py`, `run_common_200ms.py`, `run_m2d_sensitivity.py` |
-| 池化/层扫描/阈值 | `short_contact_benchmark.py`, `attention_control_representation.py`, `run_layer_scan.py` |
-| full-audio 泄漏检查 | `run_full_audio_conditions.py` |
-| 对齐敏感性 | `run_alignment_sensitivity.py` |
-| 编码器融合 | `run_encoder_fusion.py` |
-| LoRA 微调试点 | `run_finetune_pilot.py` |
-| 分类头/配对对比 | `exploratory_probe_benchmark.py`, `margin_classifier_evaluation.py`, `paired_contrast_evaluation.py` |
-| 数据增强 | `contact_window_augmentation.py` |
-| 统计检验/报告 | `statistical_evidence.py`, `validate_and_report.py` |
+| `prepare_windows.py` | 切窗：峰值居中事件窗 / 严格 Pre / 瞬态移除 |
+| `short_contact_benchmark.py` | 锁定基准缝：编码、池化族、分组折、负控条件 |
+| `m2d_encoder.py` / `beats_encoder.py` | 冻结 M2D / BEATs 封装 |
+| `audit_verified_snapshot.py` | 快照成员与指纹校验（所有入口的前置） |
+| `benchmark_artifact_roles.py` | artifact 角色解析（按协议角色而非文件名取输入） |
+
+**各报告对应的实验入口**
+
+| 实验（报告在 `docs/experiments/`） | 入口 / 模块 |
+|---|---|
+| 主基准 + 敏感性（0805 基准报告） | `run_m2d_primary.py`, `run_beats_primary.py`, `run_common_200ms.py` + `compare_common_200ms.py`, `run_m2d_sensitivity.py` |
+| 池化消融 / 层扫描 / 阈值（0806 headline 报告） | `attention_control_representation.py`, `run_layer_scan.py`, `cached_attention_controls.py` + runner |
+| full-audio 泄漏检查（0806 泄漏报告） | `run_full_audio_conditions.py` |
+| 对齐敏感性（0809 报告） | `run_alignment_sensitivity.py` |
+| 编码器融合（0809 报告） | `encoder_fusion.py` + `run_encoder_fusion.py` |
+| LoRA 微调试点（0809 报告） | `finetune_m2d.py` + `run_finetune_pilot.py` |
+| 探针/边际分类器/配对对比/置换（0810 报告） | `exploratory_probe_benchmark.py`, `margin_classifier_evaluation.py` + runner, `paired_contrast_evaluation.py` + runner, `refitted_family_permutation.py` + runner |
+| 数据增强（0810 报告） | `contact_window_augmentation.py` + runner |
+
+**统计与验证基础设施**
+
+| 文件 | 作用 |
+|---|---|
+| `statistical_evidence.py` | 置换检验、置信区间（headline 的 p=0.001 出自这里） |
+| `secondary_evidence.py` + runner | 固定划分开发集证据（明确标注为 development evidence） |
+| `validate_and_report.py` + runner | 一键校验全部产物并生成中文技术报告 |
 
 ## 防重复实验的两条铁律
 
