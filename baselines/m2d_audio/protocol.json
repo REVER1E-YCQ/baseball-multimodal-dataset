@@ -1,0 +1,41 @@
+{
+  "baseline": "frozen_m2d_40ms_mean_std_max_logistic_regression",
+  "task": "fly_ball_vs_ground_ball",
+  "event_window_ms": 200,
+  "alignment": "absolute amplitude peak within [event_start, event_end]",
+  "strict_pre_window_ms": 200,
+  "strict_pre_gap_ms": 50,
+  "encoder_training_epochs": 0,
+  "inference_precision": "cuda_amp_fp16",
+  "embedding_dimension": 2304,
+  "pooling": [
+    "timestamp_token_mean",
+    "timestamp_token_population_std",
+    "timestamp_token_max"
+  ],
+  "classifier": "StandardScaler + L2 logistic regression",
+  "class_weight": "balanced",
+  "solver": "liblinear",
+  "max_iter": 5000,
+  "c_grid": [
+    0.001,
+    0.01,
+    0.1
+  ],
+  "outer_cv": "StratifiedGroupKFold(5, shuffle=True)",
+  "inner_cv": "StratifiedGroupKFold(3, shuffle=True)",
+  "repeats": 5,
+  "seed": 20260716,
+  "primary_metric": "balanced_accuracy",
+  "secondary_metrics": [
+    "roc_auc",
+    "macro_f1",
+    "mcc"
+  ],
+  "m2d_upstream_commit": "3d0c4de9447c404a8d3f9f37e04f53bc902e09b3",
+  "checkpoint_filename": "checkpoint-300.pth",
+  "checkpoint_sha256": "63578974bc004ef57a8e5456bac8c684f62c9285537a7b2ddef13b442386786f",
+  "checkpoint_is_bundled": false,
+  "locked_test_used": false
+}
+
