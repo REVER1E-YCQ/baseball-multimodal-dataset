@@ -22,4 +22,3 @@ the trusted upstream release.
 This candidate package does not add or choose a license for the parent dataset
 repository. The repository owner must decide and add the project license before
 publishing the code as an open-source deliverable.
-

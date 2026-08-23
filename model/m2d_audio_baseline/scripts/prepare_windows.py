@@ -99,11 +99,52 @@ def relative_to_manifest(path: Path, output_manifest: Path) -> str:
     return Path(os.path.relpath(path, output_manifest.parent)).as_posix()
 
 
+NON_CENTERED_KINDS = ("full_audio", "post_contact", "pre_contact")
+
+
+def parse_non_centered_spec(spec: str) -> tuple[str, int | None]:
+    """Parse a non-centered window spec into (kind, duration_ms).
+
+    ``duration_ms`` is None for ``full_audio``. Raises ValueError for
+    malformed or duplicated specs.
+    """
+    if not isinstance(spec, str) or not spec.strip():
+        raise ValueError("non_centered_windows entries must be non-empty strings")
+    if spec == "full_audio":
+        return "full_audio", None
+    for kind in ("post_contact", "pre_contact"):
+        prefix = f"{kind}_"
+        if spec.startswith(prefix) and spec.endswith("ms"):
+            suffix = spec[len(prefix) : -2]
+            if suffix.isdigit() and int(suffix) > 0:
+                return kind, int(suffix)
+            raise ValueError(
+                f"non-centered window spec {spec!r} needs a positive duration"
+            )
+    raise ValueError(
+        "non-centered window spec must be one of full_audio, "
+        f"post_contact_<N>ms or pre_contact_<N>ms; got {spec!r}"
+    )
+
+
+def validate_non_centered_specs(specs: tuple[str, ...]) -> tuple[str, ...]:
+    seen: set[str] = set()
+    for spec in specs:
+        if spec in seen:
+            raise ValueError(f"non-centered window spec repeats {spec!r}")
+        seen.add(spec)
+        parse_non_centered_spec(spec)
+    return specs
+
+
 def prepare_windows(
     manifest_path: Path,
     out_root: Path,
     window_ms: tuple[int, ...] = (200,),
     pre_gap_ms: int = 50,
+    include_strict_pre: bool = True,
+    non_centered_windows: tuple[str, ...] = (),
+    event_shift_ms: int = 0,
 ) -> pd.DataFrame:
     manifest_path = manifest_path.resolve()
     out_root = out_root.resolve()
@@ -117,6 +158,7 @@ def prepare_windows(
         raise ValueError("All window lengths must be positive")
     if pre_gap_ms < 0:
         raise ValueError("pre_gap_ms cannot be negative")
+    validate_non_centered_specs(non_centered_windows)
 
     output_manifest = out_root / "windows_manifest.csv"
     rows: list[dict[str, object]] = []
@@ -150,16 +192,96 @@ def prepare_windows(
             event_end,
         )
 
+        for spec in non_centered_windows:
+            kind, duration_ms = parse_non_centered_spec(spec)
+            if kind == "full_audio":
+                segment_start = 0.0
+                segment_end = audio_duration
+            elif kind == "post_contact":
+                segment_start = peak_time
+                segment_end = segment_start + duration_ms / 1000.0
+                if segment_end > audio_duration + 1e-9:
+                    continue
+            else:
+                segment_end = event_start - gap_seconds
+                segment_start = segment_end - duration_ms / 1000.0
+                if segment_start < -1e-9:
+                    continue
+            segment_audio = exact_slice(
+                waveform,
+                int(sample_rate),
+                segment_start,
+                segment_end - segment_start,
+            )
+            segment_path = (
+                out_root / "windows" / spec / f"{filename}.wav"
+            )
+            segment_path.parent.mkdir(parents=True, exist_ok=True)
+            wavfile.write(
+                segment_path, int(sample_rate), to_int16(segment_audio)
+            )
+            alignment = {
+                "full_audio": "full_clip_from_audio_start",
+                "post_contact": "fixed_segment_starting_at_estimated_peak",
+                "pre_contact": (
+                    f"fixed_segment_ending_{pre_gap_ms}ms_before_event_start"
+                ),
+            }[kind]
+            rows.append(
+                {
+                    "uid": uid,
+                    "label": str(row.label),
+                    "source_id": str(row.source_id),
+                    "protocol_role": str(row.protocol_role),
+                    "window_name": spec,
+                    "window_kind": kind,
+                    "window_path": relative_to_manifest(
+                        segment_path, output_manifest
+                    ),
+                    "window_start": segment_start,
+                    "window_end": segment_end,
+                    "window_duration": segment_end - segment_start,
+                    "sample_rate": int(sample_rate),
+                    "event_start": event_start,
+                    "event_end": event_end,
+                    "estimated_peak_time": peak_time,
+                    "window_shift_from_requested_ms": 0.0,
+                    "alignment_method": alignment,
+                    "wav_boundary_padding_samples": 0,
+                }
+            )
+
         for milliseconds in sorted(set(window_ms)):
             duration = milliseconds / 1000.0
             suffix = f"{milliseconds:03d}ms"
             event_name = f"event_{suffix}"
-            requested_start = peak_time - duration / 2.0
-            event_window_start = bounded_centered_start(
-                peak_time,
-                duration,
-                audio_duration,
-            )
+            shift_seconds = event_shift_ms / 1000.0
+            if event_shift_ms != 0:
+                # Alignment diagnostic: slice exactly at peak + shift with
+                # no boundary clamping, so the shift is never eaten; samples
+                # whose shifted window falls outside the file are skipped
+                # for this condition only.
+                event_window_start = peak_time + shift_seconds - duration / 2.0
+                if (
+                    event_window_start < -1e-9
+                    or event_window_start + duration
+                    > audio_duration + 1e-9
+                ):
+                    continue
+                requested_start = event_window_start
+                alignment_method = (
+                    f"peak_centred_shifted_{event_shift_ms:+d}ms"
+                )
+            else:
+                requested_start = peak_time - duration / 2.0
+                event_window_start = bounded_centered_start(
+                    peak_time,
+                    duration,
+                    audio_duration,
+                )
+                alignment_method = (
+                    "absolute_amplitude_peak_within_annotated_event_interval"
+                )
             event_audio = exact_slice(
                 waveform,
                 int(sample_rate),
@@ -189,50 +311,49 @@ def prepare_windows(
                         event_window_start - requested_start
                     )
                     * 1000.0,
-                    "alignment_method": (
-                        "absolute_amplitude_peak_within_annotated_event_interval"
-                    ),
+                    "alignment_method": alignment_method,
                     "wav_boundary_padding_samples": 0,
                 }
             )
 
-            pre_end = event_start - gap_seconds
-            pre_start = pre_end - duration
-            if pre_start < 0:
-                continue
-            pre_name = f"pre_{suffix}"
-            pre_audio = exact_slice(
-                waveform,
-                int(sample_rate),
-                pre_start,
-                duration,
-            )
-            pre_path = out_root / "windows" / pre_name / f"{filename}.wav"
-            pre_path.parent.mkdir(parents=True, exist_ok=True)
-            wavfile.write(pre_path, int(sample_rate), to_int16(pre_audio))
-            rows.append(
-                {
-                    "uid": uid,
-                    "label": str(row.label),
-                    "source_id": str(row.source_id),
-                    "protocol_role": str(row.protocol_role),
-                    "window_name": pre_name,
-                    "window_kind": "strict_pre",
-                    "window_path": relative_to_manifest(pre_path, output_manifest),
-                    "window_start": pre_start,
-                    "window_end": pre_end,
-                    "window_duration": duration,
-                    "sample_rate": int(sample_rate),
-                    "event_start": event_start,
-                    "event_end": event_end,
-                    "estimated_peak_time": peak_time,
-                    "window_shift_from_requested_ms": 0.0,
-                    "alignment_method": (
-                        f"strict_pre_ending_{pre_gap_ms}ms_before_event_start"
-                    ),
-                    "wav_boundary_padding_samples": 0,
-                }
-            )
+            if include_strict_pre:
+                pre_end = event_start - gap_seconds
+                pre_start = pre_end - duration
+                if pre_start < 0:
+                    continue
+                pre_name = f"pre_{suffix}"
+                pre_audio = exact_slice(
+                    waveform,
+                    int(sample_rate),
+                    pre_start,
+                    duration,
+                )
+                pre_path = out_root / "windows" / pre_name / f"{filename}.wav"
+                pre_path.parent.mkdir(parents=True, exist_ok=True)
+                wavfile.write(pre_path, int(sample_rate), to_int16(pre_audio))
+                rows.append(
+                    {
+                        "uid": uid,
+                        "label": str(row.label),
+                        "source_id": str(row.source_id),
+                        "protocol_role": str(row.protocol_role),
+                        "window_name": pre_name,
+                        "window_kind": "strict_pre",
+                        "window_path": relative_to_manifest(pre_path, output_manifest),
+                        "window_start": pre_start,
+                        "window_end": pre_end,
+                        "window_duration": duration,
+                        "sample_rate": int(sample_rate),
+                        "event_start": event_start,
+                        "event_end": event_end,
+                        "estimated_peak_time": peak_time,
+                        "window_shift_from_requested_ms": 0.0,
+                        "alignment_method": (
+                            f"strict_pre_ending_{pre_gap_ms}ms_before_event_start"
+                        ),
+                        "wav_boundary_padding_samples": 0,
+                    }
+                )
 
     result = pd.DataFrame(rows).sort_values(["window_name", "uid"]).reset_index(drop=True)
     output_manifest.parent.mkdir(parents=True, exist_ok=True)
@@ -251,6 +372,16 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--out-root", type=Path, required=True)
     parser.add_argument("--window-ms", type=int, nargs="+", default=[200])
     parser.add_argument("--pre-gap-ms", type=int, default=50)
+    parser.add_argument(
+        "--non-centered-window",
+        type=str,
+        nargs="+",
+        default=(),
+        help=(
+            "Non-centered window specs: full_audio, post_contact_<N>ms, "
+            "pre_contact_<N>ms."
+        ),
+    )
     return parser.parse_args()
 
 
@@ -261,6 +392,7 @@ def main() -> None:
         args.out_root,
         tuple(args.window_ms),
         args.pre_gap_ms,
+        non_centered_windows=tuple(args.non_centered_window),
     )
     print(f"Wrote {len(result)} rows to {(args.out_root / 'windows_manifest.csv').resolve()}")
     print(result.groupby(["window_name", "protocol_role", "label"]).size().to_string())

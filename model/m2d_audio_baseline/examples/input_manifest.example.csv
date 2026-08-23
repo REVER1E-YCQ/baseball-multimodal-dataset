@@ -1,4 +1,3 @@
 uid,label,source_id,protocol_role,audio_path,event_start,event_end
 example_fly_001,fly_ball,recording_session_001,primary_dev,../../dataset/fly_ball/collector/example_fly_001/audio.wav,2.400,2.470
 example_ground_001,ground_ball,recording_session_002,primary_dev,../../dataset/ground_ball/collector/example_ground_001/audio.wav,1.850,1.920
-

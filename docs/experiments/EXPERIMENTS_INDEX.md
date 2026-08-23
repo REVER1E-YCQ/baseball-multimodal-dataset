@@ -36,6 +36,22 @@
 - **物理参数信息**：仿真探针表明强度类线索在噪声下最稳健，可作为特征工程方向
 - 文献地图见 `docs/research/impact-audio-literature-map.md`
 
+## 实验代码位置
+
+所有实验的入口脚本与可复用模块都在 `model/m2d_audio_baseline/scripts/`（每个 `run_*.py` 对应一个实验，模块名见各报告末尾），配套单元测试在 `model/m2d_audio_baseline/tests/`。对应关系举例：
+
+| 实验 | 入口 |
+|---|---|
+| 锁定基准 / 敏感性 | `run_m2d_primary.py`, `run_beats_primary.py`, `run_common_200ms.py`, `run_m2d_sensitivity.py` |
+| 池化/层扫描/阈值 | `short_contact_benchmark.py`, `attention_control_representation.py`, `run_layer_scan.py` |
+| full-audio 泄漏检查 | `run_full_audio_conditions.py` |
+| 对齐敏感性 | `run_alignment_sensitivity.py` |
+| 编码器融合 | `run_encoder_fusion.py` |
+| LoRA 微调试点 | `run_finetune_pilot.py` |
+| 分类头/配对对比 | `exploratory_probe_benchmark.py`, `margin_classifier_evaluation.py`, `paired_contrast_evaluation.py` |
+| 数据增强 | `contact_window_augmentation.py` |
+| 统计检验/报告 | `statistical_evidence.py`, `validate_and_report.py` |
+
 ## 防重复实验的两条铁律
 
 1. **报结果必须带严格 Pre 负控 + 来源分组折**；Pre 接近随机才说明信号来自击球本身。

@@ -20,6 +20,166 @@ third-party source code, and model weights.
 
 The event endpoint is treated as `event_end`, not as the peak.
 
+## High-level short-contact benchmark interface
+
+New protocol-driven work enters through `run_short_contact_benchmark`. A caller
+provides one frozen `BenchmarkProtocol`, an immutable `DatasetSnapshot`, and one
+or more encoder adapters; the module returns an `ArtifactBundle` after snapshot
+audit, contact-window preparation, frozen feature extraction, grouped
+out-of-fold evaluation, and artifact publication.
+
+The first tracer supports only the exact 200 ms event condition and a fixed
+balanced L2 logistic-regression probe. Its integration tests use synthetic
+multi-game audio and a fake encoder, so the normal correctness suite does not
+need model weights, external model source, or a GPU. Real M2D/BEATs adapters,
+matched controls, and the locked nested evaluation are added through later
+benchmark slices rather than coordinated by callers.
+
+The bundle records a portable content-derived identity and emits the frozen
+protocol, snapshot audit, window and fold manifests, encoder features,
+out-of-fold predictions, metrics, and a checksummed artifact manifest. Absolute
+local paths do not participate in the artifact identity.
+
+## Primary 200 ms M2D benchmark
+
+The locked primary run audits the verified-dataset snapshot, prepares exact
+200 ms peak-centred contact windows (rows that cannot provide an exact window
+receive explicit exclusion reasons), extracts frozen mean-pooled M2D
+embeddings, and evaluates a balanced L2 logistic regression with `C` selected
+inside each outer training set from `0.001`, `0.01`, and `0.1` using inner
+lineage-grouped folds. Run it with:
+
+```powershell
+python -m scripts.run_m2d_primary
+```
+
+The runner defaults to the pinned dataset worktree
+(`data/branch_datasets_20260804/baseball-multimodal-dataset`), the pinned M2D
+upstream revision and checkpoint hash, and writes a content-addressed artifact
+bundle under `outputs/m2d_primary_benchmark/`. Completed feature files are
+reused when the snapshot, detector, window, normalization, pooling, checkpoint,
+precision, or upstream revision are unchanged. The real-adapter smoke test runs
+only when `M2D_SMOKE=1`.
+
+On the 822-sample verified snapshot, the current primary run reports balanced
+accuracy 0.595 with 817 eligible samples (5 excluded with reasons).
+
+BEATs runs the identical protocol through `python -m scripts.run_beats_primary`
+(with FP32 forced and non-finite outputs rejected) and reports balanced accuracy
+0.599 on the same eligible set.
+
+## Paired common 200 ms comparison
+
+`python -m scripts.run_common_200ms` runs both encoders with matched controls
+and validates that they share the same snapshot revision, fold policy, window
+membership, prediction cardinalities, and control conditions before emitting
+a paired table. On the verified snapshot (803 paired samples):
+
+| Condition | M2D | BEATs | M2D - BEATs |
+|---|---|---|---:|
+| Event-trained on event | 0.619 | 0.610 | +0.009 |
+| Same event probe on strict pre | 0.520 | 0.496 | +0.024 |
+| Independent strict-pre probe | 0.544 | 0.524 | +0.020 |
+| Event probe after transient removal | 0.507 | 0.500 | +0.007 |
+| Independent removed probe | 0.556 | 0.558 | -0.003 |
+| Contact-specific increment | 0.099 | 0.114 | -0.015 |
+
+Both encoders show a positive paired event-minus-pre increment; BEATs starts
+from a lower strict-pre baseline, so its increment is slightly larger.
+
+## Group-aware statistical evidence
+
+`run_common_200ms` also computes group-aware statistics. Ninety-five-percent
+intervals resample whole lineage groups (never clips), paired intervals cover
+each encoder's event-minus-pre increment and the M2D-minus-BEATs event
+difference, and a 999-permutation test stratifies labels inside each locked
+outer fold (preserving per-fold class totals and mixed-label games) with
+max-stat multiplicity correction across the two encoders. A screening-positive
+interpretation requires both corrected evidence against the null and a
+positive increment interval.
+
+On the verified snapshot (803 samples, 620 groups):
+
+- M2D increment 0.099 [0.063, 0.138]; BEATs increment 0.114 [0.073, 0.156].
+- M2D-minus-BEATs event difference 0.009 [-0.028, 0.048].
+- Family-corrected permutation p = 0.001 for both encoders; both are
+  screening-positive.
+- Source-transfer conclusiveness is marked false because 516 of 620 groups
+  are singletons: grouped evaluation reduces same-game leakage but does not
+  by itself prove transfer to a new collection workflow.
+
+## Locked sensitivity conditions
+
+`python -m scripts.run_m2d_sensitivity` runs the M2D sensitivity family with
+matched controls. Duration sensitivity uses exact 50/100/200 ms peak-centred
+windows with same-duration strict-pre controls (200 ms keeps the
+transient-removal condition); BEATs stays limited to 200 ms and a run that
+requests shorter windows fails visibly. On the verified snapshot:
+
+| Window | Event BA | Strict-pre BA | Increment |
+|---|---:|---:|---:|
+| 50 ms | 0.636 | 0.498 | +0.137 |
+| 100 ms | 0.612 | 0.501 | +0.111 |
+| 200 ms | 0.619 | 0.520 | +0.099 |
+
+The shortest window shows the largest contact-specific increment with a
+near-chance strict-pre baseline. Two further sensitivity runs are available:
+`--rms-normalized` (gain-normalized to 0.1 RMS; increment 0.075, still
+positive) and `--legacy-pooling` (mean/std/max tokens, 2304 features; increment
+0.129). Each has a distinct artifact identity, and one-token degeneracy is
+recorded per feature row.
+
+## Secondary development evidence
+
+`python -m scripts.run_secondary_evidence` reproduces the branch's existing
+525/132/165 fixed benchmark split exactly (membership is validated against the
+snapshot; 59 MLB games are recorded as crossing partitions) and evaluates the
+test partition once after tuning only on the training and validation
+partitions. It also runs the predeclared balanced RBF SVM probe (C in
+`0.3/1.0/3.0`, gamma `scale/0.001`) inside game-grouped folds. On the verified
+snapshot (523/131/163 eligible):
+
+- Fixed split test balanced accuracy: BEATs 0.642, M2D 0.588.
+- RBF SVM OOF balanced accuracy: M2D 0.621, BEATs 0.614 (no gain over the
+  linear probe).
+
+These outputs are explicitly labelled development evidence, never source-
+transfer evidence, and never alter the primary ranking or the frozen protocol.
+
+## Validation and reporting
+
+`python -m scripts.run_validate_and_report` validates the complete run with one
+command — snapshot and window manifests, feature dimensions and finite values,
+fold isolation, prediction uniqueness, eligible-set cardinalities, selections,
+metrics condition sets, exclusion reasons, checksums, statistical evidence,
+and secondary outputs — and writes a Chinese technical report
+(`report_zh.md`) plus a group-meeting summary (`summary_zh.md`) under
+`outputs/validated_run/`. The report visibly separates primary, negative-
+control, sensitivity, exploratory, fixed-benchmark, contact-specific, and
+source-transfer claims, uses Balanced Accuracy as the headline metric with
+Accuracy, ROC-AUC, Macro-F1 and confusion counts, and states that game-grouped
+evaluation does not by itself prove transfer to a new collection workflow.
+
+## Matched negative controls
+
+`run_m2d_primary --controls` adds the strict-pre and transient-removal
+conditions. The strict-pre window has the same duration, ends exactly 50 ms
+before the preserved event interval, and uses no padding. The transient-removal
+window replaces the central 40 ms around the detected peak with an equal-length
+background segment from the same sample's strict-pre region using a
+deterministic 5 ms crossfade; source and destination coordinates are recorded
+in the window manifest. Samples without enough pre-contact audio are excluded
+with `strict_pre_unavailable` and remain in the event-only analysis.
+
+Evaluation reports five paired conditions per encoder — event-trained on event,
+the same event probe on strict pre and on transient-removed audio, and
+independently trained strict-pre and transient-removed probes — plus a
+`contact_specific_increment` row equal to the paired event-minus-pre balanced
+accuracy. On the verified snapshot, M2D scores 0.619 on the event condition
+versus 0.520 for the same probe on strict pre (increment 0.099), with the
+event-trained probe falling to 0.507 after transient removal, over 803 paired
+samples.
+
 ## Why this is the selected baseline
 
 On the frozen V5 data snapshot (`main@5b38414`), the paired 200 ms experiment
@@ -40,23 +200,25 @@ verified cross-collector model or proof of bat-ball contact physics.
 
 ## Current headline on the verified snapshot
 
-This package reproduces the transferable Codex-set baseline above (~0.606 BA).
-The current best controlled result uses a different dataset and pooling, so the
-numbers must not be compared directly:
+The numbers above use mean pooling. The current best controlled result uses a
+different pooling and must not be compared to them directly:
 
 | Item | Value |
 |---|---|
-| Balanced accuracy | `0.667` |
-| Contact-specific increment (event minus strict pre) | `+0.17` |
+| Balanced accuracy | `0.667` (ROC-AUC 0.693) |
+| Contact-specific increment | `+0.168` [0.132, 0.203], permutation p = 0.001 |
 | Strict-pre negative control | `0.499` (at chance) |
-| Pooling | frozen M2D attention pooling (layer 11), calibrated threshold |
-| Data | 822-sample human-verified snapshot |
+| Pooling | frozen M2D attention pooling, layer 11, fixed 0.5 threshold |
+| Data | 803 eligible samples of the 822-sample human-verified snapshot |
 
-Two reasons explain the gap from 0.606: the verified snapshot is a smaller,
-human-checked subset (label noise removed), and attention pooling replaces the
-mean/std/max pooling used here. Treat 0.667 as the verified-data headline and
-0.606 as the full-Codex-set baseline; neither number transfers automatically to
-a new collection workflow.
+Two reasons explain the gap from the mean-pooling rows: the verified snapshot is
+a smaller human-checked subset (label noise removed), and attention pooling
+replaces mean pooling. Treat 0.667 as the verified-data headline and the tables
+above as the full-Codex-set baseline; neither number transfers automatically to
+a new collection workflow. The diagnostics that closed every representation
+side (pooling family, layer scan, alignment sensitivity, encoder fusion,
+LoRA fine-tuning, augmentation) are summarised in
+`docs/experiments/EXPERIMENTS_INDEX.md`, with per-experiment reports beside it.
 
 ## Important grouping limitation
 
@@ -69,10 +231,22 @@ evaluator to test a different collection workflow.
 ## Files
 
 ```text
-model/m2d_audio_baseline/
+baselines/m2d_audio/
 |-- scripts/
 |   |-- prepare_windows.py
+|   |-- audit_verified_snapshot.py
 |   |-- extract_m2d_embeddings.py
+|   |-- m2d_encoder.py
+|   |-- beats_encoder.py
+|   |-- short_contact_benchmark.py
+|   |-- compare_common_200ms.py
+|   |-- statistical_evidence.py
+|   |-- run_m2d_primary.py
+|   |-- run_beats_primary.py
+|   |-- run_common_200ms.py
+|   |-- run_m2d_sensitivity.py
+|   |-- run_secondary_evidence.py
+|   |-- run_validate_and_report.py
 |   |-- evaluate_linear_probe.py
 |   `-- evaluate_external_holdout.py
 |-- tests/
@@ -249,6 +423,9 @@ The tests verify:
 - exact sample counts and no waveform padding;
 - grouped train/test isolation;
 - nested selection on training folds only;
+- the high-level synthetic benchmark interface and grouped OOF artifacts;
+- immutable snapshot audit and lineage grouping with synthetic git repos;
+- portable, protocol-sensitive artifact identity;
 - protocol and output creation.
 
 ## What must not be uploaded
@@ -263,4 +440,3 @@ The tests verify:
 
 See `NOTICE.md` before publishing. The parent repository currently needs an
 explicit project-license decision from its owner.
-
