@@ -1,0 +1,45 @@
+{
+  "protocol": "iteration2",
+  "sample_rate": 16000,
+  "base_duration_s": 2.0,
+  "base_signals": 100,
+  "family_levels": {
+    "intensity": [
+      0.2,
+      0.4,
+      0.6,
+      0.8,
+      1.0
+    ],
+    "location": [
+      0.0,
+      0.25,
+      0.5,
+      0.75,
+      1.0
+    ],
+    "decay": [
+      0.5,
+      0.75,
+      1.0,
+      1.5,
+      2.0
+    ],
+    "sharpness": [
+      0.1,
+      0.2,
+      0.4,
+      0.8,
+      1.6
+    ]
+  },
+  "clipping_rule": "each_mid_signal_peak_times_factor_after_auralization_and_noise",
+  "sharpness_excitation": "rfft_one_pole_highpass_magnitude_fc_hz_equals_1_over_tau_s",
+  "environment_cells": 8,
+  "degradation_variants": 7,
+  "total_wavs": 1600,
+  "m2d_subset_wavs": 900,
+  "synthesis_seed_root": 42000,
+  "noise_seed_root": 84000,
+  "ffmpeg": "ffmpeg version 7.1.1-full_build-www.gyan.dev Copyright (c) 2000-2025 the FFmpeg developers"
+}

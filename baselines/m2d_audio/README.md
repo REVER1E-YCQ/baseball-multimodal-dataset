@@ -38,6 +38,26 @@ human-collected samples, the Codex-trained M2D event model reached only 0.490
 balanced accuracy. These results support M2D as an in-domain baseline, not as a
 verified cross-collector model or proof of bat-ball contact physics.
 
+## Current headline on the verified snapshot
+
+This package reproduces the transferable Codex-set baseline above (~0.606 BA).
+The current best controlled result uses a different dataset and pooling, so the
+numbers must not be compared directly:
+
+| Item | Value |
+|---|---|
+| Balanced accuracy | `0.667` |
+| Contact-specific increment (event minus strict pre) | `+0.17` |
+| Strict-pre negative control | `0.499` (at chance) |
+| Pooling | frozen M2D attention pooling (layer 11), calibrated threshold |
+| Data | 822-sample human-verified snapshot |
+
+Two reasons explain the gap from 0.606: the verified snapshot is a smaller,
+human-checked subset (label noise removed), and attention pooling replaces the
+mean/std/max pooling used here. Treat 0.667 as the verified-data headline and
+0.606 as the full-Codex-set baseline; neither number transfers automatically to
+a new collection workflow.
+
 ## Important grouping limitation
 
 The V5 paired `primary_dev` set contains 1,851 samples and 1,851 distinct
